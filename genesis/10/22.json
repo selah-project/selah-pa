@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਸ਼ੇਮ ਦੇ ਪੁੱਤਰ: ਏਲਾਮ, ਅੱਸ਼ੂਰ, ਅਰਪਖਸ਼ਦ, ਲੂਦ ਅਤੇ ਅਰਾਮ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਸ਼ੇਮ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ਏਲਾਮ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ਅੱਸ਼ੂਰ"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ਅਰਪਖਸ਼ਦ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ਲੂਦ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ਅਰਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:59.203740233Z",
+  "model": "glm-5.2"
+}

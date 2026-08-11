@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਦਸ ਗੁਥੇ ਦਾ ⟨ਸੀ⟩ ਦੂਜਾ ਕਰੂਬ; ਦੋਵਾਂ ਕਰੂਬਾਂ ਲਈ ਇੱਕ ਮਾਪ ਅਤੇ ਇੱਕ ਆਕਾਰ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "ਅਤੇ ਦਸ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ਗੁਥੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ਕਰੂਬ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜਾ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ਮਾਪ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "ਅਤੇ ਆਕਾਰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ਦੋਵਾਂ ਲਈ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ਕਰੂਬਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:23:36.722748677Z",
+  "model": "glm-5.2"
+}

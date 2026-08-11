@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਉੱਲਾ ਦੇ ਪੁੱਤਰ: ਆਰਖ, ਅਤੇ ਖਨੀਏਲ, ਅਤੇ ਰਿਤਸਯਾ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ⟨ਦੇ⟩ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ਉੱਲਾ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ਆਰਖ"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ਅਤੇ ਖਨੀਏਲ"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "ਅਤੇ ਰਿਤਸਯਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:59:36.587169943Z",
+  "model": "glm-5.2"
+}

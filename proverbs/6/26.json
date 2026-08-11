@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਕਿਉਂਕਿ ⟨ਇੱਕ⟩ ਵੇਸਵਾ ⟨ਔਰਤ⟩ ਲਈ ਰੋਟੀ ਦੀ ਇੱਕ ਰੋਟੀ ਤੱਕ, ਅਤੇ ਇੱਕ ਮਰਦ ਦੀ ਪਤਨੀ ਇੱਕ ਕੀਮਤੀ ਜਾਨ ਦਾ ਸ਼ਿਕਾਰ ਕਰਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਔਰਤ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ਵੇਸਵਾ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ਇੱਕ ਰੋਟੀ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ਅਤੇ ਪਤਨੀ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਇੱਕ ਮਰਦ ਦੀ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਇੱਕ ਜਾਨ"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ਕੀਮਤੀ"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "ਦਾ ਸ਼ਿਕਾਰ ਕਰਦੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:15.234561181Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਬਿਨੇ ਵੇਲੇ ⟨את⟩ ਆਪਣਾ ਬੀਜ ਬੀਜ, ਅਤੇ ਸ਼ਾਮ ਨੂੰ ਆਪਣਾ ਹੱਥ ਨਾ ਰੋਕ, ਕਿਉਂਕਿ ਤੂੰ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਇਹ ਜਾਂ ਉਹ ਕਿਹੜਾ ਕਾਮਯਾਬ ਹੋਵੇ, ਇਹ ਕਿ ਉਹ, ਅਤੇ ਜੇ ਦੋਵੇਂ ਇਕੱਠੇ ਚੰਗੇ ਹੋਣ।",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ਬਿਨੇ ਵੇਲੇ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ਬੀਜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਆਪਣਾ ਬੀਜ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ਆਪਣਾ ਬੀਜ"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ਅਤੇ ਸ਼ਾਮ ਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ਰੋਕ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ਆਪਣਾ ਹੱਥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ਤੂੰ ਨਹੀਂ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ਜਾਣਦਾ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ਕਾਮਯਾਬ ਹੋਵੇ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ਦੋਵੇਂ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ਇਕੱਠੇ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ਚੰਗੇ ਹੋਣ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:15:46.511946480Z",
+  "model": "glm-5.2"
+}

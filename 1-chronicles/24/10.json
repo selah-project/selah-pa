@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਸੱਤਵਾਂ ਹੱਕੋਤਸ ਨੂੰ, ਅੱਠਵਾਂ ਅਵੀਯਾਹ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ਹੱਕੋਤਸ ਨੂੰ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ਸੱਤਵਾਂ"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ਅਵੀਯਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ਅੱਠਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:26.350685401Z",
+  "model": "glm-5.2"
+}

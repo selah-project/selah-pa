@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨਾਲ ਗੱਲ ਕੀਤੀ, ⟨ਕਹਿੰਦੇ ਹੋਏ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:39:20.738103549Z",
+  "model": "glm-5.2"
+}

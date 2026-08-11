@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਤੇਰੇ ਵਰਗਾ ਕੋਈ ਨਹੀਂ ਹੇ ਯਾਹਵੇਹ; ਤੂੰ ਵੱਡਾ ਹੈਂ, ਅਤੇ ਤੇਰਾ ਨਾਮ ਵੱਡਾ ਹੈ, ਸਾਮਰਥ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "ਕੋਈ ਨਹੀਂ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ਤੇਰੇ ਵਰਗਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡਾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ਅਤੇ ਵੱਡਾ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ਤੇਰਾ ਨਾਮ"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ਸਾਮਰਥ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:17:59.968679545Z",
+  "model": "glm-5.2"
+}

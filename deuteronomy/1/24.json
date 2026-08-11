@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਉਹ ਮੁੜ ਗਏ, ਅਤੇ ਪਹਾੜ ਵੱਲ ਚੜ੍ਹ ਗਏ, ਅਤੇ ਅਸ਼ਕੋਲ ਦੇ ਨਾਲੇ ਤੱਕ ਆਏ, ਅਤੇ ਉਸ ਨੂੰ ਛਾਣਿਆ ⟨את⟩।",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ਅਤੇ ਉਹ ਮੁੜ ਗਏ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ਅਤੇ ਚੜ੍ਹ ਗਏ"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ਪਹਾੜ ਵੱਲ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ਅਤੇ ਆਏ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ਨਾਲੇ"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "ਅਸ਼ਕੋਲ ਦੇ"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ਅਤੇ ਛਾਣਿਆ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ਉਸ ਨੂੰ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T21:07:42.693554040Z",
+  "model": "glm-5.2"
+}

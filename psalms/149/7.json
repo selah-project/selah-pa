@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 149,
+  "translation": "ਕੌਮਾਂ ਵਿੱਚ ਬਦਲਾ ਲੈਣ ਲਈ, ਅਤੇ ਲਕੋਮਾਂ ਵਿੱਚ ਸਜ਼ਾਵਾਂ ਦੇਣ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ਬਦਲਾ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ਕੌਮਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ਸਜ਼ਾਵਾਂ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ਲਕੋਮਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:19:51.706614732Z",
+  "model": "glm-5.2"
+}

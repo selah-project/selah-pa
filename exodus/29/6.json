@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਤੂੰ ਪੱਗ ਉਸ ਦੇ ਸਿਰ ਉੱਤੇ ਰੱਖੇਂ, ਅਤੇ ਤੂੰ ⟨את⟩ ਪਵਿੱਤਰ ਤਾਜ ਪੱਗ ਉੱਤੇ ਲਗਾਏਂ।",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ਅਤੇ ਤੂੰ ਰੱਖੇਂ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ਪੱਗ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ਉਸ ਦੇ ਸਿਰ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ਅਤੇ ਤੂੰ ਲਗਾਏਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪਵਿੱਤਰ ਤਾਜ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ਤਾਜ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ਪੱਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:23:48.024546513Z",
+  "model": "glm-5.2"
+}

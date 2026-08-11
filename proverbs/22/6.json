@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਲੜਕੇ ਨੂੰ ਉਸਦੇ ਮਾਰਗ ਦੇ ਅਨੁਸਾਰ ਸਿਖਾਉ; ਵੀ ਜਦੋਂ ਉਹ ਬੁੱਢਾ ਹੋਵੇ ਤਦ ਵੀ ਉਹ ਇਸ ਤੋਂ ਨਹੀਂ ਹਟੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "ਸਿਖਾਉ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ਲੜਕੇ ਨੂੰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਦੇ ਅਨੁਸਾਰ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ਉਸਦੇ ਮਾਰਗ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "ਬੁੱਢਾ ਹੋਵੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ਹਟੇਗਾ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ਇਸ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:30:33.503944584Z",
+  "model": "glm-5.2"
+}

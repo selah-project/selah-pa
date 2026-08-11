@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਉੱਤਰ ਦੇਣਗੇ ਅਤੇ ਕਹਿਣਗੇ: ਸਾਡੇ ਹੱਥਾਂ ਨੇ ⟨את⟩ ਇਹ ਲਹੂ ਨਹੀਂ ਵਹਾਇਆ, ਅਤੇ ਸਾਡੀਆਂ ਅੱਖਾਂ ਨੇ ਨਹੀਂ ਦੇਖਿਆ।",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ਅਤੇ ਉੱਤਰ ਦੇਣਗੇ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ਸਾਡੇ ਹੱਥਾਂ ਨੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ਵਹਾਇਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਹ ਲਹੂ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ਲਹੂ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ਅਤੇ ਸਾਡੀਆਂ ਅੱਖਾਂ ਨੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ਦੇਖਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:18:32.316058629Z",
+  "model": "glm-5.2"
+}

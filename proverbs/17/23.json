@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਦੁਸ਼ਟ ਛਾਤੀ ⟨ਦੀ ਥਾਂ⟩ ਤੋਂ ਰਿਸ਼ਵਤ ਲੈਂਦਾ ਹੈ, ਨਿਆਂ ਦੇ ਰਾਹਾਂ ਨੂੰ ਟੇਢਾ ਕਰਨ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "ਰਿਸ਼ਵਤ"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "ਛਾਤੀ ਤੋਂ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ਦੁਸ਼ਟ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ਲੈਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "ਟੇਢਾ ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ਰਾਹਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:22.642843269Z",
+  "model": "glm-5.2"
+}

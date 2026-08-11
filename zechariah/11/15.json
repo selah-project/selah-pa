@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੈਨੂੰ ਕਿਹਾ: ਹੋਰ ਵੀ, ਤੂੰ ਆਪਣੇ ਲਈ ਇੱਕ ਮੂਰਖ ਚਰਵਾਹੇ ਦਾ ਸੰਦ ਲੈ ਲੈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ ਵੀ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ਤੂੰ ਲੈ ਲੈ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ਸੰਦ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਚਰਵਾਹੇ ਦਾ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ਮੂਰਖ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:25:23.868530434Z",
+  "model": "glm-5.2"
+}

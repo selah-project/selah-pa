@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਜਾ, ਆਪਣੀ ਰੋਟੀ ਖੁਸ਼ੀ ਨਾਲ ਖਾ, ਅਤੇ ਆਪਣੀ ਦਾਰੂ ਚੰਗੇ ਦਿਲ ਨਾਲ ਪੀ, ਕਿਉਂਕਿ ਪਹਿਲਾਂ ਹੀ ਏਲੋਹੀਮ ਨੇ ⟨את⟩ ਤੇਰੇ ਕੰਮ ਪਸੰਦ ਕੀਤੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ਜਾ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ਖਾ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ਖੁਸ਼ੀ ਨਾਲ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ਆਪਣੀ ਰੋਟੀ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ਅਤੇ ਪੀ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ਦਿਲ ਨਾਲ"
+    },
+    {
+      "surface": "ਚੰਗੇ",
+      "gloss": "ਚੰਗੇ"
+    },
+    {
+      "surface": "ਦਾਰੂ",
+      "gloss": "ਆਪਣੀ ਦਾਰੂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ਪਹਿਲਾਂ ਹੀ"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ਪਸੰਦ ਕੀਤੇ ਹਨ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਤੇਰੇ ਕੰਮ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ਤੇਰੇ ਕੰਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:02.089274479Z",
+  "model": "glm-5.2"
+}

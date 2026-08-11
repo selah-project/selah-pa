@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 29:20",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਤੀਜੇ ਦਿਨ ⟨ਤੁਸੀਂ ਭੇਟ ਕਰੋਗੇ⟩ ਬਲਦ ਗਿਆਰਾਂ, ਮੇਢੇ ਦੋ, ਮੇਮਣੇ ਇੱਕ ਸਾਲ ਦੇ ਚੌਦਾਂ, ਨਿਰਦੋਸ਼।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ਅਤੇ ਤੀਜੇ ਦਿਨ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ਤੀਜੇ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ਗਿਆਰਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ਆਂ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ਮੇਢੇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਮੇਮਣੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਇੱਕ ਸਾਲ ਦੇ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚੌਦਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ਆਂ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ਨਿਰਦੋਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:50.861912699Z",
+  "model": "glm-5.2"
+}

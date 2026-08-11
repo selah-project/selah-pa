@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਏਗਲੋਨ ਦਾ ਰਾਜਾ, ਇੱਕ; ਗੇਜ਼ਰ ਦਾ ਰਾਜਾ, ਇੱਕ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ਏਗਲੋਨ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ਗੇਜ਼ਰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:35.617486678Z",
+  "model": "glm-5.2"
+}

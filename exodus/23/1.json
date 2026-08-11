@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਤੂੰ ਝੂਠੀ ਗੱਲ ਨਾ ਚੁੱਕੀਂ; ਆਪਣਾ ਹੱਥ ਦੁਸ਼ਟ ਦੇ ਨਾਲ ਮਿਲਾਕੇ ਜ਼ੋਰਾਵਰ ਗਵਾਹ ਨਾ ਬਣੀਂ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ਤੂੰ ਚੁੱਕੀਂ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ਗੱਲ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ਝੂਠੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ਤੂੰ ਮਿਲਾਕੇ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ਆਪਣਾ ਹੱਥ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ਦੁਸ਼ਟ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ਬਣੀਂ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਗਵਾਹ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ਜ਼ੋਰਾਵਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:20:54.292818436Z",
+  "model": "glm-5.2"
+}

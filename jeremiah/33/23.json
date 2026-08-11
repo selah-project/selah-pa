@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਕਲਾਮ ਯਿਰਮਿਯਾਹੂ ਕੋਲ ਆਇਆ, ਇਹ ਕਹਿ ਕੇ:",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "ਕਲਾਮ"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "יִרְמְיָ֖הוּ",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "ਇਹ ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:30:05.820276122Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਪੰਜ ਪਰਦਿਆਂ ਨੂੰ ਇੱਕ ਨੂੰ ਦੂਜੇ ਨਾਲ ਜੋੜਿਆ, ਅਤੇ ਪੰਜ ਪਰਦੇ ਉਸ ਨੇ ਇੱਕ ਨੂੰ ਦੂਜੇ ਨਾਲ ਜੋੜੇ।",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ਅਤੇ ਜੋੜਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪੰਜ ਪਰਦਿਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ਪਰਦੇ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ਪਰਦੇ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ਜੋੜੇ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:27:56.356058452Z",
+  "model": "glm-5.2"
+}

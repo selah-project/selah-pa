@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਮੈਂ ਤੇਰੇ ਦੇਸ਼ ਵਿਚੋਂ ਲੰਘਾਂ, ਮਾਰਗ ਦੁਆਰਾ ਮਾਰਗ ਮੈਂ ਜਾਵਾਂਗਾ, ਨਾ ਸੱਜੇ ਨੂੰ ਮੁੜਾਂ, ਨਾ ਖੱਬੇ।",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ਮੈਂ ਲੰਘਾਂ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ਤੇਰੇ ਦੇਸ਼ ਵਿਚੋਂ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ਮਾਰਗ ਦੁਆਰਾ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ਮਾਰਗ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ਮੈਂ ਜਾਵਾਂਗਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ਮੁੜਾਂ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ਸੱਜੇ ਨੂੰ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ਅਤੇ ਖੱਬੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:30.968118837Z",
+  "model": "glm-5.2"
+}

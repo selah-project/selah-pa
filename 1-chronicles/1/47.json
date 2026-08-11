@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਹਦਾਦ ਦੀ ਮੌਤ ਹੋਈ, ਅਤੇ ਉਸ ਦੀ ਥਾਂ ਤੇ ਮਸਰੇਕਾ ਦਾ ਸਮਲਾ ਰਾਜਾ ਬਣਿਆ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਦੀ ਮੌਤ ਹੋਈ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ਹਦਾਦ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ਅਤੇ ਰਾਜਾ ਬਣਿਆ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ਉਸ ਦੀ ਥਾਂ ਤੇ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ਸਮਲਾ"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "ਮਸਰੇਕਾ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:06.785423618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਪਲਿਸ਼ਤੀ ਆਏ ਅਤੇ ਰਪਾਈਮ ਦੀ ਘਾਟੀ ਵਿੱਚ ਫੈਲ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "וינטשו",
+      "gloss": "ਅਤੇ ਫੈਲ ਗਏ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ਘਾਟੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ਰਪਾਈਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:10:05.949623719Z",
+  "model": "glm-5.2"
+}

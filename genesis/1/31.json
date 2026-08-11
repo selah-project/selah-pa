@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਏਲੋਹੀਮ ਨੇ ਵੇਖਿਆ ⟨את⟩ ਸਭ ਕੁਝ ਜੋ ⟨ਉਸ ਨੇ⟩ ਬਣਾਇਆ ਸੀ, ਅਤੇ ਵੇਖੋ, ਬਹੁਤ ਚੰਗਾ ਸੀ। ਅਤੇ ਸ਼ਾਮ ਹੋਈ, ਅਤੇ ਸਵੇਰ ਹੋਇਆ — ਛੇਵਾਂ ਦਿਨ।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ਅਤੇ ਵੇਖਿਆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਭ ਕੁਝ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਬਣਾਇਆ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ਅਤੇ ਵੇਖੋ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਈ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਸ਼ਾਮ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਸਵੇਰ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ਛੇਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:43:56.433394622Z",
+  "model": "glm-5.2"
+}

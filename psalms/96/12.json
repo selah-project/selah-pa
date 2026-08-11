@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 96,
+  "translation": "ਖੇਤ ਝੂਠਣ, ਅਤੇ ਉਸ ਵਿਚਲਾ ਸਾਰਾ ਕੁਝ; ਤਦ ਜੰਗਲ ਦੇ ਸਾਰੇ ਦਰੱਖਤ ਰੰਗਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "יַעֲלֹז",
+      "gloss": "ਝੂਠਣ"
+    },
+    {
+      "surface": "שָׂדַי",
+      "gloss": "ਖੇਤ"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "ਅਤੇ ਸਾਰਾ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "אָז",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "יְרַנֵּנוּ",
+      "gloss": "ਰੰਗਣਗੇ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "עֲצֵי",
+      "gloss": "ਦਰੱਖਤ"
+    },
+    {
+      "surface": "יַעַר",
+      "gloss": "ਜੰਗਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:05:36.178500946Z",
+  "model": "glm-5.2"
+}

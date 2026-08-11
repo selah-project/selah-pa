@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਨਾਦਰਾਂ ਦੇ ਪੁੱਤਰ, ਅਕੇਵੇਂ ਬੇਨਾਮ ਪੁੱਤਰ; ਧਰਤੀ ਤੋਂ ਕੁਚਿੱਤੇ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ਨਾਦਰਾਂ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਅਕੇਵੇਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ਬੇਨਾਮ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "ਕੁਚਿੱਤੇ ਗਏ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:41:04.891272197Z",
+  "model": "glm-5.2"
+}

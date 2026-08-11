@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਕਿਹਾ, ਕੀ ਮੈਂ ਅਵਰਾਹਾਮ ਤੋਂ ਉਹ ਲੁਕਾਵਾਂ ਜੋ ਮੈਂ ਕਰ ਰਿਹਾ ਹਾਂ?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਿਹਾ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ਕੀ ਲੁਕਾਵਾਂ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "ਅਵਰਾਹਾਮ ਤੋਂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕਰ ਰਿਹਾ ਹਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:50:25.782739957Z",
+  "model": "glm-5.2"
+}

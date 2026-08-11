@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਹੇ ਮੇਰੇ ਪੁੱਤ੍ਰ, ਮੇਰੀ ਤੋਰਾਹ ਨੂੰ ਨਾ ਭੁੱਲ, ਅਤੇ ਮੇਰੀਆਂ ਮਿਤਜ਼ਵਤ ਤੇਰਾ ਦਿਲ ਰੱਖੇ;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਹੇ ਮੇਰੇ ਪੁੱਤ੍ਰ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ਮੇਰੀ ਤੋਰਾਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ਭੁੱਲ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ਅਤੇ ਮੇਰੀਆਂ ਮਿਤਜ਼ਵਤ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ਰੱਖੇ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ਤੇਰਾ ਦਿਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:16.829104492Z",
+  "model": "glm-5.2"
+}

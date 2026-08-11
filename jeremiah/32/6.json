@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਯਿਰਮਿਯਾਹੂ ਨੇ ਕਿਹਾ: ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਇਹ ਕਹਿੰਦਾ ਹੋਇਆ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ ਨੇ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਇਹ ਕਹਿੰਦਾ ਹੋਇਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:29:49.482910923Z",
+  "model": "glm-5.2"
+}

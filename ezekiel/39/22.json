@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਅਤੇ ਯਿਸਰਾਏਲ ਦਾ ਘਰ ਜਾਣੇਗਾ ਕਿ ਮੈਂ ਯਾਹਵੇਹ ਉਹਨਾਂ ਦਾ ਏਲੋਹੀਮ ਹਾਂ, ਉਸ ਦਿਨ ਤੋਂ ਅਤੇ ਅੱਗੇ।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ਅਤੇ ਜਾਣੇਗਾ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ਉਹਨਾਂ ਦਾ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ਅਤੇ ਅੱਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:00:48.848059228Z",
+  "model": "glm-5.2"
+}

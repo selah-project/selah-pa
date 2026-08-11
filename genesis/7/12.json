@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਮੀਂਹ ਧਰਤੀ ਉੱਤੇ ਚਾਲੀ ਦਿਨ ਅਤੇ ਚਾਲੀ ਰਾਤ ⟨ਪਿਆ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ ਕਿ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ਮੀਂਹ"
+    },
+    {
+      "surface": "ਢਲ",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ਚਾਲੀ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ਅਤੇ ਚਾਲੀ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ਰਾਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:24.725692589Z",
+  "model": "glm-5.2"
+}

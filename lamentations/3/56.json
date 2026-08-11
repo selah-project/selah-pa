@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਤੂੰ ਮੇਰੀ ਆਵਾਜ਼ ਸੁਣੀ, ਆਪਣੇ ਕੰਨ ਮੇਰੇ ਸਿਸਕਣ ਵੱਲੋਂ, ਮੇਰੀ ਪੁਕਾਰ ਵੱਲੋਂ ਨਾ ਲੁਕਾ।",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ਮੇਰੀ ਆਵਾਜ਼"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ਤੂੰ ਸੁਣੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "ਲੁਕਾ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ਆਪਣੇ ਕੰਨ"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "ਮੇਰੇ ਸਿਸਕਣ ਵੱਲੋਂ"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "ਮੇਰੀ ਪੁਕਾਰ ਵੱਲੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:44.910557536Z",
+  "model": "glm-5.2"
+}

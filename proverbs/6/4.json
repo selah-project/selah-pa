@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਆਪਣੀਆਂ ਅੱਖਾਂ ਨੂੰ ਨੀਂਦ ਨਾ ਦੇ, ਅਤੇ ਆਪਣੀਆਂ ਪਲਕਾਂ ਨੂੰ ਅਧਖ਼ਮ ਨੀਂਦ ਨਾ ਦੇ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ਦੇ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਨੀਂਦ"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ਆਪਣੀਆਂ ਅੱਖਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ਅਤੇ ਅਧਖ਼ਮ ਨੀਂਦ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ਆਪਣੀਆਂ ਪਲਕਾਂ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:23.680512589Z",
+  "model": "glm-5.2"
+}

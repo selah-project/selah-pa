@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਯੋਸਫ਼ ਦੇ ਕੁਲ ਨੇ ਬੇਥ-ਏਲ ਉੱਤੇ ਜਾਸੂਸ ਘੱਲੇ; ਅਤੇ ਪਹਿਲਾਂ ਉਸ ਸ਼ਹਿਰ ਦਾ ਨਾਮ ਲੂਜ਼ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "ਅਤੇ ਜਾਸੂਸ ਘੱਲੇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਕੁਲ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੋਸਫ਼"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ਬੇਥ-ਏਲ ਉੱਤੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ਅਤੇ ਨਾਮ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਸ਼ਹਿਰ ਦਾ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ਪਹਿਲਾਂ"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "ਲੂਜ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T21:37:39.970057002Z",
+  "model": "glm-5.2"
+}

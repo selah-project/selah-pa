@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਕਿਸ ਨੇ ਉਸ ਉੱਤੇ ਧਰਤੀ ਸੌਂਪੀ? ਅਤੇ ਕਿਸ ਨੇ ਸਾਰਾ ਵਿਸ਼ਵ ਟਿਕਾਇਆ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕਿਸ ਨੇ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ਸੌਂਪੀ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ਅਤੇ ਕਿਸ ਨੇ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਟਿਕਾਇਆ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ਵਿਸ਼ਵ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ਸਾਰਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:53:37.266751830Z",
+  "model": "glm-5.2"
+}

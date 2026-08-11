@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਧਨ ਲਈ ਘਬਰਾਇਆ ਹੋਇਆ ⟨ਹੈ⟩ ਬੁਰੀ ਨਜ਼ਰ ਵਾਲਾ ਮਨੁੱਖ, ਅਤੇ ਉਹ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਕੰਗਾਲ ਉਸ ਉੱਤੇ ਆਵੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "ਘਬਰਾਇਆ ਹੋਇਆ"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ਧਨ ਲਈ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਬੁਰੀ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਨਜ਼ਰ ਵਾਲਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ਜਾਣਦਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ਕੰਗਾਲ"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ਉਸ ਉੱਤੇ ਆਵੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:34:57.809423575Z",
+  "model": "glm-5.2"
+}

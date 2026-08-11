@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਸ਼ਬਦ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਕਹਿੰਦਾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਵਾਪਰਿਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਸ਼ਬਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:56:50.222377262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਪਹਿਲੇ ਦਿਨ ਤੁਹਾਡੇ ਲਈ ਪਵਿੱਤਰ ਸੱਦਾ ⟨ਹੋਵੇ⟩; ਕੋਈ ਵੀ ਨੌਕਰੀ ਦਾ ਕੰਮ ਤੁਸੀਂ ਨਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ਪਹਿਲੇ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ਸੱਦਾ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ਹੋਵੇ⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ਨੌਕਰੀ ਦਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ਤੁਸੀਂ ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:15.925225471Z",
+  "model": "glm-5.2"
+}

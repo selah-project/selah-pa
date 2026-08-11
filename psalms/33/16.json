@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਰਾਜਾ ਵੱਡੀ ਫ਼ੌਜ ਨਾਲ ਬਚਾਇਆ ਨਹੀਂ ਜਾਂਦਾ; ਬਹਾਦਰ ਆਦਮੀ ਵੱਡੇ ਬਲ ਨਾਲ ਨਹੀਂ ਛੁਡਾਇਆ ਜਾਂਦਾ।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ਬਚਾਇਆ ਜਾਂਦਾ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ਵੱਡੀ ਨਾਲ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਫ਼ੌਜ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ਬਹਾਦਰ ਆਦਮੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ਛੁਡਾਇਆ ਜਾਂਦਾ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ਵੱਡੇ ਨਾਲ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ਬਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:39:36.628307102Z",
+  "model": "glm-5.2"
+}

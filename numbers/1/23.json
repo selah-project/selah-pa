@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ ਸ਼ਿਮੋਨ ਦੇ ਕਬੀਲੇ ਲਈ ਉਨਵੰਜਾ ਹਜ਼ਾਰ ਅਤੇ ਤਿੰਨ ਸੌ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ਸ਼ਿਮੋਨ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ਨੌ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ਅਤੇ ਪੰਜਾਹ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ਅਤੇ ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:54.474375274Z",
+  "model": "glm-5.2"
+}

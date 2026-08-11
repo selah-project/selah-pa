@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਉਥੋਂ ਉਹ ਦਬੀਰ ਦੇ ਵਸਨੀਕਾਂ ਕੋਲ ਗਿਆ; ਅਤੇ ਦਬੀਰ ਦਾ ਨਾਮ ਪਹਿਲਾਂ ਕਿਰਯਤ-ਸੇਫਰ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਗਿਆ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ਉਥੋਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ਵਸਨੀਕਾਂ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ਦਬੀਰ ਦੇ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ਅਤੇ ਨਾਮ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ਦਬੀਰ ਦਾ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ਪਹਿਲਾਂ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ਕਿਰਯਤ-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ਸੇਫਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:37:45.389798456Z",
+  "model": "glm-5.2"
+}

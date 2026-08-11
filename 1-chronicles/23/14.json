@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ, ਏਲੋਹੀਮ ਦਾ ਮਨੁੱਖ — ਉਸ ਦੇ ਪੁੱਤਰ ਲੇਵੀ ਦੇ ਕਬੀਲੇ ਉੱਤੇ ਗਿਣੇ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ਅਤੇ ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ ਦਾ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ਉਸ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ਗਿਣੇ ਗਏ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ਕਬੀਲੇ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ਲੇਵੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:10:45.669856635Z",
+  "model": "glm-5.2"
+}

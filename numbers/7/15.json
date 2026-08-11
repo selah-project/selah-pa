@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬਲਦ, ਪਸ਼ੂਆਂ ਦਾ ਬੱਚਾ; ਇੱਕ ਮੇਢਾ; ਇੱਕ ਭੇਡ ਦਾ ਬੱਚਾ, ਇੱਕ ਸਾਲ ਦਾ, ਸੜੋਹ-ਭੇਟਾ ਵਜੋਂ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੱਚਾ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਪਸ਼ੂਆਂ ਦਾ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ਮੇਢਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ਭੇਡ ਦਾ ਬੱਚਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੱਚਾ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ਇੱਕ ਸਾਲ ਦਾ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ਸੜੋਹ-ਭੇਟਾ ਵਜੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:47.614089283Z",
+  "model": "glm-5.2"
+}

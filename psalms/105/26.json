@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 105,
+  "translation": "ਉਸ ਨੇ ਆਪਣਾ ਸੇਵਕ ਮੋਸ਼ੇ ਭੇਜਿਆ, ਅਤੇ ਅਹਰੋਨ ਨੂੰ ਜਿਸ ਨੂੰ ਉਸ ਨੇ ਚੁਣਿਆ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ਉਸ ਨੇ ਭੇਜਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ਆਪਣਾ ਸੇਵਕ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਨੂੰ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ਉਸ ਨੇ ਚੁਣਿਆ ਸੀ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:08:15.986832918Z",
+  "model": "glm-5.2"
+}

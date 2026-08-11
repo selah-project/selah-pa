@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਧੰਨਵਾਦ ਤੂੰ ⟨ਹੈਂ⟩ ਸ਼ਹਿਰ ਵਿਚ, ਅਤੇ ਧੰਨਵਾਦ ਤੂੰ ⟨ਹੈਂ⟩ ਖੇਤ ਵਿਚ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ਧੰਨਵਾਦ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ ⟨ਹੈਂ⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ਸ਼ਹਿਰ ਵਿਚ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ਅਤੇ ਧੰਨਵਾਦ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ ⟨ਹੈਂ⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ਖੇਤ ਵਿਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:23:04.517311762Z",
+  "model": "glm-5.2"
+}

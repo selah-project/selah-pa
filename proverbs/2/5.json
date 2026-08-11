@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤਦ ਤੂੰ ਯਾਹਵੇਹ ਦਾ ਭੈ ਸਮਝੇਂਗਾ, ਅਤੇ ਏਲੋਹੀਮ ਦਾ ਗਿਆਨ ਪ੍ਰਾਪਤ ਕਰੇਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ਤੂੰ ਸਮਝੇਂਗਾ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ਭੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ਅਤੇ ਗਿਆਨ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਦਾ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ਪ੍ਰਾਪਤ ਕਰੇਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:58.387323969Z",
+  "model": "glm-5.2"
+}

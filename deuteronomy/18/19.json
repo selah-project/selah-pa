@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 18:19",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਹੋਵੇਗਾ ⟨ਕਿ⟩ ⟨ਉਹ⟩ ਮਨੁੱਖ ਜੋ ਮੇਰੇ ਉਹ ਬਚਨ ਸੁਣੇਗਾ ਨਹੀਂ ਜੋ ਉਹ ਮੇਰੇ ਨਾਂ ਨਾਲ ਬੋਲੇਗਾ, ਮੈਂ ਉਸ ਤੋਂ ਹਿਸਾਬ ਲਵਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ਅਤੇ ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨ਉਹ⟩ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ਸੁਣੇਗਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਮੇਰੇ ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ਉਹ ਬੋਲੇਗਾ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ਮੇਰੇ ਨਾਂ ਨਾਲ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ਹਿਸਾਬ ਲਵਾਂਗਾ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ਉਸ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:12.549311955Z",
+  "model": "glm-5.2"
+}

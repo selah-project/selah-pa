@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਲਾਦਾਨ ਦੇ ਪੁੱਤਰ — ਮੁਖੀ ਯਖ਼ੀਏਲ, ਅਤੇ ਜ਼ੇਤਮ, ਅਤੇ ਯੋਏਲ; ਤਿੰਨ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ਲਾਦਾਨ ਦੇ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ਮੁਖੀ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "ਯਖ਼ੀਏਲ"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "ਅਤੇ ਜ਼ੇਤਮ"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ਅਤੇ ਯੋਏਲ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ਤਿੰਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:10:57.579445122Z",
+  "model": "glm-5.2"
+}

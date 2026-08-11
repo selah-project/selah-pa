@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਹਰ ਪੁਜਾਰੀ ਦੀ ਮਨਾਹੀ ਪੂਰੀ ਤਰ੍ਹਾਂ ⟨ਹੋਵੇ⟩ — ਇਸ ਨੂੰ ਨਾ ਖਾਧਾ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "ਅਤੇ ਹਰ"
+    },
+    {
+      "surface": "מִנְחַת",
+      "gloss": "ਮਨਾਹੀ"
+    },
+    {
+      "surface": "כֹּהֵן",
+      "gloss": "ਪੁਜਾਰੀ ਦੀ"
+    },
+    {
+      "surface": "כָּלִיל",
+      "gloss": "ਪੂਰੀ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תֵּאָכֵל",
+      "gloss": "ਖਾਧਾ ਜਾਵੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:32:30.775016506Z",
+  "model": "glm-5.2"
+}

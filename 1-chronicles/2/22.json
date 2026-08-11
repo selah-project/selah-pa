@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਸਗੂਬ ਨੇ ⟨את⟩ ਯਾਇਰ ਨੂੰ ਜਨਮ ਦਿੱਤਾ, ਅਤੇ ਉਸ ਲਈ ਗਿਲਅਦ ਦੇ ਦੇਸ਼ ਵਿੱਚ ਵੀਹ ਅਤੇ ਤਿੰਨ ਸ਼ਹਿਰ ਹੋਏ।",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "ਅਤੇ ਸਗੂਬ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਾਇਰ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ਯਾਇਰ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਏ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ਅਤੇ ਤਿੰਨ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ਗਿਲਅਦ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:30.415803001Z",
+  "model": "glm-5.2"
+}

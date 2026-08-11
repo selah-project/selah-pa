@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਤੂੰ ਪਾਗਲ ਹੋ ਜਾਏਂਗਾ ਉਹਨਾਂ ਚੀਜ਼ਾਂ ਦੇ ਦਰਸ਼ਨ ਤੋਂ ਜੋ ਤੇਰੀਆਂ ਅੱਖਾਂ ਵੇਖਣਗੀਆਂ।",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "ਅਤੇ ਤੂੰ ਹੋ ਜਾਏਂਗਾ"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "ਪਾਗਲ"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "ਦਰਸ਼ਨ ਤੋਂ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ਤੇਰੀਆਂ ਅੱਖਾਂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ਵੇਖਣਗੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:22:03.601415489Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਯਾਹਸਾਹ, ਅਤੇ ਕ਼ਦੇਮੋਤ, ਅਤੇ ਮਿਫ਼ਆਤ,",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "ਅਤੇ ਯਾਹਸਾਹ"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "ਅਤੇ ਕ਼ਦੇਮੋਤ"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "ਅਤੇ ਮਿਫ਼ਆਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:48.456031139Z",
+  "model": "glm-5.2"
+}

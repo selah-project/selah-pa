@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਮੂਰਖ ⟨אֶת⟩ ਦੋਸ਼ ਦਾ ਮਜ਼ਾਕ ਉਡਾਉਂਦੇ ਹਨ, ਪਰ ਸਿੱਧੇ ਲੋਕਾਂ ਵਿੱਚ ਪ੍ਰਸੰਨਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ਮੂਰਖ"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ਮਜ਼ਾਕ ਉਡਾਉਂਦੇ ਹਨ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ਦੋਸ਼",
+      "marks": "ਦੋਸ਼"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ਪਰ … ਵਿੱਚ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ਸਿੱਧੇ ਲੋਕਾਂ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ਪ੍ਰਸੰਨਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:25:54.986317437Z",
+  "model": "glm-5.2"
+}

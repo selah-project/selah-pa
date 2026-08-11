@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਵਿਅਰਥ ਤੋਂ ⟨ਪ੍ਰਾਪਤ⟩ ਧਨ ਘਟ ਜਾਂਦਾ ਹੈ, ਪਰ ਹੱਥ ਉੱਤੇ ਇਕੱਠਾ ਕਰਨ ਵਾਲਾ ਵਧੇਰਾ ਕਰਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ਧਨ"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ਵਿਅਰਥ ਤੋਂ"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "ਘਟ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ਪਰ ਇਕੱਠਾ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ਵਧੇਰਾ ਕਰਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:26:00.854517302Z",
+  "model": "glm-5.2"
+}

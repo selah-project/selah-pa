@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਅਹਰੋਨ ਅਤੇ ਉਸ ਦੇ ਪੁੱਤਰ ਉਸ ਵਿੱਚੋਂ ⟨ਆਪਣੇ⟩ ⟨את⟩ ਹੱਥ ਅਤੇ ⟨את⟩ ਪੈਰ ਧੋਣ;",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ਅਤੇ ਧੋਣ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ਉਸ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਹੱਥ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਪੈਰ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ਪੈਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:25:08.044063458Z",
+  "model": "glm-5.2"
+}

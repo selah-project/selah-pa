@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਮਾਖੀਰ ਨੂੰ ਮੈਂ ⟨את⟩ ਗਿਲਆਦ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "ਅਤੇ ਮਾਖੀਰ ਨੂੰ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ਮੈਂ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਗਿਲਆਦ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ਗਿਲਆਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:06.649135872Z",
+  "model": "glm-5.2"
+}

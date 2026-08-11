@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਯਾਹਵੇਹ ਤੁਹਾਡੇ ਲਈ ਲੜੇਗਾ, ਅਤੇ ਤੁਸੀਂ ਚੁੱਪ ਰਹੋਗੇ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ਲੜੇਗਾ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ਅਤੇ ਤੁਸੀਂ"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ਚੁੱਪ ਰਹੋਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:16:37.764057311Z",
+  "model": "glm-5.2"
+}

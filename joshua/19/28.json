@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਏਬਰੋਨ ਅਤੇ ਰਖੋਬ ਅਤੇ ਖ਼ਾਮੋਨ ਅਤੇ ਕਾਨਾ, ਵੱਡੇ ਤਸੀਦੋਨ ਤੱਕ।",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "ਅਤੇ ਏਬਰੋਨ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ਅਤੇ ਰਖੋਬ"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "ਅਤੇ ਖ਼ਾਮੋਨ"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "ਅਤੇ ਕਾਨਾ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ਤਸੀਦੋਨ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ਵੱਡੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:29.913653927Z",
+  "model": "glm-5.2"
+}

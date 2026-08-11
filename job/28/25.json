@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਪੌਣ ਲਈ ਭਾਰ ਤੋਲਣ ਲਈ, ਅਤੇ ਪਾਣੀ ਨੂੰ ਮਾਪ ਨਾਲ ਮਿਥਣ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ਪੌਣ ਲਈ"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ਭਾਰ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ਅਤੇ ਪਾਣੀ ਨੂੰ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ਮਿਥਿਆ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ਮਾਪ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:51:05.121099953Z",
+  "model": "glm-5.2"
+}

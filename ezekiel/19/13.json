@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਹੁਣ ⟨ਉਹ⟩ ਉਜਾੜ ਵਿੱਚ, ਸੁੱਕੀ ਅਤੇ ਤਿਹਾਊ ਭੂਮੀ ਵਿੱਚ ਲਾਈ ਗਈ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "ਲਾਈ ਗਈ ਹੈ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ਉਜਾੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਭੂਮੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ਸੁੱਕੀ"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "ਅਤੇ ਤਿਹਾਊ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:48:56.173840910Z",
+  "model": "glm-5.2"
+}

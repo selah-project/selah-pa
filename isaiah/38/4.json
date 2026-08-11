@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 38,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਯਸ਼ਾਯਾਹੂ ਕੋਲ ਆਇਆ, ਇਹ ਆਖਣ ਲਈ ⟨ਕਿ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ਯਸ਼ਾਯਾਹੂ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਇਹ ਆਖਣ ਲਈ ⟨ਕਿ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:00:40.277586334Z",
+  "model": "glm-5.2"
+}

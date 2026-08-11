@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬਰਕੋਸ ਦੇ ਪੁੱਤਰ, ਸੀਸਰਾ ਦੇ ਪੁੱਤਰ, ਤਮਚ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "ਬਰਕੋਸ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "ਸੀਸਰਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ਤਮਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:45:45.039400641Z",
+  "model": "glm-5.2"
+}

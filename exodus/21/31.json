@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਜਾਂ ਉਹ ਇੱਕ ਪੁੱਤਰ ਨੂੰ ਕੱਟੇ, ਜਾਂ ਉਹ ਇੱਕ ਧੀ ਨੂੰ ਕੱਟੇ — ਇਸ ਮਿਆਰ ਅਨੁਸਾਰ ਉਸ ਨਾਲ ਕੀਤਾ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਇੱਕ ਪੁੱਤਰ ਨੂੰ"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ਉਹ ਕੱਟੇ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਇੱਕ ਧੀ ਨੂੰ"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ਉਹ ਕੱਟੇ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ਮਿਆਰ ਅਨੁਸਾਰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ਕੀਤਾ ਜਾਵੇ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:20:21.010145755Z",
+  "model": "glm-5.2"
+}

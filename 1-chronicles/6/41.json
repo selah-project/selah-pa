@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ⟨ਨੇ⟩ ⟨את⟩ ਨਗਰ ਦੇ ਖੇਤ ਅਤੇ ⟨את⟩ ਉਸ ਦੇ ਹਿਰਦੇ ⟨ਨੇ⟩ ਕਲੇਬ ਯਪੁੰਨੇ ਦੇ ਪੁੱਤਰ ਨੂੰ ਦਿੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਖੇਤ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ਖੇਤ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਨਗਰ ਦੇ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਉਸ ਦੇ ਹਿਰਦੇ"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ਉਸ ਦੇ ਹਿਰਦੇ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ਦਿੱਤੇ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ਕਲੇਬ ਨੂੰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ਯਪੁੰਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:36.394968211Z",
+  "model": "glm-5.2"
+}

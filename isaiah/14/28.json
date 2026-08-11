@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਉਸ ਸਾਲ ਜਿਸ ਵਿੱਚ ਰਾਜਾ ਅਖਾਜ਼ ਦੀ ਮੌਤ ਹੋਈ, ਇਹ ਭਾਰ ⟨ਹੋਇਆ⟩ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ਉਸ ਸਾਲ ਜਿਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮੌਤ ਹੋਈ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ਅਖਾਜ਼ ਦੀ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ਹੋਇਆ⟩ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ਭਾਰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:53:19.918748241Z",
+  "model": "glm-5.2"
+}

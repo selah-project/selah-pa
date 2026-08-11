@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਲਾਮੇਖ ਸੌ ਅਤੇ ਅਠਾਸੀ ਅਤੇ ਦੋ ਸਾਲ ਜੀਵਿਆ, ਅਤੇ ਉਸ ਨੇ ⟨ਇੱਕ⟩ ਪੁੱਤਰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਵਿਆ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ਲਾਮੇਖ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ਅਤੇ ਅਠਾਸੀ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ਅਤੇ ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜੰਮਿਆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:41.469120237Z",
+  "model": "glm-5.2"
+}

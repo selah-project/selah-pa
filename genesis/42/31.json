@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਅਤੇ ਅਸੀਂ ਉਸ ਨੂੰ ਕਿਹਾ: ਅਸੀਂ ਸੱਚੇ ਮਰਦ ਹਾਂ; ਅਸੀਂ ਜਾਸੂਸ ਨਹੀਂ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ਅਤੇ ਅਸੀਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ਸੱਚੇ ਮਰਦ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ਅਸੀਂ ਹਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ਸਾਂ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ਜਾਸੂਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:06:10.323509797Z",
+  "model": "glm-5.2"
+}

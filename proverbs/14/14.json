@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 14:14",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਆਪਣੇ ਰਾਹਾਂ ਤੋਂ ਰਜਦਾ ਹੈ ਹਟਣ ਵਾਲਾ ਦਿਲ, ਅਤੇ ⟨ਉਸ⟩ ਤੋਂ ਚੰਗਾ ਮਨੁੱਖ ⟨ਰਜਦਾ ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "מדרכיו",
+      "gloss": "ਆਪਣੇ ਰਾਹਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ਰਜਦਾ ਹੈ"
+    },
+    {
+      "surface": "סוג",
+      "gloss": "ਹਟਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "ומעליו",
+      "gloss": "ਅਤੇ ਉਸ ਤੋਂ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:26:45.583835087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਇਹ ਲੇਵੀ ਦੇ ਪੁੱਤਰ ਸਨ ਆਪਣੇ ਨਾਵਾਂ ਨਾਲ: ਗਰਸ਼ੋਨ ਅਤੇ ਕਹਾਤ ਅਤੇ ਮਰਾਰੀ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ⟨ਸਨ⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ਲੇਵੀ"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "ਆਪਣੇ ਨਾਵਾਂ ਨਾਲ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ਗਰਸ਼ੋਨ"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "ਅਤੇ ਕਹਾਤ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ਅਤੇ ਮਰਾਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:47:57.567656962Z",
+  "model": "glm-5.2"
+}

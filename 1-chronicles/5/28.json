@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਕਹਾਤ ਦੇ ਪੁੱਤਰ — ਅਮਰਾਮ, ਯਿਤਸਹਾਰ, ਹਵਰੋਨ ਅਤੇ ਉਜ਼ੀਏਲ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ਕਹਾਤ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ਅਮਰਾਮ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ਯਿਤਸਹਾਰ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ਹਵਰੋਨ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ਅਤੇ ਉਜ਼ੀਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:54.014530334Z",
+  "model": "glm-5.2"
+}

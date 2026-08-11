@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 77,
+  "translation": "ਏਲੋਹੀਮ, ਪਵਿੱਤਰਤਾ ਵਿੱਚ ਹੈ ਤੇਰਾ ਮਾਰਗ; ਕੌਣ ⟨ਹੈ⟩ ਮਹਾਨ ਏਲ ਏਲੋਹੀਮ ਵਰਗਾ?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ਪਵਿੱਤਰਤਾ ਵਿੱਚ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ਤੇਰਾ ਮਾਰਗ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਮਹਾਨ"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "ਏਲੋਹੀਮ ਵਰਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:58:57.915309914Z",
+  "model": "glm-5.2"
+}

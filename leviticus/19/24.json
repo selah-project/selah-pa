@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਚੌਥੇ ਸਾਲ ਵਿੱਚ ਉਸ ਦਾ ਸਾਰਾ ਫਲ ਪਵਿੱਤਰ ਹੋਵੇ — ਯਾਹਵੇਹ ਲਈ ਜੈ-ਕਾਰਾਂ ਦਾ।",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ਅਤੇ ਸਾਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "ਚੌਥੇ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰਾ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ਉਸ ਦਾ ਫਲ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "ਜੈ-ਕਾਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:40:50.392433833Z",
+  "model": "glm-5.2"
+}

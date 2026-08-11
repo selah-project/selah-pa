@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਖ਼ਰੀਫ਼ ਦੇ ਪੁੱਤਰ, ਇੱਕ ਸੌ ਬਾਰਾਂ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ਖ਼ਰੀਫ਼"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ਤਿੱਬਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:43:02.665777541Z",
+  "model": "glm-5.2"
+}

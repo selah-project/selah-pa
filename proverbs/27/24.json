@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਕਿਉਂਕਿ ਦੌਲਤ ਸਦਾ ਲਈ ⟨ਨਹੀਂ ਰਹਿੰਦੀ⟩, ਅਤੇ ਕੀ ਤਾਜ ਪੀੜ੍ਹੀ ਦਰ ਪੀੜ੍ਹੀ ਤੱਕ ਰਹਿੰਦਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ਦੌਲਤ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਕੀ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ਤਾਜ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ਪੀੜ੍ਹੀ ਦਰ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ਪੀੜ੍ਹੀ ਤੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:56.553206246Z",
+  "model": "glm-5.2"
+}

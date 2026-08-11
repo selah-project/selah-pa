@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਧੰਨਵਾਦ ਹਨ ਤੂੰ, ਹੇ ਯਾਹਵੇਹ; ਮੈਨੂੰ ਤੇਰੇ ਖ਼ੁੱਕਮ ਸਿਖਾ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ਧੰਨਵਾਦ ਹਨ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ਮੈਨੂੰ ਸਿਖਾ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ਤੇਰੇ ਖ਼ੁੱਕਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:12:54.809946727Z",
+  "model": "glm-5.2"
+}

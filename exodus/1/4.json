@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਦਾਨ, ਅਤੇ ਨਫ਼ਤਾਲੀ, ਗਾਦ, ਅਤੇ ਆਸ਼ੇਰ।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ਅਤੇ ਨਫ਼ਤਾਲੀ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ਅਤੇ ਆਸ਼ੇਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:09:53.238657473Z",
+  "model": "glm-5.2"
+}

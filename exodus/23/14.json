@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਤਿੰਨ ਵਾਰ ਤੂੰ ਮੇਰੇ ਲਈ ਤੀਰਥ ਕਰੇਂ ਸਾਲ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ਵਾਰ"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "ਤੂੰ ਤੀਰਥ ਕਰੇਂ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ਸਾਲ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:21:15.155030071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਲਈ ⟨ਰਖਬਯਾਹੂ⟩: ⟨ਰਖਬਯਾਹੂ⟩ ਦੇ ਪੁੱਤਰਾਂ ਲਈ, ⟨ਮੁਖੀ⟩ ਯਿਸ਼ੀਯਾਹ।",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਲਈ"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "ਰਖਬਯਾਹੂ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ਮੁਖੀ"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ਯਿਸ਼ੀਯਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:35.576481277Z",
+  "model": "glm-5.2"
+}

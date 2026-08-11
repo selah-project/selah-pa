@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਇਉਂ ਹੋਇਆ, ਜਦੋਂ ਮਨੁੱਖ ਧਰਤੀ ਦੇ ਮੂੰਹ ਉੱਤੇ ਵਧਣ ਲੱਗੇ, ਅਤੇ ਉਹਨਾਂ ਲਈ ਧੀਆਂ ਜੰਮੀਆਂ,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਇਉਂ ਹੋਇਆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ਲੱਗੇ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ਵਧਣ ਲਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ਅਤੇ ਧੀਆਂ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ਜੰਮੀਆਂ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:11.701271530Z",
+  "model": "glm-5.2"
+}

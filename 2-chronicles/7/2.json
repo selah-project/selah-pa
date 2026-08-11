@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਕੋਹਨੀਮ ਯਾਹਵੇਹ ਦੇ ਘਰ ਵਿੱਚ ਆਉਣ ਨੂੰ ਨਾ ਸਕਦੇ ਸਨ, ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਦੇ ਮਹਿਮਾ ਨੇ ਯਾਹਵੇਹ ਦੇ ⟨את⟩ ਘਰ ਨੂੰ ਭਰਿਆ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ਸਕਦੇ ਸਨ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ਕੋਹਨੀਮ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ਆਉਣ ਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ਭਰਿਆ ਸੀ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ਮਹਿਮਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਘਰ ਨੂੰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:22:52.076877541Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਪਰ ਕਣਕ ਅਤੇ ਛੋਲੇ ਤਬਾਹ ਨਹੀਂ ਹੋਏ, ਕਿਉਂਕਿ ਉਹ ਅਜੇ ਅਣਵਿਕਸਿਤ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ਪਰ ਕਣਕ"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ਅਤੇ ਛੋਲੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ਤਬਾਹ ਹੋਏ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ਅਜੇ ਅਣਵਿਕਸਿਤ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ਉਹ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T20:13:57.037497716Z",
+  "model": "glm-5.2"
+}

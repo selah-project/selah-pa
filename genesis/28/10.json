@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਯਾਕੋਬ ਬਿਰ-ਸ਼ਬਾ ਤੋਂ ਨਿਕਲਿਆ, ਅਤੇ ਹਾਰਾਨ ਵੱਲ ਤੁਰ ਪਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ਅਤੇ ਨਿਕਲਿਆ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਬਿਰ-ਸ਼ਬਾ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਤੁਰ ਪਿਆ"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ਹਾਰਾਨ ਵੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:56:51.470106511Z",
+  "model": "glm-5.2"
+}

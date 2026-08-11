@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਤਾਂ ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ: ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਮੇਰੇ ਕੋਲ ਆਇਆ ⟨ਜੋ ਕਹਿੰਦਾ ਹੈ⟩:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਮੈਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਜੋ ਕਹਿੰਦਾ ਹੈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:55.798290178Z",
+  "model": "glm-5.2"
+}

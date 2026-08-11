@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਯਾਹਵੇਹ ਨੇ ਮੇਰੀ ਅਰਦਾਸ ਸੁਣੀ ਹੈ; ਯਾਹਵੇਹ ਮੇਰੀ ਬੇਨਤੀ ਕਬੂਲਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣੀ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ਮੇਰੀ ਅਰਦਾਸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ਮੇਰੀ ਬੇਨਤੀ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ਕਬੂਲਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:26:44.854042667Z",
+  "model": "glm-5.2"
+}

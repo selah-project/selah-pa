@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਦਾਵਿਦ ਦੇ ਸਾਰੇ ਪੁੱਤਰ ਪਿਲਗਸ਼ਾਂ ਦੇ ਪੁੱਤਰਾਂ ਤੋਂ ਬਿਨਾਂ, ਅਤੇ ਤਾਮਾਰ ਉਹਨਾਂ ਦੀ ਭੈਣ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ਦਾਵਿਦ ਦੇ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ਤੋਂ ਬਿਨਾਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "ਪਿਲਗਸ਼ਾਂ ਦੇ"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ਅਤੇ ਤਾਮਾਰ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ਉਹਨਾਂ ਦੀ ਭੈਣ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:21.152252298Z",
+  "model": "glm-5.2"
+}

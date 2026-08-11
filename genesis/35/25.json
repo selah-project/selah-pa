@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਅਤੇ ਬਿਲਹਾਹ ਦੇ ਪੁੱਤਰ — ਰਾਹੇਲ ਦੀ ਦਾਸੀ ਦੇ — ਦਾਨ ਅਤੇ ਨਪਤਾਲੀ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ਬਿਲਹਾਹ ਦੇ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ਦਾਸੀ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ਰਾਹੇਲ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ਅਤੇ ਨਪਤਾਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:04.356183598Z",
+  "model": "glm-5.2"
+}

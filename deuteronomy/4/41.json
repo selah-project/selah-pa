@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਤਦ ਮੋਸ਼ੇ ਨੇ ਯਰਦਨ ਦੇ ਪਾਰ, ਸੂਰਜ ਚੜ੍ਹਨ ਵੱਲ, ਤਿੰਨ ਸ਼ਹਿਰ ਨਿਖੇੜੀਆਂ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ਨਿਖੇੜੀਆਂ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ਦੇ ਪਾਰ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ਯਰਦਨ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ਸੂਰਜ ਚੜ੍ਹਨ ਵੱਲ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ਸੂਰਜ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:54.976310265Z",
+  "model": "glm-5.2"
+}

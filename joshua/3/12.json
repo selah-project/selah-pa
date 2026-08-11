@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਹੁਣ ਆਪਣੇ ਲਈ ਇਸਰਾਏਲ ਦੇ ਕਬੀਲਿਆਂ ਵਿਚੋਂ ਬਾਰਾਂ ਆਦਮੀ ਲਓ — ਹਰ ਕਬੀਲੇ ਲਈ ਇੱਕ ਆਦਮੀ, ਇੱਕ ਆਦਮੀ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ਲਓ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਬਾਰਾਂ ⟨ਦੋ⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ਦਸ⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਆਦਮੀ"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "ਕਬੀਲਿਆਂ ਵਿਚੋਂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਆਦਮੀ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਆਦਮੀ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:27:08.721463841Z",
+  "model": "glm-5.2"
+}

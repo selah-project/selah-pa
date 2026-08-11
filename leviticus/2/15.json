@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਤੂੰ ਉਸ ਉੱਤੇ ਤੇਲ ਪਾਏਂ, ਅਤੇ ਉਸ ਉੱਤੇ ਲੋਬਾਨ ਲਾਏਂ; ਇਹ ਇੱਕ ਮਨਚਾਹ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ਅਤੇ ਤੂੰ ਪਾਏਂ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ਤੇਲ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ਅਤੇ ਤੂੰ ਲਾਏਂ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ਲੋਬਾਨ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ਮਨਚਾਹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਇਹ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:30:59.094181816Z",
+  "model": "glm-5.2"
+}

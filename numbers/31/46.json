@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਮਨੁੱਖਾਂ ਦੀਆਂ ਜਾਨਾਂ ਸੋਲਾਂ ਹਜ਼ਾਰ,",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "ਅਤੇ ਜਾਨਾਂ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ਦਸ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:51.490663189Z",
+  "model": "glm-5.2"
+}

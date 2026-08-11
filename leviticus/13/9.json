@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਜਦੋਂ ਮਨੁੱਖ ਵਿੱਚ ਤਸ਼ਤ੍ਰੀ ਦਾ ਨ੍ਯਾਣਾ ਹੋਵੇ ਤਾਂ ⟨ਉਹ⟩ ਕੋਹੇਨ ਕੋਲ ਲਿਆਇਆ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ਨ੍ਯਾਣਾ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ਤਸ਼ਤ੍ਰੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ਮਨੁੱਖ ਵਿੱਚ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਲਿਆਇਆ ਜਾਵੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕੋਹੇਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:32.624493621Z",
+  "model": "glm-5.2"
+}

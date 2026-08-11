@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਦਾਸ ਨੇ ਯਿਤਸਖਾਕ ਨੂੰ ⟨את⟩ ਸਾਰੇ ਕੰਮ ਦੱਸੇ ਜੋ ਉਸ ਨੇ ਕੀਤੇ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਦੱਸੇ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ਦਾਸ ਨੇ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ਯਿਤਸਖਾਕ ਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਕੰਮ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਉਸ ਨੇ ਕੀਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:54:15.265209141Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬਹੁਤ ਦੁਸ਼ਟ ਮਤ ਬਣ, ਅਤੇ ਮੂਰਖ ਮਤ ਬਣ; ਤੂੰ ਆਪਣੇ ਸਮੇਂ ਤੋਂ ਬਿਨਾਂ ਕਿਉਂ ਮਰੇਂ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ਦੁਸ਼ਟ ਬਣ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ਬਣ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ਮੂਰਖ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ਤੂੰ ਮਰੇਂ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ਤੇਰੇ ਸਮੇਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:14:12.060992168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਇਸ ਲਈ, ਹੇ ਰਾਖਿਆਂ, ਸੁਣੋ ਯਾਹਵੇਹ ਦਾ ਵਚਨ:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ਹੇ ਰਾਖਿਆਂ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਵਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:57:35.036517765Z",
+  "model": "glm-5.2"
+}

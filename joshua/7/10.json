@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਯਹੋਸ਼ੁਆ ਨੂੰ ਕਿਹਾ: “ਉੱਠ, ਤੂੰ ਕਿਉਂ ਆਪਣੇ ਮੂੰਹ ਉੱਤੇ ਢਹਿ ਪਿਆ ਹੈਂ?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ਯਹੋਸ਼ੁਆ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ਉੱਠ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ਢਹਿ ਪਿਆ ਹੈਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ਆਪਣੇ ਮੂੰਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:37:47.765538909Z",
+  "model": "glm-5.2"
+}

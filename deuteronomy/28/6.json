@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਧੁਨਿਆਵਾਨ ਤੂੰ ਆਉਣ ਵੇਲੇ, ਅਤੇ ਧੁਨਿਆਵਾਨ ਤੂੰ ਜਾਣ ਵੇਲੇ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ਧੁਨਿਆਵਨਾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ਆਉਣ ਵੇਲੇ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ਅਤੇ ਧੁਨਿਆਵਨਾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ਜਾਣ ਵੇਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:54.897654080Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਮਾਰੂ ਦਿਲ ਹੱਡੀਆਂ ਦੀ ਬਨਾਰਸ ਹੈ, ਪਰ ਕਸੀਰ ਹੱਡੀਆਂ ਦੀ ਸੜਨ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ਬਨਾਰਸ ਹੈ"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ਮਾਸ ਦੀ"
+    },
+    {
+      "surface": "ਲב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ਮਾਰੂ"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "ਪਰ ਸੜਨ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ਹੱਡੀਆਂ ਦੀ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ਕਸੀਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:27:08.025869806Z",
+  "model": "glm-5.2"
+}

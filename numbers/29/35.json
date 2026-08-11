@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅੱਠਵੇਂ ਦਿਨ ⟨ਤੁਹਾਡੇ ਲਈ⟩ ਸਭਾ ਹੋਵੇ; ਕੋਈ ਵੀ ਨੌਕਰੀ-ਕੰਮ ਤੁਸੀਂ ਨਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ਅੱਠਵੇਂ"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ਸਭਾ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਹੋਵੇਗੀ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ਨੌਕਰੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ਤੁਸੀਂ ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:48.519254553Z",
+  "model": "glm-5.2"
+}

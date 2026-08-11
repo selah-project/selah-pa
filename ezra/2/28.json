@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਬੇਤ-ਏਲ ਅਤੇ ਅਈ ਦੇ ਮਰਦ — ਦੋ ਸੌ ਵੀਹ ਤਿੰਨ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ਏਲ"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ਅਤੇ ਅਈ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ਦੋ ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ਤਿੰਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:32:43.286701642Z",
+  "model": "glm-5.2"
+}

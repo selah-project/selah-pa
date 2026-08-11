@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਕੇਦੇਸ਼, ਅਤੇ ਅਦਰੇਈ, ਅਤੇ ਐਨ-ਖਾਸੋਰ।",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "ਅਤੇ ਕੇਦੇਸ਼"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ਅਤੇ ਅਦਰੇਈ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ਅਤੇ ਐਨ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ਖਾਸੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:25.893325875Z",
+  "model": "glm-5.2"
+}

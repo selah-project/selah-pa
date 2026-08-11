@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਉਹ ਕਿਸੇ ਮੁਆਵਜ਼ੇ ਦਾ ਚਿਹਰਾ ਨਹੀਂ ਮੰਨੇਗਾ, ਅਤੇ ਨਾ ਹੀ ਖ਼ੁਸ਼ ਹੋਵੇਗਾ, ਭਾਵੇਂ ਤੂੰ ਰਿਸ਼ਵਤ ਵਧਾਏਂ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ਮੰਨੇਗਾ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਚਿਹਰਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕਿਸੇ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ਮੁਆਵਜ਼ੇ ਦਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ ਹੀ"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "ਖ਼ੁਸ਼ ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਭਾਵੇਂ"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "ਤੂੰ ਵਧਾਏਂ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ਰਿਸ਼ਵਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:39.877794131Z",
+  "model": "glm-5.2"
+}

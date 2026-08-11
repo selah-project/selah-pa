@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਇਹ ਇਸਰਾਏਲ ਦੇ ਪੁੱਤਰਾਂ ਦੇ ਗਿਣੇ ਹੋਏ ਸਨ — ਛੇ ਸੌ ਹਜ਼ਾਰ ਅਤੇ ਇੱਕ ਹਜ਼ਾਰ, ਸੱਤ ਸੌ ਅਤੇ ਤੀਹ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ਤקודי",
+      "gloss": "ਗਿਣੇ ਹੋਏ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ਅਤੇ ਇੱਕ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ਅਤੇ ਤੀਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:48.809879870Z",
+  "model": "glm-5.2"
+}

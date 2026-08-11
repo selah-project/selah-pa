@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤੇਰੀ ਮਾਂ ਦੀ ਭੈਣ ਦੀ ਨੰਗਤਾ ਨੂੰ ਤੂੰ ਨਾ ਖੋਲ੍ਹ; ਕਿਉਂਕਿ ਉਹ ਤੇਰੀ ਮਾਂ ਦੀ ਸ਼ਾਹਿਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ਨੰਗਤਾ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ਭੈਣ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ਤੇਰੀ ਮਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ਤੂੰ ਖੋਲ੍ਹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ਸ਼ਾਹਿਰ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ਤੇਰੀ ਮਾਂ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:38:14.403054937Z",
+  "model": "glm-5.2"
+}

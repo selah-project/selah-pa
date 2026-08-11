@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਮੈਂ ਵੀ ਤੁਹਾਡੀ ਆਫ਼ਤ ਵੇਲੇ ਹੱਸਾਂ, ਮੈਂ ਮਜ਼ਾਕ ਉਡਾਵਾਂ ਜਦੋਂ ਤੁਹਾਡਾ ਡਰ ਆਵੇ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "ਤੁਹਾਡੀ ਆਫ਼ਤ ਵੇਲੇ"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "ਹੱਸਾਂ"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ਮੈਂ ਮਜ਼ਾਕ ਉਡਾਵਾਂ"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ਜਦੋਂ ... ਆਵੇ"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "ਤੁਹਾਡਾ ਡਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:54.597016921Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ⟨את⟩ ਮਾਸ ਅਤੇ ⟨את⟩ ਖੱਲ ਨੂੰ ਉਸ ਨੇ ਅੱਗ ਵਿੱਚ ਸਾੜਿਆ, ਛਾਉਣੀ ਤੋਂ ਬਾਹਰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਮਾਸ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ਮਾਸ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਖੱਲ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ਖੱਲ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ਉਸ ਨੇ ਸਾੜਿਆ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ਅੱਗ ਵਿੱਚ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ਬਾਹਰ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ਛਾਉਣੀ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:34:02.059700141Z",
+  "model": "glm-5.2"
+}

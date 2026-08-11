@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਤੂੰ ਬੱਦਲ ਨਾਲ ⟨ਆਪਣੇ ਆਪ ਨੂੰ⟩ ਢੱਕਿਆ, ਬੇਨਤੀ ਦੇ ਲੰਘਣ ਤੋਂ ⟨ਰੋਕ ਕੇ⟩।",
+  "tokens": [
+    {
+      "surface": "סַכּוֹתָה",
+      "gloss": "ਢੱਕਿਆ"
+    },
+    {
+      "surface": "בֶּעָנָן",
+      "gloss": "ਬੱਦਲ ਨਾਲ"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "מֵעֲבוֹר",
+      "gloss": "ਲੰਘਣ ਤੋਂ"
+    },
+    {
+      "surface": "תְּפִלָּה",
+      "gloss": "ਬੇਨਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:09.909018564Z",
+  "model": "glm-5.2"
+}

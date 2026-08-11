@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਆਪਣੀ ਜਾਨ ਦੇ ਸਦਕਾ ਅਸੀਂ ਆਪਣੀ ਰੋਟੀ ਲਿਆਂਦੀ, ਜੰਗਲ ਦੀ ਤਲਵਾਰ ਦੇ ਸਾਹਮਣੇ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ਆਪਣੀ ਜਾਨ ਦੇ ਸਦਕਾ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ਅਸੀਂ ਲਿਆਂਦੀ"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ਆਪਣੀ ਰੋਟੀ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ ਤੋਂ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ਤਲਵਾਰ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ਜੰਗਲ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:09.371090755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਇਹ ਸਾਰੇ ਸਿੱਦੀਮ ਦੀ ਘਾਟੀ ਵਿੱਚ ⟨ਇਕੱਠੇ⟩ ਜੁੜੇ, ਜੋ ਕਿ ਖਾਰੇ ਸਮੁੰਦਰ ਦਾ ਹੀ ⟨ਹਿੱਸਾ ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ਜੁੜੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ਘਾਟੀ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ਸਿੱਦੀਮ ਦੀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਜੋ ਕਿ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ਖਾਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:49:09.019520494Z",
+  "model": "glm-5.2"
+}

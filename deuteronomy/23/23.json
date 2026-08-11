@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਪਰ ਜੇ ਤੂੰ ਨੇਦਰ ਕਰਨ ਤੋਂ ਰੁਕੇਂ, ਤਾਂ ਤੇਰੇ ਵਿੱਚ ਪਾਪ ਨਹੀਂ ਹੋਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ਪਰ ਜੇ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ਤੂੰ ਰੁਕੇਂ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "ਨੇਦਰ ਕਰਨ ਤੋਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ਤੇਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ਪਾਪ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:42.547428869Z",
+  "model": "glm-5.2"
+}

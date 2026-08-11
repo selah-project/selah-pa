@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "⟨ਅਤੇ⟩ ਮੁੰਦਰੀਆਂ, ਅਤੇ ਨੱਕ ਦੇ ਘੁੰਗਰੂ",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ਮੁੰਦਰੀਆਂ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "ਅਤੇ ਘੁੰਗਰੂ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ਨੱਕ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:49:11.734672341Z",
+  "model": "glm-5.2"
+}

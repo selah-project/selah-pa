@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਸੇਂਜੇ ਵਾਲ ਇੱਕ ਸ਼ੋਭਾ ਦਾ ਤਾਜ ਹੈ; ਇਹ ਧਾਰਮਿਕਤਾ ਦੇ ਰਸਤੇ ਵਿੱਚ ਮਿਲੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ਤਾਜ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ਸ਼ੋਭਾ ਦਾ"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ਸੇਂਜੇ ਵਾਲ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ਰਸਤੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ਧਾਰਮਿਕਤਾ ਦੇ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ਮਿਲੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:22.730081441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਪਿਘਲਾਈਆਂ ਦੇ ਏਲੋਹੀਮ ਤੂੰ ਆਪਣੇ ਲਈ ਨਾ ਬਣਾ।",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ਪਿਘਲਾਈਆਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ਤੂੰ ਬਣਾਵੇਂਗਾ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:26:47.444534589Z",
+  "model": "glm-5.2"
+}

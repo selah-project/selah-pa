@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਢਾਲ ਅਤੇ ਵੱਡੀ ਢਾਲ ਫੜੋ, ਅਤੇ ਮੇਰੀ ਮਦਦ ਲਈ ਉੱਠੋ।",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "ਫੜੋ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ਢਾਲ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ਅਤੇ ਵੱਡੀ ਢਾਲ"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ਅਤੇ ਉੱਠੋ"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ਮੇਰੀ ਮਦਦ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:40:01.717137780Z",
+  "model": "glm-5.2"
+}

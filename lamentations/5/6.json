@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਮਿਤਸਰਾਯਿਮ ਨੂੰ ਹੱਥ ਦਿੱਤਾ, ਅਸ਼ਸ਼ੂਰ ਨੂੰ, ਰੋਟੀ ਨਾਲ ਰਜਣ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "ਮਿਤਸਰਾਯਿਮ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ਦਿੱਤਾ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ਅਸ਼ਸ਼ੂਰ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ਰਜਣ ਲਈ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:27.768775729Z",
+  "model": "glm-5.2"
+}

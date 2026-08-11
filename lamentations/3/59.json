@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਯਾਹਵੇਹ, ਤੂੰ ਮੇਰੇ ਜ਼ੁਲਮ ਵੇਖੇ; ⟨ਤੂੰ⟩ ਮੇਰਾ ਮੁਕੱਦਮਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "רָאִיתָה",
+      "gloss": "ਤੂੰ ਵੇਖੇ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "עַוָּתָתִי",
+      "gloss": "ਮੇਰੇ ਜ਼ੁਲਮ"
+    },
+    {
+      "surface": "שָׁפְטָה",
+      "gloss": "⟨ਤੂੰ⟩ ਕਰ"
+    },
+    {
+      "surface": "מִשְׁפָּטִי",
+      "gloss": "ਮੇਰਾ ਮੁਕੱਦਮਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:49.915730912Z",
+  "model": "glm-5.2"
+}

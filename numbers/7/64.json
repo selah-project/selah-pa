@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬੱਕਰਿਆਂ ਵਿੱਚੋਂ ਇੱਕ ਵਾਛੀ, ਪਾਪ ਦੀ ਭੇਟ ਵਾਸਤੇ;",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "ਵਾਛੀ"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "ਬੱਕਰਿਆਂ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "ਪਾਪ ਦੀ ਭੇਟ ਵਾਸਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:11.567849861Z",
+  "model": "glm-5.2"
+}

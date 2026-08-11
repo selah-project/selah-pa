@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਯਾਹਵੇਹ, ਮੇਰੇ ਬਚਨਾਂ ਨੂੰ ਕੰਨ ਲਾਓ, ਮੇਰੀ ਬੁਦਬੁਦ ਨੂੰ ਸਮਝੋ।",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "ਮੇਰੇ ਬਚਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ਕੰਨ ਲਾਓ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ਸਮਝੋ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "ਮੇਰੀ ਬੁਦਬੁਦ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:26:53.892900867Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤੇ ਯਰਦ ਦੇ ਸਾਰੇ ਦਿਨ ਬਾਹਠ ਨੂੰ ਨੌਂ ਸੌ ਸਾਲ ਹੋਏ, ਅਤੇ ਉਸ ਦੀ ਮੌਤ ਹੋਈ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਤੇ ... ਹੋਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ਯਰਦ ਦੇ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸਾਠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ਅਤੇ ਨੌਂ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਦੀ⟩ ਮੌਤ ਹੋਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:41.866894994Z",
+  "model": "glm-5.2"
+}

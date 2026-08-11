@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ⟨את⟩ ਨਰ ਨਾਲ ਤੂੰ ਇਸਤਰੀ ਦੇ ਮਿਲਾਪ ਵਾਂਗ ਨਾ ਸੌਣਾ; ਘਿਣਾਉਣਾ ਕੰਮ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਨਰ ਨਾਲ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ਨਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ਤੂੰ ਸੌਣਾ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ਮਿਲਾਪ ਵਾਂਗ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇਸਤਰੀ ਦੇ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ਘਿਣਾਉਣਾ ਕੰਮ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਹੈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T20:38:41.730680693Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਪਾਣੀਆਂ ਨੇ ਧਰਤੀ ਉੱਤੇ ਜ਼ੋਰ ਪਾਇਆ, ਪੰਜਾਹ ਅਤੇ ਸੌ ਦਿਨ ਤੱਕ।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "ਅਤੇ ਜ਼ੋਰ ਪਾਇਆ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ਪਾਣੀਆਂ ਨੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ਪੰਜਾਹ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ਅਤੇ ਸੌ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:09.596337034Z",
+  "model": "glm-5.2"
+}

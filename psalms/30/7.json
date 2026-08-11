@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਮੈਂ ਆਪਣੀ ਸਕੂਨ ਵਿੱਚ ਕਿਹਾ, ਮੈਂ ਕਦੇ ਹਿੱਲਣਗਾ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ਅਤੇ ਮੈਂ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ਮੈਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "ਆਪਣੀ ਸਕੂਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ਮੈਂ ਹਿੱਲਣਗਾ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਕਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:35:51.005887937Z",
+  "model": "glm-5.2"
+}

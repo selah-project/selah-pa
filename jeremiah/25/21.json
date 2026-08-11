@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "⟨את⟩ ਏਦੋਮ ਅਤੇ ⟨את⟩ ਮੋਆਬ ਅਤੇ ⟨את⟩ ਅੰਮੋਨ ਦੇ ਪੁੱਤਰਾਂ ਨੂੰ ⟨:⟩",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਦੋਮ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਮੋਆਬ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅੰਮੋਨ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ਅੰਮੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:24:43.118700727Z",
+  "model": "glm-5.2"
+}

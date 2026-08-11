@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 83,
+  "translation": "ਗੀਤ, ਜ਼ਬੂਰ ਲੇਸਾਫ਼ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ਲੇਸਾਫ਼ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:01:49.660124215Z",
+  "model": "glm-5.2"
+}

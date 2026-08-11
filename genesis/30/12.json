@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਜ਼ਿਲਪਾਹ, ਲੇਆਹ ਦੀ ਦਾਸੀ ਨੇ, ਯਅਕੋਬ ਲਈ ਦੂਜਾ ਪੁੱਤਰ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ਅਤੇ ਜੰਮਿਆ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ਜ਼ਿਲਪਾਹ ਨੇ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ਦਾਸੀ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ਲੇਆਹ ਦੀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ ਨੂੰ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਦੂਜਾ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ਯਅਕੋਬ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:56:09.644531508Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨੂੰ ਦਬਦਬਾ ਕੇ ਕਿਹਾ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਦਬਦਬਾ ਕੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:54:01.926270114Z",
+  "model": "glm-5.2"
+}

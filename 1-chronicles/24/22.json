@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਯਿਤਸਹਾਰੀਆਂ ਲਈ: ਸ਼ਲੋਮੋਤ; ਸ਼ਲੋਮੋਤ ਦੇ ਪੁੱਤਰਾਂ ਲਈ: ਯਾਖਤ।",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "ਯਿਤਸਹਾਰੀਆਂ ਲਈ"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ਸ਼ਲੋਮੋਤ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਲਈ"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ਸ਼ਲੋਮੋਤ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ਯਾਖਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:35.576690136Z",
+  "model": "glm-5.2"
+}

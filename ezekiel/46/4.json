@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 46:4",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਅਤੇ ਹੋਮ-ਭੇਟ ਜੋ ਨਸੀਆ ਯਾਹਵੇਹ ਲਈ ਸ਼ਬਾਤ ਦੇ ਦਿਨ ਕਰਵਾਏ — ਛੇ ਬੇਦਾਗ਼ ਮੇਮਣੇ, ਅਤੇ ਇੱਕ ਬੇਦਾਗ਼ ਰਾਮ।",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ਅਤੇ ਹੋਮ-ਭੇਟ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ਕਰਵਾਏ"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "ਨਸੀਆ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦੇ ਦਿਨ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ਸ਼ਬਾਤ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਮੇਮਣੇ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ਬੇਦਾਗ਼"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ਅਤੇ ਰਾਮ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ਬੇਦਾਗ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T00:04:04.708288683Z",
+  "model": "glm-5.2"
+}

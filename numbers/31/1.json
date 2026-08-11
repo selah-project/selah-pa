@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨਾਲ ਗੱਲ ਕੀਤੀ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:38:06.708829335Z",
+  "model": "glm-5.2"
+}

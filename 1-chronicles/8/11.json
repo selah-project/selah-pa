@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਖੂਸ਼ੀਮ ਤੋਂ ਉਸ ਨੇ ⟨את⟩ ਅਬੀਤੂਬ ਅਤੇ ⟨את⟩ ਏਲਪਾਲ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ਅਤੇ ਖੂਸ਼ੀਮ ਤੋਂ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅਬੀਤੂਬ"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "ਅਬੀਤੂਬ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਏਲਪਾਲ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ਏਲਪਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:58:20.917021393Z",
+  "model": "glm-5.2"
+}

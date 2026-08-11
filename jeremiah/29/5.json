@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਘਰ ਬਣਾਓ ਅਤੇ ਵਸੋ; ਅਤੇ ਬਾਗ਼ ਲਗਾਓ ਅਤੇ ⟨את⟩ ਉਹਨਾਂ ਦਾ ਫ਼ਲ ਖਾਓ।",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ਬਣਾਓ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ਅਤੇ ਵਸੋ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ਅਤੇ ਲਗਾਓ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ਬਾਗ਼"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ਅਤੇ ਖਾਓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹਨਾਂ ਦਾ ਫ਼ਲ"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ਉਹਨਾਂ ਦਾ ਫ਼ਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:27:33.154644580Z",
+  "model": "glm-5.2"
+}

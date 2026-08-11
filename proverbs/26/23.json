@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਟੁੱਟੀ ਮਿੱਟੀ ਦੇ ਭਾਂਡੇ ਉੱਤੇ ਜੜ੍ਹੋਂ ਚਾਂਦੀ, ਬਲਦੇਂ ਬੁੱਲ੍ਹ ਅਤੇ ਭੈੜਾ ਦਿਲ ⟨ਹਨ⟩।",
+  "tokens": [
+    {
+      "surface": "ਛסף",
+      "gloss": "ਚਾਂਦੀ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ਜੜ੍ਹੋਂ"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "ਜੜ੍ਹਾਈ ਹੋਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ਟੁੱਟੀ ਮਿੱਟੀ ਦੇ ਭਾਂਡੇ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ਬੁੱਲ੍ਹ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "ਬਲਦੇਂ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ਅਤੇ ਦਿਲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਭੈੜਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:38.389010476Z",
+  "model": "glm-5.2"
+}

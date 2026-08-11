@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 61,
+  "translation": "ਹੇ ਏਲੋਹੀਮ, ਮੇਰੀ ਪੁਕਾਰ ਸੁਣ, ਮੇਰੀ ਅਰਦਾਸ ਵੱਲ ਧਿਆਨ ਦੇ।",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ਮੇਰੀ ਪੁਕਾਰ"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ਧਿਆਨ ਦੇ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ਮੇਰੀ ਅਰਦਾਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:55:18.609107850Z",
+  "model": "glm-5.2"
+}

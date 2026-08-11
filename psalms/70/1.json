@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 70,
+  "translation": "⟨ਲਈ⟩ ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਦਾ, ਦਾਵਿਦ ਦਾ, ⟨ਲਈ⟩ ਯਾਦ ਕਰਨ ਦਾ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨ਲਈ⟩ ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਦਾ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "⟨ਲਈ⟩ ਯਾਦ ਕਰਨ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:56:59.591747566Z",
+  "model": "glm-5.2"
+}

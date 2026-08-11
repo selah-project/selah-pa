@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਗਿਆਨੀ ਦਾ ਦਿਲ ⟨ਉਸਦੇ⟩ ਸੱਜੇ ਪਾਸੇ ⟨ਹੈ⟩, ਅਤੇ ਮੂਰਖ ਦਾ ਦਿਲ ⟨ਉਸਦੇ⟩ ਖੱਬੇ ਪਾਸੇ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ਗਿਆਨੀ ਦਾ"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "⟨ਉਸਦੇ⟩ ਸੱਜੇ ਪਾਸੇ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ਅਤੇ ਦਿਲ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ਮੂਰਖ ਦਾ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "⟨ਉਸਦੇ⟩ ਖੱਬੇ ਪਾਸੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:14:59.744503366Z",
+  "model": "glm-5.2"
+}

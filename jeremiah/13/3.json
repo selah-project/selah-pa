@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਵਚਨ ਮੇਰੇ ਕੋਲ ਦੂਜੀ ਵਾਰ ਆਇਆ, ⟨ਕਹਿੰਦੇ ਹੋਏ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਵਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ਦੂਜੀ ਵਾਰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਹਿੰਦੇ ਹੋਏ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:20:26.667464425Z",
+  "model": "glm-5.2"
+}

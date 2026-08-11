@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਦਾਵਿਦ ਨੇ ⟨את⟩ ਤਸੀਓਨ ਦਾ ਗੜ੍ਹ ਫੜ ਲਿਆ — ਉਹੀ ਦਾਵਿਦ ਦਾ ਸ਼ਹਿਰ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ਅਤੇ ਫੜ ਲਿਆ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਵਿਦ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਤਸੀਓਨ ਦਾ ਗੜ੍ਹ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ਗੜ੍ਹ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ਤਸੀਓਨ ਦਾ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:09:26.172750319Z",
+  "model": "glm-5.2"
+}

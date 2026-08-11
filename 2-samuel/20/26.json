@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਵੀ ਇਰਾ ਯਾਇਰੀ ਦਾਊਦ ਲਈ ਕਾਹਿਨ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ਅਤੇ ਵੀ"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ਇਰਾ"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "ਯਾਇਰੀ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ਸੀ⟩"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ਕਾਹਿਨ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਊਦ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:15:28.184082138Z",
+  "model": "glm-5.2"
+}

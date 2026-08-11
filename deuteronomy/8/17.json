@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਤੂੰ ਆਪਣੇ ਦਿਲ ਵਿੱਚ ਕਹੇਂਗਾ, ਮੇਰੀ ਸ਼ਕਤੀ ਅਤੇ ਮੇਰੇ ਹੱਥ ਦੇ ਬਲ ਨੇ ਮੈਨੂੰ ⟨את⟩ ਇਹ ਧਨ ਦਿੱਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ਅਤੇ ਤੂੰ ਕਹੇਂਗਾ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ਆਪਣੇ ਦਿਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ਮੇਰੀ ਸ਼ਕਤੀ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ਅਤੇ ਬਲ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ਮੇਰੇ ਹੱਥ ਦੇ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਨੇ ਕੀਤਾ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਹ ਧਨ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ਧਨ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:12:14.094658177Z",
+  "model": "glm-5.2"
+}

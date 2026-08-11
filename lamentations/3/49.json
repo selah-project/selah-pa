@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਮੇਰੀ ਅੱਖ ਵਹਿੰਦੀ ਹੈ ਅਤੇ ਨਹੀਂ ਰੁਕਦੀ, ਰਾਹਤ ਦੇ ਨਾ ਹੋਣ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ਮੇਰੀ ਅੱਖ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ਵਹਿੰਦੀ ਹੈ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "ਰੁਕਦੀ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ਦੇ ਨਾ ਹੋਣ ਤੋਂ"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ਰਾਹਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:06:51.750114606Z",
+  "model": "glm-5.2"
+}

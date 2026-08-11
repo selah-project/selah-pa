@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਯਿਰਮਿਯਾਹੂ ਵੱਲ ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਹੋਇਆ, ⟨ਕਹਿੰਦੇ ਹੋਏ⟩:",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "⟨ਕਹਿੰਦੇ ਹੋਏ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:29:38.531309723Z",
+  "model": "glm-5.2"
+}

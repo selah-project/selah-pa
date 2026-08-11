@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬੇਤਸਰ, ਅਤੇ ਹੋਦ, ਅਤੇ ਸ਼ਾਮਾ, ਅਤੇ ਸ਼ਿਲਸ਼ਾ, ਅਤੇ ਯਿਤਰਾਨ, ਅਤੇ ਬੇਏਰਾ।",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ਬੇਤਸਰ"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ਅਤੇ ਹੋਦ"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "ਅਤੇ ਸ਼ਾਮਾ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ਅਤੇ ਸ਼ਿਲਸ਼ਾ"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ਅਤੇ ਯਿਤਰਾਨ"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "ਅਤੇ ਬੇਏਰਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:59:36.586770177Z",
+  "model": "glm-5.2"
+}

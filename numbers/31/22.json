@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਬਸ ⟨ਕੇਵਲ⟩ ⟨את⟩ ਸੋਨਾ, ⟨את⟩ ਚਾਂਦੀ, ⟨את⟩ ਪਿੱਤਲ, ⟨את⟩ ਲੋਹਾ, ⟨את⟩ ਟੀਨ ਅਤੇ ⟨את⟩ ਸਿਸਾ:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ਬਸ ⟨ਕੇਵਲ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸੋਨਾ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ਸੋਨਾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਚਾਂਦੀ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ਚਾਂਦੀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪਿੱਤਲ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ਪਿੱਤਲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਲੋਹਾ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ਲੋਹਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਟੀਨ"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ਟੀਨ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸਿਸਾ"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ਸਿਸਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:51.453165980Z",
+  "model": "glm-5.2"
+}

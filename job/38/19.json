@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 38,
+  "translation": "ਕਿੱਥੇ ਉਹ ਰਾਹ ਹੈ ਜਿੱਥੇ ਪ੍ਰਕਾਸ਼ ਵਸਦਾ ਹੈ? ਅਤੇ ਹਨੇਰ — ਉਸ ਦਾ ਥਾਂ ਕਿੱਥੇ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ਕਿੱਥੇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ਰਾਹ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ਵਸਦਾ ਹੈ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ਪ੍ਰਕਾਸ਼"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ਅਤੇ ਹਨੇਰ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ਕਿੱਥੇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਉਸ ਦਾ"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ਥਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:56:18.173375977Z",
+  "model": "glm-5.2"
+}

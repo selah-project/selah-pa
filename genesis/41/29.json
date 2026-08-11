@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 41,
+  "translation": "ਵੇਖੋ, ਸੱਤ ਸਾਲ ਆ ਰਹੇ ਹਨ — ਸਾਰੀ ਮਿਤਸਰਾਯਿਮ ਦੀ ਧਰਤੀ ਵਿੱਚ ਵੱਡੀ ਬਹੁਤਾਈ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "באות",
+      "gloss": "ਆ ਰਹੇ ਹਨ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਬਹੁਤਾਈ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡੀ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ਮਿਤਸਰਾਯਿਮ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:04:03.048940345Z",
+  "model": "glm-5.2"
+}

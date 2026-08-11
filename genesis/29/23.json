@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਸ਼ਾਮ ਹੋਈ, ਤਾਂ ਉਸ ਨੇ ਆਪਣੀ ਧੀ ਲੇਆਹ ਨੂੰ ਲਿਆ ਅਤੇ ਉਸ ਨੂੰ ਉਸ ਕੋਲ ਲਿਆਇਆ, ਅਤੇ ਉਹ ਉਸ ਕੋਲ ਆਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਈ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ਸ਼ਾਮ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ਤਾਂ ਉਸ ਨੇ ਲਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਲੇਆਹ ਨੂੰ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ਲੇਆਹ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ਆਪਣੀ ਧੀ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਲਿਆਇਆ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਕੋਲ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਉਹ ਆਇਆ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ਉਸ ਕੋਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:56:24.131804322Z",
+  "model": "glm-5.2"
+}

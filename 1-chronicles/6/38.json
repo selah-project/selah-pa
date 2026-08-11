@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਜ਼ਾਦੋਕ ਉਸ ਦਾ ਪੁੱਤਰ, ਅਖੀਮਾਸ ਉਸ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "ਜ਼ਾਦੋਕ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ਅਖੀਮਾਸ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:36.151192362Z",
+  "model": "glm-5.2"
+}

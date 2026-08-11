@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 140,
+  "translation": "ਮਹਿਫ਼ਲ-ਮੁਖੀ ਲਈ ⟨ਇਹ⟩ ਜ਼ਬੂਰ, ਦਾਵਿਦ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮਹਿਫ਼ਲ-ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:42:18.308281742Z",
+  "model": "glm-5.2"
+}

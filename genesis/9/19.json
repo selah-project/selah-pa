@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਏਹ ਤਿੰਨ ਨੋਆਖ਼ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩, ਅਤੇ ਇਹਨਾਂ ਤੋਂ ਸਾਰੀ ਧਰਤੀ ਫੈਲ ਗਈ।",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਏਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੋਆਖ਼"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ਅਤੇ ਇਹਨਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "ਫੈਲ ਗਈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:42.484641649Z",
+  "model": "glm-5.2"
+}

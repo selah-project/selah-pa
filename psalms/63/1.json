@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 63,
+  "translation": "ਦਾਵਿਦ ਦਾ ਜ਼ਬੂਰ, ਉਸ ਦੇ ਯਹੂਦਾਹ ਦੇ ਉੱਜੜ ਵਿੱਚ ਹੋਣ ਵੇਲੇ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ਉਸ ਦੇ ਹੋਣ ਵੇਲੇ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ਉੱਜੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:55:39.374455911Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਨਤਨਏਲ ਚੌਥਾ, ਰਦਾਈ ਪੰਜਵਾਂ,",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "ਨਤਨਏਲ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ਚੌਥਾ"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ਰਦਾਈ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ਪੰਜਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:08.303281528Z",
+  "model": "glm-5.2"
+}

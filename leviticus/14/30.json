@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ⟨ਉਹ⟩ ⟨את⟩ ਇੱਕ ਨੂੰ ਕਰੇਗਾ, ਤੋਤਿਆਂ ਵਿੱਚੋਂ ਜਾਂ ਕਬੂਤਰਾਂ ਦੇ ਬੱਚਿਆਂ ਵਿੱਚੋਂ, ਜਿੰਨਾ ਉਸ ਦਾ ਹੱਥ ਪਹੁੰਚੇ।",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ਅਤੇ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇੱਕ ਨੂੰ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ਇੱਕ ਨੂੰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ਤੋਤਿਆਂ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ਕਬੂਤਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ਜਿੰਨਾ"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ਪਹੁੰਚੇ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ਉਸ ਦਾ ਹੱਥ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:41.886994965Z",
+  "model": "glm-5.2"
+}

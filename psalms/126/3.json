@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 126,
+  "translation": "ਯਾਹਵੇਹ ਨੇ ਸਾਡੇ ਨਾਲ ਵੱਡੇ ਕੰਮ ਕੀਤੇ ਹਨ — ਅਸੀਂ ਖੁਸ਼ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "ਵੱਡੇ ਕੀਤੇ ਹਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ਕੰਮ ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ਸਾਡੇ ਨਾਲ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ਅਸੀਂ ਹਾਂ"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ਖੁਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T01:16:39.031230704Z",
+  "model": "glm-5.2"
+}

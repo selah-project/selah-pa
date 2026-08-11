@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ, ਆਪਣਾ ਮੂੰਹ ਸੀਦੋਨ ਵੱਲ ਰੱਖ, ਅਤੇ ਉਸ ਦੇ ਵਿਰੁੱਧ ਭਵਿੱਖਬਾਣੀ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ਰੱਖ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ਆਪਣਾ ਮੂੰਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ਸੀਦੋਨ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ਅਤੇ ਭਵਿੱਖਬਾਣੀ ਕਰ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ਉਸ ਦੇ ਵਿਰੁੱਧ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:54:56.870290624Z",
+  "model": "glm-5.2"
+}

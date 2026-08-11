@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਜੋ ਉਸ ਦੇ ਨੁਕਤੇ ਕੋਲ ਬਜ਼ਾਰ ਵਿੱਚੋਂ ਲੰਘਦਾ ⟨ਸੀ⟩, ਅਤੇ ਉਸ ਦੇ ਘਰ ਵੱਲ ਦੀ ਰਾਹ ਟੁਰ ਪਿਆ।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ਲੰਘਦਾ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ਬਜ਼ਾਰ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ਪנה",
+      "gloss": "ਉਸ ਦੇ ਨੁਕਤੇ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ਅਤੇ ਰਾਹ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ਉਸ ਦੇ ਘਰ ਵੱਲ ਦੀ"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "ਟੁਰ ਪਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:33.502900987Z",
+  "model": "glm-5.2"
+}

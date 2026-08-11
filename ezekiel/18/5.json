@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਇੱਕ ਮਨੁੱਖ ਜੇ ਕਿ ਧਰਮੀ ⟨ਹੋਵੇ⟩, ਅਤੇ ਕਰੇ ਮਿਆਰ ਅਤੇ ਧਾਰਮਿਕਤਾ —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ਅਤੇ ਇੱਕ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜੇ ਕਿ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ਅਤੇ ਕਰੇ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਮਿਆਰ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ਅਤੇ ਧਾਰਮਿਕਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:48:50.026197855Z",
+  "model": "glm-5.2"
+}

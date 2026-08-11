@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਸਰਦੀ ਦੇ ਕਾਰਨ ਆਲਸੀ ਵਾਹੁੰਦਾ ਨਹੀਂ, ਕਟਾਈ ਵੇਲੇ ਮੰਗਦਾ ਹੈ ਪਰ ਕੁਝ ਨਹੀਂ ਮਿਲਦਾ।",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "ਸਰਦੀ ਦੇ ਕਾਰਨ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ਆਲਸੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ਵਾਹੁੰਦਾ"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ਮੰਗਦਾ ਹੈ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ਕਟਾਈ ਵੇਲੇ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ਪਰ ਕੁਝ ਨਹੀਂ ਮਿਲਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:30:27.548862788Z",
+  "model": "glm-5.2"
+}

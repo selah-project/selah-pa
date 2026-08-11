@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਕਿਹਾ, ਸਦੋਮ ਅਤੇ ਅਮੋਰਾ ਦੀ ਚੀਕ ਬਹੁਤ ਹੈ, ਅਤੇ ਉਹਨਾਂ ਦਾ ਪਾਪ ਬਹੁਤ ਭਾਰੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "ਚੀਕ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ਸਦੋਮ"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ਅਤੇ ਅਮੋਰਾ ਦੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ਬਹੁਤ ਹੈ"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦਾ ਪਾਪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ਭਾਰੀ ਹੈ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:50:25.783375742Z",
+  "model": "glm-5.2"
+}

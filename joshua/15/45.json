@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਕਰੋਨ, ਉਸ ਦੇ ਨਗਰ ਅਤੇ ਉਸ ਦੇ ਪਿੰਡ;",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "ਅਕਰੋਨ"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਨਗਰ"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਪਿੰਡ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:54.350201845Z",
+  "model": "glm-5.2"
+}

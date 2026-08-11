@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਹਾਸ਼ੇਮ ⟨ਦੇ⟩ ਪੁੱਤਰ ਗੀਜ਼ੋਨੀ, ਯਹੋਨਾਤਾਨ ਸ਼ਾਗੇ ਦਾ ਪੁੱਤਰ ⟨ਦਾ⟩ ਹਾਰਾਰੀ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ਹਾਸ਼ੇਮ"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "ਗੀਜ਼ੋਨੀ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ਯਹੋਨਾਤਾਨ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ਸ਼ਾਗੇ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ਹਾਰਾਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:59.648724669Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਇਸ ਲਈ ਯਾਹਵੇਹ ਸੈਨਾਵਾਂ ਇੰਝ ਆਖਦਾ ਹੈ, ਕਿਉਂਜੋ ਤੁਸੀਂ ⟨את⟩ ਮੇਰੇ ਬਚਨ ਨਹੀਂ ਸੁਣੇ,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇੰਝ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਦਾ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ਸੈਨਾਵਾਂ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ਕਿਉਂਜੋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ਕਿ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ਤੁਸੀਂ ਸੁਣੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੇਰੇ ਬਚਨ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਮੇਰੇ ਬਚਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:24:51.875910571Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਉੱਜੀਏਲ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ — ਮੀਕਾ ਮੁਖੀ, ਅਤੇ ਯਿਸ਼ੀਯਾਹ ਦੂਜਾ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ਉੱਜੀਏਲ ਦੇ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ਮੀਕਾ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ਮੁਖੀ"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "ਅਤੇ ਯਿਸ਼ੀਯਾਹ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:10.950682534Z",
+  "model": "glm-5.2"
+}

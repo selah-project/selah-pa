@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਉੱਥੋਂ ਉਹ ਹਗੁਦਗਦਾਹ ਨੂੰ ਤੁਰ ਪਏ; ਅਤੇ ਹਗੁਦਗਦਾਹ ਤੋਂ ਯੋਤਬਾਤਾਹ ਨੂੰ, ਪਾਣੀ ਦੇ ਨਾਲਿਆਂ ਦੀ ਭੂਮੀ।",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ਉੱਥੋਂ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ਉਹ ਤੁਰ ਪਏ"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ਹਗੁਦਗਦਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ਅਤੇ ਤੋਂ"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ਹਗੁਦਗਦਾਹ"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "ਯੋਤਬਾਤਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਭੂਮੀ"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ਨਾਲਿਆਂ ਦੀ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:12:46.741677638Z",
+  "model": "glm-5.2"
+}

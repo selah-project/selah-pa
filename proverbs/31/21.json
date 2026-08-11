@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਆਪਣੇ ਘਰ ਵਾਸਤੇ ਬਰਫ਼ ਤੋਂ ਉਹ ਡਰਦੀ ਨਹੀਂ, ਕਿਉਂਕਿ ਉਸ ਦਾ ਸਾਰਾ ਘਰ ਲਾਲ ਬਸਤਰ ਪਾਏ ਹੋਏ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ਉਹ ਡਰਦੀ"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "ਆਪਣੇ ਘਰ ਵਾਸਤੇ"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "ਬਰਫ਼ ਤੋਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰਾ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ਉਸ ਦਾ ਘਰ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ਬਸਤਰ ਪਾਏ ਹੋਏ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਲਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:47.715258239Z",
+  "model": "glm-5.2"
+}

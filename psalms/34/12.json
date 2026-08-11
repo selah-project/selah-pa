@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਆਓ, ⟨ਹੇ⟩ ਪੁੱਤਰੋ, ਮੇਰੀ ਸੁਣੋ; ਮੈਂ ਤੁਹਾਨੂੰ ਯਾਹਵੇਹ ਦਾ ਭੈ ਸਿਖਾਵਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ਆਓ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਪੁੱਤਰੋ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੀ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ਭੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ਮੈਂ ਤੁਹਾਨੂੰ ... ਸਿਖਾਵਾਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:38:51.146311614Z",
+  "model": "glm-5.2"
+}

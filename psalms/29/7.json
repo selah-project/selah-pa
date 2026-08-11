@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਯਾਹਵੇਹ ਦਾ ਕੰਨ ਅੱਗ ਦੀਆਂ ਲਾਟਾਂ ਨੂੰ ਤੋੜਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ਕੰਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ਤੋੜਦਾ ਹੈ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ਲਾਟਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ ਦੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:35:32.877611543Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਕਲ ਬਾਹਰ ਪੁਕਾਰਦੀ ਹੈ; ਚੌਕਾਂ ਵਿੱਚ ਆਪਣੀ ਆਵਾਜ਼ ਦਿੰਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ਅਕਲ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ਬਾਹਰ"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ਪੁਕਾਰਦੀ ਹੈ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ਚੌਕਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ਦਿੰਦੀ ਹੈ"
+    },
+    {
+      "surface": "ਕੋਲ",
+      "gloss": "ਆਪਣੀ ਆਵਾਜ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:35.039034240Z",
+  "model": "glm-5.2"
+}

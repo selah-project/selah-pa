@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਸ਼ਮੂਏਲ ਨੇ ⟨את⟩ ਲਾਕੇ ਯਾਹਵੇਹ ਵੱਲ ਮਿਸਪਾ ਵਿਖੇ ਬੁਲਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ਅਤੇ ਬੁਲਾਇਆ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ਸ਼ਮੂਏਲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਲਾਕੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲਾਕੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ਮਿਸਪਾ ਵਿਖੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:54:39.565579006Z",
+  "model": "glm-5.2"
+}

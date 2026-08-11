@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਪਹਾੜ ਉੱਤੇ ਚੜ੍ਹਿਆ, ਅਤੇ ਬੱਦਲ ਨੇ ⟨את⟩ ਪਹਾੜ ਨੂੰ ਢੱਕ ਲਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ਅਤੇ ਚੜ੍ਹਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ਅਤੇ ਢੱਕ ਲਿਆ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ਬੱਦਲ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪਹਾੜ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ਪਹਾੜ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:32:35.148979995Z",
+  "model": "glm-5.2"
+}

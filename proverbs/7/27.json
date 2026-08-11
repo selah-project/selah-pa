@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸ਼ਿਓਲ ਦੇ ਰਾਹ ਉਸ ਦੇ ਘਰ ਵੱਲ ⟨ਜਾਂਦੇ ਹਨ⟩, ਮੌਤ ਦੇ ਕਮਰਿਆਂ ਵੱਲ ਉਤਰਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ਰਾਹ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਿਓਲ ਦੇ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ਉਸ ਦੇ ਘਰ ਵੱਲ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ਉਤਰਦੇ ਹਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ਕਮਰਿਆਂ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮੌਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:21.164470259Z",
+  "model": "glm-5.2"
+}

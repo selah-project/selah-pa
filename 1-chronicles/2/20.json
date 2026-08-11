@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਖ਼ੂਰ ਨੇ ⟨את⟩ ਊਰੀ ਨੂੰ ਪੈਦਾ ਕੀਤਾ, ਅਤੇ ਊਰੀ ਨੇ ⟨את⟩ ਬੇਤਸਾਲਏਲ ਨੂੰ ਪੈਦਾ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ਅਤੇ ਖ਼ੂਰ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਨੇ ਪੈਦਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਊਰੀ ਨੂੰ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ਊਰੀ"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ਅਤੇ ਊਰੀ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਨੇ ਪੈਦਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬੇਤਸਾਲਏਲ ਨੂੰ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ਬੇਤਸਾਲਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:28.136258802Z",
+  "model": "glm-5.2"
+}

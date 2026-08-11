@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਹਰ ਰਲਦਾ ਜੰਤੂ ⟨ਜੋ⟩ ਪੰਛੀ ⟨ਹੈ⟩ ⟨ਜੋ⟩ ਚਾਰ ਉੱਤੇ ਤੁਰਦਾ ⟨ਹੈ — ਉਹ⟩ ਤੁਹਾਡੇ ਲਈ ਘਿਰਣਾਯੋਗ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ਰਲਦਾ ਜੰਤੂ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ਪੰਛੀ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ਤੁਰਦਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ਘਿਰਣਾਯੋਗ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:32.016641793Z",
+  "model": "glm-5.2"
+}

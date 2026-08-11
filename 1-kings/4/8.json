@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਇਹ ਉਹਨਾਂ ਦੇ ਨਾਮ ਹਨ: ਬੇਨ-ਖੁਰ, ਏਫ਼ਰਾਇਮ ਦੇ ਪਹਾੜ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਨਾਮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੇਨ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ਖੁਰ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ਪਹਾੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ਏਫ਼ਰਾਇਮ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:20:50.294984373Z",
+  "model": "glm-5.2"
+}

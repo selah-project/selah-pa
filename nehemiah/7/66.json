@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸਾਰੀ ⟨ਸਭਾ⟩ ਇਕੱਠੀ ⟨ਸੀ⟩: ਚਾਰ ਰਬੋ, ਦੋ ਹਜ਼ਾਰ, ਤਿੰਨ ਸੌ, ਅਤੇ ਸਠ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "⟨ਸਭਾ⟩"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ਇਕੱਠੀ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ਰਬੋ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਦੋ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:46:44.607824404Z",
+  "model": "glm-5.2"
+}

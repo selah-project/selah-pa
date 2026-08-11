@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 132,
+  "translation": "ਆਪਣੇ ਦਾਸ ਦਾਊਦ ਦੇ ਖ਼ਾਤਰ ਆਪਣੇ ਮਸੀਹ ਦਾ ਚਿਹਰਾ ਮੋੜਣਾ ਨਾ।",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ਦੇ ਖ਼ਾਤਰ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਊਦ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ਆਪਣੇ ਦਾਸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ਮੋੜਨਾ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਦਾ ਚਿਹਰਾ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ਆਪਣੇ ਮਸੀਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:16:29.411213158Z",
+  "model": "glm-5.2"
+}

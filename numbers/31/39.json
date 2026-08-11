@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਖੋਤੇ ਤੀਹ ਹਜ਼ਾਰ ਪੰਜ ਸੌ, ਅਤੇ ਉਹਨਾਂ ਦਾ ਯਾਹਵੇਹ ਦਾ ਮਹਿਸੂਲ ਇੱਕ ਹਠਾਹ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ਅਤੇ ਖੋਤੇ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ਤੀਹ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦਾ ਮਹਿਸੂਲ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਹਠਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:43.381877927Z",
+  "model": "glm-5.2"
+}

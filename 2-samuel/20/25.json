@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਸ਼ੇਯਾ ⟨ਸੀ⟩ ਲੇਖਕ, ਅਤੇ ਸਦੋਕ ਅਤੇ ਅਬਯਾਤਰ ⟨ਸਨ⟩ ਕਹਿਨੀਮ;",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "ਅਤੇ ਸ਼ੇਯਾ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ਲੇਖਕ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ਅਤੇ ਸਦੋਕ"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ਅਤੇ ਅਬਯਾਤਰ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ਕਹਿਨੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:15:28.183782402Z",
+  "model": "glm-5.2"
+}

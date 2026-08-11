@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਸਾਰੀ ਕਾਹਲ ਨੇ ਹੋਰ ਸੱਤ ਦਿਨ ਮਨਾਉਣ ਲਈ ਸਲਾਹ ਕੀਤੀ, ਅਤੇ ਉਹਨਾਂ ਸੱਤ ਦਿਨ ਖ਼ੁਸ਼ੀ ਨਾਲ ਮਨਾਏ।",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "ਅਤੇ ਸਲਾਹ ਕੀਤੀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ਕਾਹਲ ਨੇ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ਮਨਾਉਣ ਲਈ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਮਨਾਏ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ਖ਼ੁਸ਼ੀ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:40:29.131600994Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਇਹ ⟨ਹੈ⟩ ਜੋ ਤੂੰ ਬਲੀ-ਵੇਦੀ ਉੱਤੇ ਕਰੇਂ: ਮੇਢਾਂ, ਇੱਕ ਸਾਲ ਦੇ ਬੱਚੇ, ਦੋ, ਰੋਜ਼ਾਨਾ, ਲਗਾਤਾਰ।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ਤੂੰ ਕਰੇਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ਬਲੀ-ਵੇਦੀ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਮੇਢਾਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚੇ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਇੱਕ ਸਾਲ ਦੇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ਰੋਜ਼ਾਨਾ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ਲਗਾਤਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:24:14.803370545Z",
+  "model": "glm-5.2"
+}

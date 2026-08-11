@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਸਾਰਾ ਬਸਰ ਵੇਖੇਗਾ ਕਿ ਮੈਂ, ਮੈਂ ਯਾਹਵੇਹ, ਇਸ ਨੂੰ ਬਾਲਿਆ ਹੈ; ਇਹ ਬੁੱਝੇਗੀ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ਅਤੇ ਵੇਖੇਗਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰਾ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ਬਸਰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਮੈਂ ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "ਇਸ ਨੂੰ ਬਾਲਿਆ ਹੈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ਬੁੱਝੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:50:58.096653403Z",
+  "model": "glm-5.2"
+}

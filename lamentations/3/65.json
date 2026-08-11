@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਤੂੰ ਉਹਨਾਂ ਨੂੰ ਹਿਰਦੇ ਦੀ ⟨ਓਟ⟩ ਦੇਵੇਂ, ਆਪਣੀ ਫ਼ਰਿਆਦ ਉਹਨਾਂ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ਤੂੰ ਦੇਵੇਂ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "⟨ਓਟ⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਹਿਰਦੇ ਦੀ"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "ਆਪਣੀ ਫ਼ਰਿਆਦ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:06:32.090848151Z",
+  "model": "glm-5.2"
+}

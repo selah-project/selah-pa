@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਹਾ-ਏਮੀਮ ਪਹਿਲਾਂ ਉੱਥੇ ਵਸਦੇ ਸਨ — ਇੱਕ ਵੱਡੀ, ਬਹੁਤ ਅਤੇ ਉੱਚੀ ਕੌਮ, ਅਨਾਕੀਮ ਵਾਂਗ।",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ਹਾ-ਏਮੀਮ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ਪਹਿਲਾਂ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ਵਸਦੇ ਸਨ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਇੱਕ ਕੌਮ"
+    },
+    {
+      "surface": "ਗדול",
+      "gloss": "ਵੱਡੀ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ਅਤੇ ਬਹੁਤ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ਅਤੇ ਉੱਚੀ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "ਅਨਾਕੀਮ ਵਾਂਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:52.709188681Z",
+  "model": "glm-5.2"
+}

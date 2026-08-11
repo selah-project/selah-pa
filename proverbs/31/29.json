@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਬਹੁਤ ਧੀਆਂ ਨੇ ਬਹਾਦਰੀ ਕੀਤੀ, ਪਰ ਤੂੰ ਸਾਰਿਆਂ ਤੋਂ ਉੱਚੀ ਚੜ੍ਹੀ ਹੈਂ।",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ ਨੇ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਕੀਤੀ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਬਹਾਦਰੀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਪਰ ਤੂੰ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ਚੜ੍ਹੀ ਹੈਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਤੋਂ ਉੱਚੀ"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "ਸਾਰਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:36:20.354596548Z",
+  "model": "glm-5.2"
+}

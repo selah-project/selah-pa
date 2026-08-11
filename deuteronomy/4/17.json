@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਕਿਸੇ ਵੀ ਬੀਥੂ ⟨ਦੀ⟩ ਤਬਨੀਤ, ਜੋ ਧਰਤੀ ਵਿੱਚ ਹੈ; ਕਿਸੇ ਵੀ ਖੰਭਾਂ ਵਾਲੀ ਚਿੜੀ ਦੀ ਤਬਨੀਤ, ਜੋ ਅਕਾਸ਼ ਵਿੱਚ ਉੱਡਦੀ ਹੈ —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ਤਬਨੀਤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕਿਸੇ ਵੀ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ਬੀਥੂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਧਰਤੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ਤਬਨੀਤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕਿਸੇ ਵੀ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ਚਿੜੀ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ਖੰਭਾਂ ਵਾਲੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "ਉੱਡਦੀ ਹੈ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ਅਕਾਸ਼ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:10:39.549304969Z",
+  "model": "glm-5.2"
+}

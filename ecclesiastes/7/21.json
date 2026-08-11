@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਵੀ ਸਾਰੇ ⟨ਉਹ⟩ ਬਚਨ ਜੋ ਬੋਲਣਗੇ, ਆਪਣੇ ਮਨ ਨੂੰ ⟨ਉਹਨਾਂ ਵੱਲ⟩ ਨਾ ਦੇਣਾ, ਕਿ ਨਾ ਸੁਣੇਂ ਆਪਣੇ ਨੌਕਰ ਨੂੰ ⟨את⟩ ਆਪਣੇ ਬਦਦੁਆ ਦੇਣ ਵਾਲੇ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ਬੋਲਣਗੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ਦੇਣਾ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ਆਪਣੇ ਮਨ ਨੂੰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ਸੁਣੇਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਆਪਣੇ ਨੌਕਰ ਨੂੰ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ਆਪਣੇ ਨੌਕਰ ਨੂੰ"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "ਆਪਣੇ ਬਦਦੁਆ ਦੇਣ ਵਾਲੇ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:07.947437970Z",
+  "model": "glm-5.2"
+}

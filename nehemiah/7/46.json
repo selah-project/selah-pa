@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਨਤੀਨੀਮ: ਤਸੀਹਾ ਦੇ ਪੁੱਤਰ, ਖ਼ਸੂਫ਼ਾ ਦੇ ਪੁੱਤਰ, ਤੱਬਾਓਤ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "ਨਤੀਨੀਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "ਤਸੀਹਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ਖ਼ਸੂਫ਼ਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ਤੱਬਾਓਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:41.924242923Z",
+  "model": "glm-5.2"
+}

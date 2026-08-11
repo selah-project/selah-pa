@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਸਿਰਫ਼ ਦੋ ਗੱਲਾਂ ਮੇਰੇ ਨਾਲ ਨਾ ਕਰ; ਤਦ ਮੈਂ ਤੇਰੇ ਮੂਹਰੇ ਨਹੀਂ ਲੁਕਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਦੋ ਗੱਲਾਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "ਕਰ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ਮੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ਤੇਰੇ ਮੂਹਰੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ਲੁਕਾਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:42:18.405345599Z",
+  "model": "glm-5.2"
+}

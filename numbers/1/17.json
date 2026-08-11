@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਅਤੇ ਅਹਰੋਨ ਨੇ ⟨את⟩ ਉਹ ਮਰਦ ਲਏ ਜਿਹੜੇ ਨਾਵਾਂ ਨਾਲ ਨਿਯੁਕਤ ਕੀਤੇ ਗਏ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ਅਤੇ ਲਏ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ਅਤੇ ਅਹਰੋਨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹ ਮਰਦ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ਉਹ ਮਰਦ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਹੜੇ"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ਨਿਯੁਕਤ ਕੀਤੇ ਗਏ ਸਨ"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ਨਾਵਾਂ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:46:35.480089311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਪਹਿਲਾ ਗੋਰਲਾ ਯਹੋਯਾਰੀਬ ਲਈ ਨਿਕਲਿਆ, ਦੂਜਾ ਯਦਾਯਾਹ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ਅਤੇ ਨਿਕਲਿਆ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ਗੋਰਲਾ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ਪਹਿਲਾ"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "ਯਹੋਯਾਰੀਬ ਲਈ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "ਯਦਾਯਾਹ ਲਈ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:12:21.624655381Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਯਿਹਲਲੇਲ ਦੇ ਪੁੱਤਰ — ਜ਼ਿਫ, ਅਤੇ ਜ਼ਿਫਾ, ਤਿਰਯਾ ਅਤੇ ਅਸ਼ਰਏਲ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "ਯਿਹਲਲੇਲ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ਜ਼ਿਫ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "ਅਤੇ ਜ਼ਿਫਾ"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "ਤਿਰਯਾ"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "ਅਤੇ ਅਸ਼ਰਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:21.395954990Z",
+  "model": "glm-5.2"
+}

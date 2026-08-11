@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਯਾਈਰ ਮਰ ਗਿਆ ਅਤੇ ਕਾਮੋਨ ਵਿਖੇ ਦਫ਼ਨਾਇਆ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਮਰ ਗਿਆ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ਯਾਈਰ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ਅਤੇ ਦਫ਼ਨਾਇਆ ਗਿਆ"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "ਕਾਮੋਨ ਵਿਖੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:44:12.740223053Z",
+  "model": "glm-5.2"
+}

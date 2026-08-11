@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਮਹਾਮਾਰੀ ਵਿੱਚ ਮਰਨ ਵਾਲੇ ਚੌਵੀ ਹਜ਼ਾਰ ਹੋਏ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ਹੋਏ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ਮਰਨ ਵਾਲੇ"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "ਮਹਾਮਾਰੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ਅਤੇ ਵੀਹ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:01.451098148Z",
+  "model": "glm-5.2"
+}

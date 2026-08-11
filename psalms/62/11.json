@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 62,
+  "translation": "ਦਬਕੇ ਵਿੱਚ ਭਰੋਸਾ ਨਾ ਕਰੋ, ਅਤੇ ਲੁੱਟ ਵਿੱਚ ਵਿਅਰਥ ਨਾ ਬਣੋ; ਜੇ ਦੌਲਤ ਵਧੇ ਤਾਂ ⟨ਉਸ ਉੱਤੇ⟩ ਚਿੱਤ ਨਾ ਲਾਓ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ਭਰੋਸਾ ਕਰੋ"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ਦਬਕੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "ਅਤੇ ਲੁੱਟ ਵਿੱਚ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "ਵਿਅਰਥ ਬਣੋ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਦੌਲਤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ਵਧੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "ਚਿੱਤ ਲਾਓ"
+    },
+    {
+      "surface": "לב",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T00:55:18.379686385Z",
+  "model": "glm-5.2"
+}

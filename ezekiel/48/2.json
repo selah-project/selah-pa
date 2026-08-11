@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਅਤੇ ਦਾਨ ਦੇ ਸਰਹੱਦ ਉੱਤੇ, ਪੂਰਬੀ ਪਾਸੇ ਤੋਂ ਸਮੁੰਦਰ ਦੇ ਪਾਸੇ ਤੱਕ — ਅਸ਼ੇਰ, ਇੱਕ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ... ਉੱਤੇ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ਸਰਹੱਦ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ ਦੇ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ਪਾਸੇ ਤੋਂ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ਪੂਰਬੀ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ਪਾਸੇ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ਸਮੁੰਦਰ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਅਸ਼ੇਰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:05:11.337347821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਤੂੰ ਨੇੜੇ ਹੈਂ, ਹੇ ਯਾਹਵੇਹ; ਅਤੇ ਤੇਰੇ ਸਾਰੇ ਮਿਤਜ਼ਵੋਤ ਸੱਚ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ਨੇੜੇ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਹੇ ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ਤੇਰੇ ਮਿਤਜ਼ਵੋਤ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ਸੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:13:41.757167661Z",
+  "model": "glm-5.2"
+}

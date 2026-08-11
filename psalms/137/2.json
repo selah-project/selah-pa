@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 137,
+  "translation": "ਉਸ ਦੇ ਵਿਚਕਾਰ ਦੇ ਬੂਹੇ ਉੱਤੇ ਅਸੀਂ ਆਪਣੇ ਕਿੰਨੋਰ ਟੰਗੇ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "ਬੂਹੇ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ਉਸ ਦੇ ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ਅਸੀਂ ਟੰਗੇ"
+    },
+    {
+      "surface": "כנרורתינו",
+      "gloss": "ਆਪਣੇ ਕਿੰਨੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:17:11.725331995Z",
+  "model": "glm-5.2"
+}

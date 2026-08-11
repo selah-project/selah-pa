@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 120,
+  "translation": "ਯਾਹਵੇਹ, ਝੂਠੇ ਬੁਲ੍ਹਿਆਂ ਤੋਂ, ਠੱਗੇ ਬਾਣੀ ਤੋਂ ਮੇਰੀ ਜਾਨ ਨੂੰ ਬਚਾ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "ਬਚਾ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ਮੇਰੀ ਜਾਨ"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "ਬੁਲ੍ਹਿਆਂ ਤੋਂ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ਝੂਠੇ"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "ਬਾਣੀ ਤੋਂ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ਠੱਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:46.281889067Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 47,
+  "translation": "ਅਤੇ ਪੱਛਮ ਪਾਸਾ — ਮਹਾਨ ਸਮੁੰਦਰ; ਸੀਮਾ ਤੋਂ ਲੈ ਕੇ ਖ਼ਮਾਤ ਦੇ ਦਾਖਲੇ ਦੇ ਸਾਹਮਣੇ ਤੱਕ; ਇਹ ਪੱਛਮ ਪਾਸਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "ਅਤੇ ਪਾਸਾ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ਪੱਛਮ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ਮਹਾਨ"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "ਸੀਮਾ ਤੋਂ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ਦਾਖਲੇ ਦੇ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ਖ਼ਮਾਤ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ਪਾਸਾ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ਪੱਛਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:04:43.400193311Z",
+  "model": "glm-5.2"
+}

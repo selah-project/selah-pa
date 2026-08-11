@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਇਹ ⟨ਹਨ⟩ ਉਹ ਬਚਨ ਜੋ ਯਾਹਵੇਹ ਨੇ ਯਿਸਰਾਏਲ ਅਤੇ ਯਹੂਦਾਹ ਬਾਰੇ ਬੋਲੇ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਨੇ ਬੋਲੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਬਾਰੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾਹ ਬਾਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:28:34.483314437Z",
+  "model": "glm-5.2"
+}

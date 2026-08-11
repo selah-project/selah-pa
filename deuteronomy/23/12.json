@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਸ਼ਾਮ ਢਲਣ ਵੇਲੇ ਉਹ ਪਾਣੀ ਨਾਲ ਇਸ਼ਨਾਨ ਕਰੇ, ਅਤੇ ਸੂਰਜ ਡੁੱਬਣ ਵੇਲੇ ਛਾਉਣੀ ਦੇ ਅੰਦਰ ਆ ਜਾਏ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ਅਤੇ ⟨ਹੋਵੇ⟩"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ਢਲਣ ਵੇਲੇ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਸ਼ਾਮ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ਇਸ਼ਨਾਨ ਕਰੇ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ਪਾਣੀ ਨਾਲ"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "ਅਤੇ ਆਉਣ ਵੇਲੇ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ਆ ਜਾਏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ਅੰਦਰ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ਛਾਉਣੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:32.349732144Z",
+  "model": "glm-5.2"
+}

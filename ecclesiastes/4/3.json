@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਉਹ ਦੋਹਾਂ ਤੋਂ ਚੰਗਾ ਹੈ ⟨את⟩ ਉਹ ਜੋ ਅਜੇ ਤੱਕ ਨਹੀਂ ਹੋਇਆ, ਜਿਸਨੇ ⟨את⟩ ਉਸ ਬੁਰੇ ਕੰਮ ਨੂੰ ਨਹੀਂ ਵੇਖਿਆ ਜੋ ਸੂਰਜ ਹੇਠਾਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ਅਤੇ ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ਉਹਨਾਂ ਦੋਹਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹ ਜੋ ਅਜੇ ਤੱਕ ਨਹੀਂ ਹੋਇਆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ਅਜੇ ਤੱਕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਹੋਇਆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸਨੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ਵੇਖਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਸ ਬੁਰੇ ਕੰਮ ਨੂੰ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ਬੁਰੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ਕੀਤਾ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠਾਂ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:44:12.039661459Z",
+  "model": "glm-5.2"
+}

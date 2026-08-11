@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਉਸ ਤੋਂ ਬਾਅਦ ਗੱਬਾਈ, ਸੱਲਾਈ — ਨੌ ਸੌ ਅਠਾਈਹ।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ਅਤੇ ਉਸ ਤੋਂ ਬਾਅਦ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ਗੱਬਾਈ"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "ਸੱਲਾਈ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ਨੌ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:05.784163669Z",
+  "model": "glm-5.2"
+}

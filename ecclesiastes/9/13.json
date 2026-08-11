@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਇਹ ਵੀ ਮੈਂ ਵੇਖਿਆ ਹੈ: ਸੂਰਜ ਹੇਠਾਂ ਬੁੱਧੀ, ਅਤੇ ਉਹ ਮੇਰੇ ਲਈ ਵੱਡੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ਮੈਂ ਵੇਖਿਆ ਹੈ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਬੁੱਧੀ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠਾਂ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ਅਤੇ ਵੱਡੀ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:12:48.911233869Z",
+  "model": "glm-5.2"
+}

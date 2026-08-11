@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਸਭ ਇੱਕ ਹੀ ਥਾਂ ਵੱਲ ਜਾਂਦੇ ਹਨ; ਸਭ ਧੂੜ ਤੋਂ ⟨ਪੈਦਾ ਹੋਏ⟩ ਸਨ, ਅਤੇ ਸਭ ਧੂੜ ਵੱਲ ਪਰਤਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ਜਾਂਦੇ ਹਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ਥਾਂ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ ਹੀ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ਧੂੜ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ਅਤੇ ਸਭ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ਪਰਤਦੇ ਹਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ਧੂੜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:10:58.740305170Z",
+  "model": "glm-5.2"
+}

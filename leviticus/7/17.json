@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਬਲੀਦਾਨ ਦੇ ਮਾਸ ਦਾ ਜੋ ਬਾਕੀ ਬਚੇ, ⟨ਉਹ⟩ ਤੀਜੇ ਦਿਨ ਅੱਗ ਵਿੱਚ ਸਾੜਿਆ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ਅਤੇ ਜੋ ਬਾਕੀ ਬਚੇ"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "ਮਾਸ ਦਾ"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "ਬਲੀਦਾਨ ਦੇ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ਤੀਜੇ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ਅੱਗ ਵਿੱਚ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ਸਾੜਿਆ ਜਾਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:33:19.988564236Z",
+  "model": "glm-5.2"
+}

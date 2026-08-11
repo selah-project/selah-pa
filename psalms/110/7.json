@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 110,
+  "translation": "ਰਾਹ ਵਿੱਚ ਇੱਕ ਨਾਲੇ ਤੋਂ ਉਹ ਪੀਏਗਾ; ਇਸ ਲਈ ⟨ਉਹ⟩ ਸਿਰ ਉੱਚਾ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ਇੱਕ ਨਾਲੇ ਤੋਂ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ਰਾਹ ਵਿੱਚ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ਉਹ ਪੀਏਗਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ਉੱਚਾ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ਸਿਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:10:45.990385625Z",
+  "model": "glm-5.2"
+}

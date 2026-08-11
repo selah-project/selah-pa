@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 49,
+  "translation": "ਪਰ ਇਸ ਤੋਂ ਬਾਅਦ ਮੈਂ ਆਮੋਨੀ ਬੱਚਿਆਂ ਦੀ ⟨את⟩ ਗ਼ੁਲਾਮੀ ਵਾਪਸ ਲਿਆਵਾਂਗਾ, ਯਾਹਵੇਹ ਦਾ ਮਸਲਾ।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ਪਰ ਇਸ ਤੋਂ ਬਾਅਦ"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ਮੈਂ ਵਾਪਸ ਲਿਆਵਾਂਗਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਗ਼ੁਲਾਮੀ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ਗ਼ੁਲਾਮੀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ਆਮੋਨੀ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ਦਾ ਮਸਲਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:37:33.780665147Z",
+  "model": "glm-5.2"
+}

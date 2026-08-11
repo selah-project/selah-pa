@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਤੇਰੇ ਏਲੋਹੀਮ ਸਾਨੂੰ ⟨את⟩ ਉਹ ਰਾਹ ਜਿਸ ਵਿੱਚ ਅਸੀਂ ਚੱਲੀਏ ਅਤੇ ⟨את⟩ ਉਹ ਗੱਲ ਜੋ ਅਸੀਂ ਕਰੀਏ, ਦੱਸੇ।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ਅਤੇ ਦੱਸੇ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਨੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਤੇਰੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹ ਰਾਹ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ਰਾਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ਅਸੀਂ ਚੱਲੀਏ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਉਹ ਗੱਲ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਗੱਲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ਅਸੀਂ ਕਰੀਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:34:29.370271842Z",
+  "model": "glm-5.2"
+}

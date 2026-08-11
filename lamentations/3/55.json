@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਮੈਂ ਤੇਰਾ ਨਾਮ ਪੁਕਾਰਿਆ, ਹੇ ਯਾਹਵੇਹ, ਸਭ ਤੋਂ ਹੇਠਲੇ ਖੂਹ ਵਿੱਚੋਂ।",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ਮੈਂ ਪੁਕਾਰਿਆ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ਤੇਰਾ ਨਾਮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਹੇ ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ਖੂਹ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ਸਭ ਤੋਂ ਹੇਠਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:44.910433513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਉਹਨਾਂ ਦਾ ਤੀਰ-ਕੇਸ ਇੱਕ ਖੁੱਲ੍ਹੀ ਕਬਰ ਵਾਂਗ ⟨ਹੈ⟩, ਉਹ ਸਾਰੇ ਸੂਰਮੇ ⟨ਹਨ⟩।",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "ਉਹਨਾਂ ਦਾ ਤੀਰ-ਕੇਸ"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "ਕਬਰ ਵਾਂਗ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ਖੁੱਲ੍ਹੀ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ਉਹ ਸਾਰੇ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "ਸੂਰਮੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:16:24.784588511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਜੀ ਹਾਂ, ਜੇ ਤੂੰ ਸਮਝਦਾਰੀ ਨੂੰ ਪੁਕਾਰੇਂ, ਸਮਝ ਲਈ ਆਪਣੀ ਆਵਾਜ਼ ਦੇਵੇਂ —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਜੀ ਹਾਂ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ਸਮਝਦਾਰੀ ਨੂੰ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ਤੂੰ ਪੁਕਾਰੇਂ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ਸਮਝ ਲਈ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ਦੇਵੇਂ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ਆਪਣੀ ਆਵਾਜ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T01:21:11.416111903Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਕਾਲੇਬ ਦੀ ਪੀਲਗਸ਼ ਮਾਅਖਾ ਨੇ ਸ਼ੇਬੇਰ ਅਤੇ ⟨את⟩ ਤਿਰਖ਼ਨਾ ਨੂੰ ਜਨਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ਪੀਲਗਸ਼"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ਕਾਲੇਬ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ਮਾਅਖਾ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ਜਨਮਿਆ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ਸ਼ੇਬੇਰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਤਿਰਖ਼ਨਾ ਨੂੰ"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ਤਿਰਖ਼ਨਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:49.030787393Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅੱਜ ਤੁਸੀਂ ਨਿਕਲ ਰਹੇ ਹੋ, ਆਬੀਵ ਦੇ ਮਹੀਨੇ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ਅੱਜ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ਤੁਸੀਂ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ਨਿਕਲ ਰਹੇ ਹੋ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ਮਹੀਨੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ਆਬੀਵ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:16:21.368443402Z",
+  "model": "glm-5.2"
+}

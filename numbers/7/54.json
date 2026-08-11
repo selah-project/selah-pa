@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅੱਠਵੇਂ ਦਿਨ — ਮਨੱਸ਼ੇ ਦੇ ਬੇਟਿਆਂ ਦਾ ਨਸੀਂ, ਗਮਲੀਏਲ ਬੇਟਾ ਪਦਾਹ-ਤਸੂਰ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ਅੱਠਵੇਂ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਂ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਬੇਟਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ਮਨੱਸ਼ੇ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ਗਮਲੀਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੇਟਾ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ਪਦਾਹ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ਤਸੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:50:00.961562274Z",
+  "model": "glm-5.2"
+}

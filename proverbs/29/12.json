@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਇੱਕ ਹਾਕਮ ਜੋ ਝੂਠੀ ਗੱਲ ਸੁਣਦਾ ਹੈ — ਉਸ ਦੇ ਸਾਰੇ ਨੌਕਰ ਦੁਸ਼ਟ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "ਇੱਕ ਹਾਕਮ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "ਜੋ ਸੁਣਦਾ ਹੈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ਉੱਤੇ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਗੱਲ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ਝੂਠੀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਉਸ ਦੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ਨੌਕਰ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:34:32.789289277Z",
+  "model": "glm-5.2"
+}

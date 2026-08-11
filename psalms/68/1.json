@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 68,
+  "translation": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ, ਦਾਵਿਦ ਦਾ, ⟨ਇਕ⟩ ਜ਼ਬੂਰ, ਗੀਤ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ਗੀਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:56:12.957522128Z",
+  "model": "glm-5.2"
+}

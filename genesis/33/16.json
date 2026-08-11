@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਉਸੇ ਦਿਨ ਏਸਾਵ ਆਪਣੇ ਰਸਤੇ ਸ਼ੇਈਰ ਵੱਲ ਮੁੜ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ਅਤੇ ਮੁੜ ਗਿਆ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸੇ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ਆਪਣੇ ਰਸਤੇ"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "ਸ਼ੇਈਰ ਵੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:59:38.123075414Z",
+  "model": "glm-5.2"
+}

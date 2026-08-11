@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਤਾਂ ਸ਼ਲੋਮੋਹ ਦਾ ਰਾਜਾ ਸਾਰੇ ਯਿਸਰਾਏਲ ਉੱਤੇ ਰਾਜਾ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਤਾਂ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਦਾ ਰਾਜਾ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:21:03.688593295Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਖੋਲ੍ਹਿਆ ⟨ਹੈ⟩ ਸਾਡੇ ਉੱਤੇ ਉਹਨਾਂ ਦੇ ਮੂੰਹ ਨੂੰ, ਸਾਡੇ ਸਾਰੇ ਵੈਰੀਆਂ ਨੇ।",
+  "tokens": [
+    {
+      "surface": "פָּצוּ",
+      "gloss": "ਖੋਲ੍ਹਿਆ"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "ਸਾਡੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "פִּיהֶם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਮੂੰਹ ਨੂੰ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אֹיְבֵינוּ",
+      "gloss": "ਸਾਡੇ ਵੈਰੀਆਂ ਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:06:38.190244516Z",
+  "model": "glm-5.2"
+}

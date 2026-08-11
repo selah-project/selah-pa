@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਧਰਮੀਆਂ ਦਾ ਚਾਨਣ ⟨ਖੁਸ਼ੀ ਮਨਾਉਂਦਾ ਹੈ⟩, ਪਰ ਦੁਸ਼ਟਾਂ ਦਾ ਦੀਵਾ ਬੁਝ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ਚਾਨਣ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ਧਰਮੀਆਂ ਦਾ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ਖੁਸ਼ੀ ਮਨਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ਪਰ ਦੀਵਾ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦਾ"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ਬੁਝ ਜਾਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:26:00.854169672Z",
+  "model": "glm-5.2"
+}

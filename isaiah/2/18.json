@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ⟨ਉਹ⟩ ਮੂਰਤੀਆਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਲੁਪਤ ਹੋ ਜਾਣਗੀਆਂ।",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "ਅਤੇ ਮੂਰਤੀਆਂ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ਪੂਰੀ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ਲੁਪਤ ਹੋ ਜਾਣਗੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:46:50.558387763Z",
+  "model": "glm-5.2"
+}

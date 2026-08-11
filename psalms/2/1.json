@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਕਿਉਂ ਗੌਣਾਂ ⟨ਨੇ⟩ ਖਹਿਰੋਲਾ ਮਚਾਇਆ, ਅਤੇ ਕੌਮਾਂ ਵਿਅਰਥ ਘੋਲ ਘਪਿਆਂ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ਖਹਿਰੋਲਾ ਮਚਾਇਆ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ਗੌਣਾਂ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ਅਤੇ ਕੌਮਾਂ"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ਘੋਲ ਘਪਿਆਂ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ਵਿਅਰਥ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:27:52.347068798Z",
+  "model": "glm-5.2"
+}

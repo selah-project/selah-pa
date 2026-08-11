@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤੁਸੀਂ ਵੀ, ਤੁਸੀਂ ਕੂਸ਼ੀ — ਮੇਰੀ ਤਲਵਾਰ ਦੇ ਵਿੰਨ੍ਹੇ ਹੋਏ — ਉਹ ਹੋ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ਤੁਸੀਂ"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "ਤੁਸੀਂ ਕੂਸ਼ੀ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ਵਿੰਨ੍ਹੇ ਹੋਏ"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ਮੇਰੀ ਤਲਵਾਰ ਦੇ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ ਹੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:20:25.580074350Z",
+  "model": "glm-5.2"
+}

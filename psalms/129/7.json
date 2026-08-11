@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 129,
+  "translation": "ਜਿਸ ਨਾਲ ਵਾਢੂ ਦਾ ਹੱਥ ਨਹੀਂ ਭਰਦਾ, ਨਾ ਹੀ ਗੱਦੇ ਵਾਲੇ ਦੀ ਝੋਲੀ ⟨ਭਰਦੀ⟩।",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ਜਿਸ ਨਾਲ ਨਹੀਂ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ਭਰਦਾ"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ਉਸ ਦਾ ਹੱਥ"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "ਵਾਢੂ"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ਅਤੇ ਉਸ ਦੀ ਝੋਲੀ"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ਗੱਦੇ ਵਾਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:51.953653529Z",
+  "model": "glm-5.2"
+}

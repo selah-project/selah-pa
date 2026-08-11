@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਵੇਖੋ, ਇਹ ਮੈਂ ਲੱਭਿਆ ਹੈ — ਕਹਿਲੇਤ ਆਖਦਾ ਹੈ — ਇੱਕ ਤੋਂ ਇੱਕ ਤੱਕ, ਹਿਸਾਬ ਲੱਭਣ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ਮੈਂ ਲੱਭਿਆ ਹੈ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ਆਖਦਾ ਹੈ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ਕਹਿਲੇਤ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ਤੋਂ ਇੱਕ ਤੱਕ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ਲੱਭਣ ਲਈ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ਹਿਸਾਬ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:27.266915182Z",
+  "model": "glm-5.2"
+}

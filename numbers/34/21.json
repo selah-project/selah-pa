@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਬਿਨ੍ਯਾਮੀਨ ਦੇ ਗੋਤ ਲਈ — ਕਿਸਲੋਨ ਦਾ ਪੁੱਤਰ ਏਲੀਦਾਦ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਗੋਤ ਲਈ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ਬਿਨ੍ਯਾਮੀਨ ਦੇ"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ਏਲੀਦਾਦ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "ਕਿਸਲੋਨ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:58.375136119Z",
+  "model": "glm-5.2"
+}

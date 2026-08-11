@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਏਨੋਸ਼ ਦੇ ਸਾਰੇ ਦਿਨ ਪੰਜ ਸਾਲ ਅਤੇ ਨੌਂ ਸੌ ਸਾਲ ਹੋਏ, ਅਤੇ ਉਹ ਮਰ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ-ਹੋਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਏਨੋਸ਼ ਦੇ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ਅਤੇ-ਨੌਂ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ-ਮਰ ਗਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:13.788308016Z",
+  "model": "glm-5.2"
+}

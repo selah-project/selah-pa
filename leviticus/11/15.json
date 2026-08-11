@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "⟨את⟩ ਸਾਰੇ ਕਾਂ ⟨ਆਪਣੀ⟩ ਪ੍ਰਜਾਤੀ ਅਨੁਸਾਰ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਕਾਂ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ਪ੍ਰਜਾਤੀ ਅਨੁਸਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:34:37.622370298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਹਰ ਉਹ ਖੁੱਲ੍ਹਾ ਬਰਤਨ ਜਿਸ ਉੱਤੇ ਕੋਈ ਢੱਕਣ-ਫੜ੍ਹਣੀ ਬੰਨ੍ਹੀ ਹੋਈ ਨਾ ਹੋਵੇ, ਉਹ ਅਸ਼ੁੱਧ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਹਰ ਉਹ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ਬਰਤਨ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ਖੁੱਲ੍ਹਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਾ ਹੋਵੇ"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "ਢੱਕਣ-ਫੜ੍ਹਣੀ"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ਬੰਨ੍ਹੀ ਹੋਈ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ਅਸ਼ੁੱਧ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:10.893858885Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਦਹਾੜਦਾ ਸ਼ੇਰ ਅਤੇ ਭੁੱਖਾ ਰਿੱਛ — ਗਰੀਬ ਲੋਕਾਂ ਉੱਤੇ ਰਾਜ ਕਰਨ ਵਾਲਾ ਦੁਸ਼ਟ ⟨ਇਸੇ ਤਰ੍ਹਾਂ ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "ਸ਼ੇਰ"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ਦਹਾੜਦਾ"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "ਅਤੇ ਰਿੱਛ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ਭੁੱਖਾ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ਰਾਜ ਕਰਦਾ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ਦੁਸ਼ਟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਲੋਕਾਂ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ਗਰੀਬ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:23.499510196Z",
+  "model": "glm-5.2"
+}

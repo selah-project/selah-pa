@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ⟨את⟩ ਓਫੀਰ, ਅਤੇ ⟨את⟩ ਖਵੀਲਾਹ, ਅਤੇ ⟨את⟩ ਯੋਵਾਵ; ਇਹ ਸਾਰੇ ਯੋਕਤਾਨ ਦੇ ਪੁੱਤਰ ਸਨ ‖",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਓਫੀਰ"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ਓਫੀਰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਖਵੀਲਾਹ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ਖਵੀਲਾਹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਯੋਵਾਵ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ਯੋਵਾਵ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ਯੋਕਤਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:35.555756644Z",
+  "model": "glm-5.2"
+}

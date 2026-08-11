@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਉਹ ਦਿਨ ਹਨੇਰਾ ਹੋਵੇ; ਏਲੋਆਹ ਉਸ ਨੂੰ ਉੱਪਰੋਂ ਨਾ ਲੱਭੇ, ਅਤੇ ਨਾ ਉਸ ਉੱਤੇ ਪ੍ਰਕਾਸ ਚਮਕੇ।",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ਉਹ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ਹਨੇਰਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "ਉਸ ਨੂੰ ਲੱਭੇ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ਏਲੋਆਹ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ਉੱਪਰੋਂ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "ਚਮਕੇ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "ਪ੍ਰਕਾਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:37:19.614828865Z",
+  "model": "glm-5.2"
+}

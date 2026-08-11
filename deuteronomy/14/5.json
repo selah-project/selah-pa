@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਹਿਰਣ ਅਤੇ ਛੋਹੇ ਅਤੇ ਯਖਮੂਰ ਅਤੇ ਅੱਕੋ ਅਤੇ ਦੀਸ਼ੋਨ ਅਤੇ ਤਓ ਅਤੇ ਜ਼ਾਮਰ।",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ਹਿਰਣ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ਅਤੇ ਛੋਹੇ"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ਅਤੇ ਯਖਮੂਰ"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ਅਤੇ ਅੱਕੋ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ਅਤੇ ਦੀਸ਼ੋਨ"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ਅਤੇ ਤਓ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ਅਤੇ ਜ਼ਾਮਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:15:45.550880624Z",
+  "model": "glm-5.2"
+}

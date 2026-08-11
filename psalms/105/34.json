@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 105,
+  "translation": "ਉਸ ਨੇ ਕਿਹਾ, ਅਤੇ ਟੱਡੂ ਆ ਗਏ, ਅਤੇ ਫ਼ਾਹੀਆਂ, ਅਤੇ ਕੋਈ ਗਿਣਤੀ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆ ਗਏ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ਟੱਡੂ"
+    },
+    {
+      "surface": "ולק",
+      "gloss": "ਅਤੇ ਫ਼ਾਹੀਆਂ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ਅਤੇ ਕੋਈ ਨਹੀਂ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ਗਿਣਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:08:34.570759467Z",
+  "model": "glm-5.2"
+}

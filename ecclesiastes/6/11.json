@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਕਿਉਂਕਿ ਬਹੁਤ ਸਾਰੀਆਂ ਗੱਲਾਂ ਹਨ ਜੋ ਹੇਬਲ ਨੂੰ ਵਧਾਉਂਦੀਆਂ ਹਨ; ਮਨੁੱਖ ਲਈ ਵਾਧੂ ਕੀ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ਹਨ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ਗੱਲਾਂ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ਬਹੁਤ ਸਾਰੀਆਂ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ਜੋ ਵਧਾਉਂਦੀਆਂ ਹਨ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ਹੇਬਲ ਨੂੰ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ਵਾਧੂ"
+    },
+    {
+      "surface": "ਲאדם",
+      "gloss": "ਮਨੁੱਖ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:52.211217550Z",
+  "model": "glm-5.2"
+}

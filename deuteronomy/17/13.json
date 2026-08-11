@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਸਾਰਾ ਲੋਕ ਸੁਣੇਗਾ ਅਤੇ ਡਰੇਗਾ, ਅਤੇ ਹੋਰ ਘਮੰਡ ਨਹੀਂ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰਾ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ਸੁਣੇਗਾ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ਅਤੇ ਡਰੇਗਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ਘਮੰਡ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:55.686247358Z",
+  "model": "glm-5.2"
+}

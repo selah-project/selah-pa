@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਖ਼ਤਸ੍ਰੋਨ, ਉਸ ਤੋਂ ਖ਼ਤਸ੍ਰੋਨੀ ਕੁਨਬਾ; ਕ੍ਰਮੀ, ਉਸ ਤੋਂ ਕ੍ਰਮੀ ਕੁਨਬਾ।",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "ਖ਼ਤਸ੍ਰੋਨ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਨਬਾ"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ਖ਼ਤਸ੍ਰੋਨੀ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ਕ੍ਰਮੀ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਨਬਾ"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "ਕ੍ਰਮੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:08.978771374Z",
+  "model": "glm-5.2"
+}

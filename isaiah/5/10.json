@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਕਿਉਂਕਿ ਦਸ ਜੋੜੇ ਦਾਖ਼-ਬਾਗ਼ਾਂ ਦੇ ਇੱਕ ਬਤ ਪੈਦਾ ਕਰਨਗੇ, ਅਤੇ ਇੱਕ ਹੋਮਰ ਬੀਜ ਇੱਕ ਏਫ਼ਾ ਪੈਦਾ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "ਜੋੜੇ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ਦਾਖ਼-ਬਾਗ਼"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ਪੈਦਾ ਕਰਨਗੇ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਬਤ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ਅਤੇ ਬੀਜ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ਹੋਮਰ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ਪੈਦਾ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ਏਫ਼ਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:50:03.190048842Z",
+  "model": "glm-5.2"
+}

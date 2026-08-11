@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਇਸ ਲਈ ਟਾਬਰ ਬੰਨ੍ਹ ਲਓ, ਵਿਲਕ ਅਤੇ ਹਾਹਾਕਾਰ ਕਰੋ; ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਦਾ ਭੜਕਿਆ ਕ੍ਰੋਧ ਸਾਡੇ ਤੋਂ ਵਾਪਸ ਨਹੀਂ ਮੁੜਿਆ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਤੇ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ਬੰਨ੍ਹ ਲਓ"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ਟਾਬਰ"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "ਵਿਲਕ"
+    },
+    {
+      "surface": "והילילו",
+      "gloss": "ਅਤੇ ਹਾਹਾਕਾਰ ਕਰੋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ਮੁੜਿਆ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ਭੜਕਿਆ ਹੋਇਆ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ਕ੍ਰੋਧ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ਸਾਡੇ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:15:29.202225850Z",
+  "model": "glm-5.2"
+}

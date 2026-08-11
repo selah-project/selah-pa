@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਤੇਰੇ ਕੋਲ ਤੇਰੇ ਘਰ ਵਿੱਚ ਈਫ਼ਾ ਅਤੇ ਈਫ਼ਾ ਨਾ ਹੋਵੇ, ਵੱਡੀ ਅਤੇ ਛੋਟੀ।",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "ਤੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "בְּבֵיתְךָ֖",
+      "gloss": "ਤੇਰੇ ਘਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "ਈਫ਼ਾ"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "ਅਤੇ ਈਫ਼ਾ"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "ਵੱਡੀ"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "ਅਤੇ ਛੋਟੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:21.040731441Z",
+  "model": "glm-5.2"
+}

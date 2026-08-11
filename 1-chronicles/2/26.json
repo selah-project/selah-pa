@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਯਰਹਮਏਲ ਦੀ ⟨ਲਈ⟩ ਇੱਕ ਹੋਰ ਇਸਤਰੀ ⟨ਸੀ⟩, ਅਤੇ ਉਸ ਦਾ ਨਾਂ ਅਤਾਰਾ ⟨ਸੀ⟩ — ਉਹ ਓਨਾਮ ਦੀ ਮਾਂ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ਅਤੇ ... ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇਸਤਰੀ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "ਯਰਹਮਏਲ ਦੀ ⟨ਲਈ⟩"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਨਾਂ"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "ਅਤਾਰਾ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਮਾਂ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ਓਨਾਮ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:00.927110999Z",
+  "model": "glm-5.2"
+}

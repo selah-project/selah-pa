@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਉਹ ਤਿੰਨ ਸਾਲ ਬੈਠੇ, ਅਰਾਮ ਅਤੇ ਯਿਸਰਾਏਲ ਵਿੱਚ ਕੋਈ ਜੰਗ ਨਹੋਂ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ਅਤੇ ਉਹ ਬੈਠੇ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਕੋਈ … ਨਹੋਂ ਸੀ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਜੰਗ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ਅਰਾਮ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ਅਤੇ … ਵਿੱਚ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:33:32.379260912Z",
+  "model": "glm-5.2"
+}

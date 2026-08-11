@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਧਰਮੀ ⟨ਉਹ⟩ ਧਰਤੀ ਦੇ ਵਾਰਸ ਹੋਣਗੇ, ਅਤੇ ਉਸ ਉੱਤੇ ਸਦੀਵ ਵਸਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "ਧਰਮੀ"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ਵਾਰਸ ਹੋਣਗੇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "ਅਤੇ ਵਸਣਗੇ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ਸਦੀਵ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:43:06.179493643Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਤਸੇਲੇਕ ਹਅੰਮੋਨੀ, ਨਖਰਾਈ ਹਬੇਰੋਤੀ — ਤਸਰੂਯਾਹ ਦੇ ਪੁੱਤਰ ਯੋਆਬ ਦੇ ਸੰਦ-ਭਾਰੀ —",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "ਤਸੇਲੇਕ"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "ਹਅੰਮੋਨੀ"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "ਨਖਰਾਈ"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "ਹਬੇਰੋਤੀ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ਭਾਰੀ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ਸੰਦ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ਯੋਆਬ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ਤਸਰੂਯਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:10.616367682Z",
+  "model": "glm-5.2"
+}

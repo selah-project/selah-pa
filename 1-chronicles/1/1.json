@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਆਦਮ, ਸ਼ੇਤ, ਏਨੋਸ਼।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ਆਦਮ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ਸ਼ੇਤ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਏਨੋਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:07.444292989Z",
+  "model": "glm-5.2"
+}

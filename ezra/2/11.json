@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਬੇਬਾਈ ਦੇ ਪੁੱਤਰ, ਛੇ ਸੌ ਵੀਹ ਅਤੇ ਤਿੰਨ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ਬੇਬਾਈ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ਅਤੇ ਤਿੰਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:03.733171783Z",
+  "model": "glm-5.2"
+}

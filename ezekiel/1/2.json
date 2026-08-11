@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਮਹੀਨੇ ਦੇ ਪੰਜਵੇਂ ⟨ਦਿਨ⟩ —ਉਹੀ ਪੰਜਵਾਂ ਸਾਲ ਹੈ ਮਲਕ ਯੋਯਾਖੀਨ ਦੀ ਗ਼ੁਲਾਮੀ ਦਾ।",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "ਪੰਜਵੇਂ ⟨ਦਿਨ⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ਮਹੀਨੇ ਦੇ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਉਹੀ … ਹੈ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "ਪੰਜਵਾਂ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ਗ਼ੁਲਾਮੀ ਦਾ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਮਲਕ"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "ਯੋਯਾਖੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:41:30.132877004Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਉਸ ਦਿਨ, ਮਹਿਲ ਸ਼ੂਸ਼ਨ ਵਿੱਚ ਮਾਰੇ ਗਏ ਲੋਕਾਂ ਦੀ ਗਿਣਤੀ ਰਾਜੇ ਦੇ ਸਾਹਮਣੇ ਆਈ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਈ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ਗਿਣਤੀ"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "ਮਾਰੇ ਗਏ ਲੋਕਾਂ ਦੀ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ਸ਼ੂਸ਼ਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ਮਹਿਲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:20:25.065164212Z",
+  "model": "glm-5.2"
+}

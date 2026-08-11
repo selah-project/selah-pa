@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਉਹ ⟨ਸੋਨਾ⟩, ⟨ਨੀਲਾ⟩, ⟨ਅਰਗਮਨ⟩, ⟨ਕਿਰਮਚੀ ਲਾਲ⟩ ਅਤੇ ⟨ਬਰੀਕ ਸਣ⟩ ਲੈਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ਅਤੇ ਉਹ"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ਲੈਣਗੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸੋਨਾ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ਸੋਨਾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਨੀਲਾ"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ਨੀਲਾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਰਗਮਨ"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ਅਰਗਮਨ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਕਿਰਮਚੀ ਲਾਲ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ਕਿਰਮਚੀ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਲਾਲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਬਰੀਕ ਸਣ"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ਬਰੀਕ ਸਣ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:23:18.719846441Z",
+  "model": "glm-5.2"
+}

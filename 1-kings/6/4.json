@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਘਰ ਲਈ ਝਰੋਖੇ ਬਣਾਏ — ਤਿੱਖੇ-ਧਾਰੀਦਾਰ ਅਤੇ ਬੰਦ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਬਣਾਏ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ਘਰ ਲਈ"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "ਝਰੋਖੇ"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "ਤਿੱਖੇ-ਧਾਰੀਦਾਰ"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "ਬੰਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:22:55.700350394Z",
+  "model": "glm-5.2"
+}

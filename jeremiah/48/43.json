@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਸਹਿਮ, ਅਤੇ ਗੜ੍ਹਾ, ਅਤੇ ਫ਼ਾਹ ਤੇਰੇ ਉੱਤੇ ਹੈ, ਹੇ ਮੋਆਬ ਦੇ ਵਾਸੀ, ਯਾਹਵੇਹ ਦਾ ਕਥਨ।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ਸਹਿਮ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ਅਤੇ ਗੜ੍ਹਾ"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "ਅਤੇ ਫ਼ਾਹ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ਤੇਰੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ਹੇ ਵਾਸੀ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ ਦੇ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ਦਾ ਕਥਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:36:59.324446879Z",
+  "model": "glm-5.2"
+}

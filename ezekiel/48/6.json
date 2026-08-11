@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਅਤੇ ⟨ਦੇ ਬਾਡੇ ਉੱਤੇ⟩ ਇਫ਼ਰਾਯਿਮ ਦੇ, ਪੂਰਬ ਵੱਲੋਂ ਤੇ ਪੱਛਮ ਵੱਲ ਤੱਕ — ਇੱਕ ਹਿੱਸਾ ਰਊਬੇਨ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ⟨ਦੇ ਬਾਡੇ ਉੱਤੇ⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ਇਫ਼ਰਾਯਿਮ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ਪੱਖ ਤੋਂ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ਪੂਰਬ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ਅਤੇ ਤੱਕ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ਪੱਖ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ਪੱਛਮ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬੇਨ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:04:41.826125925Z",
+  "model": "glm-5.2"
+}

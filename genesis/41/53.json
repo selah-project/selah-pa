@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 41,
+  "translation": "ਅਤੇ ਸੱਤ ਬਰਸ ਮੁੱਕ ਗਏ, ⟨ਉਹ⟩ ਸੱਤਿਆਂ ਦੇ ⟨ਜੋ⟩ ਮਿਤਸਰਾਯਿਮ ਦੇ ਦੇਸ਼ ਵਿੱਚ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "ਅਤੇ ਮੁੱਕ ਗਏ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਬਰਸ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ਸੱਤਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ਜੋ⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ਮਿਤਸਰਾਯਿਮ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:04:39.226372040Z",
+  "model": "glm-5.2"
+}

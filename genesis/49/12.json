@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 49,
+  "translation": "ਅੱਖਾਂ ਦਾਖ ਦੀ ਮਦਿਰਾ ਤੋਂ ਚਮਕਦੀਆਂ ਹਨ, ਅਤੇ ਦੰਦ ਦੁੱਧ ਤੋਂ ਚਿੱਟੇ ⟨ਹਨ⟩।",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "ਚਮਕਦੀਆਂ ਹਨ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ਅੱਖਾਂ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ਦਾਖ ਦੀ ਮਦਿਰਾ ਤੋਂ"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ਅਤੇ ਚਿੱਟੇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੰਦ"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ਦੁੱਧ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:08:47.445708913Z",
+  "model": "glm-5.2"
+}

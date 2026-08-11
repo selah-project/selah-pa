@@ -1,0 +1,33 @@
+{
+  "tier": "hand",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਹ ਭਾਰ ਜੋ ਖ਼ਬੱਕੂਕ ਨਬੀ ਨੇ ਵੇਖਿਆ।",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ਉਹ ਭਾਰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ਵੇਖਿਆ"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ਖ਼ਬੱਕੂਕ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ਨਬੀ ਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:18:53.427539533Z",
+  "model": "claude-fable-5"
+}

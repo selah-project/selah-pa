@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਪਾਣੀ ਧਰਤੀ ਉੱਤੇ ਬਹੁਤ ਬਹੁਤ ਬਲਵਾਨ ਹੋਏ, ਅਤੇ ਸਾਰੇ ਉੱਚੇ ਪਹਾੜ ਜੋ ਸਾਰੇ ਅਕਾਸ਼ ਦੇ ਹੇਠਾਂ ⟨ਸਨ⟩, ਢੱਕੇ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "ਅਤੇ ਪਾਣੀ"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ਬਲਵਾਨ ਹੋਏ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "ਅਤੇ ਢੱਕੇ ਗਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ਉੱਚੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਦੇ ਹੇਠਾਂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ਅਕਾਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:07.397314242Z",
+  "model": "glm-5.2"
+}

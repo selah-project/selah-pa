@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਜੀਵਨ ਉਸ ਨੇ ਤੈਥੋਂ ਮੰਗਿਆ, ਤੂੰ ਉਸ ਨੂੰ ਦਿੱਤਾ — ਦਿਨਾਂ ਦੀ ਲੰਮਾਈ, ਸਦਾ ਤੇ ਸਦੀਵ।",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ਜੀਵਨ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ਮੰਗਿਆ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ਤੈਥੋਂ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ਦਿੱਤਾ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ਲੰਮਾਈ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨਾਂ ਦੀ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ਸਦਾ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ਤੇ ਸਦੀਵ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:32:07.867318095Z",
+  "model": "glm-5.2"
+}

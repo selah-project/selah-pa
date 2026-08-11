@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਬਕਬੁਕ ਦੇ ਪੁੱਤਰ, ਖ਼ਾਕੂਫ਼ਾ ਦੇ ਪੁੱਤਰ, ਖ਼ਰਖੁਰ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "ਬਕਬੁਕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ਖ਼ਾਕੂਫ਼ਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ਖ਼ਰਖੁਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:34:03.108277318Z",
+  "model": "glm-5.2"
+}

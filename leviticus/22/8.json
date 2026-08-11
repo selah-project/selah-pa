@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਮੁਰਦਾ ਅਤੇ ਪਾਟੀ ਹੋਈ ⟨ਨੂੰ⟩ ਨਾ ਖਾਵੇ, ਉਸ ਨਾਲ ਅਪਵਿੱਤਰ ਹੋਣ ਲਈ — ਮੈਂ ਯਾਹਵੇਹ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "נְבֵלָה",
+      "gloss": "ਮੁਰਦਾ"
+    },
+    {
+      "surface": "וּטְרֵפָה",
+      "gloss": "ਅਤੇ ਪਾਟੀ ਹੋਈ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "ਖਾਵੇ"
+    },
+    {
+      "surface": "לְטָמְאָה",
+      "gloss": "ਅਪਵਿੱਤਰ ਹੋਣ ਲਈ"
+    },
+    {
+      "surface": "בָהּ",
+      "gloss": "ਉਸ ਨਾਲ"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:41:15.811637675Z",
+  "model": "glm-5.2"
+}

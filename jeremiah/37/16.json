@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਕਿਉਂਕਿ ਯਿਰਮਯਾਹੂ ਆਇਆ ਕੈਦ-ਘਰ ਵਿੱਚ ਅਤੇ ਸੈੱਲਾਂ ਵਿੱਚ, ਅਤੇ ਯਿਰਮਯਾਹੂ ਉੱਥੇ ਬੈਠਾ ਰਿਹਾ ਬਹੁਤ ਦਿਨ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਯਾਹੂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ਕੈਦ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "ਸੈੱਲਾਂ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ਅਤੇ ਬੈਠਾ ਰਿਹਾ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਯਾਹੂ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ਬਹੁਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:32:34.921207390Z",
+  "model": "glm-5.2"
+}

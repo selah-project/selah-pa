@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਚੰਗਾ ਹੈ ਇੱਕ ਗੱਲ ਦਾ ਅੰਤ ਉਸ ਦੀ ਸ਼ੁਰੂਆਤ ਤੋਂ; ਚੰਗਾ ਹੈ ਧੀਰਜ ਵਾਲਾ ਰੂਹ, ਉੱਚ-ਰੂਹ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ਅੰਤ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਇੱਕ ਗੱਲ ਦਾ"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ਉਸ ਦੀ ਸ਼ੁਰੂਆਤ ਤੋਂ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ਧੀਰਜ ਵਾਲਾ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਰੂਹ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਰੂਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:12:33.116556607Z",
+  "model": "glm-5.2"
+}

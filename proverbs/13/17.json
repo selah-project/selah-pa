@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਬੁਰੇ ਦਾ ਦੂਤ ਬੁਰਾਈ ਵਿੱਚ ਪਵੇਗਾ, ਪਰ ਵਫ਼ਾਦਾਰਾਂ ਦਾ ਦੂਤ ⟨ਹੈ⟩ ਰੋਗ ਹਟਾਉਣ ਵਾਲਾ।",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "ਦੂਤ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ਬੁਰੇ ਦਾ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ਪਵੇਗਾ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ਬੁਰਾਈ ਵਿੱਚ"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ਪਰ ਦੂਤ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ਵਫ਼ਾਦਾਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ਰੋਗ ਹਟਾਉਣ ਵਾਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:26:31.855259634Z",
+  "model": "glm-5.2"
+}

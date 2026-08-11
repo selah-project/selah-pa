@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਸੁਣੋ ਯਾਹਵੇਹ ਦਾ ਬਚਨ, ਹੇ ਯਾਕੋਬ ਦੇ ਘਰ, ਅਤੇ ਇਸਰਾਏਲ ਦੇ ਘਰ ਦੇ ਸਾਰੇ ਕੁਨਬੇ!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਹੇ ਘਰ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ ਦੇ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ਕੁਨਬੇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ ਦੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:14:07.486177342Z",
+  "model": "glm-5.2"
+}

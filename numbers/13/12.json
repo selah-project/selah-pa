@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਦਾਨ ⟨ਦੇ ਕਬੀਲੇ ਲਈ⟩ ਅੱਮੀਏਲ, ਗਮੱਲੀ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ਅੱਮੀਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "ਗਮੱਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:02.986322004Z",
+  "model": "glm-5.2"
+}

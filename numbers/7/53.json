@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 7:53",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ⟨ਲਈ⟩ ਸ਼ਲਮੀ ਭੇਟ ਦੇ ਬਲਦ ਦੋ, ਮੇਢੇ ਪੰਜ, ਬੱਕਰੇ ਪੰਜ, ਇੱਕ ਸਾਲ ਦੇ ਮੇਮਣੇ ਪੰਜ — ਇਹ ਏਲੀਸ਼ਮਾ ਬੇਟੇ ਅਮੀਹੂਦ ਦਾ ਕਰਬਾਨ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "ਅਤੇ ⟨ਲਈ⟩ ਭੇਟ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ਸ਼ਲਮੀ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ਮੇਢੇ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "ਬੱਕਰੇ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਮੇਮਣੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਇੱਕ ਸਾਲ ਦੇ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ਕਰਬਾਨ"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ਏਲੀਸ਼ਮਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੇਟੇ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ਅਮੀਹੂਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:50:00.961275133Z",
+  "model": "glm-5.2"
+}

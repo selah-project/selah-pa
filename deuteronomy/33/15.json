@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਕਦਮ ਪਹਾੜਾਂ ਦੀ ਚੋਟੀ ਤੋਂ, ਅਤੇ ਸਦੀਵੀ ਪਹਾੜੀਆਂ ਦੇ ਮੇਗਦ ਤੋਂ,",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "ਅਤੇ ਦੀ ਚੋਟੀ ਤੋਂ"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "ਪਹਾੜਾਂ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ਕਦਮ"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ਅਤੇ ਦੇ ਮੇਗਦ ਤੋਂ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ਪਹਾੜੀਆਂ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ਸਦੀਵੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:18.343139283Z",
+  "model": "glm-5.2"
+}

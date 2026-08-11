@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਤੂੰ ਇਸਰਾਏਲ ਦੇ ਨਸੀਆਂ ਲਈ ਕੀਨਾ ਚੁੱਕ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ਅਤੇ ਤੂੰ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ਚੁੱਕ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ਕੀਨਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ਨਸੀਆਂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:49:41.242476762Z",
+  "model": "glm-5.2"
+}

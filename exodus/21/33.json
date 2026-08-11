@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਜੇ ਕੋਈ ਮਨੁੱਖ ਗੱਡਾ ਖੋਹੇ ਜਾਂ ਜੇ ਕੋਈ ਮਨੁੱਖ ਗੱਡਾ ਪੁੱਟੇ ਅਤੇ ਉਸ ਨੂੰ ਨਾ ਢੱਕੇ, ਅਤੇ ਉੱਥੇ ਵੱਲ ਜਾਂ ਖੋਤਾ ਡਿੱਗ ਪਵੇ,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ਖੋਹੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਕੋਈ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ਗੱਡਾ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "ਪੁੱਟੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਕੋਈ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ਗੱਡਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "ਉਸ ਨੂੰ ਢੱਕੇ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ਅਤੇ ਡਿੱਗ ਪਵੇ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ਖੋਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:20:06.220152670Z",
+  "model": "glm-5.2"
+}

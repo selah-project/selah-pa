@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, “ਤੈਨੂੰ ਸ਼ਾਲੋਮ ⟨ਹੋਵੇ⟩; ਨਾ ਡਰ, ਤੂੰ ਨਹੀਂ ਮਰੇਂਗਾ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਸ਼ਾਲੋਮ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ਡਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ਮਰੇਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:41:17.043670232Z",
+  "model": "glm-5.2"
+}

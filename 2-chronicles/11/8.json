@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ⟨את⟩ ਗਥ ਅਤੇ ⟨את⟩ ਮਾਰੇਸ਼ਾਹ ਅਤੇ ⟨את⟩ ਜ਼ੀਫ਼ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਗਥ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ਗਥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਮਾਰੇਸ਼ਾਹ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ਮਾਰੇਸ਼ਾਹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਜ਼ੀਫ਼"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ਜ਼ੀਫ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T03:22:22.152391389Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਰੋਟੀ ਨਹੀਂ ਖਾਧੀ ਅਤੇ ਦਾਖ਼ਰਸ ਅਤੇ ਨਸ਼ੇ ਵਾਲਾ ਪੀਣ ਨਹੀਂ ਪੀਤਾ, ਤਾਂ ਜੋ ਤੁਸੀਂ ਜਾਣੋ ਕਿ ਮੈਂ ਯਾਹਵੇਹ ਤੁਹਾਡਾ ਏਲੋਹੀਮ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ਖਾਧੀ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ਅਤੇ ਦਾਖ਼ਰਸ"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ਅਤੇ ਨਸ਼ੇ ਵਾਲਾ ਪੀਣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "ਪੀਤਾ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ਤਾਂ ਜੋ"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ਤੁਸੀਂ ਜਾਣੋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ਤੁਹਾਡਾ ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:22:38.239904955Z",
+  "model": "glm-5.2"
+}

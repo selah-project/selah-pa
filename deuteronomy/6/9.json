@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਤੂੰ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਘਰ ਦੇ ਚੌਂਕਠਾਂ ਉੱਤੇ ਅਤੇ ਆਪਣੇ ਦਰਵਾਜ਼ਿਆਂ ਉੱਤੇ ਲਿਖ।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ਅਤੇ ਤੂੰ ਲਿਖ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ਚੌਂਕਠਾਂ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ਆਪਣੇ ਘਰ ਦੇ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ਅਤੇ ਆਪਣੇ ਦਰਵਾਜ਼ਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:10:59.309588051Z",
+  "model": "glm-5.2"
+}

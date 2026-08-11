@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਇਸ ਲਈ, ਹੇ ਚਰਵਾਹਿਆਂ, ਯਾਹਵੇਹ ਦੇ ⟨את⟩ ਬਚਨ ਨੂੰ ਸੁਣੋ:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ਹੇ ਚਰਵਾਹਿਆਂ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬਚਨ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:57:29.721122137Z",
+  "model": "glm-5.2"
+}

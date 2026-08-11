@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਮਾਮ, ਅਤੇ ਸ਼ਮਾ, ਅਤੇ ਮੋਲਾਦਾਹ,",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "ਅਮਾਮ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ਅਤੇ ਸ਼ਮਾ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ਅਤੇ ਮੋਲਾਦਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:34.288278988Z",
+  "model": "glm-5.2"
+}

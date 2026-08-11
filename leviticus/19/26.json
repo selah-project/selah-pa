@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਲਹੂ ਉੱਤੇ ⟨ਨਾ⟩ ਖਾਓ; ਤੁਸੀਂ ਜਾਦੂ ਨਾ ਕਰੋ ਅਤੇ ਭਵਿੱਖਬਾਣੀ ਵੀ ਨਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਤੁਸੀਂ ਖਾਓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ਲਹੂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "ਤੁਸੀਂ ਜਾਦੂ ਕਰੋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "ਤੁਸੀਂ ਭਵਿੱਖਬਾਣੀ ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:40:39.556180850Z",
+  "model": "glm-5.2"
+}

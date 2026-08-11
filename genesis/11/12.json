@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਅਰਪਕਸ਼ਦ ਪੈਂਤੀ ਸਾਲ ਜੀਇਆ, ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਸ਼ੇਲਾਖ ਨੂੰ ਜਨਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ਅਤੇ ਅਰਪਕਸ਼ਦ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜੀਇਆ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੈਂਤੀ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ਪੰਜ ਅਤੇ ਤੀਹ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜਨਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸ਼ੇਲਾਖ ਨੂੰ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ਸ਼ੇਲਾਖ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:02.178309546Z",
+  "model": "glm-5.2"
+}

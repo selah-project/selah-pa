@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਬਿਤ-ਤੂਏਲ, ਅਤੇ ਖ਼ਰਮਾ, ਅਤੇ ਤਸੀਕਲਾਗ ⟨ਵਿਖੇ⟩।",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "ਅਤੇ ਬਿਤ-ਤੂਏਲ ⟨ਵਿਖੇ⟩"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "ਅਤੇ ਖ਼ਰਮਾ ⟨ਵਿਖੇ⟩"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "ਅਤੇ ਤਸੀਕਲਾਗ ⟨ਵਿਖੇ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:02.142543236Z",
+  "model": "glm-5.2"
+}

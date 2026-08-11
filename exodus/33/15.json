@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ: ਜੇ ਤੇਰਾ ਚਿਹਰਾ ਨਹੀਂ ਤੁਰਦਾ, ਤਾਂ ਸਾਨੂੰ ਇੱਥੋਂ ਨਾ ਚੁੱਕੀਂ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ਤੇਰਾ ਚਿਹਰਾ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ਤੁਰਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "ਸਾਨੂੰ ਚੁੱਕੀਂ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ਇੱਥੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:26:58.174894155Z",
+  "model": "glm-5.2"
+}

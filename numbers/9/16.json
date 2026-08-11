@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਇਸੇ ਤਰ੍ਹਾਂ ਹਮੇਸ਼ਾ ਹੁੰਦਾ; ਬੱਦਲ ਉਸ ਨੂੰ ਢੱਕਦਾ, ਅਤੇ ਅੱਗ ਦਾ ਦਿੱਖ ਰਾਤ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ਇਸੇ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੁੰਦਾ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ਹਮੇਸ਼ਾ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ਬੱਦਲ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "ਉਸ ਨੂੰ ਢੱਕਦਾ"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ਅਤੇ ਦਿੱਖ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ ਦਾ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ਰਾਤ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:52:42.379479701Z",
+  "model": "glm-5.2"
+}

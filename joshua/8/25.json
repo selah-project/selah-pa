@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਉਸ ਦਿਨ ਡਿੱਗਣ ਵਾਲਿਆਂ ਵਿੱਚੋਂ ਸਾਰਿਆਂ ਦੀ ਗਿਣਤੀ, ਆਦਮੀ ਤੋਂ ਲੈ ਕੇ ਇਸਤਰੀ ਤੱਕ, ਬਾਰਾਂ ਹਜ਼ਾਰ ਸੀ — ਹਾਯ ਦੇ ਸਾਰੇ ਆਦਮੀ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ਡਿੱਗਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ਆਦਮੀ ਤੋਂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇਸਤਰੀ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ਆਦਮੀ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ਹਾਯ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:30:37.255090779Z",
+  "model": "glm-5.2"
+}

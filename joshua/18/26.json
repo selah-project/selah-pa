@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ⟨ਹਾ⟩ ਮਿਸਪਾ ਅਤੇ ⟨ਹਾ⟩ ਕਫ਼ੀਰਾ ਅਤੇ ⟨ਹਾ⟩ ਮੋਤਸਾਹ;",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "ਅਤੇ ਮਿਸਪਾ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "ਅਤੇ ਕਫ਼ੀਰਾ"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "ਅਤੇ ਮੋਤਸਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:34:52.537729062Z",
+  "model": "glm-5.2"
+}

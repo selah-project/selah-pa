@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅੱਖਾਂ ਦਾ ਵੇਖਣਾ ਨੇਫ਼ੇਸ਼ ਦੇ ਭਟਕਣ ਨਾਲੋਂ ਚੰਗਾ ਹੈ; ਇਹ ਵੀ ਹੇਬਲ ਹੈ ਅਤੇ ਰੂਆਖ਼ ਦਾ ਸਤਾਉਣਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ਦਾ ਵੇਖਣਾ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ਅੱਖਾਂ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ਦੇ ਭਟਕਣ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਨੇਫ਼ੇਸ਼"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ਹੇਬਲ ਹੈ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ਅਤੇ ਸਤਾਉਣਾ ਹੈ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਰੂਆਖ਼ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:52.210853988Z",
+  "model": "glm-5.2"
+}

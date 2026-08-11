@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਕਥਨ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਇਹ ਕਹਿੰਦਾ ਹੋਇਆ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਵਾਪਰਿਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕਥਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਇਹ ਕਹਿੰਦਾ ਹੋਇਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:25:29.675927865Z",
+  "model": "glm-5.2"
+}

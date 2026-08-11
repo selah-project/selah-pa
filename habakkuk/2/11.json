@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਕਿਉਂਕਿ ਕੰਧ ਵਿਚੋਂ ਪੱਥਰ ਪੁਕਾਰੇਗਾ, ਅਤੇ ਲੱਕੜ ਵਿਚੋਂ ਕੜੀ ਉੱਤੇ ਜਵਾਬ ਦੇਵੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ਪੱਥਰ"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "ਕੰਧ ਵਿਚੋਂ"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "ਪੁਕਾਰੇਗਾ"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "ਅਤੇ ਕੜੀ"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ਲੱਕੜ ਵਿਚੋਂ"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ਜਵਾਬ ਦੇਵੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:18:54.140093682Z",
+  "model": "glm-5.2"
+}

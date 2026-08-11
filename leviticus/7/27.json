@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਹਰ ਉਹ ਜਾਨ ਜੋ ਕੋਈ ਖੂਨ ਖਾਵੇ — ਉਹ ਜਾਨ ਆਪਣੇ ਲੋਕਾਂ ਵਿਚੋਂ ਕਟ ਜਾਏਗੀ।",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "ਹਰ ਉਹ"
+    },
+    {
+      "surface": "נֶ֖פֶשׁ",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "תֹּאכַ֣ל",
+      "gloss": "ਖਾਵੇ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ਕੋਈ"
+    },
+    {
+      "surface": "דָּ֑ם",
+      "gloss": "ਖੂਨ"
+    },
+    {
+      "surface": "וְנִכְרְתָ֛ה",
+      "gloss": "ਤਾਂ ਕਟ ਜਾਏਗੀ"
+    },
+    {
+      "surface": "הַנֶּ֥פֶשׁ",
+      "gloss": "ਉਹ ਜਾਨ"
+    },
+    {
+      "surface": "הַהִ֖וא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "מֵֽעַמֶּֽיהָ",
+      "gloss": "ਆਪਣੇ ਲੋਕਾਂ ਵਿਚੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:33:28.605186032Z",
+  "model": "glm-5.2"
+}

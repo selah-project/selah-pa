@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਪੰਜਵਾਂ ਸ਼ਫ਼ਤਯਾਹ, ਅਬੀਤਲ ਦਾ; ਛੇਵਾਂ ਯਿਤਰਅਮ, ਉਸ ਦੀ ਪਤਨੀ ਏਗਲਾ ਦਾ।",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "ਪੰਜਵਾਂ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ਸ਼ਫ਼ਤਯਾਹ"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "ਅਬੀਤਲ ਦਾ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ਛੇਵਾਂ"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "ਯਿਤਰਅਮ"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "ਏਗਲਾ ਦਾ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ਉਸ ਦੀ ਪਤਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:55:06.562645196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਤੇਰੇ ਕਨੂੰਨ ਮੇਰੇ ਗੀਤ ਬਣੇ ਹਨ ਮੇਰੇ ਸਯਾਹਤ-ਘਰ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਬਣੇ ਹਨ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ਤੇਰੇ ਕਨੂੰਨ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ਘਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ਮੇਰੇ ਸਯਾਹਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:13:07.743576535Z",
+  "model": "glm-5.2"
+}

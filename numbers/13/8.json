@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਏਫਰਾਇਮ ਦੇ ਕਬੀਲੇ ਲਈ ਹੋਸ਼ੇਆ, ਨੂਨ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ਏਫਰਾਇਮ"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ਹੋਸ਼ੇਆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ਨੂਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:06.702072672Z",
+  "model": "glm-5.2"
+}

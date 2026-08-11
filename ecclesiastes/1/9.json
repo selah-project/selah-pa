@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਜੋ ਹੋਇਆ ਹੈ ਉਹੀ ਹੋਵੇਗਾ, ਅਤੇ ਜੋ ਕੀਤਾ ਗਿਆ ਹੈ ਉਹੀ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਧੁੱਪ ਹੇਠ ਕੋਈ ਨਵੀਂ ਗੱਲ ਨਹੀਂ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ਜੋ ਕੁਝ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ਹੋਇਆ ਹੈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ਅਤੇ ਜੋ ਕੁਝ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ਕੀਤਾ ਗਿਆ ਹੈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ਕੀਤਾ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ਅਤੇ ... ਨਹੀਂ ਹੈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ਨਵੀਂ ਗੱਲ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਧੁੱਪ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:09:35.518621140Z",
+  "model": "glm-5.2"
+}

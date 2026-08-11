@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਦਾਨ ਦੇ ਪੁੱਤਰਾਂ ਦੇ ਗੋਤ ਲਈ — ਨਸੀਂ ⟨ਹੈ⟩ ਯੋਗਲੀ ਦਾ ਪੁੱਤਰ ਬੁੱਕੀ।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ਅਤੇ ਗੋਤ ਲਈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਂ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ਬੁੱਕੀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "ਯੋਗਲੀ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:58.375361550Z",
+  "model": "glm-5.2"
+}

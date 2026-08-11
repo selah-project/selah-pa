@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਇਸਰਾਏਲ ਨੇ ਘਾਤ ਲਗਾਏ ਗੀਬਾ ਦੇ ਸਾਹਮਣੇ, ਚਾਰੇ ਪਾਸਿਆਂ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ਅਤੇ ਰੱਖੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਨੇ"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "ਘਾਤ ਲਗਾਏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ਗੀਬਾ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ਚਾਰੇ ਪਾਸਿਆਂ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:51:07.513105197Z",
+  "model": "glm-5.2"
+}

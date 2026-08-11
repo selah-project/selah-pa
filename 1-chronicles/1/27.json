@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਵਰਾਮ — ਉਹੀ ਅਵਰਾਹਾਮ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "ਅਵਰਾਮ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:34.281369885Z",
+  "model": "glm-5.2"
+}

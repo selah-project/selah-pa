@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਯਿਸ਼ਮਾਯਾਹ ਗਿਬਓਨੀ, ਤੀਹ ਵਿੱਚ ਇੱਕ ਸੂਰਮਾ, ਅਤੇ ਤੀਹ ਉੱਤੇ ⟨ਮੁਖੀ⟩।",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "ਅਤੇ ਯਿਸ਼ਮਾਯਾਹ"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "ਗਿਬਓਨੀ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ਸੂਰਮਾ"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "ਤੀਹ ਵਿੱਚ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "ਤੀਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:03:06.949533279Z",
+  "model": "glm-5.2"
+}

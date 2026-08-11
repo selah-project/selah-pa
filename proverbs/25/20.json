@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਸਰਦੀ ਦੇ ਦਿਨ ਕੱਪੜਾ ਲਾਹੁਣ ਵਾਲਾ, ਨਮਕ-ਸੋਡਾ 'ਤੇ ਸਿਰਕਾ, ਅਤੇ ਭਾਰੇ ਦਿਲ ਨੂੰ ਗੀਤ ਗਾਉਣ ਵਾਲਾ — ਇੱਕੋ ਹੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "ਲਾਹੁਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ਕੱਪੜਾ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ਸਰਦੀ ਦੇ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ਸਿਰਕਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "'ਤੇ"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "ਨਮਕ-ਸੋਡਾ"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "ਅਤੇ ਗਾਉਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਭਾਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:32:32.320507367Z",
+  "model": "glm-5.2"
+}

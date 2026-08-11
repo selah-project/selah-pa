@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਬੇਤ-ਲਬਾਓਤ, ਅਤੇ ਸ਼ਾਰੂਹੇਨ; ਤੇਰਾਂ ਸ਼ਹਿਰ ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੰਡ।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "ਲਬਾਓਤ"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "ਅਤੇ ਸ਼ਾਰੂਹੇਨ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੰਡ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:34:53.361413065Z",
+  "model": "glm-5.2"
+}

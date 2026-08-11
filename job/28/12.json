@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਪਰ ਚਤੁਰਤਾ ਕਿੱਥੋਂ ਮਿਲੇਗੀ? ਅਤੇ ਸਮਝ ਦਾ ਥਾਂ ਕਿਹੜਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "ਪਰ ਚਤੁਰਤਾ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ਕਿੱਥੋਂ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ਮਿਲੇਗੀ"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ਅਤੇ ਕਿਹੜਾ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਹੈ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ਥਾਂ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ਸਮਝ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:49:42.453710325Z",
+  "model": "glm-5.2"
+}

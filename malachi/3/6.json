@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਕਿਉਂਕਿ ਮੈਂ ਯਾਹਵੇਹ ਹਾਂ, ਮੈਂ ਨਹੀਂ ਬਦਲਿਆ, ਅਤੇ ਤੁਸੀਂ ਯਾਕੋਬ ਦੇ ਪੁੱਤਰ ਹੋ, ਤੁਸੀਂ ਖ਼ਤਮ ਨਹੀਂ ਹੋਏ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "ਬਦਲਿਆ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ਅਤੇ ਤੁਸੀਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ ਹੋ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ ਦੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "ਖ਼ਤਮ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:26:53.594639049Z",
+  "model": "glm-5.2"
+}

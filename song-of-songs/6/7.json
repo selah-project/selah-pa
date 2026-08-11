@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਤੇਰਾ ਕੰਨ ਤੇਰੇ ਪਰਦੇ ਪਿੱਛੇ ਅਨਾਰ ਦੀ ਇੱਕ ਫਾਲ ਵਾਂਗ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "ਇੱਕ ਫਾਲ ਵਾਂਗ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ਅਨਾਰ ਦੀ"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ਤੇਰਾ ਕੰਨ"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "ਪਿੱਛੇ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ਤੇਰੇ ਪਰਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:01:08.623656857Z",
+  "model": "glm-5.2"
+}

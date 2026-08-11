@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸੋਨੇ ਦਾ ਇੱਕ ਕਟੋਰੀ, ਦਸ ⟨ਸ਼ੇਕਲ⟩, ਧੂਣੀ ਨਾਲ ਭਰੀ ਹੋਈ।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ਕਟੋਰੀ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ ਦਾ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ਭਰੀ ਹੋਈ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ਧੂਣੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:48.684719144Z",
+  "model": "glm-5.2"
+}

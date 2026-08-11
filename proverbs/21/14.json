@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਖੁਫ਼ੀਆ ਦਾਨ ਕ੍ਰੋਧ ਨੂੰ ਸ਼ਾਂਤ ਕਰਦਾ ⟨ਹੈ⟩, ਅਤੇ ਛਾਤੀ ਵਿੱਚ ਰਿਸ਼ਵਤ ਭਿਆਨਕ ਗੁੱਸੇ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "ਦਾਨ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ਖੁਫ਼ੀਆ"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "ਸ਼ਾਂਤ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ਕ੍ਰੋਧ ਨੂੰ"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "ਅਤੇ ਰਿਸ਼ਵਤ"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "ਛਾਤੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ਗੁੱਸੇ ਨੂੰ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ਭਿਆਨਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:30:16.605205645Z",
+  "model": "glm-5.2"
+}

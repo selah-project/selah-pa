@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਧਰਮੀ ਦੇ ਵਿਚਾਰ ⟨ਹਨ⟩ ਨਿਆਂ, ਪਰ ਦੁਸ਼ਟਾਂ ਦੀਆਂ ਤਦਬੀਰਾਂ ⟨ਹਨ⟩ ਧੋਖਾ।",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "ਵਿਚਾਰ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ਧਰਮੀ ਦੇ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ਤਦਬੀਰਾਂ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦੀਆਂ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ਧੋਖਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:25:53.832282454Z",
+  "model": "glm-5.2"
+}

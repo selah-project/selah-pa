@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਹੋਰੇਬ ਤੋਂ ਸੇਈਰ ਪਹਾੜ ਦੇ ਰਸਤੇ ਕਾਦੇਸ਼-ਬਰਨੇਆ ਤੱਕ ਗਿਆਰਾਂ ਦਿਨ ⟨ਦਾ ਸਫ਼ਰ⟩ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ਗਿਆਰਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਗਿਆਰਾਂ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ਹੋਰੇਬ ਤੋਂ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ਰਸਤੇ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ਪਹਾੜ ਦੇ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ਸੇਈਰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਕਾਦੇਸ਼"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ਬਰਨੇਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:34.491461054Z",
+  "model": "glm-5.2"
+}

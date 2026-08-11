@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 58,
+  "translation": "ਮਹਿਫ਼ਿਲ-ਮੁਖੀ ਲਈ; ⟨ਇਹ⟩ ਨਾਸ ਕਰਨਾ; ਦਾਵਿਦ ਲਈ; ਇੱਕ ਮਿਖ਼ਤਾਮ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮਹਿਫ਼ਿਲ-ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ਨਾਸ ਕਰਨਾ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਲਈ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ਇੱਕ ਮਿਖ਼ਤਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:53:41.846954959Z",
+  "model": "glm-5.2"
+}

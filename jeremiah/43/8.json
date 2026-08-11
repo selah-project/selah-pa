@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 43,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਤਖ਼ਪਨਖ਼ੇਸ ਵਿੱਚ ਯਿਰਮਯਾਹੂ ਕੋਲ ਆਇਆ ⟨ਕਹਿੰਦੇ ਹੋਏ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਯਾਹੂ"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "ਤਖ਼ਪਨਖ਼ੇਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:35:06.891252248Z",
+  "model": "glm-5.2"
+}

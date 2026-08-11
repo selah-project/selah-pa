@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਇਸ ਤਰ੍ਹਾਂ ਲੋਟ ਦੀਆਂ ਦੋਵੇਂ ਧੀਆਂ ਆਪਣੇ ਪਿਤਾ ਤੋਂ ਗਰਭਵਤੀ ਹੋ ਗਈਆਂ।",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "ਅਤੇ ਗਰਭਵਤੀ ਹੋ ਗਈਆਂ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ਦੋਵੇਂ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ਲੋਟ ਦੀਆਂ"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "ਆਪਣੇ ਪਿਤਾ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:52:26.481678588Z",
+  "model": "glm-5.2"
+}

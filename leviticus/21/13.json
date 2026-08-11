@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਉਹ ⟨ਆਪਣੇ ਲਈ⟩ ਇੱਕ ਇਸਤਰੀ ਨੂੰ ਉਸਦੀ ਕੁਆਰੀਪੁਣੇ ਵਿੱਚ ਲਏ।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ਅਤੇ ਉਹ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇੱਕ ਇਸਤਰੀ ਨੂੰ"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "ਉਸਦੀ ਕੁਆਰੀਪੁਣੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ਲਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:41:04.954703023Z",
+  "model": "glm-5.2"
+}

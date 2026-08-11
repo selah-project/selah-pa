@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਯਾਹਵੇਹ ਤੈਨੂੰ ਬਰਕਤ ਦੇਵੇ ਅਤੇ ਤੈਨੂੰ ਰੱਖਿਆ ਕਰੇ।",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ਤੈਨੂੰ ਬਰਕਤ ਦੇਵੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "ਅਤੇ ਤੈਨੂੰ ਰੱਖਿਆ ਕਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:25.610343762Z",
+  "model": "glm-5.2"
+}

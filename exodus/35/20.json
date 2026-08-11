@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਅਤੇ ਯਿਸਰਾਏਲ ਦੇ ਪੁੱਤਰਾਂ ਦੀ ਸਾਰੀ ਕਹਿਲ ਮੋਸ਼ੇ ਦੇ ਸਾਹਮਣੇ ਤੋਂ ਨਿਕਲੀ।",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ਅਤੇ ਨਿਕਲੀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ਕਹਿਲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ ਤੋਂ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:25:38.319954550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 109,
+  "translation": "ਅਤੇ ਉਹ ਜਾਣਣ ਕਿ ਇਹ ਤੇਰਾ ਹੱਥ ਹੈ; ਤੂੰ, ਹੇ ਯਾਹਵੇਹ, ⟨ਇਹ⟩ ਕੀਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ਅਤੇ ਉਹ ਜਾਣਣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ਤੇਰਾ ਹੱਥ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਹੇ ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "⟨ਇਹ⟩ ਕੀਤਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:11:21.835816049Z",
+  "model": "glm-5.2"
+}

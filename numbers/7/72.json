@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਗਿਆਰ੍ਹਵੇਂ ਦਿਨ ਅਸ਼ੇਰ ਦੇ ਪੁੱਤਰਾਂ ਦਾ ਨਸੀਂ — ਪਗਈਏਲ ਪੁੱਤਰ ਓਕ੍ਰਾਨ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸਵੇਂ ਦੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਗਿਆਰ੍ਹਵੇਂ ਦਿਨ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਂ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਅਸ਼ੇਰ"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "ਪਗਈਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ਓਕ੍ਰਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:12.696353463Z",
+  "model": "glm-5.2"
+}

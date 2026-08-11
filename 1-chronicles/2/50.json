@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 2:50",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਇਹ ਕਾਲੇਬ ਦੇ ਪੁੱਤਰ ਸਨ, ਏਫ਼ਰਾਤਾ ਦੇ ਪਹਿਲੋਜੇ ਹੂਰ ਦਾ ਪੁੱਤਰ; ਕਿਰਯਤ ਯੇਅਰੀਮ ਦਾ ਪਿਤਾ ਸ਼ੋਬਾਲ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ-ਪੁੱਤਰ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ਕਾਲੇਬ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ਹੂਰ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ਪਹਿਲੋਜਾ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ਏਫ਼ਰਾਤਾ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ਸ਼ੋਬਾਲ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਦਾ-ਪਿਤਾ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ਕਿਰਯਤ"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "ਯੇਅਰੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:38.633748220Z",
+  "model": "glm-5.2"
+}

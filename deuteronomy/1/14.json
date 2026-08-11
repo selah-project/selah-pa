@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਤੁਸੀਂ ਮੈਨੂੰ ⟨את⟩ ਜਵਾਬ ਦਿੱਤਾ ਅਤੇ ਕਿਹਾ, ਉਹ ਗੱਲ ਜੋ ਤੂੰ ਕੀਤੀ ਜਾਣ ਲਈ ਕਹੀ ਹੈ ਚੰਗੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "ਅਤੇ ਤੁਸੀਂ ਜਵਾਬ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗੀ ਹੈ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਉਹ ਗੱਲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ਤੂੰ ਕਹੀ ਹੈ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ਕੀਤੀ ਜਾਣ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:07:53.310341657Z",
+  "model": "glm-5.2"
+}

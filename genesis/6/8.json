@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਨੋਆ ਨੇ ਯਾਹਵੇਹ ਦੀਆਂ ਅੱਖਾਂ ਵਿੱਚ ਖ਼ੇਸੇਦ ਪਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ਅਤੇ ਨੋਆ ਨੇ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ਪਾਇਆ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ਖ਼ੇਸੇਦ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ਅੱਖਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:05.768851557Z",
+  "model": "glm-5.2"
+}

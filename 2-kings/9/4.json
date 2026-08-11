@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਇਸ ਲਈ ⟨ਉਹ⟩ ਨੌਜਵਾਨ ⟨ਉਹ⟩ ਨੌਜਵਾਨ ⟨ਇਹ⟩ ਨਬੀ ਰਾਮੋਥ ਗਿਲਅਦ ਨੂੰ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ਇਸ ਲਈ ਗਿਆ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ਨੌਜਵਾਨ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ਨੌਜਵਾਨ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ਨਬੀ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ਰਾਮੋਥ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ਗਿਲਅਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:37:38.722033248Z",
+  "model": "glm-5.2"
+}

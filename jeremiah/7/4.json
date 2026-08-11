@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਝੂਠੇ ਬਚਨਾਂ ਉੱਤੇ ਭਰੋਸਾ ਨਾ ਕਰੋ, ⟨ਇੰਜ ਕਹਿ ਕੇ⟩: 'ਯਾਹਵੇਹ ਦਾ ਹੇਖਲ, ਯਾਹਵੇਹ ਦਾ ਹੇਖਲ, ਯਾਹਵੇਹ ਦਾ ਹੇਖਲ ਹਨ ਇਹ!'",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ਭਰੋਸਾ ਕਰੋ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਆਪਣੇ ਆਪ ਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਬਚਨਾਂ"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ਝੂਠੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਇੰਜ ਕਹਿ ਕੇ⟩"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ਹੇਖਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ਹੇਖਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ਹੇਖਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਹਨ ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:17:10.401690690Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਮੈਨੂੰ ਸੁਣੋ, ਹਿੰਮਤੀ-ਦਿਲ, ਧਰਮ-ਤੋਂ ਦੂਰ ਹੋ ਗਏ ਲੋਕੋ!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ਹਿੰਮਤੀ-ਦਿਲ"
+    },
+    {
+      "surface": "לב",
+      "gloss": ""
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "ਦੂਰ ਹੋ ਗਏ"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "ਧਰਮ-ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:04:53.816122810Z",
+  "model": "glm-5.2"
+}

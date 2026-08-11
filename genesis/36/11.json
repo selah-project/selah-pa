@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਏਲੀਫ਼ਜ਼ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩: ਤੇਮਾਨ, ਓਮਾਰ, ਤਸਫੋ, ਅਤੇ ਗਾਤਾਮ, ਅਤੇ ਕਨਜ਼।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ⟨ਸਨ⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ਏਲੀਫ਼ਜ਼ ਦੇ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ਤੇਮਾਨ"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ਓਮਾਰ"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "ਤਸਫੋ"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ਅਤੇ ਗਾਤਾਮ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ਅਤੇ ਕਨਜ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:13.807396416Z",
+  "model": "glm-5.2"
+}

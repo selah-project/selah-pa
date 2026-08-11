@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਦੁਸ਼ਟ ਸ਼ਿਓਲ ਵੱਲ ਮੁੜਦੇ ਹਨ — ਸਾਰੇ ਗੋਯਮ, ਏਲੋਹੀਮ ਦੇ ਭੁੱਲੇ।",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ਮੁੜਦੇ ਹਨ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟ"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "ਸ਼ਿਓਲ ਵੱਲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ਗੋਯਮ"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ਭੁੱਲੇ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:29:18.848942864Z",
+  "model": "glm-5.2"
+}

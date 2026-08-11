@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਯਾਹਵੇਹ, ਉਹਨਾਂ ਉੱਤੇ ਭੈ ਡਾਹਿ ⟨ਤਾਂ ਜੋ⟩ ਨਸਲਾਂ ਜਾਣਣ ਕਿ ਉਹ ਨਾਸ਼ਵੰਤ ਮਨੁੱਖ ਹਨ। ਸੇਲਾਹ।",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "ਡਾਹਿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ਭੈ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਉੱਤੇ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ਜਾਣਨ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ਨਸਲਾਂ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਨਾਸ਼ਵੰਤ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ਸੇਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:28:45.263789215Z",
+  "model": "glm-5.2"
+}

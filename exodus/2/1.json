@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਲੇਵੀ ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ ਇੱਕ ਆਦਮੀ ਗਿਆ, ਅਤੇ ⟨ਵਿਆਹ ਕੇ⟩ ⟨את⟩ ਲੇਵੀ ਦੀ ਧੀ ਨੂੰ ਲਿਆ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਗਿਆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਇੱਕ ਆਦਮੀ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ਦੇ ਘਰਾਣੇ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ਲੇਵੀ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ਅਤੇ ਲਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਲੇਵੀ ਦੀ ਧੀ ਨੂੰ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ਲੇਵੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:10:25.393601670Z",
+  "model": "glm-5.2"
+}

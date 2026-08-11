@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਕਿਉਂਕਿ ਉਹ ਇੱਕ ਅਜਿਹੀ ਕੌਮ ਹੈ ਜਿਸ ਕੋਲ ਸਲਾਹ ਨਹੀਂ ਹੈ, ਅਤੇ ਉਹਨਾਂ ਵਿਚ ਕੋਈ ਸਮਝ ਨਹੀਂ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ਕੌਮ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ਗੁਆਚੀ ਹੋਈ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ਸਲਾਹ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ਅਤੇ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ਉਹਨਾਂ ਵਿਚ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ਸਮਝ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:24:30.394954191Z",
+  "model": "glm-5.2"
+}

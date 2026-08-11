@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਕਿਉਂਕਿ ਅਦੋਨਾਈ ਯਾਹਵੇਹ ਇੰਝ ਆਖਦਾ ਹੈ: ਬਾਬਲ ਦੇ ਰਾਜੇ ਦੀ ਤਲਵਾਰ ਤੇਰੇ ਉੱਤੇ ਆਵੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇੰਝ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਦਾ ਹੈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ਤਲਵਾਰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ ਦੀ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ਬਾਬਲ ਦੇ"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "ਤੇਰੇ ਉੱਤੇ ਆਵੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:56:14.271822853Z",
+  "model": "glm-5.2"
+}

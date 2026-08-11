@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਸਾਰਾ ਇਸਰਾਏਲ ਸੁਣੇ, ਅਤੇ ਡਰੇ, ਅਤੇ ਤੇਰੇ ਵਿਚਾਲੇ ਇਸ ਭੈੜੇ ਕੰਮ ਵਰਗਾ ਕੁਝ ਹੋਰ ਕਰਨਾ ਬੰਦ ਕਰ ਦੇਵੇ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰਾ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ਸੁਣੇ"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "ਅਤੇ ਡਰੇ"
+    },
+    {
+      "surface": "ਵלא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "ਉਹ ... ਹੋਰ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ਕਰਨਾ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "... ਵਰਗਾ ਕੁਝ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ਭੈੜੇ ਕੰਮ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ਤੇਰੇ ਵਿਚਾਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:42.388728596Z",
+  "model": "glm-5.2"
+}

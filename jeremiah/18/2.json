@@ -1,0 +1,46 @@
+{
+  "tier": "hand",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਉੱਠ ਅਤੇ ਘੁਮਿਆਰ ਦੇ ਘਰ ਉਤਰ ਜਾ, ਅਤੇ ਉੱਥੇ ਮੈਂ ਤੈਨੂੰ ⟨את⟩ ਆਪਣੇ ਬਚਨ ਸੁਣਾਵਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ਉੱਠ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ਅਤੇ ਉਤਰ ਜਾ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ ਨੂੰ"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "ਘੁਮਿਆਰ ਦੇ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ਅਤੇ ਉੱਥੇ"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ਮੈਂ ਤੈਨੂੰ ਸੁਣਾਵਾਂਗਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਆਪਣੇ ਬਚਨ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਆਪਣੇ ਬਚਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:23:10.198514597Z",
+  "model": "claude-fable-5"
+}

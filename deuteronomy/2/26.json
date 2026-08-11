@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਮੈਂ ਕ਼ਦੇਮੋਤ ਦੇ ਉਜਾੜ ਤੋਂ ਖ਼ਬਰਾਂ ਭੇਜੀਆਂ ਸੀਖੋਨ, ਖ਼ਸ਼ਬੋਨ ਦੇ ਰਾਜੇ ਕੋਲ, ਅਮਨ ਦੇ ਬਚਨ ⟨ਕਹਿੰਦੇ⟩:",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ਅਤੇ ਮੈਂ ਭੇਜੀਆਂ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ਖ਼ਬਰਾਂ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ਉਜਾੜ ਤੋਂ"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "ਕ਼ਦੇਮੋਤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "ਸੀਖੋਨ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ਖ਼ਸ਼ਬੋਨ ਦੇ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਅਮਨ ਦੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:30.967975286Z",
+  "model": "glm-5.2"
+}

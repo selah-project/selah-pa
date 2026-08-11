@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਸੱਚ ਖਰੀਦ, ਅਤੇ ਇਸ ਨੂੰ ਨਾ ਵੇਚ; ਅਤੇ ਗਿਆਨ, ਅਤੇ ਤਾਲੀਮ, ਅਤੇ ਸਮਝ ⟨ਵੀ ਖਰੀਦ⟩।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ਸੱਚ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ਖਰੀਦ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ਵੇਚ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਗਿਆਨ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ਅਤੇ ਤਾਲੀਮ"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ਅਤੇ ਸਮਝ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:30.192719733Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਚੋਰ ਦਾ ਸਾਥੀ ਆਪਣੀ ਜਾਨ ਤੋਂ ਨਫ਼ਰਤ ਕਰਦਾ ਹੈ; ਉਹ ਕ੍ਰੋਧ ਸੁਣਦਾ ਹੈ ਅਤੇ ਦੱਸਦਾ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "ਸਾਥੀ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ਚੋਰ ਦਾ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ਨਫ਼ਰਤ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ਆਪਣੀ ਜਾਨ ਤੋਂ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਕ੍ਰੋਧ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ਉਹ ਸੁਣਦਾ ਹੈ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ਦੱਸਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:34:22.493105579Z",
+  "model": "glm-5.2"
+}

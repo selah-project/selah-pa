@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਬ੍ਰਿਆ ਦੇ ਪੁੱਤਰ — ਖੇਬੇਰ ਅਤੇ ਮਲਕੀਏਲ; ਉਹ ਬਿਰਜ਼ੋਤ ਦਾ ਪਿਤਾ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ਬ੍ਰਿਆ ਦੇ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ਖੇਬੇਰ"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "ਅਤੇ ਮਲਕੀਏਲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਪਿਤਾ"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "ਬਿਰਜ਼ੋਤ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:00:03.074155193Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਯਿਰਮਿਯਾਹੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ: ਤੁਸੀਂ ਸਿਦਕਯਾਹੂ ਨੂੰ ਇੰਝ ਆਖਣਾ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ ਨੇ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇੰਝ"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "ਤੁਸੀਂ ਆਖਣਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ਸਿਦਕਯਾਹੂ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:23:41.676053387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਸਭ ਤਲਵਾਰ ਫੜੇ ਹੋਏ, ਯੁੱਧ ਦੇ ਸਿੱਖੇ ਹੋਏ — ਹਰ ਇੱਕ ⟨ਆਦਮੀ ਦੀ⟩ ਤਲਵਾਰ ਉਸਦੀ ਜਾਨਘ ਉੱਤੇ, ਰਾਤਾਂ ਦੇ ਖ਼ੌਫ਼ ਵਲੋਂ।",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "ਫੜੇ ਹੋਏ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ਤਲਵਾਰ"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "ਸਿੱਖੇ ਹੋਏ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਯੁੱਧ ਦੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਹਰ ਇੱਕ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ਤਲਵਾਰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ਉਸਦੀ ਜਾਨਘ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ਖ਼ੌਫ਼ ਵਲੋਂ"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ਰਾਤਾਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:02:21.527660461Z",
+  "model": "glm-5.2"
+}

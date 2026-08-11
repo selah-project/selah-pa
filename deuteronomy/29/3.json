@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਇਸ ਦਿਨ ਤੱਕ ਤੁਹਾਨੂੰ ਜਾਣਨ ਲਈ ਦਿਲ ਅਤੇ ਵੇਖਣ ਲਈ ਅੱਖਾਂ ਅਤੇ ਸੁਣਨ ਲਈ ਕੰਨ ਨਹੀਂ ਦਿੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਦਿੱਤੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਨੂੰ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ਜਾਣਨ ਲਈ"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ਅਤੇ ਅੱਖਾਂ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ਵੇਖਣ ਲਈ"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ਅਤੇ ਕੰਨ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ਸੁਣਨ ਲਈ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਇਸ ਦਿਨ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:23:20.574172191Z",
+  "model": "glm-5.2"
+}

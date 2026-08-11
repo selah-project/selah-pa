@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਯੇਰੂਸ਼ਾਲਾਯਿਮ ਦਾ ਰਾਜਾ, ਇੱਕ; ਖ਼ੇਬਰੋਨ ਦਾ ਰਾਜਾ, ਇੱਕ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ਯੇਰੂਸ਼ਾਲਾਯਿਮ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ਖ਼ੇਬਰੋਨ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:35.617073599Z",
+  "model": "glm-5.2"
+}

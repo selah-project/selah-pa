@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਯਾਹਵੇਹ ਯੁੱਧ ਦਾ ਪੁਰਸ਼ ਹੈ, ਯਾਹਵੇਹ ⟨ਉਸ ਦਾ⟩ ਨਾਮ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਪੁਰਸ਼"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਯੁੱਧ ਦਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ਉਸ ਦਾ ਨਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:16:55.627888718Z",
+  "model": "glm-5.2"
+}

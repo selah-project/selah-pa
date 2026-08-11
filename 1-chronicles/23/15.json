@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਮੋਸ਼ੇ ਦੇ ਪੁੱਤਰ — ਗਰਸ਼ੋਮ ਅਤੇ ਏਲੀਏਜ਼ਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਦੇ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ਗਰਸ਼ੋਮ"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ਅਤੇ ਏਲੀਏਜ਼ਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:10:45.669999435Z",
+  "model": "glm-5.2"
+}

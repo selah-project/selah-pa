@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਧਿਕਾਰ ਹੈ ⟨ਉਸ⟩ ਰਿਸ਼ਵਤ ਲੈਣ ਵਾਲੇ ਨੂੰ, ਨੇਫ਼ੇਸ਼ ਨੂੰ ਮਾਰਨ ਲਈ — ਬੇਕਸੂਰ ਖੂਨ ਨੂੰ — ਅਤੇ ਸਾਰੇ ਲੋਕਾਂ ਨੇ ਕਿਹਾ, ਆਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਧਿਕਾਰ ਹੈ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ਲੈਣ ਵਾਲੇ ਨੂੰ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ਰਿਸ਼ਵਤ"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ਮਾਰਨ ਲਈ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਨੇਫ਼ੇਸ਼ ਨੂੰ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ਖੂਨ ਨੂੰ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ਬੇਕਸੂਰ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕਾਂ ਨੇ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ਆਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:28.193673058Z",
+  "model": "glm-5.2"
+}

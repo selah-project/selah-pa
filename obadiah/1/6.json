@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਕਿੰਨਾ ਏਸਾਵ ਛਾਣਿਆ ਗਿਆ! ਉਸ ਦੇ ਲੁਕਾਏ ਹੋਏ ਖ਼ਜ਼ਾਨੇ ਲੁੱਟੇ ਗਏ!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ਕਿੰਨਾ"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "ਛਾਣਿਆ ਗਿਆ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "ਲੁੱਟੇ ਗਏ"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "ਉਸ ਦੇ ਲੁਕਾਏ ਹੋਏ ਖ਼ਜ਼ਾਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:13:26.075670395Z",
+  "model": "glm-5.2"
+}

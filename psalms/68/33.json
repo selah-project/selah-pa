@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 68,
+  "translation": "ਧਰਤੀ ਦੇ ਰਾਜ ਏਲੋਹੀਮ ਲਈ ਗਾਓ, ਅਦੋਨਾਈ ਲਈ ਵਜਾਓ — ਸੇਲਾਹ।",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "ਰਾਜ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ਗਾਓ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ਏਲੋਹੀਮ ਲਈ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ਵਜਾਓ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ ਲਈ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ਸੇਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:57:19.317021634Z",
+  "model": "glm-5.2"
+}

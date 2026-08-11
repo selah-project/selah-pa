@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਤਾਂ ਖ਼ਿਜ਼ਕੀਯਾਹੂ ਰਾਜੇ ਦੇ ਨੌਕਰ ਯਸ਼ਾਯਾਹੂ ਕੋਲ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ਤਾਂ … ਆਏ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ਨੌਕਰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ ਦੇ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ਖ਼ਿਜ਼ਕੀਯਾਹੂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ਯਸ਼ਾਯਾਹੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:01:43.152816931Z",
+  "model": "glm-5.2"
+}

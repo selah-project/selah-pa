@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਗੁਆਂਢੀ ਨੂੰ ਕੁਝ ਵੀ ਉਧਾਰ ਦਿਓ, ਤਾਂ ਉਸ ਦੇ ਘਰ ਵਿੱਚ ਉਸ ਦੀ ਗਿਰਵੀ ਲੈਣ ਲਈ ਨਾ ਜਾਓ।",
+  "tokens": [
+    {
+      "surface": "ਛי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "ਤੁਸੀਂ ਉਧਾਰ ਦਿਓ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ਆਪਣੇ ਗੁਆਂਢੀ ਨੂੰ"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ਉਧਾਰ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ਕੁਝ ਵੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ਤੁਸੀਂ ਜਾਓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ਉਸ ਦੇ ਘਰ"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ਗਿਰਵੀ ਲੈਣ ਲਈ"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "ਉਸ ਦੀ ਗਿਰਵੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:45.772620398Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਜੇ ਉਹ ਕਹਿੰਦੇ ਹਨ, “ਯਾਹਵੇਹ ਜੀਵਤ ਹੈ,” ਤਾਂ ਯਕੀਨਨ ਉਹ ਝੂਠ ਦੀ ਸਹੁੰ ਖਾਂਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜੀਵਤ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ਉਹ ਕਹਿੰਦੇ ਹਨ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ਤਾਂ ਯਕੀਨਨ"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ਝੂਠ ਦੀ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ਸਹੁੰ ਖਾਂਦੇ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:17:01.961577292Z",
+  "model": "glm-5.2"
+}

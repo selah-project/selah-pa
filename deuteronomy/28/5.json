@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਧੁਨਿਆਵਨਾ ਤੇਰੀ ਟੋਕਰੀ ਅਤੇ ਤੇਰੀ ਗੁੰਦੀ-ਕਟੋਰੀ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ਧੁਨਿਆਵਨਾ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ਤੇਰੀ ਟੋਕਰੀ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ਅਤੇ ਤੇਰੀ ਗੁੰਦੀ-ਕਟੋਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:54.897477504Z",
+  "model": "glm-5.2"
+}

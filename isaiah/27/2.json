@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਉਸ ਦਿਨ ⟨ਇਹ ਗੀਤ ਗਾਓ⟩: ਇੱਕ ਚੰਗਿਆਈ ਦੀ ਵੇਲ, ਮੈਂ ਉਸ ਨੂੰ ਗਾਵਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ਵੇਲ"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ਚੰਗਿਆਈ ਦੀ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ਮੈਂ ਗਾਵਾਂਗਾ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਉਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:45:12.360252941Z",
+  "model": "glm-5.2"
+}

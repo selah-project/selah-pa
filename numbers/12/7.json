@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਇਉਂ ਨਹੀਂ ⟨ਹੈ⟩ ਮੇਰਾ ਦਾਸ ਮੋਸ਼ੇ; ਮੇਰੇ ਸਾਰੇ ਘਰ ਵਿੱਚ ਉਹ ਵਫ਼ਾਦਾਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ਮੇਰਾ ਦਾਸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਸਾਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ਮੇਰੇ ਘਰ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ਵਫ਼ਾਦਾਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:25.593323153Z",
+  "model": "glm-5.2"
+}

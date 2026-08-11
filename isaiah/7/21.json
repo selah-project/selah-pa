@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਉਸ ਦਿਨ ਇਹ ਹੋਵੇਗਾ ⟨ਕਿ⟩ ਇੱਕ ਆਦਮੀ ਇੱਕ ਗਾਂ ਪਾਲੇਗਾ ਅਤੇ ਦੋ ਭੇਡਾਂ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ਅਤੇ ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ਪਾਲੇਗਾ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਇੱਕ ਆਦਮੀ"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "ਗਾਂ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਪਸ਼ੂ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ਅਤੇ ਦੋ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ਭੇਡਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:49:38.850368891Z",
+  "model": "glm-5.2"
+}

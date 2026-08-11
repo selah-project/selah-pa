@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਯਾਹਵੇਹ ਆਪਣਾ ਚਿਹਰਾ ਤੇਰੇ ਵੱਲ ਚੁੱਕੇ, ਅਤੇ ਤੈਨੂੰ ਸ਼ਾਲੋਮ ਬਖ਼ਸ਼ੇ।",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ਚੁੱਕੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ਆਪਣਾ ਚਿਹਰਾ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੇਰੇ ਵੱਲ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ਅਤੇ ⟨ਤੈਨੂੰ⟩ ਬਖ਼ਸ਼ੇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਸ਼ਾਲੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:48:57.272732355Z",
+  "model": "glm-5.2"
+}

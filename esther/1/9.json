@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਵਸ਼ਤੀ ਰਾਣੀ ਨੇ ਵੀ ਔਰਤਾਂ ਦਾ ਮੇਲਾ ਕੀਤਾ — ⟨ਉਹ⟩ ਰਾਜ-ਘਰ ਵਿੱਚ ਜੋ ਅਹਸ਼ਵੇਰੋਸ਼ ਰਾਜੇ ਦਾ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ਵਸ਼ਤੀ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ਰਾਣੀ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ਕੀਤਾ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ਮੇਲਾ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ਔਰਤਾਂ ਦਾ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "ਰਾਜ-ਘਰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ਰਾਜੇ ਦਾ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ਅਹਸ਼ਵੇਰੋਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T02:16:06.562330189Z",
+  "model": "glm-5.2"
+}

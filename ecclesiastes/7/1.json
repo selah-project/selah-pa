@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਚੰਗਾ ⟨ਹੈ⟩ ਨਾਂ ਤੇਲ ਤੋਂ, ਅਤੇ ਮੌਤ ਦਾ ਦਿਨ ਜਨਮ ਦੇ ਦਿਨ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਂ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ਤੇਲ ਤੋਂ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ਹੈ⟩"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ਅਤੇ ... ਦਾ ਦਿਨ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ਮੌਤ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "... ਤੋਂ ਦਿਨ"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ਜਨਮ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:59.589353616Z",
+  "model": "glm-5.2"
+}

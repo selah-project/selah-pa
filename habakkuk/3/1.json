@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਖ਼ਾਬਕੁਕ ਨਬੀ ਦੀ ਬੇਨਤੀ, ਉਸ ਦੇ ਸ਼ਿਗਿਓਨੋਤ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "תְּפִלָּ֖ה",
+      "gloss": "ਬੇਨਤੀ"
+    },
+    {
+      "surface": "לַחֲבַקּ֣וּק",
+      "gloss": "ਖ਼ਾਬਕੁਕ ਲਈ"
+    },
+    {
+      "surface": "הַנָּבִ֑יא",
+      "gloss": "ਨਬੀ"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "שִׁגְיֹנֽוֹת",
+      "gloss": "ਸ਼ਿਗਿਓਨੋਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:20:26.259590238Z",
+  "model": "glm-5.2"
+}

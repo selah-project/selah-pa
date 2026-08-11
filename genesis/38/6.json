@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 38,
+  "translation": "ਅਤੇ ਯਹੂਦਾ ਨੇ ਆਪਣੇ ਜੇਠੇ ਪੁੱਤਰ ਲਈ ਇੱਕ ਇਸਤਰੀ ਲਈ, ਜਿਸ ਦਾ ਨਾਂ ਤਾਮਾਰ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ਅਤੇ ਲਿਆ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾ ਨੇ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇੱਕ ਇਸਤਰੀ"
+    },
+    {
+      "surface": "לער",
+      "gloss": "ਲਈ ਲਈ"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ਆਪਣੇ ਜੇਠੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਨਾਂ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ਤਾਮਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:02:36.902332076Z",
+  "model": "glm-5.2"
+}

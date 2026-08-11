@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਵਨਯਾ, ਮੇਰੇਮੋਤ, ਏਲਯਾਸ਼ੀਵ।",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ਵਨਯਾ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ਮੇਰੇਮੋਤ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ਏਲਯਾਸ਼ੀਵ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:38:51.729256352Z",
+  "model": "glm-5.2"
+}

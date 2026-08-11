@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਪਸ਼ੂ ਦੋ ਅਤੇ ਸੱਤਰ ਹਜ਼ਾਰ ⟨ਸਨ⟩,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ਅਤੇ ਪਸ਼ੂ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ਅਤੇ ਸੱਤਰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:04:18.727307309Z",
+  "model": "glm-5.2"
+}

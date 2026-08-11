@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਅਖੀਤੂਬ ਨੇ ⟨את⟩ ਜ਼ਾਦੋਕ ਨੂੰ ਜਨਮਿਆ, ਅਤੇ ਜ਼ਾਦੋਕ ਨੇ ⟨את⟩ ਅਖੀਮਾਅਸ ਨੂੰ ਜਨਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ਅਤੇ ਅਖੀਤੂਬ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਨੇ ਜਨਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜ਼ਾਦੋਕ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ਜ਼ਾਦੋਕ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ਅਤੇ ਜ਼ਾਦੋਕ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਨੇ ਜਨਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅਖੀਮਾਅਸ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ਅਖੀਮਾਅਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:12.409751352Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬਲਦ, ਇੱਕ ਵੱਡਾ ਮੇਢਾ, ਇੱਕ ਇੱਕ ਸਾਲ ਦਾ ਮੇਮਣਾ, ਸਾੜਨ ਲਈ ਭੇਟ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਪਸ਼ੂ-ਝੁੰਡ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ਮੇਢਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ਮੇਮਣਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ਇੱਕ ਸਾਲ ਦਾ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ਸਾੜਨ ਲਈ ਭੇਟ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:50:03.953681214Z",
+  "model": "glm-5.2"
+}

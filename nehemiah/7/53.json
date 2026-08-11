@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬੱਕੁਕ ਦੇ ਪੁੱਤਰ, ਚਾਕੂਫ਼ਾ ਦੇ ਪੁੱਤਰ, ਚਰਚੂਰ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "ਬੱਕੁਕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ਚਾਕੂਫ਼ਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ਚਰਚੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:45:45.039073100Z",
+  "model": "glm-5.2"
+}

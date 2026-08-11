@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਜੇ ਤੇਰਾ ਕ਼ਰਬਾਨ ਤਵੇ ਉੱਤੇ ⟨ਪਕਾਈ ਗਈ⟩ ਮਨਖਾਹ ਹੋਵੇ, ਤਾਂ ਇਹ ਤੇਲ ਵਿੱਚ ਰਲਾਈ ਹੋਈ ਸੋਲਤ ਦੀ ਮੱਤਜ਼ਾਹ ⟨ਹੋਵੇ⟩।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ਮਨਖਾਹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "ਤਵੇ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ਤੇਰਾ ਕ਼ਰਬਾਨ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ਸੋਲਤ"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ਰਲਾਈ ਹੋਈ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ਤੇਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ਮੱਤਜ਼ਾਹ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਹੋਵੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:30:33.979618557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਖਾਨਾਨ ਮਾਅਖਾਹ ਦਾ ਪੁੱਤਰ, ਅਤੇ ਯੋਸ਼ਾਫ਼ਾਤ ਮਿਥਨੀ,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ਖਾਨਾਨ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ਮਾਅਖਾਹ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "ਅਤੇ ਯੋਸ਼ਾਫ਼ਾਤ"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "ਮਿਥਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:15.834005705Z",
+  "model": "glm-5.2"
+}

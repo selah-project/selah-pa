@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਨਾਥ ਹੋ ਗਏ ਹਾਂ ਅਸੀਂ, ਬਾਪ ਤੋਂ ਬਿਨਾਂ; ਸਾਡੀਆਂ ਮਾਵਾਂ ਵਿਧਵਾਵਾਂ ਵਾਂਗੂੰ ⟨ਹਨ⟩।",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "ਅਨਾਥ ਹੋ ਗਏ ਹਾਂ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ਅਸੀਂ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਤੋਂ ਬਿਨਾਂ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ਬਾਪ"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ਸਾਡੀਆਂ ਮਾਵਾਂ"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "ਵਿਧਵਾਵਾਂ ਵਾਂਗੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:38.539868828Z",
+  "model": "glm-5.2"
+}

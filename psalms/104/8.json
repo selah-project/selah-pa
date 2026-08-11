@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 104,
+  "translation": "ਪਹਾੜ ਚੜ੍ਹ ਗਏ, ਘਾਟੀਆਂ ਉਤਰ ਗਈਆਂ, ਉਸ ਥਾਂ ਵੱਲ ਜੋ ਤੂੰ ਉਹਨਾਂ ਲਈ ਬੀਡਿਆ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ਚੜ੍ਹ ਗਏ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ਉਤਰ ਗਈਆਂ"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ਘਾਟੀਆਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਉੱਤੇ ਵੱਲ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ਥਾਂ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ਤੂੰ ਬੀਡਿਆ ਸੀ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:07:04.066057684Z",
+  "model": "glm-5.2"
+}

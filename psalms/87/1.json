@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 87,
+  "translation": "ਕੋਰਹ ਦੇ ਪੁੱਤਰਾਂ ਦਾ, ਜ਼ਬੂਰ, ਗੀਤ। ⟨ਉਸ ਦੀ⟩ ਨੀਂਹ ਪਵਿੱਤਰ ਪਹਾੜਾਂ ਵਿੱਚ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ਕੋਰਹ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "ਨੀਂਹ"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ਪਹਾੜਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:03:56.862166183Z",
+  "model": "glm-5.2"
+}

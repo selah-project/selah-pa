@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਕਿਉਂਕਿ ਤੁਸੀਂ ਹੁਣ ਤੱਕ ਨਹੀਂ ਆਏ ਉਸ ਆਰਾਮ ਅਤੇ ਉਸ ਵਿਰਸੇ ⟨ਵੱਲ⟩, ਜੋ ਯਾਹਵੇਹ ਤੇਰਾ ਏਲੋਹੀਮ ਤੈਨੂੰ ਦੇ ਰਿਹਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ਆਏ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ਵੱਲ⟩"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ਉਸ ਆਰਾਮ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ⟨ਵੱਲ⟩"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "ਉਸ ਵਿਰਸੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਤੇਰਾ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਦੇ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੈਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:16:19.757198888Z",
+  "model": "glm-5.2"
+}

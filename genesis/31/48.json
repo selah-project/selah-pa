@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਲਵਾਨ ਨੇ ਕਿਹਾ, ਇਹ ਢੇਰ ਅੱਜ ਮੇਰੇ ਅਤੇ ਤੇਰੇ ਵਿਚਕਾਰ ਇੱਕ ਗਵਾਹ ਹੈ; ਇਸੇ ਲਈ ਉਸ ਦਾ ਨਾਮ ਗਲਏਦ ਪਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ਲਵਾਨ ਨੇ"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "ਢੇਰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਗਵਾਹ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ਮੇਰੇ ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ਅਤੇ ਤੇਰੇ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਅੱਜ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਇਸੇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ਨਾਮ ਪਿਆ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ਉਸ ਦਾ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ਗਲਏਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:58:37.854026288Z",
+  "model": "glm-5.2"
+}

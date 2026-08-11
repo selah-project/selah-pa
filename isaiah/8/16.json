@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਗਵਾਹੀ ਨੂੰ ਬੰਨ੍ਹ, ਮੇਰੇ ਸ਼ਾਗਿਰਦਾਂ ਵਿੱਚ ਤੋਰਾਹ ਨੂੰ ਸੀਲ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ਬੰਨ੍ਹ"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "ਗਵਾਹੀ ਨੂੰ"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "ਸੀਲ ਕਰ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ਤੋਰਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ਮੇਰੇ ਸ਼ਾਗਿਰਦਾਂ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:49:28.456608327Z",
+  "model": "glm-5.2"
+}

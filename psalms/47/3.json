@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 47,
+  "translation": "ਕਿ ਯਾਹਵੇਹ, ਏਲਯੋਨ, ਭਿਆਨਕ ⟨ਹੈ⟩; ਸਾਰੀ ਧਰਤੀ ਉੱਤੇ ਇੱਕ ਮਹਾਨ ਰਾਜਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ਏਲਯੋਨ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ਭਿਆਨਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਮਹਾਨ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:47:48.390870924Z",
+  "model": "glm-5.2"
+}

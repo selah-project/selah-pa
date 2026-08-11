@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 121,
+  "translation": "ਵੇਖ, ਨਾ ਨੀਂਦ ਕਰੇਗਾ ਅਤੇ ਨਾ ਸਵੇਗਾ — ਯਿਸ੍ਰਾਏਲ ਦਾ ਰਾਖਾ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ਨੀਂਦ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ਸਵੇਗਾ"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ਰਾਖਾ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸ੍ਰਾਏਲ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:17.930610971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਤੇਰੇ ਕੱਪੜੇ ਤੇਰੇ ਉੱਤੋਂ ਪੁਰਾਣੇ ਨਹੀਂ ਹੋਏ, ਅਤੇ ਤੇਰਾ ਪੈਰ ਇਹ ਚਾਲ੍ਹੀ ਸਾਲ ਨਹੀਂ ਸੁੱਜਿਆ।",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ਤੇਰੇ ਕੱਪੜੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ਪੁਰਾਣੇ ਹੋਏ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ਤੇਰੇ ਉੱਤੋਂ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ਅਤੇ ਤੇਰਾ ਪੈਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ਸੁੱਜਿਆ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ਚਾਲ੍ਹੀ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:13:36.935147138Z",
+  "model": "glm-5.2"
+}

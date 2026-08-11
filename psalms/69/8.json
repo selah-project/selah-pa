@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 69,
+  "translation": "ਕਿਉਂਕਿ ਤੇਰੇ ਲਈ ਮੈਂ ਨਿੰਦਾ ਸਹੀ ਹੈ; ਸ਼ਰਮ ਨੇ ਮੇਰਾ ਮੂੰਹ ਢੱਕ ਲਿਆ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ਤੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ਮੈਂ ਸਹੀ ਹੈ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ਨਿੰਦਾ"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ਢੱਕ ਲਿਆ ਹੈ"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ਸ਼ਰਮ ਨੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਮੇਰਾ ਮੂੰਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:57:56.481381299Z",
+  "model": "glm-5.2"
+}

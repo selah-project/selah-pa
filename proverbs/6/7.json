@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਜਿਸ ਦਾ ਕੋਈ ਸਰਦਾਰ ਨਹੀਂ ⟨ਹੈ⟩, ਨਾ ਨਿਗਰਾਨ ਅਤੇ ਨਾ ਹਾਕਮ ⟨ਹੈ⟩,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਦਾ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ ⟨ਹੈ⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "ਕੋਈ ਸਰਦਾਰ"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ਨਿਗਰਾਨ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ਅਤੇ ਹਾਕਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:24.986441551Z",
+  "model": "glm-5.2"
+}

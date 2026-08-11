@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "⟨את⟩ ਤੇਰੇ ਨਿਯਮ ਮੈਂ ਰੱਖਾਂ; ਮੈਨੂੰ ਬਿਲਕੁਲ ਨਾ ਛੱਡ!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਤੇਰੇ ਨਿਯਮ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ਤੇਰੇ ਨਿਯਮ"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ਮੈਂ ਰੱਖਾਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ਛੱਡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤਕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਿਲਕੁਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:12:10.504506971Z",
+  "model": "glm-5.2"
+}

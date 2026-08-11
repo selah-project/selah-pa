@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਕਿ ਨਾ ਤੂੰ ਖਾ ਕੇ ਰਜ ਜਾਏਂ, ਅਤੇ ਚੰਗੇ ਘਰ ਬਣਾਏ ਅਤੇ ਉਨ੍ਹਾਂ ਵਿੱਚ ਵੱਸ ਜਾਏਂ,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ਕਿ ਨਾ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ਤੂੰ ਖਾ ਕੇ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ਰਜ ਜਾਏਂ"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ਅਤੇ ਘਰ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ਚੰਗੇ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ਬਣਾਏ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ਅਤੇ ਵੱਸ ਜਾਏਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:12:01.330974074Z",
+  "model": "glm-5.2"
+}

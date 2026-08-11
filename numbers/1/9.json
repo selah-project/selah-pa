@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਜ਼ਬੂਲੂਨ ਲਈ — ਏਲੀਆਬ, ਖ਼ੇਲੋਨ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ਜ਼ਬੂਲੂਨ ਲਈ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ਏਲੀਆਬ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ਖ਼ੇਲੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:47.672908114Z",
+  "model": "glm-5.2"
+}

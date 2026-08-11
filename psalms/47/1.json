@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 47,
+  "translation": "ਮਹਿਫ਼ਿਲ ਦੇ ਮੁਖੀ ਲਈ, ਕੋਰਹ ਦੇ ਪੁੱਤਰਾਂ ਲਈ, ਇੱਕ ਜ਼ਬੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮਹਿਫ਼ਿਲ ਦੇ ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਲਈ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ਕੋਰਹ ਦੇ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਇੱਕ ਜ਼ਬੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:47:48.390560566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤਦ ਉਸ ਦੇ ਸਾਹਮਣੇ ਤੋਂ ਇੱਕ ਹੱਥ ਦੀ ਹਥੇਲੀ ਭੇਜੀ ਗਈ, ਅਤੇ ਇਹ ਲਿਖਤ ਲਿਖੀ ਗਈ।",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "ਉਸ ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "ਭੇਜੀ ਗਈ"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "ਹੱਥ ਦੀ ਹਥੇਲੀ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ਦੀ"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "ਅਤੇ ਲਿਖਤ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ਲਿਖੀ ਗਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:24:53.059260600Z",
+  "model": "glm-5.2"
+}

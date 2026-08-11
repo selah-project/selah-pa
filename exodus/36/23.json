@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਮਿਸ਼ਕਣ ਲਈ ਤਖ਼ਤੇ ਬਣਾਏ; ਦੱਖਣ ਵੱਲ ਦੱਖਣ-ਪਾਸੇ ਵਲ ਵੀਹ ਤਖ਼ਤੇ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਬਣਾਏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਤਖ਼ਤੇ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ਤਖ਼ਤੇ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ਮਿਸ਼ਕਣ ਲਈ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ਤਖ਼ਤੇ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ਦੱਖਣ-ਪਾਸੇ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ਦੱਖਣ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:28:02.601405864Z",
+  "model": "glm-5.2"
+}

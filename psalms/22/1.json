@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਮੰਡਰਾਉਣ ਵਾਲੇ ਲਈ, ⟨ਸੁਰ ਸੰਕੇਤ⟩ 'ਅਈਲਤ ਹਸ਼ਾਖਰ' ਉੱਤੇ, ਦਾਵਿਦ ਦਾ ਜ਼ਬੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਰਾਉਣ ਵਾਲੇ ਲਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ਅਈਲਤ"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ਹਸ਼ਾਖਰ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:32:01.560592017Z",
+  "model": "glm-5.2"
+}

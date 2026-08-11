@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਅੱਦਾ ਨੇ ⟨את⟩ ਯਾਬਲ ਨੂੰ ਜਨਮ ਦਿੱਤਾ; ਉਹ ਓਡੇ ਵਿੱਚ ਵਸਣ ਵਾਲਿਆਂ ਅਤੇ ਪਸ਼ੂ ਪਾਲਣ ਵਾਲਿਆਂ ਦਾ ਪਿਤਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ਅਤੇ ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ਅੱਦਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਾਬਲ ਨੂੰ"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "ਯਾਬਲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਪਿਤਾ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ਵਸਣ ਵਾਲਿਆਂ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ਓਡੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ਅਤੇ ਪਸ਼ੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:12.590341694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨਾਲ ਗੱਲ ਕੀਤੀ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "ਅਤੇ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:14.016823261Z",
+  "model": "glm-5.2"
+}

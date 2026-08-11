@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਨਾਤੋਤ ਦੇ ਮਰਦ ਇੱਕ ਸੌ ਵੀਹ ਅੱਠ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ਅਨਾਤੋਤ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:31:53.712531288Z",
+  "model": "glm-5.2"
+}

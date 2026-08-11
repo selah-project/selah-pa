@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 23:1",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਕਹਿੰਦਾ ਹੋਇਆ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਆਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦਾ ਹੋਇਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:23.578957158Z",
+  "model": "glm-5.2"
+}

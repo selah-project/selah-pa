@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਪੰਦਰਾਂ ਗਿਰਾਂ ਉੱਪਰ ਤੱਕ ਪਾਣੀ ਬਲਵਾਨ ਹੋਏ, ਅਤੇ ਪਹਾੜ ਢੱਕੇ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ਗਿਰਾਂ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ਉੱਪਰ ਤੱਕ"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ਬਲਵਾਨ ਹੋਏ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ਪਾਣੀ"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "ਅਤੇ ਢੱਕੇ ਗਏ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ਪਹਾੜ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:07.397483414Z",
+  "model": "glm-5.2"
+}

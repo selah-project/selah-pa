@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਜਾਂ ਕੁੱਬਾ, ਜਾਂ ਬੌਣਾ, ਜਾਂ ਜਿਸ ਦੀ ਅੱਖ ਵਿੱਚ ਧੱਬਾ ਹੋਵੇ, ਜਾਂ ਜਿਸ ਨੂੰ ਖਾਜ ਹੋਵੇ, ਜਾਂ ਛਾਲੇ ਹੋਣ, ਜਾਂ ਜਿਸ ਦੇ ਅੰਡਕੋਸ਼ ਮਸਲੇ ਹੋਏ ਹੋਣ।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "ਕੁੱਬਾ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ਬੌਣਾ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "ਧੱਬਾ"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "ਉਸ ਦੀ ਅੱਖ ਵਿੱਚ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ਖਾਜ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "ਛਾਲੇ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ਮਸਲੇ ਹੋਏ"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "ਅੰਡਕੋਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T20:41:16.429820239Z",
+  "model": "glm-5.2"
+}

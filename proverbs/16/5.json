@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਯਾਹਵੇਹ ਲਈ ⟨ਇਹ⟩ ਘਿਣਾਉਣੀ ਗੱਲ ਹੈ ਹਰ ਉੱਚੇ-ਦਿਲ ਵਾਲਾ; ਹੱਥ ਤੋਂ ਹੱਥ ⟨ਤੱਕ⟩, ਉਹ ਨਿਰਦੋਸ਼ ਨਹੀਂ ਰਹੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ਘਿਣਾਉਣੀ ਗੱਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ਉੱਚੇ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ ਵਾਲਾ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ਤੋਂ ਹੱਥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ਨਿਰਦੋਸ਼ ਰਹੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:03.942075544Z",
+  "model": "glm-5.2"
+}

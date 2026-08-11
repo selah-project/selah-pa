@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਚਤੁਰਾਈ ਅਤੇ ਅਨੁਸ਼ਾਸਨ ਨੂੰ ਜਾਣਨ ਲਈ, ਸਮਝ ਦੇ ਬਚਨਾਂ ਨੂੰ ਸਮਝਣ ਲਈ —",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ਜਾਣਨ ਲਈ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਚਤੁਰਾਈ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ਅਤੇ ਅਨੁਸ਼ਾਸਨ"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ਸਮਝਣ ਲਈ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ਬਚਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ਸਮਝ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:33.501541384Z",
+  "model": "glm-5.2"
+}

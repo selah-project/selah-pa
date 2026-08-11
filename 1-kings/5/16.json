@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਸ਼ਲੇਮੋਹ ਨੇ ਖ਼ੀਰਾਮ ਕੋਲ ਭੇਜਿਆ ⟨ਕੇ ਕਹਿੰਦੇ ਹੋਏ⟩:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ਅਤੇ ਭੇਜਿਆ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੇਮੋਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ਖ਼ੀਰਾਮ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕੇ ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:22:19.742674402Z",
+  "model": "glm-5.2"
+}

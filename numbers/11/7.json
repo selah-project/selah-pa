@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਮੰਨ ਧਨੀਏ ਦੇ ਬੀਜ ਵਰਗਾ ਸੀ, ਅਤੇ ਉਸ ਦਾ ਰੰਗ ਬਦੋਲਖ ਦੇ ਰੰਗ ਵਰਗਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "ਅਤੇ ਮੰਨ"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ਬੀਜ ਵਰਗਾ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਧਨੀਆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਰੰਗ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "ਰੰਗ ਵਰਗਾ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ਬਦੋਲਖ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:52:44.059277354Z",
+  "model": "glm-5.2"
+}

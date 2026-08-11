@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "⟨ਇਹ⟩ ਉਹ ਬਚਨ ਜੋ ਯਿਰਮਿਯਾਹੁ ਕੋਲ ਆਇਆ ⟨את⟩ ਯਾਹਵੇਹ ਵੱਲੋਂ, ਕਹਿਣ ਲਈ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੁ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿਣ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:28:34.482606419Z",
+  "model": "glm-5.2"
+}

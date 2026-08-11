@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਅਬੀਮੇਲੇਖ ਨੇ ਅਵਰਾਹਾਮ ਨੂੰ ਆਖਿਆ, ਤੂੰ ਕੀ ਵੇਖਿਆ, ਕਿ ਤੂੰ ⟨את⟩ ⟨ਇਹ⟩ ਕੰਮ ਕੀਤਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਆਖਿਆ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ਅਬੀਮੇਲੇਖ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ਤੂੰ ਵੇਖਿਆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ਤੂੰ ਕੀਤਾ ਹੈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ਇਹ⟩ ਕੰਮ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨ਇਹ⟩ ਕੰਮ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:52:20.712661586Z",
+  "model": "glm-5.2"
+}

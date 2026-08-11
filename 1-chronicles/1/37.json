@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਰਾਊਏਲ ਦੇ ਪੁੱਤਰ: ਨਾਖ਼ਤ, ਜ਼ੇਰਖ਼, ਸ਼ੰਮਾ ਅਤੇ ਮਿੱਜ਼ਾ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ਰਾਊਏਲ ਦੇ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ਨਾਖ਼ਤ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ਜ਼ੇਰਖ਼"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ਸ਼ੰਮਾ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ਅਤੇ ਮਿੱਜ਼ਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:43.281466896Z",
+  "model": "glm-5.2"
+}

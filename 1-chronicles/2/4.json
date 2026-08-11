@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਤਾਮਾਰ, ਉਸ ਦੀ ਨੂੰਹ ਨੇ, ਉਸ ਨੂੰ ⟨את⟩ ਪੇਰੇਸ ਅਤੇ ⟨את⟩ ਜ਼ੇਰਖ ਨੂੰ ਜਨਮਿਆ। ਯਹੂਦਾਹ ਦੇ ਪੁੱਤਰ ਸਾਰੇ ਪੰਜ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "ਅਤੇ ਤਾਮਾਰ"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ਉਸ ਦੀ ਨੂੰਹ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ਨੇ ਜਨਮਿਆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪੇਰੇਸ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ਪੇਰੇਸ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਜ਼ੇਰਖ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ਜ਼ੇਰਖ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾਹ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:31.064980209Z",
+  "model": "glm-5.2"
+}

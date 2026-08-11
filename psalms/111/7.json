@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 111,
+  "translation": "ਉਸ ਦੇ ਹੱਥਾਂ ਦੇ ਕੰਮ ਸੱਚ ਅਤੇ ਨਿਆਂ ਹਨ; ਭਰੋਸੇਯੋਗ ਹਨ ਉਸ ਦੇ ਸਾਰੇ ਹੁਕਮ।",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ਉਸ ਦੇ ਹੱਥਾਂ ਦੇ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ਸੱਚ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ਅਤੇ ਨਿਆਂ"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ਭਰੋਸੇਯੋਗ ਹਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ਉਸ ਦੇ ਹੁਕਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:11:25.250146750Z",
+  "model": "glm-5.2"
+}

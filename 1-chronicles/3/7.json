@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਨੋਗਾ, ਅਤੇ ਨੇਫੇਗ, ਅਤੇ ਯਾਫੀਆ;",
+  "tokens": [
+    {
+      "surface": "וונגה",
+      "gloss": "ਅਤੇ ਨੋਗਾ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ਅਤੇ ਨੇਫੇਗ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ਅਤੇ ਯਾਫੀਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:32.029828418Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਖ਼ਤਸਰੋਨ ਦੇ ਪੁੱਤਰ ਜੋ ਉਸ ਨੂੰ ਪੈਦਾ ਹੋਏ ⟨ਸਨ⟩ ⟨את⟩ ਯਰਹਮਏਲ ਅਤੇ ⟨את⟩ ਰਾਮ ਅਤੇ ⟨את⟩ ਕਲੂਬਈ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ … ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ਖ਼ਤਸਰੋਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ਪੈਦਾ ਹੋਏ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਰਹਮਏਲ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ਯਰਹਮਏਲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਰਾਮ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ਰਾਮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਕਲੂਬਈ"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "ਕਲੂਬਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:01.995975231Z",
+  "model": "glm-5.2"
+}

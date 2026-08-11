@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਹੇ ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ, ਦੋ ਇਸਤਰੀਆਂ ਸਨ, ਇੱਕ ਮਾਂ ਦੀਆਂ ਧੀਆਂ,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ਇਸਤਰੀਆਂ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਮਾਂ ਦੀਆਂ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਸਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:23.579235542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਸਾਡੀ ਇੱਕ ਛੋਟੀ ਭੈਣ ਹੈ, ਅਤੇ ਉਸ ਦੇ ਛਾਤੀਆਂ ਨਹੀਂ ਹਨ; ਜਿਸ ਦਿਨ ਉਸ ਬਾਰੇ ਗੱਲ ਕੀਤੀ ਜਾਵੇ, ਸਾਡੀ ਭੈਣ ਲਈ ਅਸੀਂ ਕੀ ਕਰੀਏ?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "ਭੈਣ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਡੀ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ਛੋਟੀ"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "ਅਤੇ ਛਾਤੀਆਂ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ ਹਨ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਉਸ ਦੇ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ਕਰੀਏ"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "ਸਾਡੀ ਭੈਣ ਲਈ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਜਿਸ ਦਿਨ"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "ਗੱਲ ਕੀਤੀ ਜਾਵੇ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਉਸ ਬਾਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:02:54.360845536Z",
+  "model": "glm-5.2"
+}

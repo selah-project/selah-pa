@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਹਰ ਉਹ ⟨ਚੀਜ਼⟩ ਜਿਸ ਦੇ ਪਾਣੀਆਂ ਵਿੱਚ ਖੰਭ ਅਤੇ ਖਰੋਂਚ ਨਹੀਂ ⟨ਹਨ⟩, ਉਹ ਤੁਹਾਡੇ ਲਈ ਘਿਣਾਉਣਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਉਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਦੇ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ ਹਨ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ਖੰਭ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ਅਤੇ ਖਰੋਂਚ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ਪਾਣੀਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ਘਿਣਾਉਣਾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:34:47.580311653Z",
+  "model": "glm-5.2"
+}

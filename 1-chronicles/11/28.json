@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਇਰਾ ਇਕੇਸ਼ ਦਾ ਪੁੱਤਰ ਤਕੋਈ, ਅਬੀਏਜੇਰ ਅਨਾਤੋਤੀ,",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ਇਰਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ਇਕੇਸ਼ ਦਾ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ਤਕੋਈ"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ਅਬੀਏਜੇਰ"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ਅਨਾਤੋਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:35.314477694Z",
+  "model": "glm-5.2"
+}

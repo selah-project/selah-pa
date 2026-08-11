@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਸ਼ਬਦ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਇਹ ਕਹਿੰਦਾ ਹੋਇਆ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਸ਼ਬਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ ਆਇਆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਇਹ ਕਹਿੰਦਾ ਹੋਇਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:57:37.120248816Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 115,
+  "translation": "ਉਹਨਾਂ ਦੇ ਬੁੱਤ ਚਾਂਦੀ ਅਤੇ ਸੋਨਾ ⟨ਹਨ⟩, ਮਨੁੱਖੀ ਹੱਥਾਂ ਦਾ ਕੰਮ।",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਬੁੱਤ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ਚਾਂਦੀ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ਅਤੇ ਸੋਨਾ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ਦਾ ਕੰਮ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ਹੱਥਾਂ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:36:41.100091168Z",
+  "model": "glm-5.2"
+}

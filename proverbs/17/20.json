@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਟੇਢੇ ਦਿਲ ਵਾਲਾ ਚੰਗਿਆਈ ਨਹੀਂ ਲੱਭਦਾ, ਅਤੇ ਆਪਣੀ ਜੀਭ ਪਲਟਣ ਵਾਲਾ ਬੁਰਾਈ ਵਿੱਚ ਡਿੱਗਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "ਟੇਢੇ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ ਵਾਲਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ਲੱਭਦਾ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਿਆਈ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ਅਤੇ ਪਲਟਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "ਆਪਣੀ ਜੀਭ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ਡਿੱਗਦਾ ਹੈ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ਬੁਰਾਈ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:39.387095518Z",
+  "model": "glm-5.2"
+}

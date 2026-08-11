@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਇਹ ਹਨ ਏਸਾਵ ਦੇ ਵੰਸ਼, ਏਦੋਮ ਦੇ ਪਿਤਾ ਦੇ, ਸੇਈਰ ਪਹਾੜ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ਵੰਸ਼"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ ਦੇ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਪਿਤਾ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ ਦੇ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ਪਹਾੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ਸੇਈਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:13.806940252Z",
+  "model": "glm-5.2"
+}

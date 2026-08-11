@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਹੁਣ, ਤੂੰ ਅਤੇ ਜੋ ਲੋਕ ⟨את⟩ ਤੇਰੇ ਨਾਲ ਹਨ, ਰਾਤ ਨੂੰ ਉੱਠੋ ਅਤੇ ਖੇਤ ਵਿੱਚ ਘਾਤ ਲਾਓ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ਉੱਠੋ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ਰਾਤ ਨੂੰ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ਅਤੇ ਲੋਕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ਤੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ਅਤੇ ਘਾਤ ਲਾਓ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ਖੇਤ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:42:53.886770493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਲਏਜ਼ਰਾ ਦੇ ⟨ਵਾਸਤੇ⟩, ਮਸ਼ੁੱਲਾਮ; ਲਅਮਰਯਾ ਦੇ ⟨ਵਾਸਤੇ⟩, ਯਹੋਚਾਨਨ;",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "ਲਏਜ਼ਰਾ ਦੇ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ਮਸ਼ੁੱਲਾਮ"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "ਲਅਮਰਯਾ ਦੇ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "ਯਹੋਚਾਨਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:48:54.646372618Z",
+  "model": "glm-5.2"
+}

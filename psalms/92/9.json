@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 92,
+  "translation": "ਅਤੇ ਤੂੰ ਬੁਲੰਦ ⟨ਹੈਂ⟩ ਸਦੀਵ ਲਈ, ਹੇ ਯਾਹਵੇਹ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ਅਤੇ ਤੂੰ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ਬੁਲੰਦ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ਸਦੀਵ ਲਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:04:59.513542399Z",
+  "model": "glm-5.2"
+}

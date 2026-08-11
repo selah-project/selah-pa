@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਇਹ ਏਸਾਵ ਦੇ ਪੁੱਤਰ ਹਨ, ਅਤੇ ਇਹ ਉਹਨਾਂ ਦੇ ਅਲੂਫ਼ ਹਨ; ਉਹੀ ਏਦੋਮ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਅਲੂਫ਼"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:43.804658320Z",
+  "model": "glm-5.2"
+}

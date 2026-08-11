@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 72,
+  "translation": "ਮੁੱਕ ਗਈਆਂ ⟨ਹਨ⟩ ਦਾਵਿਦ ਦੀਆਂ ਅਰਦਾਸਾਂ, ਯਿਸ਼ਯ ਦੇ ਪੁੱਤ੍ਰ।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ਮੁੱਕ ਗਈਆਂ"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ਅਰਦਾਸਾਂ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਵਿਦ ਦੀਆਂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ਯਿਸ਼ਯ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:58:02.612370694Z",
+  "model": "glm-5.2"
+}

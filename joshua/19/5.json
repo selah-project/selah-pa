@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਜ਼ਿਕਲਾਗ, ਅਤੇ ਬੇਤ-ਹਮ-ਮਾਰਕਾਬੋਤ, ਅਤੇ ਖ਼ਤਸਰ-ਸੂਸਾਹ।",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ਅਤੇ ਜ਼ਿਕਲਾਗ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ਹਮ-ਮਾਰਕਾਬੋਤ"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ਅਤੇ ਖ਼ਤਸਰ"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "ਸੂਸਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:34:53.361180379Z",
+  "model": "glm-5.2"
+}

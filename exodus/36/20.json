@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਮਸ਼ਕਾਨ ਲਈ ⟨את⟩ ਬੋਹੜ ਦੀ ਲੱਕੜ ਦੇ ਖੜ੍ਹੇ ਡੰਡੇ ਬਣਾਏ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਬਣਾਏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਡੰਡਿਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ਡੰਡੇ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ਮਸ਼ਕਾਨ ਲਈ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ਲੱਕੜ ਦੇ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ਬੋਹੜ"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ਖੜ੍ਹੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:28:26.506369175Z",
+  "model": "glm-5.2"
+}

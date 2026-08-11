@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਉਸ ਦਿਨ ⟨את⟩ ਲੋਕਾਂ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ, ⟨ਕਹਿ ਕੇ⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ਅਤੇ ਹੁਕਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਲੋਕਾਂ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:58.529100603Z",
+  "model": "glm-5.2"
+}

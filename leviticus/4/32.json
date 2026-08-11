@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 4:32",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਜੇ ਉਹ ਆਪਣੀ ਪਾਪ-ਭੇਟ ਲਈ ਭੇਟ ਵਜੋਂ ਇੱਕ ਭੇਡ ਦਾ ਬੱਕਰਾ ਲਿਆਵੇ, ਤਾਂ ਇੱਕ ਬੇਦਾਗ਼ ਮਾਦਾ ਲਿਆਵੇ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ਭੇਡ ਦਾ ਬੱਕਰਾ"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ਲਿਆਵੇ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ਆਪਣੀ ਭੇਟ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ਪਾਪ-ਭੇਟ ਲਈ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ਮਾਦਾ"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "ਬੇਦਾਗ਼"
+    },
+    {
+      "surface": "יביאנה",
+      "gloss": "ਲਿਆਵੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:31:26.050576889Z",
+  "model": "glm-5.2"
+}

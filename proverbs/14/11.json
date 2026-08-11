@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਦੁਸ਼ਟਾਂ ਦਾ ਘਰ ਉਜੜ ਜਾਵੇਗਾ, ਪਰ ਸਿੱਧਿਆਂ ਦਾ ਤੰਬੂ ਫੈਲੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦਾ"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "ਉਜੜ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ਪਰ ਤੰਬੂ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ਸਿੱਧਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "ਫੈਲੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:25:54.986650949Z",
+  "model": "glm-5.2"
+}

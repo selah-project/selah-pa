@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਹੁਣ ਤੇਰੇ ਹੱਥ ਹੇਠ ਕੀ ਹੈ? ਮੇਰੇ ਹੱਥ ਵਿੱਚ ਪੰਜ ਰੋਟੀਆਂ ਦੇ, ਜਾਂ ਜੋ ਵੀ ⟨ਮਿਲਦਾ⟩ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ਹੈ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ਤੇਰੇ ਹੱਥ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀਆਂ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ਦੇ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ਮੇਰੇ ਹੱਥ ਵਿੱਚ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ਜੋ ਵੀ ⟨ਮਿਲਦਾ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T22:01:51.408409797Z",
+  "model": "glm-5.2"
+}

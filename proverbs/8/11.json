@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਕਿਉਂਕਿ ਚੰਗੀ ਹੈ ਚੰਗਿਆਈ ਮੋਤੀਆਂ ਤੋਂ, ਅਤੇ ਸਾਰੀਆਂ ਇੱਛਤ ਵਸਤਾਂ ਉਸ ਦੇ ਬਰਾਬਰ ਨਹੀਂ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "ਛੁਪ",
+      "gloss": "ਚੰਗੀ ਹੈ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਚੰਗਿਆਈ"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ਮੋਤੀਆਂ ਤੋਂ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੀਆਂ"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "ਇੱਛਤ ਵਸਤਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "ਬਰਾਬਰ ਹਨ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਉਸ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:54.176449446Z",
+  "model": "glm-5.2"
+}

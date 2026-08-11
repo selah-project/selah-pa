@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਉਹ ਯਿਤਸਖਾਕ ਅਤੇ ਰਿਬਕਾਹ ਲਈ ਰੂਹ ਦੀ ਕੜਵਾਹਟ ਬਣੀਆਂ।",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "ਅਤੇ ਉਹ ਬਣੀਆਂ"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ਕੜਵਾਹਟ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਰੂਹ ਦੀ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ਯਿਤਸਖਾਕ ਲਈ"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "ਅਤੇ ਰਿਬਕਾਹ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:04.042326020Z",
+  "model": "glm-5.2"
+}

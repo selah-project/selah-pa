@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 10:13",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਜ਼ੱਕੂਰ, ਸ਼ੇਰੇਬਯਾਹ, ਸ਼ੇਬਨਯਾਹ,",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ਜ਼ੱਕੂਰ"
+    },
+    {
+      "surface": "שרביה",
+      "gloss": "ਸ਼ੇਰੇਬਯਾਹ"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ਸ਼ੇਬਨਯਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:48:43.940582969Z",
+  "model": "glm-5.2"
+}

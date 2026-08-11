@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤੂੰ ਇਸ ਨੂੰ ⟨את⟩ ਟੁਕੜਿਆਂ ਵਿੱਚ ਤੋੜੇਂ, ਅਤੇ ਉੱਤੇ ਤੇਲ ਪਾਏਂ — ਇਹ ਮਨਖਾਹ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "ਤੂੰ ਤੋੜੇਂ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ਟੁਕੜਿਆਂ ਵਿੱਚ ਇਸ ਨੂੰ"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ਟੁਕੜਿਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ਅਤੇ ਤੂੰ ਪਾਏਂ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ਤੇਲ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ਮਨਖਾਹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਇਹ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:30:33.979911560Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਖੋਤੇ ਇੱਕ ਅਤੇ ਸਠ ਹਜ਼ਾਰ ⟨ਸਨ⟩,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ਅਤੇ ਖੋਤੇ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸਠ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:04:18.727508132Z",
+  "model": "glm-5.2"
+}

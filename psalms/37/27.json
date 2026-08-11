@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਬੁਰਾਈ ਤੋਂ ਹਟ ਜਾ ਅਤੇ ਚੰਗਾਈ ਕਰ, ਅਤੇ ਸਦਾ ਲਈ ਵਸ।",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ਹਟ ਜਾ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ਬੁਰਾਈ ਤੋਂ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ਅਤੇ ਕਰ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾਈ"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ਅਤੇ ਵਸ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦਾ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:43:12.461735059Z",
+  "model": "glm-5.2"
+}

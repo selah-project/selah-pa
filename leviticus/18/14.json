@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤੇਰੇ ਪਿਤਾ ਦੇ ਭਰਾ ਦੀ ਨੰਗਤਾ ਨੂੰ ਤੂੰ ਨਾ ਖੋਲ੍ਹ; ਉਸ ਦੀ ਪਤਨੀ ਵੱਲ ਨਾ ਨੇੜੇ ਆਉ — ਉਹ ਤੇਰੀ ਚਾਚੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ਨੰਗਤਾ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ਭਰਾ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ਤੇਰੇ ਪਿਤਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ਤੂੰ ਖੋਲ੍ਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ਉਸ ਦੀ ਪਤਨੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ਤੂੰ ਨੇੜੇ ਆਉ"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "ਤੇਰੀ ਚਾਚੀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:38:14.403315236Z",
+  "model": "glm-5.2"
+}

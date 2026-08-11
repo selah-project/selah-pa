@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਆਪਣੇ ਲਈ ਚੌਕਸ ਰਹੁ ਕਿ ਕਿਤੇ ਤੂੰ ਆਪਣੀਆਂ ਸੜਾਹੁਟਾਂ ਨੂੰ ਹਰ ਉਸ ਥਾਂ ਜਿੱਥੇ ਤੂੰ ਵੇਖੇਂ, ਚੜ੍ਹਾਏਂ:",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ਚੌਕਸ ਰਹੁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ਕਿ ਕਿਤੇ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ਤੂੰ ਚੜ੍ਹਾਏਂ"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "ਆਪਣੀਆਂ ਸੜਾਹੁਟਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ਉਸ ਥਾਂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿੱਥੇ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ਤੂੰ ਵੇਖੇਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:24.684984296Z",
+  "model": "glm-5.2"
+}

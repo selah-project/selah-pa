@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਤੇ ਮੈਂ ਜਵਾਬ ਦਿੱਤਾ ਤੇ ਉਸ ਫ਼ਰਿਸ਼ਤੇ ਨੂੰ ਕਿਹਾ ਜੋ ਮੇਰੇ ਵਿੱਚ ਗੱਲ ਕਰ ਰਿਹਾ ⟨ਸੀ⟩: ਇਹ ਕੀ ⟨ਹਨ⟩, ਮੇਰੇ ਅਦੋਨਾਈ?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ਤੇ ਮੈਂ ਜਵਾਬ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ਫ਼ਰਿਸ਼ਤੇ"
+    },
+    {
+      "surface": "ਔਰ",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਗੱਲ ਕਰ ਰਿਹਾ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ਮੇਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਮੇਰੇ ਅਦੋਨਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:23:11.256656508Z",
+  "model": "glm-5.2"
+}

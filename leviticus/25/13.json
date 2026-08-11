@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਇਸ ਯੋਬੇਲ ਦੇ ਸਾਲ ਵਿੱਚ ਤੁਸੀਂ ਵਾਪਸ ਆਓ, ਹਰ ਇੱਕ ਆਦਮੀ ਆਪਣੀ ਵਿਰਾਸਤ ਵੱਲ।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "...ਦੇ ਸਾਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "ਯੋਬੇਲ ਦੇ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ਤੁਸੀਂ ਵਾਪਸ ਆਓ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਹਰ ਇੱਕ ਆਦਮੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ਵੱਲ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ਆਪਣੀ ਵਿਰਾਸਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:43:47.639404069Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤੇਰੇ ਚਸ਼ਮੇ ਬਾਹਰ ਫੈਲ ਜਾਣ, ਗਲੀਆਂ ਵਿੱਚ ਪਾਣੀ ਦੇ ਦਰਿਆ?",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "ਫੈਲ ਜਾਣ"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "ਤੇਰੇ ਚਸ਼ਮੇ"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ਬਾਹਰ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ਗਲੀਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ਦਰਿਆ"
+    },
+    {
+      "surface": "ਮים",
+      "gloss": "ਪਾਣੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:00.588228128Z",
+  "model": "glm-5.2"
+}

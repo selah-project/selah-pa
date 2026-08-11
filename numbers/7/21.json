@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬਲਦ, ਇੱਕ ਬੋਤਾ, ਇੱਕ ਇੱਕ ਸਾਲ ਦਾ ਮੇਢਾ, ਸਾੜਨ ਦੇ ਕੁਰਬਾਨ ਲਈ;",
+  "tokens": [
+    {
+      "surface": "פַּ֣ר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "אֶחָ֞ד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ਬੱਚੇ"
+    },
+    {
+      "surface": "בָּקָ֗ר",
+      "gloss": "ਢੋਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "אַ֧יִל",
+      "gloss": "ਬੋਤਾ"
+    },
+    {
+      "surface": "אֶחָ֛ד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "כֶּֽבֶשׂ",
+      "gloss": "ਮੇਢਾ"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "ਬੱਚੇ"
+    },
+    {
+      "surface": "שְׁנָת֖וֹ",
+      "gloss": "ਸਾਲ ਦੇ"
+    },
+    {
+      "surface": "לְעֹלָֽה",
+      "gloss": "ਸਾੜਨ ਦੇ ਕੁਰਬਾਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:39.759515794Z",
+  "model": "glm-5.2"
+}

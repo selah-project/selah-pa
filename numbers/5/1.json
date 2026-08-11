@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨੂੰ ਕਿਹਾ ⟨ਕੇ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਬੋਲਿਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਿਹਾ ⟨ਕੇ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T20:50:21.128391203Z",
+  "model": "glm-5.2"
+}

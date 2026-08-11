@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਕਿਉਂਕਿ ਬਹੁਤ ਨੇੜੇ ਤੈਨੂੰ ⟨ਹੈ⟩ ⟨ਉਹ⟩ ਬਚਨ, ਤੇਰੇ ਮੂੰਹ ਵਿੱਚ ਅਤੇ ਤੇਰੇ ਦਿਲ ਵਿੱਚ, ਇਸ ਨੂੰ ਕਰਨ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ਨੇੜੇ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ਤੇਰੇ ਮੂੰਹ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "ਅਤੇ ਤੇਰੇ ਦਿਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "ਇਸ ਨੂੰ ਕਰਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:23:43.839039835Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਸਾਹੇਲ, ਯੋਆਬ ਦਾ ਭਰਾ, ਤੀਹ ਵਿੱਚੋਂ; ਏਲਹਨਾਨ, ਦੋਦੋ ਦਾ ਪੁੱਤਰ, ਬੇਤ-ਲੇਹੇਮ ਦਾ।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ਕੀਤੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਅਸਾਹੇਲ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ਭਰਾ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ਯੋਆਬ ਦਾ"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "ਤੀਹ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ਏਲਹਨਾਨ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ਦੋਦੋ ਦਾ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਲੇਹੇਮ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:18:20.310885627Z",
+  "model": "glm-5.2"
+}

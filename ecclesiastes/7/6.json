@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਕਿਉਂਕਿ ਕੌਂਡਿਆਂ ਦੀ ਝੱਖ ਦੀ ਆਵਾਜ਼ ⟨ਜੋ⟩ ਭੱਠੀ ਹੇਠ ਹੁੰਦੀ ਹੈ — ਸੋ ਮੂਰਖ ਦਾ ਹਾਸਾ ਹੈ; ਅਤੇ ਇਹ ਵੀ ਹਵਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ਦੀ ਆਵਾਜ਼ ਵਾਂਗ"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ਕੌਂਡਿਆਂ ਦੀ ਝੱਖ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ਭੱਠੀ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਸੋ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ਹਾਸਾ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ਮੂਰਖ ਦਾ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ਅਤੇ ਵੀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ਹਵਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:12:33.116253684Z",
+  "model": "glm-5.2"
+}

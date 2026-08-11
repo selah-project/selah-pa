@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਸਾਰੇ ਬਜ਼ੁਰਗਾਂ ਅਤੇ ਸਾਰੇ ਲੋਕਾਂ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, ਨਾ ਸੁਣ, ਅਤੇ ਨਾ ਮੰਨ।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ਬਜ਼ੁਰਗਾਂ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕਾਂ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ਮੰਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:31:42.388646330Z",
+  "model": "glm-5.2"
+}

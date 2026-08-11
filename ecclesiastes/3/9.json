@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਕੀ ਲਾਭ ⟨ਹੈ⟩ ⟨ਉਸ⟩ ਕਰਨ ਵਾਲੇ ਨੂੰ ਉਸ ਵਿੱਚ ਜਿਸ ਵਿੱਚ ਉਹ ਮਿਹਨਤ ਕਰਦਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ਲਾਭ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ਕਰਨ ਵਾਲੇ ਨੂੰ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ਉਸ ਵਿੱਚ ਜਿਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ਮਿਹਨਤ ਕਰਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:10:40.384420087Z",
+  "model": "glm-5.2"
+}

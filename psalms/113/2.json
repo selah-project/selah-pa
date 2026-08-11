@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 113,
+  "translation": "ਯਾਹਵੇਹ ਦੇ ਨਾਂ ਦਾ ਭਰਿਆ ਜਾਵੇ, ਹੁਣ ਤੋਂ ਅਤੇ ਸਦਾ ਤੀਕ।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ਦਾ ਭਰਿਆ ਜਾਵੇ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ਭਰਿਆ ਜਾਵੇ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ਹੁਣ ਤੋਂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ਅਤੇ ਸਦਾ ਤੀਕ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ਸਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:10:50.010311824Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 49,
+  "translation": "ਭਾਵੇਂ ਮਨੁੱਖਾਂ ਦੇ ਪੁੱਤਰ, ਭਾਵੇਂ ਨੇਕ ਮਰਦਾਂ ਦੇ ਪੁੱਤਰ, ਇਕੱਠੇ — ਧਨਵਾਨ ਅਤੇ ਕੰਗਾਲ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਭਾਵੇਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖਾਂ ਦੇ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਭਾਵੇਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਨੇਕ ਮਰਦਾਂ ਦੇ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ਇਕੱਠੇ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ਧਨਵਾਨ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ਅਤੇ ਕੰਗਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:48:51.791231034Z",
+  "model": "glm-5.2"
+}

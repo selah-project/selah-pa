@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 40,
+  "translation": "ਅਤੇ ਅਯੂਬ ਨੇ ⟨את⟩ ਯਾਹਵੇਹ ਦਾ ਜਵਾਬ ਦਿੱਤਾ ਅਤੇ ਕਿਹਾ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ਅਤੇ ਜਵਾਬ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ਅਯੂਬ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:58:07.682686825Z",
+  "model": "glm-5.2"
+}

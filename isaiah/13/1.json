@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਬਾਬਲ ਦਾ ਭਾਰ, ਜੋ ਯਿਸ਼ਾਯਾਹੂ ਨੇ, ਅਮੋਤਸ ਦੇ ਪੁੱਤਰ ਨੇ, ਵੇਖਿਆ।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ਭਾਰ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ਬਾਬਲ ਦਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ਵੇਖਿਆ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ਯਿਸ਼ਾਯਾਹੂ ਨੇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ ਨੇ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ਅਮੋਤਸ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:52:50.145086267Z",
+  "model": "glm-5.2"
+}

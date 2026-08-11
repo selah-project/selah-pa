@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਨੇਕੀ ਨਾਲ ਥੋੜ੍ਹਾ ⟨ਚੰਗਾ ਹੈ⟩, ਨਿਆਂ ਤੋਂ ਬਿਨਾਂ ਵੱਡੀ ਆਮਦਨ ਤੋਂ ਵਧੇਰੇ।",
+  "tokens": [
+    {
+      "surface": "ਘੋਬ",
+      "gloss": "⟨ਚੰਗਾ ਹੈ⟩"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ਥੋੜ੍ਹਾ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ਨੇਕੀ ਨਾਲ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ਵੱਡੀ"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ਆਮਦਨ ਤੋਂ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:03.942607754Z",
+  "model": "glm-5.2"
+}

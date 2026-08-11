@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਮਰਯਾ ਦਾ ਪੁੱਤਰ, ਅਜ਼ਰਯਾ ਦਾ ਪੁੱਤਰ, ਮਰਾਯੋਤ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ਅਮਰਯਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ਅਜ਼ਰਯਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ਮਰਾਯੋਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:36:50.253948579Z",
+  "model": "glm-5.2"
+}

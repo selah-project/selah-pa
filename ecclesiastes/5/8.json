@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਧਰਤੀ ਦਾ ਲਾਭ ⟨ਹਰ ਕਿਸੇ ਲਈ ਹੈ⟩ — ਇੱਕ ਰਾਜਾ ⟨ਹੈ⟩ ⟨ਜੋ⟩ ਖੇਤ ਲਈ ਸੇਵਾ ਕਰਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ਅਤੇ ਲਾਭ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ ਦਾ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਹਰ ਕਿਸੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਇੱਕ ਰਾਜਾ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ਖੇਤ ਲਈ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ਜਿਸ ਦੀ ਸੇਵਾ ਕੀਤੀ ਜਾਂਦੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:14:49.718472213Z",
+  "model": "glm-5.2"
+}

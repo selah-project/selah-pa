@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਬੁੱਧ ਪ੍ਰਾਪਤ ਕਰ, ਸਮਝ ਪ੍ਰਾਪਤ ਕਰ; ਭੁੱਲ ਨਾ, ਅਤੇ ਮੇਰੇ ਮੂੰਹ ਦੇ ਕਥਨਾਂ ਤੋਂ ਝੁਕ ਨਾ ਜਾ।",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ਪ੍ਰਾਪਤ ਕਰ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਬੁੱਧ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ਪ੍ਰਾਪਤ ਕਰ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ਸਮਝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ਭੁੱਲ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ਝੁਕ ਜਾ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ਕਥਨਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੇਰੇ ਮੂੰਹ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:21:57.755039159Z",
+  "model": "glm-5.2"
+}

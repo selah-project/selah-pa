@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅੱਗ ਨਿਰੰਤਰ ਮਿਜ਼ਬਹ ਉੱਤੇ ਬਲਦੀ ਰਹੇ, ਉਹ ਬੁੱਝੇ ਨਾ।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ਨਿਰੰਤਰ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ਬਲਦੀ ਰਹੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ਮਿਜ਼ਬਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ਬੁੱਝੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:32:00.270277626Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਪੋਤਰਿਆਂ ਦਾ ਤਾਜ ਬਜ਼ੁਰਗ ਹਨ, ਅਤੇ ਬੱਚਿਆਂ ਦਾ ਮਾਣ ਉਹਨਾਂ ਦੇ ਪਿਤਾ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ਤਾਜ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ਬਜ਼ੁਰਗਾਂ ਦਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਬੱਚੇ"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ਅਤੇ ਮਾਣ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਬੱਚਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਪਿਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:33.018447287Z",
+  "model": "glm-5.2"
+}

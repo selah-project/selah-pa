@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬਾਰ੍ਹਵੇਂ ਦਿਨ ⟨ਉਹ⟩ ਨਫ਼ਤਾਲੀ ਦੇ ਪੁੱਤਰਾਂ ਦਾ ਨਸੀਂ ਅਖੀਰਾ, ਏਨਾਨ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ ⟨ਉੱਤੇ⟩"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਂ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ਨਫ਼ਤਾਲੀ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ਅਖੀਰਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ਏਨਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:11.889267813Z",
+  "model": "glm-5.2"
+}

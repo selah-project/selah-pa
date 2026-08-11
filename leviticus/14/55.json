@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਕੱਪੜੇ ਦੇ ਤਸੀਹ ਲਈ ਅਤੇ ਘਰ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "ਅਤੇ ਤਸੀਹ ਲਈ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ਕੱਪੜੇ ਦੇ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ਅਤੇ ਘਰ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:32.008663088Z",
+  "model": "glm-5.2"
+}

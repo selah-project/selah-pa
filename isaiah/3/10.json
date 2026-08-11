@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਧਰਮੀ ਦੇ ਬਾਰੇ ਕਹੋ ਕਿ ਚੰਗਾ ਹੋਵੇਗਾ, ਕਿਉਂਕਿ ਉਹ ਆਪਣੇ ਕੰਮਾਂ ਦਾ ਫ਼ਲ ਖਾਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ਕਹੋ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ ਦੇ ਬਾਰੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ਫ਼ਲ"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਕੰਮਾਂ ਦਾ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ਉਹ ਖਾਣਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:48:33.517096835Z",
+  "model": "glm-5.2"
+}

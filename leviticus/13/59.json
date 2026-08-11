@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "leviticus 13:59",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਇਹ ⟨ਉਹ⟩ ਤੋਰਤ ਹੈ ਚਮੜੇ ਦੀ ਵਸਤੂ ਵਿੱਚ ਨਗ ਦੀ ਤਸ਼ਰੀਖ਼ ਦੀ, ਉਨ੍ਹਾਂ ਨੂੰ ਪਵਿੱਤਰ ਠਹਿਰਾਉਣ ਦੀ ਜਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਅਪਵਿੱਤਰ ਠਹਿਰਾਉਣ ਦੀ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ਤੋਰਤ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ਨਗ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ਤਸ਼ਰੀਖ਼"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ਕੱਪੜੇ ਦੇ"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ਉੱਨ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "הפשתים",
+      "gloss": "ਸਣ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "ਤਾਣੇ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ਪੇਟੇ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕਿਸੇ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ਵਸਤੂ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ਚਮੜੇ ਦੀ"
+    },
+    {
+      "surface": "לטהרו",
+      "gloss": "ਉਸ ਨੂੰ ਪਵਿੱਤਰ ਠਹਿਰਾਉਣ ਲਈ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "לטמאו",
+      "gloss": "ਉਸ ਨੂੰ ਅਪਵਿੱਤਰ ਠਹਿਰਾਉਣ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:00.749106674Z",
+  "model": "glm-5.2"
+}

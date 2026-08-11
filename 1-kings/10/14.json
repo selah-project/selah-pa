@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਸੋਨੇ ਦਾ ਭਾਰ ਜੋ ਇੱਕ ਸਾਲ ਵਿੱਚ ਸ਼ਲੋਮੋਹ ਕੋਲ ਆਇਆ, ਛੇ ਸੌ ਛਹਿ ਕੁ ਸੱਠ ਕਿੱਕਾਰ ਸੋਨਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ਭਾਰ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ਸੋਨੇ ਦਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ ਕੋਲ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ਸਾਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ਛਹਿ ਕੁ ਸੱਠ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ਅਤੇ ਛੇ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ਕਿੱਕਾਰ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:25:37.594965893Z",
+  "model": "glm-5.2"
+}

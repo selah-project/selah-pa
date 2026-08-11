@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਬੁਰਾਈ ਤੋਂ ਹਟੋ ਅਤੇ ਭਲਾਈ ਕਰੋ; ਸ਼ਾਲੋਮ ਨੂੰ ਮੰਗੋ ਅਤੇ ਉਸ ਦਾ ਪਿੱਛਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ਹਟੋ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ਬੁਰਾਈ ਤੋਂ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ਅਤੇ ਕਰੋ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਭਲਾਈ"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ਮੰਗੋ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਸ਼ਾਲੋਮ ਨੂੰ"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਪਿੱਛਾ ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:39:09.632342392Z",
+  "model": "glm-5.2"
+}

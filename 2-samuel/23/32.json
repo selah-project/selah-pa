@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਏਲਯਾਖਬਾ ਸ਼ਾਅਲਬੋਨੀ, ਯਾਸ਼ੇਨ ਦੇ ਬੇਟੇ ਯਹੋਨਾਤਾਨ,",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "ਏਲਯਾਖਬਾ"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ਸ਼ਾਅਲਬੋਨੀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੇਟੇ"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ਯਾਸ਼ੇਨ ਦੇ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ਯਹੋਨਾਤਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.820785595Z",
+  "model": "glm-5.2"
+}

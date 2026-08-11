@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਜਾਂ ਜਦੋਂ ਜਿਊਂਦਾ ਮੁੜ੍ਹਾ ਮੁੜੇ ਅਤੇ ਚਿੱਟਾ ਹੋ ਜਾਵੇ, ਤਾਂ ⟨ਉਹ⟩ ਕੋਹੇਨ ਕੋਲ ਆਵੇ।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ਮੁੜੇ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ਮੁੜ੍ਹਾ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ਜਿਊਂਦਾ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ਅਤੇ ਹੋ ਜਾਵੇ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ਚਿੱਟਾ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ਤਾਂ ਆਵੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕੋਹੇਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:14.859538768Z",
+  "model": "glm-5.2"
+}

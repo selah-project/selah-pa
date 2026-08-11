@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਵੱਡਾ ਹੈ ਅਤੇ ਬਹੁਤ ਵਧਾਇਆ ਜਾਂਦਾ ਹੈ, ਅਤੇ ਭਿਆਨਕ ⟨ਹੈ⟩ ਉਹ ਸਾਰੇ ਏਲੋਹੀਮ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡਾ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ਅਤੇ ਵਧਾਇਆ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ਅਤੇ ਭਿਆਨਕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:06:00.196904633Z",
+  "model": "glm-5.2"
+}

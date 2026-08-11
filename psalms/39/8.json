@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਅਤੇ ਹੁਣ, ਮੈਂ ਕੀ ਦੀ ਉਡੀਕ ਕਰਾਂ, ਹੇ ਅਦੋਨਾਈ? ਮੇਰੀ ਆਸ ਤੇਰੇ ਲਈ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ ਦੀ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ਮੈਂ ਉਡੀਕ ਕਰਾਂ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਹੇ ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "ਪੋਹਲਤੀ",
+      "gloss": "ਮੇਰੀ ਆਸ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:44:06.848992365Z",
+  "model": "glm-5.2"
+}

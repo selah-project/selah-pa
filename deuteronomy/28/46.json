@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਇਹ ਤੇਰੇ ਵਿੱਚ ਨਿਸ਼ਾਨ ਅਤੇ ਅਚੰਭੇ ਲਈ ਹੋਣਗੇ, ਅਤੇ ਤੇਰੇ ਬੀਜ ਵਿੱਚ ਸਦਾ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ਅਤੇ ਇਹ ਹੋਣਗੇ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ਤੇਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ਨਿਸ਼ਾਨ ਲਈ"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "ਅਤੇ ਅਚੰਭੇ ਲਈ"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "ਅਤੇ ਤੇਰੇ ਬੀਜ ਵਿੱਚ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਸਦਾ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:22:49.351312863Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਆਖਿਆ, ਹੇ ਮੇਰੇ ਭਰਾਵੋ, ਇਹ ਬੁਰਾ ਕਾਰਨਾ ਮਤ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਆਖਿਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਮਤ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ਮੇਰੇ ਭਰਾਵੋ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ਬੁਰਾ ਕਾਰਨਾ ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:51:13.410575214Z",
+  "model": "glm-5.2"
+}

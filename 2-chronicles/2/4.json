@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਉਹ ਘਰ ਜੋ ਮੈਂ ਬਣਾ ਰਿਹਾ ਹਾਂ ਵੱਡਾ ਹੈ, ਕਿਉਂਕਿ ਸਾਡਾ ਏਲੋਹੀਮ ਸਾਰੇ ਏਲੋਹੀਮ ਤੋਂ ਵੱਡਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ਅਤੇ ਉਹ ਘਰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "ਬਣਾ ਰਿਹਾ ਹਾਂ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡਾ ਹੈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡਾ ਹੈ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ਸਾਡਾ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ਸਾਰੇ ਤੋਂ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:17:56.257102560Z",
+  "model": "glm-5.2"
+}

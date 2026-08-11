@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਉਸ ਦੇ ਰਾਜ ਦਾ ਆਰੰਭ ਬਾਬਲ, ਅਰੇਕ, ਅੱਕਦ ਅਤੇ ਕਲਨੇਹ ⟨ਸੀ⟩, ਸ਼ਿਨਆਰ ਦੇ ਦੇਸ਼ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ਅਤੇ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ਆਰੰਭ"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ਉਸ ਦੇ ਰਾਜ ਦਾ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ਬਾਬਲ"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ਅਰੇਕ"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "ਅੱਕਦ"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "ਅਤੇ ਕਲਨੇਹ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "ਸ਼ਿਨਆਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:10.527888335Z",
+  "model": "glm-5.2"
+}

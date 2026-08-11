@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਬੇਤ-ਫ਼ਿਓਰ, ਅਤੇ ਪਿਸਗਾਹ ਦੇ ਲਾਂਭੇ, ਅਤੇ ਬੇਤ-ਹਯਸ਼ਿਮੋਤ,",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ਫ਼ਿਓਰ"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "ਅਤੇ ਲਾਂਭੇ"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ਪਿਸਗਾਹ ਦੇ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "ਹਯਸ਼ਿਮੋਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:48.456337890Z",
+  "model": "glm-5.2"
+}

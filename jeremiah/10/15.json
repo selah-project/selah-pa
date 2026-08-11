@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਵਿਰਲਤਾ ਹਨ ਉਹ, ਧੋਖੇ ਦਾ ਕੰਮ; ਉਹਨਾਂ ਦੇ ਦੌਰਾ ਵੇਲੇ ਉਹ ਨਾਸ ਹੋ ਜਾਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ਵਿਰਲਤਾ ਹਨ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "ਧੋਖੇ ਦਾ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ਵੇਲੇ"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਦੌਰਾ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ਉਹ ਨਾਸ ਹੋ ਜਾਣਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:17:54.818629246Z",
+  "model": "glm-5.2"
+}

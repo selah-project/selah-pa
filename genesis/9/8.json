@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਏਲੋਹੀਮ ਨੇ ਨੂਹ ਨੂੰ ਅਤੇ ਉਸ ਦੇ ਪੁੱਤਰਾਂ ਨੂੰ ⟨את⟩ ⟨ਉਸ ਦੇ ਨਾਲ⟩ ਕਿਹਾ, ⟨ਕਹਿ ਕੇ⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੂਹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨੂੰ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ਉਸ ਦੇ ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ਉਸ ਦੇ ਨਾਲ⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਹਿ ਕੇ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:18.334231507Z",
+  "model": "glm-5.2"
+}

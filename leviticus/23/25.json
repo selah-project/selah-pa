@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਕੋਈ ਵੀ ਨੌਕਰੀ ਵਾਲਾ ਕੰਮ ਨਾ ਕਰੋ, ਅਤੇ ਤੁਸੀਂ ਯਾਹਵੇਹ ਲਈ ਅੱਗ ਦੀ ਭੇਟ ਨੇੜੇ ਲਿਆਓ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ਨੌਕਰੀ ਵਾਲਾ ਕੰਮ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ਕਰੋ"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "ਅਤੇ ਤੁਸੀਂ ਨੇੜੇ ਲਿਆਓ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਅੱਗ ਦੀ ਭੇਟ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:43:29.466091154Z",
+  "model": "glm-5.2"
+}

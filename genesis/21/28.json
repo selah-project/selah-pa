@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਅਵਰਾਹਾਮ ਨੇ ⟨את⟩ ਭੇਡਾਂ ਦੇ ਸੱਤ ਕਲਾਵਾਂ ਵੱਖਰੇ ਕੀਤੇ।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ਅਤੇ ਵੱਖਰੇ ਕੀਤੇ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਭੇਡਾਂ ਦੇ ਸੱਤ ਕਲਾਵਾਂ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ਕਲਾਵਾਂ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ਭੇਡਾਂ ਦੇ"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ਵੱਖਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:52:17.478449811Z",
+  "model": "glm-5.2"
+}

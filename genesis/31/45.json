@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਯਾਕੋਬ ਨੇ ਇੱਕ ਪੱਥਰ ਲਿਆ ਅਤੇ ਉਸ ਨੂੰ ਮਨੋਹਰ ਵਜੋਂ ਖੜ੍ਹਾ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ਅਤੇ ਲਿਆ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ ਨੇ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ਇੱਕ ਪੱਥਰ"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "ਅਤੇ ਉਸ ਨੂੰ ਉੱਚਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ਮਨੋਹਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:58:37.853377998Z",
+  "model": "glm-5.2"
+}

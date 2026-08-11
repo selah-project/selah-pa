@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਕ੍ਰੋਧ ਉਸ ਦਿਨ ਭੜਕਿਆ, ਅਤੇ ਉਸ ਨੇ ਸਹੁੰ ਖਾਧੀ, ਕਹਿ ਕੇ:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ਅਤੇ ਭੜਕਿਆ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ਕ੍ਰੋਧ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ਅਤੇ ਸਹੁੰ ਖਾਧੀ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:02.716476119Z",
+  "model": "glm-5.2"
+}

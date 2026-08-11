@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਦਾਵਿਦ ਉੱਠਿਆ ਅਤੇ ਉਸ ਦਿਨ ਸ਼ਾਊਲ ਦੇ ਮੂੰਹੋਂ ਭੱਜ ਗਿਆ, ਅਤੇ ਗਤ ਦੇ ਰਾਜੇ ਅਖੀਸ਼ ਕੋਲ ਆਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ਅਤੇ ਉੱਠਿਆ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਵਿਦ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ਅਤੇ ਭੱਜ ਗਿਆ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ਦੇ ਮੂੰਹੋਂ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਾਊਲ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ਅਖੀਸ਼"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ਗਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:02:42.930808897Z",
+  "model": "glm-5.2"
+}

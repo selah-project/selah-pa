@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਤਸਲਮੋਨ ਅਹੋਹੀ, ਮਹਾਰਈ ਨਤੋਫ਼ਾਤੀ,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ਤਸਲਮੋਨ"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "ਅਹੋਹੀ"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "ਮਹਾਰਈ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ਨਤੋਫ਼ਾਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.432858130Z",
+  "model": "glm-5.2"
+}

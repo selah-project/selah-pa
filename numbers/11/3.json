@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ⟨ਉਸ⟩ ਥਾਂ ਦਾ ਨਾਮ ਤਬਾਏਰਾਹ ਰੱਖਿਆ, ਕਿਉਂਜੁ ਯਾਹਵੇਹ ਦੀ ਅੱਗ ਉਨ੍ਹਾਂ ਵਿੱਚ ਬਲਦੀ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ਅਤੇ ਰੱਖਿਆ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ਥਾਂ ਦਾ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "ਤਬਾਏਰਾਹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਜੁ"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ਬਲਦੀ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ਉਨ੍ਹਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:52:55.241491262Z",
+  "model": "glm-5.2"
+}

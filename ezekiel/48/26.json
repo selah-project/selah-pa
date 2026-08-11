@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਅਤੇ ਯਿਸਸਕਾਰ ਦੇ ਹੱਦ ਉੱਤੇ, ਪੂਰਬੀ ਪਾਸੇ ਤੋਂ ਲੈ ਕੇ ਪੱਛਮੀ ਪਾਸੇ ਤੱਕ — ਜ਼ਬੂਲੂਨ ⟨ਨੂੰ ਇੱਕ ਹਿੱਸਾ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ... ਉੱਤੇ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ਯਿਸਸਕਾਰ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ਪਾਸੇ ਤੋਂ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ਪੂਰਬੀ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ਪਾਸੇ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ਪੱਛਮੀ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ਜ਼ਬੂਲੂਨ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:06:37.586297743Z",
+  "model": "glm-5.2"
+}

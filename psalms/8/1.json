@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "⟨ਸੰਗੀਤ-ਪ੍ਰਬੰਧਕ ਲਈ⟩, ਗਤੀਤ ⟨ਸਾਜ਼⟩ ਉੱਤੇ, ਦਾਵਿਦ ਦਾ ਜ਼ਬੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨ਸੰਗੀਤ-ਪ੍ਰਬੰਧਕ ਲਈ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ਗਤੀਤ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:28:17.836086154Z",
+  "model": "glm-5.2"
+}

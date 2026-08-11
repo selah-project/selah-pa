@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਅਖੀਸ਼ਾਰ ⟨ਸੀ⟩ ਘਰ ਉੱਤੇ, ਅਤੇ ਅਦੋਨੀਰਾਮ ਅਬਦਾ ਦਾ ਪੁੱਤਰ ⟨ਸੀ⟩ ਲਗਾਨ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "ਅਤੇ ਅਖੀਸ਼ਾਰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "ਅਤੇ ਅਦੋਨੀਰਾਮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "ਅਬਦਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המס",
+      "gloss": "ਲਗਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:20:50.294659878Z",
+  "model": "glm-5.2"
+}

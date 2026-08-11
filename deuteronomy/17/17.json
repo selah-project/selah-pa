@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਉਹ ਆਪਣੇ ਲਈ ਤੀਵੀਆਂ ਵਧਾਏ ਨਾ, ਅਤੇ ਉਸ ਦਾ ਦਿਲ ਭਟਕੇ ਨਾ, ਅਤੇ ਚਾਂਦੀ ਅਤੇ ਸੋਨਾ ਉਹ ਆਪਣੇ ਲਈ ਬਹੁਤ ਵਧਾਏ ਨਾ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ਵਧਾਏ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਹ ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ਤੀਵੀਆਂ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ਭਟਕੇ"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ਉਸ ਦਾ ਦਿਲ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ਅਤੇ ਚਾਂਦੀ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ਅਤੇ ਸੋਨਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ਵਧਾਏ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਹ ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:18:01.713261996Z",
+  "model": "glm-5.2"
+}

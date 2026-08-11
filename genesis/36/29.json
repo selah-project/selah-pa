@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 36:29",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਇਹ ⟨ਹਨ⟩ ਹੋਰੀਆਂ ਦੇ ਸਰਦਾਰ: ਸਰਦਾਰ ਲੋਤਾਨ, ਸਰਦਾਰ ਸ਼ੋਬਾਲ, ਸਰਦਾਰ ਤਸੀਬਓਨ, ਸਰਦਾਰ ਅਨਾਹ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ਹੋਰੀ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ਲੋਤਾਨ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ਸ਼ੋਬਾਲ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "ਦבעון",
+      "gloss": "ਤਸੀਬਓਨ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ਅਨਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:00:38.814595726Z",
+  "model": "glm-5.2"
+}

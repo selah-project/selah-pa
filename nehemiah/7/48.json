@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਲਿਬਾਨਾ ਦੇ ਪੁੱਤਰ, ਖ਼ਗਾਬਾ ਦੇ ਪੁੱਤਰ, ਸ਼ਲਮਾਈ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ਲਿਬਾਨਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ਖ਼ਗਾਬਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ਸ਼ਲਮਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:41.924466631Z",
+  "model": "glm-5.2"
+}

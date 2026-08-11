@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਮੇਰੀ ਢਾਲ ਏਲੋਹੀਮ ਉੱਤੇ ਹੈ, ਸੋਧੇ ਦਿਲ ਵਾਲਿਆਂ ਦਾ ਮੁਕੰਮਲ ਕਰਨ ਵਾਲਾ।",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "ਮੇਰੀ ਢਾਲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ਮੁਕੰਮਲ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ਸੋਧੇ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ ਵਾਲਿਆਂ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:27:11.397837459Z",
+  "model": "glm-5.2"
+}

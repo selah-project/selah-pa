@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਆਪਣੀਆਂ ਅੱਖਾਂ ਵਿੱਚ ਅਕਲਮੰਦ ⟨ਨਾ⟩ ਬਣ; ਯਾਹਵੇਹ ਤੋਂ ਦਹਿਸ਼ਤ ਖਾ ਅਤੇ ਬੁਰਾਈ ਤੋਂ ਹਟ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ਬਣ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ਅਕਲਮੰਦ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ਆਪਣੀਆਂ ਅੱਖਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ਦਹਿਸ਼ਤ ਖਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ਅਤੇ ਹਟ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ਬੁਰਾਈ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:21:16.505762569Z",
+  "model": "glm-5.2"
+}

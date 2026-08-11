@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਕੌਣ ਚੰਗਾ ਕੁਝ ਅਪਵਿੱਤਰ ਤੋਂ ਦੇ ਸਕਦਾ ਹੈ? ਇੱਕ ਵੀ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ਦੇ ਸਕਦਾ ਹੈ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ਚੰਗਾ ਕੁਝ"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "ਅਪਵਿੱਤਰ ਤੋਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ ਵੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:43:11.165300430Z",
+  "model": "glm-5.2"
+}

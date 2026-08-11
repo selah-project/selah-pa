@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤੇਰੇ ਲਈ ਹੋਰ ਏਲੋਹੀਮ ਮੇਰੇ ਸਾਹਮਣੇ ਨਾ ਹੋਣ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ਤਨੀ",
+      "gloss": "ਸਾਹਮਣੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:45.205849663Z",
+  "model": "glm-5.2"
+}

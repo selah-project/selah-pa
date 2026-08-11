@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਉਹ ਮੇਰੇ ਲਈ ਪਰਜਾ ਹੋਣਗੇ, ਅਤੇ ਮੈਂ ਉਹਨਾਂ ਲਈ ਏਲੋਹੀਮ ਹੋਵਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ਅਤੇ ਉਹ ਹੋਣਗੇ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ਪਰਜਾ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ਅਤੇ ਮੈਂ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ਹੋਵਾਂਗਾ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਲਈ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:29:45.191759163Z",
+  "model": "glm-5.2"
+}

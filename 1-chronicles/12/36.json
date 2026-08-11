@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਦਾਨੀਆਂ ਵਿੱਚੋਂ — ਯੁੱਧ ਦੀ ਪੰਤ ਬਣਾਉਣ ਵਾਲੇ, ਅਠਾਈ ਹਜ਼ਾਰ ਅਤੇ ਛੇ ਸੌ।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ਅਤੇ ... ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "ਦਾਨੀਆਂ"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "ਪੰਤ ਬਣਾਉਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਯੁੱਧ ਦੀ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ਅਤੇ ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:03:42.667190055Z",
+  "model": "glm-5.2"
+}

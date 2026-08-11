@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਤੁਸੀਂ ਸ਼ਾਬਤ ਦੇ ਦਿਨ ਆਪਣੇ ਸਾਰੇ ਟਿਕਾਣਿਆਂ ਵਿੱਚ ਅੱਗ ਨਾ ਬਾਲਿਆ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ਬਾਲਿਆ ਕਰੋ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "ਟਿਕਾਣਿਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ਸ਼ਾਬਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:26:29.462741882Z",
+  "model": "glm-5.2"
+}

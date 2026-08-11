@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਤੇਰਾ ਏਲੋਹੀਮ ਇੱਕ ਖਾਣ ਵਾਲੀ ਅੱਗ ਹੈ, ਇੱਕ ਈਰਖਾਲੂ ਏਲ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਤੇਰਾ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ਖਾਣ ਵਾਲੀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ਈਰਖਾਲੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:59.743009344Z",
+  "model": "glm-5.2"
+}

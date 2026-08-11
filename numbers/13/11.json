@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਯੂਸਫ਼ ⟨ਦੇ ਕਬੀਲੇ ਲਈ⟩, ਮਨੱਸੇ ⟨ਦੇ ਕਬੀਲੇ ਲਈ⟩ ਗੱਦੀ, ਸੂਸੀ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੂਸਫ਼"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ਮਨੱਸੇ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ਗੱਦੀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "ਸੂਸੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:02.986208082Z",
+  "model": "glm-5.2"
+}

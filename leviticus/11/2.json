@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਇਸਰਾਏਲ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਦੱਸੋ, ਕਹਿੰਦੇ ਹੋਏ: ਧਰਤੀ ਉੱਤੇ ਸਾਰੇ ਪਸ਼ੂਆਂ ਵਿੱਚੋਂ ਜੀਵ ਜੋ ਤੁਸੀਂ ਖਾ ਸਕਦੇ ਹੋ ⟨ਇਹ⟩ ਹੈ:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ਦੱਸੋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ਜੀਵ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਤੁਸੀਂ ਖਾ ਸਕਦੇ ਹੋ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ਸਾਰੇ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ਪਸ਼ੂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:35.897428794Z",
+  "model": "glm-5.2"
+}

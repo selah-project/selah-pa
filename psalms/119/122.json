@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਆਪਣੇ ਦਾਸ ਲਈ ਭਲਾਈ ਦੀ ਜ਼ਮਾਨਤ ਬਣ; ਘਮੰਡੀ ਮੈਨੂੰ ਦੱਬ ਨਾ ਦੇਣ।",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ਜ਼ਮਾਨਤ ਬਣ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ਆਪਣੇ ਦਾਸ ਲਈ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ਭਲਾਈ ਦੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "ਮੈਨੂੰ ਦੱਬ ਦੇਣ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ਘਮੰਡੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:10.137038623Z",
+  "model": "glm-5.2"
+}

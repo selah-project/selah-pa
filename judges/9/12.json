@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਰੁੱਖਾਂ ਨੇ ਦਾਖ-ਲਤਾ ਨੂੰ ਕਿਹਾ, ਤੂੰ ਆ ਅਤੇ ਤੂੰ ਸਾਡੇ ਉੱਤੇ ਰਾਜ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ਅਤੇ ਕਹਿਣ ਲੱਗੇ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ਰੁੱਖਾਂ ਨੇ"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "ਦਾਖ-ਲਤਾ ਨੂੰ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ਤੂੰ ਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "ਰਾਜ ਕਰ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ਸਾਡੇ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:42:56.591043667Z",
+  "model": "glm-5.2"
+}

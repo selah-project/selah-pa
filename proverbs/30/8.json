@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਵਿਅਰਥਤਾ ਅਤੇ ਝੂਠੇ ਬਚਨ ਮੈਥੋਂ ਦੂਰ ਰੱਖ; ਗਰੀਬੀ ਅਤੇ ਦੌਲਤ ਮੈਨੂੰ ਨਾ ਦੇ, ਮੈਨੂੰ ਮੇਰੇ ਹਿੱਸੇ ਦਾ ਹੀ ਰੋਟੀ ਖਵਾ।",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ਵਿਅਰਥਤਾ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ਅਤੇ ਝੂਠੇ ਬਚਨ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ਝੂਠ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "ਦੂਰ ਰੱਖ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ਮੈਥੋਂ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ਗਰੀਬੀ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ਅਤੇ ਦੌਲਤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ਦੇ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "ਖਵਾ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ਮੇਰੇ ਹਿੱਸੇ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:13.801630924Z",
+  "model": "glm-5.2"
+}

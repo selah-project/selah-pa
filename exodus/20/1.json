@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਏਲੋਹੀਮ ਨੇ ⟨את⟩ ਸਾਰੇ ⟨ਇਹ⟩ ਬਚਨ ਬੋਲੇ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਬੋਲੇ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਇਹ ਬਚਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:18:56.231110132Z",
+  "model": "glm-5.2"
+}

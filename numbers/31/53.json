@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "(ਕਿਉਂਕਿ ਲੜਾਕੂ ਫ਼ੌਜ ਦੇ ਮਰਦਾਂ ਨੇ ਲੁੱਟਿਆ ਸੀ, ਹਰ ਇੱਕ ਆਦਮੀ ਆਪਣੇ ਲਈ।)",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ਮਰਦਾਂ ਨੇ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ਫ਼ੌਜ ਦੇ"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ਲੁੱਟਿਆ ਸੀ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਹਰ ਇੱਕ ਆਦਮੀ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:58.916836346Z",
+  "model": "glm-5.2"
+}

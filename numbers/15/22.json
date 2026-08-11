@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਜੇ ਤੁਸੀਂ ਭੁੱਲੋ ਅਤੇ ⟨ਨਾ⟩ ਕਰੋ ⟨את⟩ ਸਾਰੇ ਉਹ ਮਿਜ਼ਾਜ਼ ਜੋ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨੂੰ ਕਹੇ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "ਤੁਸੀਂ ਭੁੱਲੋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ਤੁਸੀਂ ਕਰੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਉਹ ਮਿਜ਼ਾਜ਼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ਮਿਜ਼ਾਜ਼"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕਹੇ ਸਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:55:58.105406752Z",
+  "model": "glm-5.2"
+}

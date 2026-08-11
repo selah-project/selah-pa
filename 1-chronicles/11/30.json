@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਮਹਿਰਾਈ ਨਤੋਫ਼ਤੀ, ਹੇਲੇਦ ਬਿਨ ਬਾਨਾ ਨਤੋਫ਼ਤੀ,",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "ਮਹਿਰਾਈ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ਨਤੋਫ਼ਤੀ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ਹੇਲੇਦ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ਬਾਨਾ"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "ਨਤੋਫ਼ਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:53.082576333Z",
+  "model": "glm-5.2"
+}

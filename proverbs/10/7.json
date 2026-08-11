@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਧਰਮੀ ਦੀ ਯਾਦ ਬਰਕਤ ਲਈ ⟨ਹੈ⟩, ਪਰ ਦੁਸ਼ਟਾਂ ਦਾ ਨਾਮ ਸੜੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ਯਾਦ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ ਦੀ"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "ਬਰਕਤ ਲਈ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ਪਰ ਨਾਮ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦਾ"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "ਸੜੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:24:35.836733695Z",
+  "model": "glm-5.2"
+}

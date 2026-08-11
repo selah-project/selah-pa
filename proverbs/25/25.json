@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਥੱਕੀ ਹੋਈ ਨੇਫ਼ੇਸ਼ ਉੱਤੇ ਠੰਢਾ ਪਾਣੀ, ਅਤੇ ਦੂਰ ਦੀ ਧਰਤੀ ਤੋਂ ਚੰਗੀ ਖ਼ਬਰ।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ਠੰਢਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਨੇਫ਼ੇਸ਼"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ਥੱਕੀ ਹੋਈ"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "ਅਤੇ ਖ਼ਬਰ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ਚੰਗੀ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ਧਰਤੀ ਤੋਂ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ਦੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:02.796875670Z",
+  "model": "glm-5.2"
+}

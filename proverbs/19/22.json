@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਮਨੁੱਖ ਦੀ ਤਾਂਘ ਉਸ ਦਾ ਖ਼ੇਸੇਦ ⟨ਹੈ⟩; ਅਤੇ ਗਰੀਬ ⟨ਆਦਮੀ⟩ ਝੂਠੇ ਆਦਮੀ ਤੋਂ ਚੰਗਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ਤਾਂਘ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੀ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ਖ਼ੇਸੇਦ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ਅਤੇ ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ਗਰੀਬ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ਆਦਮੀ ਤੋਂ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ਝੂਠੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:29:13.040192617Z",
+  "model": "glm-5.2"
+}

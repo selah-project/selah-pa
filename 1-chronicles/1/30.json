@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਮਿਸ਼ਮਾ, ਦੁਮਾ, ਮਾਸਾ, ਹਦਦ ਅਤੇ ਤੇਮਾ।",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "ਮਿਸ਼ਮਾ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ਦੁਮਾ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ਮਾਸਾ"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ਹਦਦ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ਅਤੇ ਤੇਮਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:57.288479135Z",
+  "model": "glm-5.2"
+}

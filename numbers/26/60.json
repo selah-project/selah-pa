@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਅਹਰੋਨ ਲਈ ⟨נָדָב⟩ ਅਤੇ ⟨אֲבִיהוּא⟩, ⟨אֶלְעָזָר⟩ ਅਤੇ ⟨אִיתָמָר⟩ ਜੰਮੇ।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜੰਮੇ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ਅਹਰੋਨ ਲਈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨਾਦਬ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ਨਾਦਬ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਵੀਹੂ"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "ਅਵੀਹੂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਲਆਜ਼ਰ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ਏਲਆਜ਼ਰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਇਤਾਮਰ"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ਇਤਾਮਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:02.516411270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 89,
+  "translation": "ਸਿੱਖਿਆ-ਦਾਇਕ ⟨ਜ਼ਬੂਰ⟩ ਏਸਤਨ ਏਜ਼ਰਾਹੀ ਵਲੋਂ।",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ਸਿੱਖਿਆ-ਦਾਇਕ"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ਏਸਤਨ ਵਲੋਂ"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ਏਜ਼ਰਾਹੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:03:42.604612940Z",
+  "model": "glm-5.2"
+}

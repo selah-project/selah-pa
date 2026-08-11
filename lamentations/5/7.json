@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਸਾਡੇ ਬਜ਼ੁਰਗਾਂ ਨੇ ਪਾਪ ਕੀਤਾ ਹੈ, ਉਹ ਹਨ ਹੀ ਨਹੀਂ; ਅਸੀਂ ਉਹਨਾਂ ਦੇ ਕੁਕਰਮ ਚੁੱਕ ਰਹੇ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ਸਾਡੇ ਬਜ਼ੁਰਗਾਂ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ਪਾਪ ਕੀਤਾ ਹੈ"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ਉਹ ਹਨ ਹੀ ਨਹੀਂ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ਅਸੀਂ"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਕੁਕਰਮ"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "ਚੁੱਕ ਰਹੇ ਹਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:27.768894251Z",
+  "model": "glm-5.2"
+}

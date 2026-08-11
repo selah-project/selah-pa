@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 41,
+  "translation": "ਅਤੇ ਹਹੀਖਲ ਲਈ ਅਤੇ ਕੋਧਸ਼ ਲਈ ⟨ਉਹਨਾਂ ਦੀਆਂ⟩ ਦੋ ਦਰਵਾਜ਼ੇ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "ਅਤੇ ਦੋ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ਦਰਵਾਜ਼ੇ"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ਹਹੀਖਲ ਲਈ"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "ਅਤੇ ਕੋਧਸ਼ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:01:40.348147018Z",
+  "model": "glm-5.2"
+}

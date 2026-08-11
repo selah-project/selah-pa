@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਏਲਕਨਾਹ ਦਾ ਪੁੱਤਰ, ਯੋਏਲ ਦਾ ਪੁੱਤਰ, ਅਜਰਯਾਹ ਦਾ ਪੁੱਤਰ, ਤਸਫਨਯਾਹ ਦਾ ⟨ਪੁੱਤਰ⟩।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ਏਲਕਨਾਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ਯੋਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ਅਜਰਯਾਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ਤਸਫਨਯਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:22.475512380Z",
+  "model": "glm-5.2"
+}

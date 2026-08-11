@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਯਾਹਵੇਹ ਉੱਤੇ ਭਰੋਸਾ ਕਰੋ ਸਦਾ ਲਈ, ਕਿਉਂਕਿ ਬਜਾਹ ਵਿੱਚ ਯਾਹਵੇਹ ਹੈ — ਸਦੀਵੀ ਚਟਾਨ!",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ਭਰੋਸਾ ਕਰੋ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ਯਾਹਵੇਹ ਉੱਤੇ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਸਦਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "ਬਜਾਹ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ਚਟਾਨ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ਸਦੀਵੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:56:24.410135579Z",
+  "model": "glm-5.2"
+}

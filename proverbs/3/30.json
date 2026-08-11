@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਕਿਸੇ ਮਨੁੱਖ ਨਾਲ ਬਿਨਾਂ ਕਾਰਨ ਝਗੜਾ ਨਾ ਕਰ, ਜੇ ਉਸ ਨੇ ਤੈਨੂੰ ਬੁਰਾਈ ਦਾ ਵਾਸਤਾ ਨਾ ਦਿੱਤਾ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ਝਗੜਾ ਕਰ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਕਿਸੇ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "ਹੰਨਮ",
+      "gloss": "ਬਿਨਾਂ ਕਾਰਨ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ਗਮਲਕ",
+      "gloss": "ਉਸ ਨੇ ... ਦਿੱਤਾ ਹੋਵੇ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਬੁਰਾਈ ਦਾ ਵਾਸਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:35.737055921Z",
+  "model": "glm-5.2"
+}

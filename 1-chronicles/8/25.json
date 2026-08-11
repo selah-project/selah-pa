@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਯਿਫ਼ਦੇਯਾਹ, ਅਤੇ ਪਨੂੰਏਲ — ਸ਼ਾਸ਼ਾਕ ਦੇ ⟨ਪੁੱਤਰ⟩।",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "ਅਤੇ ਯਿਫ਼ਦੇਯਾਹ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "ਅਤੇ ਪਨੂੰਏਲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ⟨ਪੁੱਤਰ⟩"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ਸ਼ਾਸ਼ਾਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:58:38.151981360Z",
+  "model": "glm-5.2"
+}

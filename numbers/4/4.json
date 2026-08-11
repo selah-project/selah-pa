@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਇਹ ⟨ਹੈ⟩ ਮੰਡਲੀ ਦੇ ਤੰਬੂ ਵਿੱਚ ਕਹਿਰਾਥ ਦੇ ਬੱਚਿਆਂ ਦਾ ਕੰਮ, ਪਵਿੱਤਰਾਂ ਦਾ ਪਵਿੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ਕਹਿਰਾਥ ਦੇ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ਤੰਬੂ ਵਿੱਚ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ਮੰਡਲੀ ਦੇ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ਪਵਿੱਤਰਾਂ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:48:28.285867390Z",
+  "model": "glm-5.2"
+}

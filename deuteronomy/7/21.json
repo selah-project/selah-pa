@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਉਹਨਾਂ ਤੋਂ ਨਾ ਡਰਨਾ, ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਤੇਰਾ ਏਲੋਹੀਮ ਤੇਰੇ ਵਿਚ ਹੈ — ਇੱਕ ਵੱਡਾ ਅਤੇ ਭਿਆਨਕ ਏਲ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ਤੂੰ ਡਰੇਂ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ਉਹਨਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਤੇਰਾ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ਤੇਰੇ ਵਿਚ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡਾ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ਅਤੇ ਭਿਆਨਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:12:04.113445647Z",
+  "model": "glm-5.2"
+}

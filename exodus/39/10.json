@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਅਤੇ ਭਰਿਆ ਉਸ ਵਿੱਚ ਚਾਰ ਕਤਾਰਾਂ ਪੱਥਰ — ਕਤਾਰ: ਓਦੇਮ, ਪਿਤਦਾਹ ਅਤੇ ਬੈਰੇਕਤ, ⟨ਇਹ⟩ ਇੱਕ ਕਤਾਰ।",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ਅਤੇ ਭਰਿਆ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "ਕਤਾਰਾਂ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ਪੱਥਰ"
+    },
+    {
+      "surface": "טור",
+      "gloss": "ਕਤਾਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਓਦੇਮ"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "ਪਿਤਦਾਹ"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "ਅਤੇ ਬੈਰੇਕਤ"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ਕਤਾਰ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:28:18.420994757Z",
+  "model": "glm-5.2"
+}

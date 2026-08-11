@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 23:27",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਕਿਉਂਕਿ ਦਾਵਿਦ ਦੇ ਆਖਰੀ ਬਚਨਾਂ ਅਨੁਸਾਰ ⟨ਇਹ⟩ ਲੇਵੀ ਪੁੱਤਰਾਂ ਦੀ ਗਿਣਤੀ ਵੀਹ ਸਾਲ ਦੀ ਉਮਰ ਤੋਂ ਅਤੇ ਉੱਪਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ਬਚਨਾਂ ਅਨੁਸਾਰ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ਦਾਵਿਦ ਦੇ"
+    },
+    {
+      "surface": "האחרנים",
+      "gloss": "ਆਖਰੀ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ਗਿਣਤੀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੀ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ਲੇਵੀ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ਪੁੱਤਰ ਤੋਂ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "ਅਤੇ ਉੱਪਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:53.573071068Z",
+  "model": "glm-5.2"
+}

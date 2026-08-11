@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਕਿਉਂਕਿ ਇਹ ਮਿਤਵਾਹ, ਜੋ ਮੈਂ ਅੱਜ ਤੈਨੂੰ ਦਿੰਦਾ ਹਾਂ, ਤੈਥੋਂ ਲੁਕੀ ਹੋਈ ਨਹੀਂ ⟨ਹੈ⟩ ਅਤੇ ਨਾ ਹੀ ਦੂਰ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ਇਹ ਮਿਤਵਾਹ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ਤੈਨੂੰ ਦਿੰਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਅੱਜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ਲੁਕੀ ਹੋਈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਹੈ⟩"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ਤੈਥੋਂ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ਦੂਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਹੈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T21:23:38.628816514Z",
+  "model": "glm-5.2"
+}

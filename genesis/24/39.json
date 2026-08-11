@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਤਾਂ ਮੈਂ ਆਪਣੇ ਮਾਲਕ ਨੂੰ ਕਿਹਾ: ਸ਼ਾਇਦ ਉਹ ਇਸਤਰੀ ਮੇਰੇ ਪਿੱਛੇ ਨਾ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਮੈਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਆਪਣੇ ਮਾਲਕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਸ਼ਾਇਦ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ਆਏਗੀ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ਉਹ ਇਸਤਰੀ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ਮੇਰੇ ਪਿੱਛੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:54:10.096198253Z",
+  "model": "glm-5.2"
+}

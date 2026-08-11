@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਏਲੀ ਦੇ ਪੁੱਤਰ ਬੇਲੀਯਾਲ ਦੇ ਪੁੱਤਰ ਸਨ, ⟨ਉਹਨਾਂ ਨੇ⟩ ਯਾਹਵੇਹ ਨੂੰ ਨਹੀਂ ਜਾਣਿਆ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ਏਲੀ ਦੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ਬੇਲੀਯਾਲ ਦੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ਜਾਣਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਾਹਵੇਹ ਨੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:50:45.615602136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਉਸ ਦੇ ਭਰਾ ਦਾ ਨਾਮ ਯੂਬਲ ਸੀ; ਉਹ ਸੀ ਹਰ ਉਸ ⟨ਇਕ⟩ ਦਾ ਪਿਤਾ ਜੋ ਕਿਨੋਰ ਅਤੇ ਊਗਵ ਨੂੰ ਫੜਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ਅਤੇ ਨਾਮ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ਉਸ ਦੇ ਭਰਾ ਦਾ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ਯੂਬਲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਦਾ ਪਿਤਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਉਸ"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ਫੜਦਾ ਹੈ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ਕਿਨੋਰ"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ਅਤੇ ਊਗਵ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:27.875620469Z",
+  "model": "glm-5.2"
+}

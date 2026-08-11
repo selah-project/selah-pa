@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਜੇ ਤੀਜੇ ਦਿਨ ਉਸ ਦਾ ਖਾਣਾ ਖਾਧਾ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਉਹ ਪਿੱਗੁਲ ਹੈ — ਉਹ ਕਬੂਲ ਨਹੀਂ ਹੋਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ਖਾਣਾ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ਖਾਧਾ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ਤੀਜੇ"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ਪਿੱਗੁਲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ਕਬੂਲ ਹੋਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:39:52.905690593Z",
+  "model": "glm-5.2"
+}

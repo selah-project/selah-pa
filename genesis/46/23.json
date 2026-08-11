@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਅਤੇ ਦਾਨ ਦੇ ਪੁੱਤਰ: ਖੁਸ਼ੀਮ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ ਦੇ"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ਖੁਸ਼ੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:06:22.187022532Z",
+  "model": "glm-5.2"
+}

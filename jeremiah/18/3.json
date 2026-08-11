@@ -1,0 +1,45 @@
+{
+  "tier": "hand",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤਾਂ ਮੈਂ ਘੁਮਿਆਰ ਦੇ ਘਰ ਉਤਰ ਗਿਆ, ਅਤੇ ਵੇਖੋ, ਉਹ ਚੱਕਾਂ ਉੱਤੇ ਕੰਮ ਕਰ ਰਿਹਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "ਤਾਂ ਮੈਂ ਉਤਰ ਗਿਆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ ਨੂੰ"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "ਘੁਮਿਆਰ ਦੇ"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "ਅਤੇ ਵੇਖੋ ਉਹ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕਰ ਰਿਹਾ ਸੀ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ਚੱਕਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:23:10.198675372Z",
+  "model": "claude-fable-5"
+}

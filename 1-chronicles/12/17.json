@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਬਿਨ੍ਹਯਾਮਿਨ ਅਤੇ ਯਹੂਦਾਹ ਦੇ ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ ਕੁਝ ਦਾਵਿਦ ਕੋਲ ਮਜ਼ਬੂਤੀ ਤੱਕ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ਅਤੇ ਆਏ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ਬਿਨ੍ਹਯਾਮਿਨ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ਅਤੇ ਯਹੂਦਾਹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "ਮਜ਼ਬੂਤੀ ਕੋਲ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ਦਾਵਿਦ ਕੋਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:04:34.157234536Z",
+  "model": "glm-5.2"
+}

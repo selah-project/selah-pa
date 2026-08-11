@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਕਿਉਂਕਿ ਡਰੋ, ਉਹ ਰਾਜੇ ਇਕੱਠੇ ਹੋਏ; ਉਹ ਮਿਲ ਕੇ ਲੰਘ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਡਰੋ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ਉਹ ਰਾਜੇ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ਇਕੱਠੇ ਹੋਏ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ਲੰਘ ਗਏ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ਮਿਲ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:48:04.027724575Z",
+  "model": "glm-5.2"
+}

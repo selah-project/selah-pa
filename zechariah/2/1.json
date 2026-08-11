@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਮੈਂ ⟨ਆਪਣੀਆਂ⟩ ⟨את⟩ ਅੱਖਾਂ ਚੁੱਕੀਆਂ ਅਤੇ ਵੇਖਿਆ, ਅਤੇ ਦੇਖੋ, ਚਾਰ ਸਿੰਗ।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ਅਤੇ ਮੈਂ ਚੁੱਕੀਆਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅੱਖਾਂ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ਅੱਖਾਂ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ਅਤੇ ਵੇਖਿਆ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ਅਤੇ ਦੇਖੋ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ਸਿੰਗ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:22:41.171716536Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਫਿਟਕਾਰਿਆ ⟨ਹੈ⟩ ⟨ਉਹ⟩ ਜੋ ਆਪਣੇ ਸਾਥੀ ਦੀ ਹੱਦ ਹਟਾਉਂਦਾ ⟨ਹੈ⟩, ਅਤੇ ਸਾਰੇ ਲੋਕ ਕਹਿਣਗੇ: ਆਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਫਿਟਕਾਰਿਆ"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "ਹਟਾਉਂਦਾ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ਆਪਣੇ ਸਾਥੀ ਦੀ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ਆਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:35.118818769Z",
+  "model": "glm-5.2"
+}

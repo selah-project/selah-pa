@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਇਹ ⟨ਹੈ⟩ ਸਾਰੀ ਧਰਤੀ ਉੱਤੇ ਸਲਾਹ ਦਿੱਤੀ ਗਈ ਉਹ ਸਲਾਹ, ਅਤੇ ਇਹ ⟨ਹੈ⟩ ਸਾਰੇ ਗੋਯਮ ਉੱਤੇ ਫੈਲਾਈ ਹੋਈ ਉਹ ਹੱਥ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "ਸਲਾਹ"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "ਸਲਾਹ ਦਿੱਤੀ ਗਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ਫੈਲਾਈ ਹੋਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ਗੋਯਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:53:19.918472140Z",
+  "model": "glm-5.2"
+}

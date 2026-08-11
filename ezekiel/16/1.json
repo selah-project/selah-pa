@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਸ਼ਬਦ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਕਹਿੰਦਾ ⟨ਹੋਇਆ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਸ਼ਬਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ ਆਇਆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:47:29.445482304Z",
+  "model": "glm-5.2"
+}

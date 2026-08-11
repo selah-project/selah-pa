@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਮੁੜ ਗਏ, ਇਕੱਠੇ ਝੁਕ ਗਏ, ਬੋਰੇ ਨੂੰ ਬਚਾ ਨਾ ਸਕੇ, ਅਤੇ ਉਹਨਾਂ ਦੀ ਜਾਨ ਕੈਦ ਵਿੱਚ ਚਲੀ ਗਈ।",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "ਮੁੜ ਗਏ"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ਝੁਕ ਗਏ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ਇਕੱਠੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ਸਕੇ"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "ਬਚਾ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ਬੋਰੇ ਨੂੰ"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦੀ ਜਾਨ"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ਕੈਦ ਵਿੱਚ"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "ਚਲੀ ਗਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:05:14.353148384Z",
+  "model": "glm-5.2"
+}

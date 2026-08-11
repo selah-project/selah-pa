@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਮੋਹ ਨਾਲ ਗੱਲ ਕਰਨ ਵਿੱਚ ਵਾਧਾ ਕੀਤਾ, ⟨ਇਹ⟩ ਕਹਿ ਕੇ:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ਵਾਧਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਗੱਲ ਕਰਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੋਹ ਨਾਲ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:50:48.370271842Z",
+  "model": "glm-5.2"
+}

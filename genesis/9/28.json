@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਨੂਹ ਮਹਾਂ-ਹੜ੍ਹ ਦੇ ਬਾਅਦ ਤਿੰਨ ਸੌ ਪੈਂਤੀ ਸਾਲ ਜੀਊਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਊਿਆ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੂਹ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ਦੇ ਬਾਅਦ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ਮਹਾਂ-ਹੜ੍ਹ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ਅਤੇ ਪੈਂਤੀ"
+    },
+    {
+      "surface": "ਸਨਹ",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:40.305757569Z",
+  "model": "glm-5.2"
+}

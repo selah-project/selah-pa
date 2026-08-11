@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਯਰਦ ਬਾਹਠ ਸਾਲ ਅਤੇ ਇੱਕ ਸੌ ਸਾਲ ਜੀਇਆ, ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਖਨੋਖ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਜੀਇਆ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ਯਰਦ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸਾਠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ਅਤੇ ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਖਨੋਖ ਨੂੰ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ਖਨੋਖ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:41.866472485Z",
+  "model": "glm-5.2"
+}

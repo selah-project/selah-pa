@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਯਰੂਸ਼ਾਲਾਯਿਮ ਵਿੱਚ ਵਸਣ ਵਾਲੇ ਪੇਰੇਸ ਦੇ ਸਾਰੇ ਪੁੱਤਰ ਚਾਰ ਸੌ ਅਠਾਹਠ ਸੀ, ਸੂਰਮੇ ਆਦਮੀ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ਪੇਰੇਸ"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ਵਸਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ਯਰੂਸ਼ਾਲਾਯਿਮ ਵਿੱਚ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ਸੱਠ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ਆਦਮੀ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਸੂਰਮੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:05.783763034Z",
+  "model": "glm-5.2"
+}

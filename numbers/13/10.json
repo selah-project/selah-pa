@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਜ਼ਬੂਲੂਨ ⟨ਦੇ ਕਬੀਲੇ ਲਈ⟩ ਗੱਦੀਏਲ, ਸੋਦੀ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ਜ਼ਬੂਲੂਨ"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "ਗੱਦੀਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "ਸੋਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:02.986068889Z",
+  "model": "glm-5.2"
+}

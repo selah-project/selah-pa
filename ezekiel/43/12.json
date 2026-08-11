@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 43,
+  "translation": "ਇਹ ਘਰ ਦੀ ਤੋਰਾਹ ਹੈ: ਪਹਾੜ ਦੇ ਸਿਖਰ ਉੱਤੇ, ਇਸ ਦੀ ਸਾਰੀ ਹੱਦ ਚਾਰੇ ਪਾਸੇ ਪਵਿੱਤਰ-ਪਵਿੱਤਰਾਂ ਹੈ; ਦੇਖੋ, ਇਹ ਘਰ ਦੀ ਤੋਰਾਹ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ਤੋਰਾਹ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ ਦੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ਸਿਖਰ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ਪਹਾੜ ਦੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ਚਾਰੇ ਪਾਸੇ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ਚਾਰੇ ਪਾਸੇ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ਪਵਿੱਤਰਾਂ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਦੇਖੋ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ਤੋਰਾਹ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:02:36.354344661Z",
+  "model": "glm-5.2"
+}

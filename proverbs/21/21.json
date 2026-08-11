@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਜੋ ਨੇਕੀ ਅਤੇ ਖ਼ੇਸੇਦ ਦਾ ਪਿੱਛਾ ਕਰਦਾ ⟨ਹੈ⟩ ਉਹ ਜੀਵਨ, ਨੇਕੀ ਅਤੇ ਮਹਿਮਾ ਲੱਭਦਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "ਪਿੱਛਾ ਕਰਦਾ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ਨੇਕੀ"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ਅਤੇ ਖ਼ੇਸੇਦ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ਲੱਭਦਾ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ਜੀਵਨ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ਨੇਕੀ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ਅਤੇ ਮਹਿਮਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:30:30.335825901Z",
+  "model": "glm-5.2"
+}

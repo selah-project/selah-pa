@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤੁਹਾਡੇ ਲਈ ਬਹੁਤ ⟨ਹੋ ਗਿਆ⟩; ਇਸ ਪਹਾੜ ਦਾ ਚੱਕਰ ਲਾਉਣਾ — ਆਪਣੇ ਲਈ ਉੱਤਰ ਵੱਲ ਮੁੜੋ।",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ਚੱਕਰ ਲਾਉਣਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਸ ਪਹਾੜ ਦਾ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ਪਹਾੜ ਦਾ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ਮੁੜੋ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ਉੱਤਰ ਵੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:22.798978028Z",
+  "model": "glm-5.2"
+}

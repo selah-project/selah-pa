@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਅਤੇ ਅਹਰੋਨ ਨੂੰ ਕਿਹਾ: ਇਹ ਪਸਾਹ ਦੀ ਰੀਤ ਹੈ — ਕੋਈ ਵੀ ਅਜਨਬੀ ਉਸ ਵਿੱਚ ਨਹੀਂ ਖਾਧਾ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ਅਤੇ ਅਹਰੋਨ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ਰੀਤ ਹੈ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ਪਸਾਹ ਦੀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੱਚਾ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ਅਜਨਬੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ਖਾਧਾ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:15:37.534603293Z",
+  "model": "glm-5.2"
+}

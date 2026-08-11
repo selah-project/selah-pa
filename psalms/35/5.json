@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਓਹ ਬਾਲਣ ਵਾਂਗ ਬਣਨ ਜਿਹੜਾ ਪੌਣ ਅੱਗੇ ⟨ਹੈ⟩, ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਦੂਤ ਉਹਨਾਂ ਨੂੰ ਧੱਕੇ।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ਓਹ ਬਣਨ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ਬਾਲਣ ਵਾਂਗ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਅੱਗੇ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਪੌਣ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ਅਤੇ ਦੂਤ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ਧੱਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:39:32.220542330Z",
+  "model": "glm-5.2"
+}

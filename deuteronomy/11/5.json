@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਜੋ ਉਸਨੇ ਤੁਹਾਡੇ ਲਈ ਜੰਗਲ ਵਿੱਚ ਕੀਤਾ, ਤੁਹਾਡੇ ਆਉਣ ਤੱਕ, ⟨ਇਸ⟩ ਥਾਂ ਵਿਖੇ,",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ਅਤੇ ਜੋ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਉਸਨੇ ਕੀਤਾ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ਜੰਗਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "ਤੁਹਾਡੇ ਆਉਣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨ਇਸ⟩ ਥਾਂ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:13:19.904672319Z",
+  "model": "glm-5.2"
+}

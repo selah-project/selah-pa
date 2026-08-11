@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਇਰਾ ਹਯਿਤਰੀ, ਗਾਰੇਬ ਹਯਿਤਰੀ।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ਇਰਾ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ਹਯਿਤਰੀ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ਗਾਰੇਬ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ਹਯਿਤਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:10.616514791Z",
+  "model": "glm-5.2"
+}

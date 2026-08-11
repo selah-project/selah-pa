@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬੱਕਰਿਆਂ ਦਾ ਇੱਕ ਵਾਲਾਂ ਵਾਲਾ, ਪਾਪ-ਭੇਟ ਵਾਸਤੇ।",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "ਵਾਲਾਂ ਵਾਲਾ"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "ਬੱਕਰਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "ਪਾਪ-ਭੇਟ ਵਾਸਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:09.263482063Z",
+  "model": "glm-5.2"
+}

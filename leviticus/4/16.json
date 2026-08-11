@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਅਭਿਸ਼ਿਕਤ ਕੋਹੇਨ ਬਲਦ ਦੇ ਖੂਨ ਵਿੱਚੋਂ ਕੁਝ ਮੁਲਾਕਾਤ ਦੇ ਤੰਬੂ ਵਿੱਚ ਲਿਆਵੇ।",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ਅਤੇ … ਲਿਆਵੇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕੋਹੇਨ"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ਅਭਿਸ਼ਿਕਤ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ਖੂਨ ਵਿੱਚੋਂ ਕੁਝ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ਬਲਦ ਦੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ਤੰਬੂ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ਮੁਲਾਕਾਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:31:48.413372737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਏਸਾਵ ਸੇਇਰ ਦੇ ਪਹਾੜ ਵਿੱਚ ਵੱਸ ਗਿਆ — ਏਸਾਵ ⟨ਹੀ⟩ ਅਦੋਮ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ਅਤੇ ਵੱਸ ਗਿਆ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ਪਹਾੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ਸੇਇਰ ਦੇ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਹੀ⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਅਦੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:00:49.546931370Z",
+  "model": "glm-5.2"
+}

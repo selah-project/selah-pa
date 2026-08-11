@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਤੂੰ ਆਪਣੀਆਂ ਭੇਡਾਂ ਦੇ ਚਿਹਰਿਆਂ ਨੂੰ ਭਲੀ-ਭਾਂਤ ਜਾਣ, ਆਪਣਾ ਮਨ ਰਿੜ੍ਹਾਂ ਵੱਲ ਰੱਖ।",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ਜਾਣ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ਤੂੰ ਜਾਣ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਚਿਹਰਿਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ਆਪਣੀਆਂ ਭੇਡਾਂ ਦੇ"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ਰੱਖ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ਆਪਣਾ ਮਨ"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "ਰਿੜ੍ਹਾਂ ਵੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:56.553059068Z",
+  "model": "glm-5.2"
+}

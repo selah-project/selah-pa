@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਕਿਉਂਕਿ ਇਉਂ ਆਖਿਆ ਯਾਹਵੇਹ ਨੇ: ਉਜਾੜ ਹੋਵੇਗੀ ਸਾਰੀ ਧਰਤੀ, ਪਰ ਮੈਂ ਸਮਾਪਤੀ ਨਹੀਂ ਕਰਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਿਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ਉਜਾੜ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਹੋਵੇਗੀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ਪਰ ਮੈਂ ਸਮਾਪਤੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ਕਰਾਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:15:15.292147405Z",
+  "model": "glm-5.2"
+}

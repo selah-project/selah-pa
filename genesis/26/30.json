@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਉਹਨਾਂ ਲਈ ਇੱਕ ਭੋਜ ਕੀਤਾ, ਅਤੇ ਉਹਨਾਂ ਖਾਧਾ ਅਤੇ ਪੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕੀਤਾ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਲਈ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ਭੋਜ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਖਾਧਾ"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ਅਤੇ ਪੀਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:16.991380669Z",
+  "model": "glm-5.2"
+}

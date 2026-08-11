@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 44,
+  "translation": "ਕੀ ਏਲੋਹੀਮ ਇਸ ਨੂੰ ਨਹੀਂ ਪਰਖੇਗਾ? ਕਿਉਂਕਿ ⟨ਉਹ⟩ ਦਿਲ ਦੇ ਭੇਦਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ਕੀ ਨਹੀਂ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ਪਰਖੇਗਾ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਸ ਨੂੰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਉਹ⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ਜਾਣਦਾ ਹੈ"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ਭੇਦਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:47:05.258564161Z",
+  "model": "glm-5.2"
+}

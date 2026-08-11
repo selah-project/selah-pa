@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਬਿਲਆਮ ਦੇ ਮੂੰਹ ਵਿੱਚ ⟨ਇੱਕ⟩ ਬਚਨ ਰੱਖਿਆ, ਅਤੇ ਕਿਹਾ, ਬਲਾਕ ਕੋਲ ਮੁੜ ਜਾ, ਅਤੇ ਇਉਂ ਬੋਲ।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ਅਤੇ ਰੱਖਿਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ਮੂੰਹ ਵਿੱਚ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ਬਿਲਆਮ ਦੇ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ਮੁੜ ਜਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ਬਲਾਕ"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ਅਤੇ ਇਉਂ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ਬੋਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:00:09.876901057Z",
+  "model": "glm-5.2"
+}

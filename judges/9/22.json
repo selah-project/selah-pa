@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਅਬੀਮੇਲੇਖ ਨੇ ਯਿਸ੍ਰਾਏਲ ਉੱਤੇ ਤਿੰਨ ਸਾਲ ਰਾਜ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ਅਤੇ ਰਾਜ ਕੀਤਾ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ਅਬੀਮੇਲੇਖ ਨੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸ੍ਰਾਏਲ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:42:25.386163740Z",
+  "model": "glm-5.2"
+}

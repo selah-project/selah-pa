@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 147,
+  "translation": "ਵੱਡਾ ਹੈ ਸਾਡਾ ਅਦੋਨਾਈ ਅਤੇ ਬਹੁਤ ਸਮਰੱਥ; ਉਸ ਦੀ ਸਮਝ ਦਾ ਕੋਈ ਅੰਕ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡਾ ਹੈ"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ਸਾਡਾ ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ਅਤੇ ਬਹੁਤ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ਸਮਰੱਥ"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ਉਸ ਦੀ ਸਮਝ ਦਾ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ਕੋਈ ਅੰਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:19:50.554102566Z",
+  "model": "glm-5.2"
+}

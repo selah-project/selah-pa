@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਧਰਮੀ ਆਪਣੇ ਪਸ਼ੂ ਦੀ ਜਾਨ ਨੂੰ ਜਾਣਦਾ ਹੈ, ਪਰ ਦੁਸ਼ਟਾਂ ਦੀਆਂ ਤਰਸਾਂ ਕਰੂਰ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ਜਾਣਦਾ ਹੈ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ਆਪਣੇ ਪਸ਼ੂ ਦੀ"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ਪਰ ਤਰਸਾਂ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦੀਆਂ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ਕਰੂਰ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:25:57.434418576Z",
+  "model": "glm-5.2"
+}

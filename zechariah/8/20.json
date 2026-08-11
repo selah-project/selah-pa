@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਯਾਹਵੇਹ ਸੈਨਾਵਾਂ ਇੰਝ ਆਖਦਾ ਹੈ: ਇਹ ਹੋਵੇਗਾ ਕਿ ਹਾਲੇ ਲੋਕ ਆਉਣਗੇ, ਅਤੇ ਵੱਡੇ ਸ਼ਹਿਰਾਂ ਦੇ ਵਸਨੀਕ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ਇੰਝ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਦਾ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ਸੈਨਾਵਾਂ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਹਾਲੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ਆਉਣਗੇ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ਅਤੇ ਵਸਨੀਕ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਸ਼ਹਿਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ਵੱਡੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:23:45.273171808Z",
+  "model": "glm-5.2"
+}

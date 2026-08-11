@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਉਸ ਸਮੇਂ ਯਾਰਬਾਮ ਦੇ ਪੁੱਤਰ ਅਬੀਯਾ ਬੀਮਾਰ ਹੋ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ਉਸ ਸਮੇਂ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ਬੀਮਾਰ ਹੋ ਗਿਆ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ਅਬੀਯਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ਯਾਰਬਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:28:05.812768898Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਦਾਵਿਦ ਨੇ ਕਿਹਾ, ਇਹ ⟨ਹੈ⟩ ਯਾਹਵੇਹ ਏਲੋਹੀਮ ਦਾ ਘਰ, ਅਤੇ ਇਹ ⟨ਹੈ⟩ ਇਸਰਾਏਲ ਲਈ ਸਾੜਨ ਲਈ ਵੇਦੀ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ਦਾਵਿਦ ਨੇ"
+    },
+    {
+      "surface": "ਖ਼",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ਹੂ",
+      "gloss": "⟨ਹੈ⟩"
+    },
+    {
+      "surface": "ਬੀਤ",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "ਯਹੂਹ",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "ਹੇਲਹੀਮ",
+      "gloss": "ਏਲੋਹੀਮ ਦਾ"
+    },
+    {
+      "surface": "ਵਖ਼",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "ਮਖ਼ਬਖ਼",
+      "gloss": "ਵੇਦੀ"
+    },
+    {
+      "surface": "ਲਖ਼ਲਖ਼",
+      "gloss": "ਸਾੜਨ ਲਈ"
+    },
+    {
+      "surface": "ਲੀਸ਼ਰਾਏਲ",
+      "gloss": "ਇਸਰਾਏਲ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:10:50.592961570Z",
+  "model": "glm-5.2"
+}

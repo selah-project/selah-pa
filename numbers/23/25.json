@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਬਾਲਾਕ ਨੇ ਬਿਲਆਮ ਨੂੰ ਕਿਹਾ: ਨਾ ਤਾਂ ਉਹਨਾਂ ਨੂੰ ਕੋਬ ਕਰ, ਨਾ ਹੀ ਉਹਨਾਂ ਨੂੰ ਬਰਕਤ ਦੇ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ਬਾਲਾਕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ਬਿਲਆਮ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਨਾ ਤਾਂ"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ਕੋਬ ਕਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ ⟨ਕੋਬ ਕਰ⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਨਾ ਹੀ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ਬਰਕਤ ਦੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ ⟨ਬਰਕਤ ਦੇ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T21:00:39.614208021Z",
+  "model": "glm-5.2"
+}

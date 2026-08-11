@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਬਿਲਹਾ ਨੇ ਗਰਭ ਧਾਰਿਆ ਅਤੇ ਯਾਕੋਬ ਲਈ ਪੁੱਤਰ ਨੂੰ ਜਨਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ਅਤੇ ਗਰਭ ਧਾਰਿਆ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ਬਿਲਹਾ ਨੇ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ਅਤੇ ਜਨਮਿਆ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ਯਾਕੋਬ ਲਈ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:57:25.199111678Z",
+  "model": "glm-5.2"
+}

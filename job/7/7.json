@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਯਾਦ ਰੱਖ ਕਿ ਮੇਰੇ ਜੀਵਨ ਦੀ ਪੌਣ ਹੈ, ਮੇਰੀ ਅੱਖ ਚੰਗਿਆਈ ਵੇਖਣ ਲਈ ਮੁੜ ਨਹੀਂ ਸਕੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ਯਾਦ ਰੱਖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਪੌਣ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ਮੇਰੇ ਜੀਵਨ ਦੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ਮੁੜ ਸਕੇਗੀ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ਮੇਰੀ ਅੱਖ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ਵੇਖਣ ਲਈ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਿਆਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:40:03.215517088Z",
+  "model": "glm-5.2"
+}

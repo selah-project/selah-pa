@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਮਨੁੱਖ ਦੇ ਪੁੱਤ੍ਰ, ਆਪਣਾ ਚਿਹਰਾ ਸੇਈਰ ਪਹਾੜ ਵੱਲ ਕਰ ਅਤੇ ਉਸ ਵਿਰੁੱਧ ਭਵਿੱਖਬਾਣੀ ਕਰ:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤ੍ਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ਕਰ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ਆਪਣਾ ਚਿਹਰਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ਸੇਈਰ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ਅਤੇ ਭਵਿੱਖਬਾਣੀ ਕਰ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਵਿਰੁੱਧ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:59:12.849170639Z",
+  "model": "glm-5.2"
+}

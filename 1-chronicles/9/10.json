@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਕਾਹਨਾਂ ਵਿੱਚੋਂ — ਯਦਅਯਾਹ, ਯਹੋਯਾਰੀਬ, ਯਾਖੀਨ।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ਅਤੇ … ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ਕਾਹਨਾਂ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ਯਦਅਯਾਹ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "ਯਹੋਯਾਰੀਬ"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ਯਾਖੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:00:11.126557685Z",
+  "model": "glm-5.2"
+}

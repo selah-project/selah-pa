@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 83,
+  "translation": "ਜੋ ਐਨ-ਦੋਰ ⟨ਉੱਤੇ⟩ ਨਸ਼ਟ ਹੋ ਗਏ; ਉਹ ਜ਼ਮੀਨ ਲਈ ਖਾਦ ਬਣੇ।",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "ਨਸ਼ਟ ਹੋ ਗਏ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ਐਨ-ਦੋਰ ⟨ਉੱਤੇ⟩"
+    },
+    {
+      "surface": "דאר",
+      "gloss": ""
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਉਹ ਬਣੇ"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ਖਾਦ"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ਜ਼ਮੀਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:01:11.471850226Z",
+  "model": "glm-5.2"
+}

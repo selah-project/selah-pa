@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਸਾਡੇ ਦਿਲ ਦਾ ਅਨੰਦ ਖਤਮ ਹੋ ਗਿਆ, ਸਾਡਾ ਨ੍ਰਿਤ ਸੋਗ ਵਿੱਚ ਬਦਲ ਗਿਆ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ਖਤਮ ਹੋ ਗਿਆ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ਅਨੰਦ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ਸਾਡੇ ਦਿਲ ਦਾ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ਬਦਲ ਗਿਆ"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ਸੋਗ ਵਿੱਚ"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "ਸਾਡਾ ਨ੍ਰਿਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:22.706105867Z",
+  "model": "glm-5.2"
+}

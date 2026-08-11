@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤੂੰ ਅੱਜ ⟨את⟩ ਮੋਆਬ ਦੇ ਹੱਦ ਨੂੰ, ⟨את⟩ ਅਰ ਨੂੰ, ਪਾਰ ਕਰ ਰਿਹਾ ਹੈਂ:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ਪਾਰ ਕਰ ਰਿਹਾ ਹੈਂ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਅੱਜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੋਆਬ ਦੇ ਹੱਦ ਨੂੰ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ ਦੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅਰ ਨੂੰ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ਅਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:07:38.525551445Z",
+  "model": "glm-5.2"
+}

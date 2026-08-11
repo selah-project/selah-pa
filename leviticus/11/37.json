@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਜੇ ਉਹਨਾਂ ਦੀ ਲਾਸ਼ ਵਿੱਚੋਂ ⟨ਕੁਝ⟩ ਕਿਸੇ ਬੀਜ ਉੱਤੇ ਡਿੱਗੇ ਜੋ ਬੀਜਿਆ ਜਾਣ ਵਾਲਾ ⟨ਹੈ⟩, ਉਹ ਪਵਿੱਤਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ਡਿੱਗੇ"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ਉਹਨਾਂ ਦੀ ਲਾਸ਼ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ਬੀਜ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ਬੀਜਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ਬੀਜਿਆ ਜਾਵੇ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:01.667687554Z",
+  "model": "glm-5.2"
+}

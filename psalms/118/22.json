@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 118,
+  "translation": "ਉਹ ਪੱਥਰ ਜਿਸ ਨੂੰ ਬਣਾਉਣ ਵਾਲਿਆਂ ਨੇ ਰੱਦ ਕੀਤਾ, ਉਹ ਕੋਨੇ ਦਾ ਸਿਰਾ ਬਣ ਗਈ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ਪੱਥਰ"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ਰੱਦ ਕੀਤਾ"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "ਬਣਾਉਣ ਵਾਲਿਆਂ ਨੇ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ਬਣ ਗਈ ਹੈ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ਸਿਰਾ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ਕੋਨੇ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:11:47.867297712Z",
+  "model": "glm-5.2"
+}

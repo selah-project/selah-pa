@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਯਿਸਾਸਕਾਰ ਦੇ ਬਿਨਾਂ ⟨ਬੱਚਿਆਂ⟩ ਦੇ ਕਬੀਲੇ ਦੀ ਫੌਜ ਉੱਤੇ ⟨ਸੀ⟩ ਨਤਨਾਏਲ ਬਿਨ ਸੂਆਰ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ਫੌਜ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ਕਬੀਲੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ਯਿਸਾਸਕਾਰ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ਨਤਨਾਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ਸੂਆਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:52:05.291049280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 52,
+  "translation": "ਅਤੇ ਨਗਰ ਘਿਰਾਓ ਵਿੱਚ ਆ ਗਿਆ, ਤਾਂ ਜ਼ੇਕਰੀਯਾਹੂ ਰਾਜੇ ਦੇ ਗਿਆਰ੍ਹਵੇਂ ਸਾਲ ਤੱਕ।",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ਅਤੇ ਆ ਗਿਆ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਨਗਰ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ਘਿਰਾਓ ਵਿੱਚ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ਗਿਆਰ੍ਹਵ੍ਹਾਂ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਗਿਆਰਾਂ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ਰਾਜੇ ਦੇ ⟨ਲਈ⟩"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ਜ਼ੇਕਰੀਯਾਹੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:40:24.846262598Z",
+  "model": "glm-5.2"
+}

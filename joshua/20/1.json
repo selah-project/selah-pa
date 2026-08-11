@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਯੇਹੋਸ਼ੁਆ ਨੂੰ ਕਿਹਾ, ਇਉਂ ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ਯੇਹੋਸ਼ੁਆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਇਉਂ ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:36:25.205618396Z",
+  "model": "glm-5.2"
+}

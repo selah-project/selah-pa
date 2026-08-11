@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬੇਤ-ਲੇਖੇਮ ਅਤੇ ਨਤੋਫ਼ਾ ਦੇ ਮਰਦ ਇੱਕ ਸੌ ਅਸੀ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਲੇਖੇਮ ਅਤੇ"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "ਨਤੋਫ਼ਾ ਦੇ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ਅਸੀ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:56.659836907Z",
+  "model": "glm-5.2"
+}

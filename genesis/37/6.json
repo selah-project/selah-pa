@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਤਾਂ ਉਹ ਉਨ੍ਹਾਂ ਨੂੰ ਬੋਲਿਆ: ਹੁਣ ਇਹ ਸੁਣੋ, ਮੇਰਾ ਇਹ ਸੁਪਨਾ ਜੋ ਮੈਂ ਸੁਣਿਆ ਹੈ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਤਾਂ... ਬੋਲਿਆ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ਉਨ੍ਹਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ਇਹ... ਸੁਪਨਾ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ਮੈਂ ਸੁਣਿਆ ਹਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:02:12.390888275Z",
+  "model": "glm-5.2"
+}

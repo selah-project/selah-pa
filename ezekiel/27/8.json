@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 27:8",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਤਸੀਦੋਨ ਅਤੇ ਅਰਵਾਦ ਦੇ ਵਸਨੀਕ ਤੇਰੇ ਮਲਾਹ ਸਨ; ਤੇਰੇ ਗਿਆਨੀ, ਹੇ ਤਸੋਰ, ਤੇਰੇ ਵਿਚ ਸਨ, ਉਹ ਤੇਰੇ ਕਪਤਾਨ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "ਵਸਨੀਕ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ਤਸੀਦੋਨ"
+    },
+    {
+      "surface": "וארוד",
+      "gloss": "ਅਤੇ ਅਰਵਾਦ ਦੇ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ਮਲਾਹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "ਤੇਰੇ ਗਿਆਨੀ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ਹੇ ਤਸੋਰ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ਤੇਰੇ ਵਿਚ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "ਤੇਰੇ ਕਪਤਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:54:43.672718389Z",
+  "model": "glm-5.2"
+}

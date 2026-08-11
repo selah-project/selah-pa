@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਬਾਨਾ ਖੂਸ਼ਾਈ ਦਾ ਪੁੱਤਰ, ਆਸ਼ੇਰ ਅਤੇ ਬੇਆਲੋਤ ਵਿੱਚ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "ਬਾਨਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ਖੂਸ਼ਾਈ ਦਾ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ਆਸ਼ੇਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ਅਤੇ ਬੇਆਲੋਤ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:20:24.827378504Z",
+  "model": "glm-5.2"
+}

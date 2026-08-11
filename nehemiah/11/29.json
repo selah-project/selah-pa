@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਏਨ-ਰਿੱਮੋਨ, ਅਤੇ ਤਸਰਆਹ, ਅਤੇ ਯਰਮੂਤ ਵਿਖੇ।",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "ਅਤੇ ... ਵਿਖੇ"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ਏਨ-ਰਿੱਮੋਨ"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "ਅਤੇ ਤਸਰਆਹ ਵਿਖੇ"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "ਅਤੇ ਯਰਮੂਤ ਵਿਖੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:49:34.190029295Z",
+  "model": "glm-5.2"
+}

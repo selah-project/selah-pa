@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਵੇਖੋ, ਉਹ ਮੈਨੂੰ ਆਖਦੇ ਹਨ, “ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਕਿੱਥੇ ਹੈ? ਇਹ ਆ ਕੇ ਵੇਖੇ!”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ਆਖਦੇ ਹਨ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ਕਿੱਥੇ ਹੈ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ਆ ਕੇ"
+    },
+    {
+      "surface": "ਖ",
+      "gloss": "ਵੇਖੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:22:41.851221466Z",
+  "model": "glm-5.2"
+}

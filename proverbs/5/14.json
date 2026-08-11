@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਥੋੜ੍ਹੇ ਹੀ ਘੱਟ ਮੈਂ ਹਰ ਬੁਰਾਈ ਵਿੱਚ ⟨ਸੀ⟩, ਕਾਇਦੇ ਅਤੇ ਸਭਾ ਦੇ ਵਿਚਕਾਰ।",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ਥੋੜ੍ਹੇ ਹੀ ਘੱਟ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ਮੈਂ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਬੁਰਾਈ ਵਿੱਚ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ਦੇ ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ਕਾਇਦੇ"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ਅਤੇ ਸਭਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:00.587905437Z",
+  "model": "glm-5.2"
+}

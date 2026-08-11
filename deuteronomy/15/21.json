@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਜੇ ਉਸ ਵਿੱਚ ਕੋਈ ਦੋਸ਼ ਹੋਵੇ — ਲੰਙਾ, ਜਾਂ ਅੰਨ੍ਹਾ, ਜਾਂ ਕੋਈ ਵੀ ਭੈੜਾ ਦੋਸ਼ — ਤਾਂ ਉਸ ਨੂੰ ਯਾਹਵੇਹ ਆਪਣੇ ਏਲੋਹੀਮ ਲਈ ਨਾ ਬਲਦੇਵਾਂ।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ਕੋਈ ਦੋਸ਼"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ਲੰਙਾ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ਅੰਨ੍ਹਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ਦੋਸ਼"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਭੈੜਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "ਬਲਦੇਵਾਂ ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਆਪਣੇ ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:11.874412522Z",
+  "model": "glm-5.2"
+}

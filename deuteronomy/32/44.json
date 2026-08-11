@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਆਇਆ ਅਤੇ ⟨ਉਸਨੇ⟩ ਇਸ ਗੀਤ ਦੇ ਸਾਰੇ ਬਚਨ ⟨את⟩ ਲੋਕਾਂ ਦੇ ਕੰਨਾਂ ਵਿੱਚ ਬੋਲੇ, ⟨ਉਹ⟩ ਅਤੇ ਹੋਸ਼ੇਯਾ ਬਿਨ ਨੂਨ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਬੋਲੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਬਚਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ਇਸ ਗੀਤ ਦੇ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ਕੰਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕਾਂ ਦੇ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "ਅਤੇ ਹੋਸ਼ੇਯਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ਨੂਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:47.764078005Z",
+  "model": "glm-5.2"
+}

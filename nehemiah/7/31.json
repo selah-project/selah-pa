@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਮਿਖਮਾਸ ਦੇ ਮਰਦ — ਇੱਕ ਸੌ ਵੀਹ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "ਮਿਖਮਾਸ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ਅਤੇ ਵੀਹ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:18.767279658Z",
+  "model": "glm-5.2"
+}

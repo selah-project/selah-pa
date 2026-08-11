@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਆਪਣੇ ਗਰੀਬ ਦਾ ਨਿਆਂ ਉਸਦੇ ਝਗੜੇ ਵਿਚ ਨਾ ਟਾਲੇਂ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ਤੂੰ ਟਾਲੇਂ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "ਤੇਰੇ ਗਰੀਬ ਦਾ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ਉਸਦੇ ਝਗੜੇ ਵਿਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:19:48.503941194Z",
+  "model": "glm-5.2"
+}

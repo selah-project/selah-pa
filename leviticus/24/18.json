@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਜੋ ਬੀਜ ਦੀ ਜਾਨ ਮਾਰੇ ਉਹ ⟨ਉਸਦਾ⟩ ਬਦਲਾ ਦੇਵੇ, ਜਾਨ ਬਦਲੇ ਜਾਨ।",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ਅਤੇ ਜੋ ਮਾਰੇ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ਬੀਜ ਦੀ"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ਉਹ ਬਦਲਾ ਦੇਵੇ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:50.748098056Z",
+  "model": "glm-5.2"
+}

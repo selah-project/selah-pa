@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 38,
+  "translation": "ਅਤੇ ਜੇ ਤੂੰ ਨਿਕਲਣ ਤੋਂ ਇਨਕਾਰ ਕਰੇਂ, ਤਾਂ ਇਹ ⟨ਹੈ⟩ ਉਹ ਬਚਨ ਜੋ ਯਾਹਵੇਹ ਨੇ ਮੈਨੂੰ ਦਿਖਾਇਆ ⟨ਹੈ⟩:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ਇਨਕਾਰ ਕਰੇਂ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ਨਿਕਲਣ ਤੋਂ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ਮੈਨੂੰ ਦਿਖਾਇਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:33:45.293792714Z",
+  "model": "glm-5.2"
+}

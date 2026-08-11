@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਰੇਮੇਤ, ਅਤੇ ਏਨ-ਗੰਨੀਮ, ਅਤੇ ਏਨ-ਖ਼ੱਦਾ, ਅਤੇ ਬੇਤ-ਪੱਤਸੇਸ।",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "ਅਤੇ ਰੇਮੇਤ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ਅਤੇ ਏਨ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ਗੰਨੀਮ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ਅਤੇ ਏਨ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ਖ਼ੱਦਾ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "ਪੱਤਸੇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:15.818701301Z",
+  "model": "glm-5.2"
+}

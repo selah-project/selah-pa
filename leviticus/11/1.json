@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨੂੰ ਅਤੇ ਅਹਰੋਨ ਨੂੰ ਗੱਲ ਕੀਤੀ, ਉਨ੍ਹਾਂ ਨੂੰ ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨੂੰ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ਉਨ੍ਹਾਂ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:35.897146242Z",
+  "model": "glm-5.2"
+}

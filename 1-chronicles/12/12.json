@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅੱਤਾਈ ਛੇਵਾਂ, ਏਲੀਏਲ ਸੱਤਵਾਂ।",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "ਅੱਤਾਈ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ਛੇਵਾਂ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ਏਲੀਏਲ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ਸੱਤਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:02:07.367304895Z",
+  "model": "glm-5.2"
+}

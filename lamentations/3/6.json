@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਹਨੇਰਿਆਂ ਵਿੱਚ ⟨ਉਸ ਨੇ⟩ ਮੈਨੂੰ ਵਸਾਇਆ ਹੈ, ਜਿਵੇਂ ਮੁੱਢ ਦੇ ਮੁਰਦੇ ⟨ਹਨ⟩।",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "ਹਨੇਰਿਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "⟨ਉਸ ਨੇ⟩ ਮੈਨੂੰ ਵਸਾਇਆ ਹੈ"
+    },
+    {
+      "surface": "ਕਮਤੀ",
+      "gloss": "ਜਿਵੇਂ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ਮੁੱਢ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:27.972527737Z",
+  "model": "glm-5.2"
+}

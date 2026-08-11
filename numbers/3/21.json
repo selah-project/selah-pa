@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਲਈ ਗੇਰਸ਼ੋਨ ⟨ਇਹ⟩ ਹੈ ਕੁਲ ਹਲਵੀ ਅਤੇ ਕੁਲ ਸ਼ਿਮਈ; ਇਹ ਹਨ ਕੁਲਾਂ ਗੇਰਸ਼ੁਨੀ",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "ਲਈ ਗੇਰਸ਼ੋਨ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਲ"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "ਹਲਵੀ"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ਅਤੇ ਕੁਲ"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "ਸ਼ਿਮਈ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਹਨ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਲਾਂ"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ਗੇਰਸ਼ੁਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:47:07.981271666Z",
+  "model": "glm-5.2"
+}

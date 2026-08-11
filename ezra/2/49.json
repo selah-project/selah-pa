@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਉੱਜ਼ਾ ਦੇ ਪੁੱਤਰ, ਪਾਸੇਅ ਦੇ ਪੁੱਤਰ, ਬੇਸਾਈ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ਉੱਜ਼ਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ਪਾਸੇਅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "ਬੇਸਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:34:03.107590263Z",
+  "model": "glm-5.2"
+}

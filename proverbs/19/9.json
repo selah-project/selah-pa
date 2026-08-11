@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਝੂਠੇ ਗਵਾਹ ਨਿਰਦੋਸ਼ ਨਹੀਂ ਹੋਵੇਗਾ, ਅਤੇ ਝੂਠ ਫੁੰਕਣ ਵਾਲਾ ਨਾਸ ਹੋਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ਗਵਾਹ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ਝੂਠੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ਨਿਰਦੋਸ਼ ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ਅਤੇ ਫੁੰਕਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ਝੂਠ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ਨਾਸ ਹੋਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:29:12.608697354Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਇੱਕ ਮਨੁੱਖ ਜਾਂ ਇੱਕ ਇਸਤਰੀ, ਜਦੋਂ ਉਸ ਵਿੱਚ ਨਗੇਰਾ ⟨ਹੋਵੇ⟩ ਸਿਰ ਵਿੱਚ ਜਾਂ ਦਾੜ੍ਹੀ ਵਿੱਚ —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ਅਤੇ ਇੱਕ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇੱਕ ਇਸਤਰੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ਹੋਵੇ⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ਨਗੇਰਾ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ਸਿਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ਦਾੜ੍ਹੀ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:37:18.745175698Z",
+  "model": "glm-5.2"
+}

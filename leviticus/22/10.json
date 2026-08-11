@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਹਰ ਬਾਹਰਲਾ ਪਵਿੱਤਰ ⟨ਵਸਤ⟩ ਨਹੀਂ ਖਾਵੇ; ਪੁਜਾਰੀ ਦਾ ਪਰਦੇਸੀ ਅਤੇ ਮਜ਼ਦੂਰ ਪਵਿੱਤਰ ⟨ਵਸਤ⟩ ਨਹੀਂ ਖਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਹਰ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ਬਾਹਰਲਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ਖਾਵੇ"
+    },
+    {
+      "surface": "ਧדש",
+      "gloss": "ਪਵਿੱਤਰ ⟨ਵਸਤ⟩"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "ਪਰਦੇਸੀ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ਪੁਜਾਰੀ ਦਾ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ਅਤੇ ਮਜ਼ਦੂਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ਖਾਵੇ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ ⟨ਵਸਤ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T20:41:28.487168519Z",
+  "model": "glm-5.2"
+}

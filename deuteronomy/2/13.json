@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਹੁਣ ਉੱਠੋ ਅਤੇ ਤੁਸੀਂ ⟨ਆਪਣੇ ਲਈ⟩ ⟨את⟩ ਜ਼ੇਰੇਦ ਨਦੀ ਨੂੰ ਪਾਰ ਕਰੋ, ਅਤੇ ਅਸੀਂ ⟨את⟩ ਜ਼ੇਰੇਦ ਨਦੀ ਨੂੰ ਪਾਰ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ਉੱਠੋ"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ਅਤੇ ਪਾਰ ਕਰੋ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜ਼ੇਰੇਦ ਨਦੀ ਨੂੰ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ਨਦੀ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ਜ਼ੇਰੇਦ"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ਅਤੇ ਅਸੀਂ ਪਾਰ ਕੀਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜ਼ੇਰੇਦ ਨਦੀ ਨੂੰ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ਨਦੀ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ਜ਼ੇਰੇਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:07:51.230697745Z",
+  "model": "glm-5.2"
+}

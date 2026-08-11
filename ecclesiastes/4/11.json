@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਇਸ ਤਰ੍ਹਾਂ ਜੇ ਦੋ ਇੱਕ ਥਾਂ ਲੇਟਣ, ਤਾਂ ਉਹਨਾਂ ਨੂੰ ਗਰਮੀ ⟨ਹੈ⟩; ਪਰ ਇੱਕ ਜਣੇ ਲਈ — ਕਿਵੇਂ ਗਰਮ ਹੋਵੇ?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਇਸ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ਲੇਟਣ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ਅਤੇ ਗਰਮੀ ⟨ਹੈ⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ਪਰ ਇੱਕ ਜਣੇ ਲਈ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ਕਿਵੇਂ"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ਗਰਮ ਹੋਵੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:09:58.142577326Z",
+  "model": "glm-5.2"
+}

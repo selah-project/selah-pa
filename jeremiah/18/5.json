@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਵਚਨ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਵਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ ਆਇਆ"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:22:54.268113590Z",
+  "model": "glm-5.2"
+}

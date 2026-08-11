@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਏਹ ⟨ਹਨ⟩ ਯਿਸਰਾਏਲ ਦੇ ਪੁੱਤਰ — ਰਊਬੇਨ, ਸ਼ਿਮਓਨ, ਲੇਵੀ ਅਤੇ ਯਹੂਦਾਹ, ਯਿਸਸਕਰ ਅਤੇ ਜ਼ਬੂਲੂਨ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਏਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬੇਨ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ਸ਼ਿਮਓਨ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ਲੇਵੀ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ਅਤੇ ਯਹੂਦਾਹ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ਯਿਸਸਕਰ"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "ਅਤੇ ਜ਼ਬੂਲੂਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:31.064377680Z",
+  "model": "glm-5.2"
+}

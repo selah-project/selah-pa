@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 59,
+  "translation": "ਉਹ ਖਾਣ ਲਈ ⟨ਇੱਧਰ-ਉੱਧਰ⟩ ਭਟਕਦੇ ਹਨ, ਜੇ ਅੱਛਾ ਨਾ ਰੱਜਣ ਤਾਂ ਰਾਤ ਬਿਤਾਉਂਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ਭਟਕਦੇ ਹਨ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ਖਾਣ ਲਈ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ਰੱਜਣ"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ਤਾਂ ਰਾਤ ਬਿਤਾਉਂਦੇ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:54:37.990109963Z",
+  "model": "glm-5.2"
+}

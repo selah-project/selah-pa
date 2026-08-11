@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਯਖੀਏਲੀ ਦੇ ਪੁੱਤਰ — ਜ਼ੇਤਮ ਅਤੇ ਯੋਏਲ ਉਸ ਦਾ ਭਰਾ — ਯਾਹਵੇਹ ਦੇ ਘਰ ਦੇ ਖ਼ਜ਼ਾਨਿਆਂ ਉੱਤੇ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "ਯਖੀਏਲੀ ਦੇ"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "ਜ਼ੇਤਮ"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ਅਤੇ ਯੋਏਲ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ਉਸ ਦਾ ਭਰਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ਖ਼ਜ਼ਾਨਿਆਂ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ ਦੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:12:34.549650084Z",
+  "model": "glm-5.2"
+}

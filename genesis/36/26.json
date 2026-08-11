@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਇਹ ਹਨ ਦੀਸ਼ਾਨ ਦੇ ਪੁੱਤਰ: ਹੇਮਦਾਨ ਅਤੇ ਏਸ਼ਬਾਨ ਅਤੇ ਯਿਤਰਾਨ ਅਤੇ ਕੇਰਾਨ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ਦੀਸ਼ਾਨ"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "ਹੇਮਦਾਨ"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ਅਤੇ ਏਸ਼ਬਾਨ"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ਅਤੇ ਯਿਤਰਾਨ"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ਅਤੇ ਕੇਰਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:02.004577609Z",
+  "model": "glm-5.2"
+}

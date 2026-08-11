@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤੇਰੇ ਪਿਤਾ ਦੀ ਭੈਣ ਦੀ ਨੰਗਤਾ ਨੂੰ ਤੂੰ ਨਾ ਖੋਹਲੇਂ — ਉਹ ਤੇਰੇ ਪਿਤਾ ਦਾ ਸ਼ਿਓਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ਨੰਗਤਾ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ਭੈਣ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ਤੇਰੇ ਪਿਤਾ ਦੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ਤੂੰ ਖੋਹਲੇਂ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ਸ਼ਿਓਰ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ਤੇਰੇ ਪਿਤਾ ਦਾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:38:18.418870185Z",
+  "model": "glm-5.2"
+}

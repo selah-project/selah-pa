@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਇੱਕ ਮਨੁੱਖ ਦੇ ਮੂੰਹ ਦੇ ਬਚਨ ਡੂੰਘੇ ਪਾਣੀ ਹਨ, ਬੁੱਧੀ ਦਾ ਸੋਮਾ ਵਹਿੰਦਾ ਹੋਇਆ ਨਾਲਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ਡੂੰਘੇ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ ਦੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਇੱਕ ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ਨਾਲਾ"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "ਵਹਿੰਦਾ ਹੋਇਆ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ਸੋਮਾ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਬੁੱਧੀ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:29:01.895745668Z",
+  "model": "glm-5.2"
+}

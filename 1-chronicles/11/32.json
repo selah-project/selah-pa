@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਹੁਰਾਈ ਗਾਸ਼ ਦੇ ਨਾਲਿਆਂ ਤੋਂ, ਅਬੀਏਲ ਅਰਬਾਤੀ,",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ਹੁਰਾਈ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ਨਾਲਿਆਂ ਤੋਂ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ਗਾਸ਼"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "ਅਬੀਏਲ"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ਅਰਬਾਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:53.082831895Z",
+  "model": "glm-5.2"
+}

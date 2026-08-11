@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਹਰ ਇੱਕ ਵਿਧਵਾ ਅਤੇ ਯਤੀਮ ਨੂੰ ਤੁਸੀਂ ਦੁਖੀ ਨਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਇੱਕ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ਵਿਧਵਾ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ਅਤੇ ਯਤੀਮ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ਤੁਸੀਂ ਦੁਖੀ ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:19:45.829067301Z",
+  "model": "glm-5.2"
+}

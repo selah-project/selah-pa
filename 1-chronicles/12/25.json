@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਯਹੂਦਾਹ ਦੇ ਪੁੱਤਰ, ਢਾਲ ਅਤੇ ਬਰਛੀ ਚੁੱਕਣ ਵਾਲੇ, ਛੇ ਹਜ਼ਾਰ ਅੱਠ ਸੌ, ਲੜਾਈ ਲਈ ਤਿਆਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾਹ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ਚੁੱਕਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ਢਾਲ"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "ਅਤੇ ਬਰਛੀ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "ਤਿਆਰ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ਲੜਾਈ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:03:33.853548995Z",
+  "model": "glm-5.2"
+}

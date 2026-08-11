@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸਾਰੇ ਨਤੀਨੀਮ ਅਤੇ ਸ਼ਲੋਮੋਹ ਦੇ ਨੌਕਰਾਂ ਦੇ ਪੁੱਤਰ — ਤਿੰਨ ਸੌ ਨੱਬੇ ਅਤੇ ਦੋ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "ਨਤੀਨੀਮ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ਨੌਕਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ਨੱਬੇ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:46:08.337197931Z",
+  "model": "glm-5.2"
+}

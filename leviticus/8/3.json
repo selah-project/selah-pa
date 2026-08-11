@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ⟨ਤੂੰ⟩ ਸਾਰੀ ਕੁਲ ਦੀ ਮੀਟਿੰਗ ਨੂੰ ⟨את⟩ ਮਿਲਾਣ ਦੇ ਤੰਬੂ ਦੇ ਦਰਵਾਜੇ ਉੱਤੇ ਇਕੱਠੀਆਂ ਕਰ;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸਾਰੀ ਕੁਲ ਦੀ ਮੀਟਿੰਗ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ਕੁਲ ਦੀ ਮੀਟਿੰਗ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ਇਕੱਠੀਆਂ ਕਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ਦਰਵਾਜੇ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ਤੰਬੂ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ਮਿਲਾਣ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:33:10.588583579Z",
+  "model": "glm-5.2"
+}

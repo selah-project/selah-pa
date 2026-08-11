@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਪਲਿਸ਼ਤੀ ਆਏ ਅਤੇ ਰਪਾਈਮ ਦੇ ਤਲ ਵਿੱਚ ਪਸਰ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ਅਤੇ ਪਲਿਸ਼ਤੀ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ਆਏ"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ਅਤੇ ਪਸਰ ਗਏ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ਤਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ਰਪਾਈਮ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:04:41.826199393Z",
+  "model": "glm-5.2"
+}

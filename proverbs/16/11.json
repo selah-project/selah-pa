@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਤਰਾਜ਼ੂ ਅਤੇ ਮਿਆਦੇ ਕਾਇਦੇ ਦੇ ਬਾਟ ਯਾਹਵੇਹ ਦੇ ⟨ਹਨ⟩; ਉਸ ਦਾ ਕੰਮ ਹੈ ਬਟੂਆ ਦੇ ਸਾਰੇ ਪੱਥਰ।",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "ਤਰਾਜ਼ੂ"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ਅਤੇ ਬਾਟ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਮਿਆਦੇ ਕਾਇਦੇ ਦੇ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ਉਸ ਦਾ ਕੰਮ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ਪੱਥਰ"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "ਬਟੂਆ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:00.867446362Z",
+  "model": "glm-5.2"
+}

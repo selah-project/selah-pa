@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਘਾਤ ਲਾਇਆ — ਮੇਰੇ ਵੈਰੀਆਂ ਨੇ ਮੈਨੂੰ ਫੜਿਆ, ਜਿਵੇਂ ਪੰਛੀ ਨੂੰ, ਬਿਨਾਂ ਕਾਰਨ।",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "ਘਾਤ ਲਾਇਆ"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ਮੈਨੂੰ ਫੜਿਆ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ਜਿਵੇਂ ਪੰਛੀ ਨੂੰ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ਮੇਰੇ ਵੈਰੀਆਂ ਨੇ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ਬਿਨਾਂ ਕਾਰਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:06:51.750710012Z",
+  "model": "glm-5.2"
+}

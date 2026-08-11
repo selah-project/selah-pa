@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 105,
+  "translation": "ਜਦੋਂ ਉਹ ਗਿਣਤੀ ਦੇ ਮਰਦ ਸਨ, ਥੋੜ੍ਹੇ ਜਿਹੇ, ਅਤੇ ਉਸ ਵਿੱਚ ਪਰਦੇਸੀ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "ਜਦੋਂ ਉਹ ਸਨ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ਗਿਣਤੀ ਦੇ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ਥੋੜ੍ਹੇ ਜਿਹੇ"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "ਅਤੇ ਪਰਦੇਸੀ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:07:19.889313589Z",
+  "model": "glm-5.2"
+}

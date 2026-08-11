@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਕਨਾਨ ਨੇ ⟨את⟩ ਜ਼ੀਦੋਨ ਨੂੰ ⟨ਨੂੰ⟩, ਆਪਣੇ ਜੇਠੇ ਨੂੰ, ਅਤੇ ⟨את⟩ ਖੇਤ ਨੂੰ ਜਨਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ਅਤੇ ਕਨਾਨ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ਜਨਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜ਼ੀਦੋਨ"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ਜ਼ੀਦੋਨ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ਆਪਣੇ ਜੇਠੇ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਖੇਤ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ਖੇਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:01.092467267Z",
+  "model": "glm-5.2"
+}

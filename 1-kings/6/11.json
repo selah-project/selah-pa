@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਸ਼ਬਦ ਸ਼ਲੋਮੋਹ ਦੇ ਕੋਲ ⟨ਆਇਆ⟩, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਸ਼ਬਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਦੇ ਕੋਲ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:22:03.902312878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 139,
+  "translation": "ਅਚਰਜ ਗਿਆਨ ਮੇਰੇ ਤੋਂ ⟨ਹੈ⟩ — ⟨ਇਹ⟩ ਬਹੁਤ ਉੱਚਾ ਹੈ, ਮੈਂ ਇਸ ਨੂੰ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦਾ।",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ਅਚਰਜ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ਗਿਆਨ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ਮੇਰੇ ਤੋਂ"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ਬਹੁਤ ਉੱਚਾ ਹੈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ਮੈਂ ਸਕਦਾ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਇਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:17:44.035258573Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "⟨ਜੋ⟩ ਜਵਾਬ ਵਾਕ ਨੂੰ ਸੁਣਨ ਤੋਂ ਪਹਿਲਾਂ ਮੋੜਦਾ ⟨ਹੈ⟩ — ਉਸ ਲਈ ਮੂਰਖਤਾ ਹੈ ਅਤੇ ਲਾਜ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "ਮੋੜਦਾ ਹੈ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਜਵਾਬ ਵਾਕ ਨੂੰ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ਪਹਿਲਾਂ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ਸੁਣਨ ਤੋਂ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ਮੂਰਖਤਾ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਹੈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "ਅਤੇ ਲਾਜ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:29:04.039374951Z",
+  "model": "glm-5.2"
+}

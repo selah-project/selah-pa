@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਨਾਤਾਨ ਨੇ ਰਾਜੇ ਨੂੰ ਕਿਹਾ, ਜੋ ਕੁਝ ਤੇਰੇ ਦਿਲ ਵਿੱਚ ⟨ਹੈ⟩ ਜਾ, ਕਰ, ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਤੇਰੇ ਨਾਲ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ... ਕਿਹਾ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਨਾਤਾਨ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਜੋ ਕੁਝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ਤੇਰੇ ਦਿਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਜਾ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕਰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:40:39.010570267Z",
+  "model": "glm-5.2"
+}

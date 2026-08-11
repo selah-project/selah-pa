@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਕਿਉਂਕਿ ਤੂੰ ਕਿਸੇ ਹੋਰ ਏਲ ਅੱਗੇ ਨਹੀਂ ਸੁੰਨ੍ਹਣਗਾ, ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਦਾ ਨਾਂ ਕਨਾਊ ਹੈ; ਕਨਾਊ ਏਲ ਹੈ ਉਹ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ਤੂੰ ਸੁੰਨ੍ਹਣਗਾ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ਏਲ ਅੱਗੇ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ਕਨਾਊ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ਦਾ ਨਾਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ਕਨਾਊ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:26:16.387552882Z",
+  "model": "glm-5.2"
+}

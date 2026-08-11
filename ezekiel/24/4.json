@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਇਸ ਵਿੱਚ ਇਸ ਦੇ ਟੁਕੜੇ ਇਕੱਠੇ ਕਰ — ਹਰ ਇਕ ਚੰਗਾ ਟੁਕੜਾ, ਰਾਨ ਅਤੇ ਮੋਢਾ, ਚੋਣਵੀਆਂ ਹੱਡੀਆਂ ਨਾਲ ਇਸ ਨੂੰ ਭਰ।",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "ਇਕੱਠੇ ਕਰ"
+    },
+    {
+      "surface": "נתחיה",
+      "gloss": "ਇਸ ਦੇ ਟੁਕੜੇ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ਇਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ਟੁਕੜਾ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ਰਾਨ"
+    },
+    {
+      "surface": "וכתף",
+      "gloss": "ਅਤੇ ਮੋਢਾ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "ਚੋਣਵੀਆਂ"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "ਹੱਡੀਆਂ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ਭਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:59.053884497Z",
+  "model": "glm-5.2"
+}

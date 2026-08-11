@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਲੇਮੂਏਲ ਦੇ ਦਬਾਰੇ, ⟨ਜੋ⟩ ਰਾਜਾ ਹੈ — ਇੱਕ ਮਸਾ ਜੋ ਉਸ ਦੀ ਮਾਂ ਨੇ ਉਸ ਨੂੰ ਸਿਖਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ਦਬਾਰੇ"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ਲੇਮੂਏਲ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ਮਸਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ਸਿਖਾਇਆ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ਉਸ ਦੀ ਮਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:36:28.605407883Z",
+  "model": "glm-5.2"
+}

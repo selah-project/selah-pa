@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਸਿਰਫ਼ ⟨את⟩ ਇਸ ਦਾ ਲਹੂ ਨਾ ਖਾਓ; ਧਰਤੀ ਉੱਤੇ ਇਸ ਨੂੰ ਪਾਣੀ ਵਾਂਗ ਡੋਲ੍ਹੋ।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਸ ਦਾ ਲਹੂ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ਇਸ ਦਾ ਲਹੂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ਖਾਓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ਇਸ ਨੂੰ ਡੋਲ੍ਹੋ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ਪਾਣੀ ਵਾਂਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:11.874946066Z",
+  "model": "glm-5.2"
+}

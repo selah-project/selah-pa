@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਵੀ ਜੋ ਆਪਣੇ ਕੰਮ ਵਿੱਚ ਸੁਸਤ ਹੈ, ਉਹ ਨਾਸ ਕਰਨ ਵਾਲੇ ਦਾ ਭਰਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "גַּ֭ם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "מִתְרַפֶּ֣ה",
+      "gloss": "ਸੁਸਤ ਹੈ"
+    },
+    {
+      "surface": "בִמְלַאכְתּ֑וֹ",
+      "gloss": "ਆਪਣੇ ਕੰਮ ਵਿੱਚ"
+    },
+    {
+      "surface": "אָ֥ח",
+      "gloss": "ਭਰਾ"
+    },
+    {
+      "surface": "ה֝֗וּא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "לְבַ֣עַל",
+      "gloss": "ਦੇ"
+    },
+    {
+      "surface": "מַשְׁחִֽית",
+      "gloss": "ਨਾਸ ਕਰਨ ਵਾਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:47.000158943Z",
+  "model": "glm-5.2"
+}

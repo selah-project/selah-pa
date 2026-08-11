@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਨਤਸੀਆਖ ਦੇ ਪੁੱਤਰ, ਖਤੀਫਾ ਦੇ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ਨਤਸੀਆਖ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ਖਤੀਫਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:48.628100906Z",
+  "model": "glm-5.2"
+}

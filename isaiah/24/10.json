@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਬਿਰਥ ਦਾ ਸ਼ਹਿਰ ਤੁੱਟ ਗਿਆ ⟨ਹੈ⟩; ਹਰ ਘਰ ਦਾਖਲੇ ਲਈ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ਤੁੱਟ ਗਿਆ ਹੈ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ਦਾ ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ਬਿਰਥ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ਦਾਖਲੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:56:08.472049771Z",
+  "model": "glm-5.2"
+}

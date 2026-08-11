@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ, ਯਾਹਵੇਹ ਇੰਜ ਆਖਦਾ ਹੈ, ਇਸ ਨਦੀ-ਖੱਡ ਵਿੱਚ ਖਾਈ ਪੁੱਟੋ, ਖਾਈ ਪੁੱਟੋ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇੰਜ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਦਾ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਬਣਾਓ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ਨਦੀ-ਖੱਡ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ਖਾਈ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ਖਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:34:37.089404251Z",
+  "model": "glm-5.2"
+}

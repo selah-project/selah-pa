@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਯਹੂਦਾਹ ਦੇ ਰਾਜੇ ਦੇ ਘਰ ਵੱਲ: ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਸੁਣੋ!",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ਅਤੇ ਘਰ ਵੱਲ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ ਦੇ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾਹ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:23:00.195873909Z",
+  "model": "glm-5.2"
+}

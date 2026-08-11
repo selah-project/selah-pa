@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 148,
+  "translation": "ਪਹਾੜ ਅਤੇ ਸਾਰੀਆਂ ਟੀਬੀਆਂ, ਫਲਦਾਰ ਰੁੱਖ ਅਤੇ ਸਾਰੇ ਦੇਵਦਾਰ,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੀਆਂ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ਟੀਬੀਆਂ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ਰੁੱਖ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ਫਲਦਾਰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ਦੇਵਦਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:19:20.416194840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਤੂੰ ਇਸ ਨੂੰ ਨਾ ਖਾਵੀਂ; ਧਰਤੀ ਉੱਤੇ ਪਾਣੀ ਵਾਂਗ ਇਸ ਨੂੰ ਤੂੰ ਪਰੋਵੇਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ਤੂੰ ਇਸ ਨੂੰ ਖਾਵੀਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ਇਸ ਨੂੰ ਤੂੰ ਪਰੋਵੇਂਗਾ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ਪਾਣੀ ਵਾਂਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:13.355323590Z",
+  "model": "glm-5.2"
+}

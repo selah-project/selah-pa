@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਉਸ ਰਾਤ ਨੂੰ ਹੋਇਆ, ਅਤੇ ਏਲੋਹੀਮ ਦਾ ਬਚਨ ਨਾਤਨ ਵੱਲ ⟨ਆਇਆ⟩ ⟨ਕੇ⟩ ਕਹਿਣ ਲਈ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ਰਾਤ ਨੂੰ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਨਾਤਨ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿਣ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:07:14.347741797Z",
+  "model": "glm-5.2"
+}

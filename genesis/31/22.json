@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਤੀਜੇ ਦਿਨ ਲਵਨ ਨੂੰ ਦੱਸਿਆ ਗਿਆ ਕਿ ਯਾਕੋਵ ਭੱਜ ਗਿਆ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ਅਤੇ ਦੱਸਿਆ ਗਿਆ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ਲਵਨ ਨੂੰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ਤੀਜੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ਭੱਜ ਗਿਆ ਹੈ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਵ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:58:14.247432965Z",
+  "model": "glm-5.2"
+}

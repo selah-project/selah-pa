@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਸ਼ੇਸ਼ਨ ਦੇ ਪੁੱਤਰ ਨਹੀਂ ਸਨ, ਸਗੋਂ ਧੀਆਂ ਸਨ; ਅਤੇ ਸ਼ੇਸ਼ਨ ਦਾ ਇੱਕ ਮਿਤਸਰੀ ਗੁਲਾਮ ਸੀ, ਅਤੇ ਉਸ ਦਾ ਨਾਂ ਯਰਹਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "ਸ਼ੇਸ਼ਨ ਨੂੰ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਸਗੋਂ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "ਅਤੇ ਸ਼ੇਸ਼ਨ ਦਾ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ਗੁਲਾਮ"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ਮਿਤਸਰੀ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਨਾਂ"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "ਯਰਹਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:04.923383815Z",
+  "model": "glm-5.2"
+}

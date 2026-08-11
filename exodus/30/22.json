@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨਾਲ ਗੱਲ ਕੀਤੀ, ਕਹਿ ਕੇ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:25:11.728406933Z",
+  "model": "glm-5.2"
+}

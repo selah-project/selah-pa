@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਯਹੂਦਾ ਲਈ — ਨਖਸ਼ੋਨ, ਅਮੀਨਾਦਾਬ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "ਯਹੂਦਾ ਲਈ"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ਨਖਸ਼ੋਨ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ਅਮੀਨਾਦਾਬ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:40.353168356Z",
+  "model": "glm-5.2"
+}

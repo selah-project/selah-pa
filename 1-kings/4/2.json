@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਇਹ ਉਹ ਸਰਦਾਰ ਸਨ ਜੋ ਉਸ ਦੇ ⟨ਅਧੀਨ ਸਨ⟩: ਤਸਦੋਕ ਦਾ ਪੁੱਤਰ ਅਜ਼ਰਯਾਹੂ ⟨ਸੀ⟩ ਜਜ਼ਾਰ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਦੇ"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "ਅਜ਼ਰਯਾਹੂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ਤਸਦੋਕ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਜਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:21:03.688813145Z",
+  "model": "glm-5.2"
+}

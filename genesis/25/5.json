@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਅਵਰਾਹਾਮ ਨੇ ⟨את⟩ ਸਭ ਕੁਝ ਜੋ ਉਸ ਦਾ ਸੀ, ਯਿਤਸਖਾਕ ਨੂੰ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ਅਤੇ … ਦਿੱਤਾ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਭ ਕੁਝ ਜੋ ਉਸ ਦਾ ਸੀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਦਾ ਸੀ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ਯਿਤਸਖਾਕ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:54:47.031817123Z",
+  "model": "glm-5.2"
+}

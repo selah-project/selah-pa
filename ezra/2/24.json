@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਜ਼ਮਾਵੇਤ ਦੇ ਪੁੱਤਰ ਬਤਾਲੀ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ਅਜ਼ਮਾਵੇਤ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ਚਾਲੀ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:31:53.712641774Z",
+  "model": "glm-5.2"
+}

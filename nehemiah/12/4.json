@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਇੱਦੋ, ਗਿੰਨਤੋਨ, ਅਬੀਯਾ।",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "ਇੱਦੋ"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "ਗਿੰਨਤੋਨ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ਅਬੀਯਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:12.141484745Z",
+  "model": "glm-5.2"
+}

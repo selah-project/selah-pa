@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਤਾਂ ਮੈਂ ਤੁਹਾਨੂੰ ਕਿਹਾ: ਨਾ ਡਰੋ, ਅਤੇ ਉਹਨਾਂ ਤੋਂ ਨਾ ਕੰਬੋ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ਤਾਂ ਮੈਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ਤੁਹਾਨੂੰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ਕੰਬੋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ਡਰੋ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ਉਹਨਾਂ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:31.417666320Z",
+  "model": "glm-5.2"
+}

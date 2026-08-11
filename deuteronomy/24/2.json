@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਤਾਂ ਉਹ ਉਸ ਦੇ ਘਰੋਂ ਨਿਕਲੇ ਅਤੇ ਜਾਵੇ ਅਤੇ ਕਿਸੇ ਹੋਰ ਮਨੁੱਖ ਦੀ ਹੋ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ਤਾਂ ਉਹ ਨਿਕਲੇ"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ਉਸ ਦੇ ਘਰੋਂ"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ਅਤੇ ਜਾਵੇ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ਅਤੇ ⟨ਹੋ ਜਾਵੇ⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ਕਿਸੇ ਮਨੁੱਖ ਦੀ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ਹੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:08.887038370Z",
+  "model": "glm-5.2"
+}

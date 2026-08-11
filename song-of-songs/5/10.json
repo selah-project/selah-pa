@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਮੇਰਾ ਪ੍ਰੀਤ ਚਮਕਦਾ ⟨ਹੈ⟩ ਅਤੇ ਲਾਲ, ਦਸ ਹਜ਼ਾਰ ਵਿੱਚ ਅਨੋਖਾ।",
+  "tokens": [
+    {
+      "surface": "דּוֹדִ֥י",
+      "gloss": "ਮੇਰਾ ਪ੍ਰੀਤ"
+    },
+    {
+      "surface": "צַח֙",
+      "gloss": "ਚਮਕਦਾ"
+    },
+    {
+      "surface": "וְאָד֔וֹם",
+      "gloss": "ਅਤੇ ਲਾਲ"
+    },
+    {
+      "surface": "דָּג֖וּל",
+      "gloss": "ਅਨੋਖਾ"
+    },
+    {
+      "surface": "מֵרְבָבָֽה",
+      "gloss": "ਦਸ ਹਜ਼ਾਰ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:13.342536649Z",
+  "model": "glm-5.2"
+}

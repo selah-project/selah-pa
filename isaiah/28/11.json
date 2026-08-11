@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਕਿਉਂਕਿ ਠਠੇ ਮਾਰਦੀਆਂ ਬੁੱਲ੍ਹਾਂ ਅਤੇ ਇੱਕ ਹੋਰ ਜੀਭ ਨਾਲ ਉਹ ਇਸ ਲੋਕ ਨਾਲ ਗੱਲ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ਠਠੇ ਮਾਰਦੀਆਂ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ਬੁੱਲ੍ਹਾਂ"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ਅਤੇ ਜੀਭ ਨਾਲ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ਇੱਕ ਹੋਰ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ਗੱਲ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਇਸ ਲੋਕ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:56:47.805937567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਜ਼ਬੂਲੂਨ ਦੇ ਬਿਨਾਂ ⟨ਬੱਚਿਆਂ⟩ ਦੇ ਕਬੀਲੇ ਦੀ ਫੌਜ ਉੱਤੇ ⟨ਸੀ⟩ ਏਲੀਆਬ ਬਿਨ ਖੇਲੋਨ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ਫੌਜ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ਕਬੀਲੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ਜ਼ਬੂਲੂਨ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ਏਲੀਆਬ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ਖੇਲੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:52:05.291226176Z",
+  "model": "glm-5.2"
+}

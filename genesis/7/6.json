@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਨੋਹਾਹ ਛੇ ਸੌ ਸਾਲ ਦਾ ਪੁੱਤਰ ਸੀ, ਅਤੇ ਮਹਾਂ-ਹੜ੍ਹ ਦਾ ਪਾਣੀ ਧਰਤੀ ਉੱਤੇ ਆਇਆ।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ਅਤੇ ਨੋਹਾਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ਅਤੇ ਮਹਾਂ-ਹੜ੍ਹ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:25.011251752Z",
+  "model": "glm-5.2"
+}

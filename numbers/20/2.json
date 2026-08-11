@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਕੁਲ ਲਈ ਪਾਣੀ ਨਹੀਂ ਸੀ, ਅਤੇ ਉਹ ਮੋਸ਼ੇ ਦੇ ਵਿਰੁੱਧ ਅਤੇ ਅਹਰੋਨ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੇ ਹੋਏ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ਕੁਲ ਲਈ"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "ਅਤੇ ਇਕੱਠੇ ਹੋਏ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਦੇ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਦੇ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:58:32.402283183Z",
+  "model": "glm-5.2"
+}

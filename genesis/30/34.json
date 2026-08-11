@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਲਾਵਾਨ ਨੇ ਕਿਹਾ, ਦੇਖ, ਕਾਸ਼ ਤੇਰੀ ਗੱਲ ਅਨੁਸਾਰ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ਲਾਵਾਨ ਨੇ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ਦੇਖ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਕਾਸ਼"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ਤੇਰੀ ਗੱਲ ਅਨੁਸਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:58:21.628158840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਸੂਰਜ ਚੜ੍ਹਦਾ ਹੈ ਅਤੇ ਸੂਰਜ ਡੁੱਬਦਾ ਹੈ, ਅਤੇ ਆਪਣੀ ਥਾਂ ਵੱਲ ਪੰਤ੍ਹਾਂ ਮਾਰਦਾ ਹੈ — ⟨ਉਹ⟩ ਚੜ੍ਹਦਾ ਹੈ ਉੱਥੇ।",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ਅਤੇ ਚੜ੍ਹਦਾ ਹੈ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ਅਤੇ ਡੁੱਬਦਾ ਹੈ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ... ਵੱਲ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ਆਪਣੀ ਥਾਂ"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ਪੰਤ੍ਹਾਂ ਮਾਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ਚੜ੍ਹਦਾ ਹੈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਉਹ⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:10:31.100143088Z",
+  "model": "glm-5.2"
+}

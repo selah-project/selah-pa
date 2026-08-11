@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 144,
+  "translation": "ਮਨੁੱਖ ਨਿਹੱਥੇ ਦੇ ਸਮਾਨ ਹੈ, ਉਸ ਦੇ ਦਿਨ ਗੁਜ਼ਰਦੇ ਪਰਛਾਵੇਂ ਵਾਂਗ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ਨਿਹੱਥੇ ਦੇ ਸਮਾਨ"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ਹੈ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ਉਸ ਦੇ ਦਿਨ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ਪਰਛਾਵੇਂ ਵਾਂਗ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ਗੁਜ਼ਰਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:18:57.429743184Z",
+  "model": "glm-5.2"
+}

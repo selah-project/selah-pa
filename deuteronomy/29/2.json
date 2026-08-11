@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਉਹ ਮਹਾਨ ਪਰਖਾਂ ਜੋ ਤੁਹਾਡੀਆਂ ਅੱਖਾਂ ਨੇ ਵੇਖੀਆਂ, ਉਹ ਨਿਸ਼ਾਨੀਆਂ ਅਤੇ ਉਹ ਮਹਾਨ ਅਚੰਭੇ,",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "ਉਹ ਮਹਾਨ ਪਰਖਾਂ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ਮਹਾਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ਵੇਖੀਆਂ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ਤੁਹਾਡੀਆਂ ਅੱਖਾਂ ਨੇ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ਉਹ ਨਿਸ਼ਾਨੀਆਂ"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "ਅਤੇ ਉਹ ਅਚੰਭੇ"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ਮਹਾਨ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ਉਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:23:20.574027076Z",
+  "model": "glm-5.2"
+}

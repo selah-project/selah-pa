@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਤਾਂ ਕੋਹੇਨ ਆਵੇ ਅਤੇ ਵੇਖੇ, ਅਤੇ ਦੇਖੋ, ਸੰਕਰਮ ਘਰ ਵਿੱਚ ਫੈਲਿਆ ਹੈ — ਇਹ ਘਰ ਵਿੱਚ ਖਾਊ ਕੋ੍ਹ ਹੈ, ਇਹ ਅਪਵਿੱਤਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ਅਤੇ ਆਵੇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕੋਹੇਨ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ਅਤੇ ਵੇਖੇ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ਅਤੇ ਦੇਖੋ"
+    },
+    {
+      "surface": "ਤשה",
+      "gloss": "ਫੈਲਿਆ ਹੈ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ਸੰਕਰਮ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ਘਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ਕੋ੍ਹ"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "ਖਾਊ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ਘਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ਅਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:37:29.886913714Z",
+  "model": "glm-5.2"
+}

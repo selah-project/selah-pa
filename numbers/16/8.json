@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਕੋਰਹ ਨੂੰ ਕਿਹਾ: ਸੁਣੋ, ਹੁਣ, ਲੇਵੀ ਦੇ ਪੁੱਤਰੋ!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ਕੋਰਹ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰੋ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ਲੇਵੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:56:00.576103530Z",
+  "model": "glm-5.2"
+}

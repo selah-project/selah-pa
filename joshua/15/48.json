@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਪਹਾੜ ਵਿੱਚ: ਸ਼ਾਮੀਰ ਅਤੇ ਯਤੀਰ ਅਤੇ ਸ਼ੋਖੋਹ;",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "ਅਤੇ ਪਹਾੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ਸ਼ਾਮੀਰ"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "ਅਤੇ ਯਤੀਰ"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "ਅਤੇ ਸ਼ੋਖੋਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:54.350740852Z",
+  "model": "glm-5.2"
+}

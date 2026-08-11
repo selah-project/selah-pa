@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਜ਼ਗਾਦ ਦੇ ਪੁੱਤਰ, ਇੱਕ ਹਜ਼ਾਰ ਦੋ ਸੌ ਵੀਹ ਅਤੇ ਦੋ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ਅਜ਼ਗਾਦ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਇੱਕ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ਦੋ ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:03.733414177Z",
+  "model": "glm-5.2"
+}

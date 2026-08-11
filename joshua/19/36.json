@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਅਦਾਮਾ, ਅਤੇ ਰਾਮਾ, ਅਤੇ ਖ਼ਤਸੋਰ।",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "ਅਤੇ ਅਦਾਮਾ"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ਅਤੇ ਰਾਮਾ"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "ਅਤੇ ਖ਼ਤਸੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:34.416772301Z",
+  "model": "glm-5.2"
+}

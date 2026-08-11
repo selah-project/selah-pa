@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਉਹਨਾਂ ਦੀਆਂ ਗੱਲਾਂ ਨਾ ਸੁਣੋ; ਬਾਬਿਲ ਦੇ ਰਾਜੇ ਦੀ ਸੇਵਾ ਕਰੋ ਅਤੇ ਜੀਓ; ਇਹ ਕਿਉਂ ਹੋਵੇ ਕਿ ਇਹ ⟨ਨਗਰ⟩ ਉਜੜ ਜਾਏ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ਉਹਨਾਂ ਵੱਲ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ਸੇਵਾ ਕਰੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬਾਬਿਲ ਦੇ ਰਾਜੇ ਨੂੰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ ਦੀ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ਬਾਬਿਲ"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ਅਤੇ ਜੀਓ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਇਹ ⟨ਨਗਰ⟩"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ਉਜੜ ਜਾਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:27:16.095901609Z",
+  "model": "glm-5.2"
+}

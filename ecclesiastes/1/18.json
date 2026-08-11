@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਕਿਉਂਕਿ ਬਹੁਤ ਪਰਮ-ਗਿਆਨ ⟨ਵਿੱਚ⟩ ਬਹੁਤ ਗ਼ੁੱਸਾ ⟨ਹੈ⟩, ਅਤੇ ਜੋ ਗਿਆਨ ਵਧਾਉਂਦਾ ਹੈ ਉਹ ਦੁੱਖ ਵਧਾਉਂਦਾ ਹੈ ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਪਰਮ-ਗਿਆਨ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ਗ਼ੁੱਸਾ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ਅਤੇ ਵਧਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ਗਿਆਨ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ਉਹ ਵਧਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ਦੁੱਖ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:09:07.340841946Z",
+  "model": "glm-5.2"
+}

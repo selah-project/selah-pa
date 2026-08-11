@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਮੋਆਬ ਉਸ ਦਿਨ ਯਿਸਰਾਏਲ ਦੇ ਹੱਥ ਹੇਠ ਨਿਮ੍ਹਾ ਕੀਤਾ ਗਿਆ; ਅਤੇ ਧਰਤੀ ਅੱਸੀ ਸਾਲ ਟਿਕ ਗਈ।",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "ਅਤੇ ਨਿਮ੍ਹਾ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "ਅਤੇ ਟਿਕ ਗਈ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ਅੱਸੀ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:40:07.566878030Z",
+  "model": "glm-5.2"
+}

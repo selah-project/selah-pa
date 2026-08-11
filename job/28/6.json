@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਨੀਲਮਣੀ ਦਾ ਥਾਂ ਉਸ ਦੇ ਪੱਥਰ ⟨ਹਨ⟩, ਅਤੇ ਸੋਨੇ ਦੀ ਧੂੜ ਉਸ ਲਈ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "ਥਾਂ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ਨੀਲਮਣੀ ਦਾ"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ਉਸ ਦੇ ਪੱਥਰ"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "ਅਤੇ ਧੂੜ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ ਦੀ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:49:48.840150320Z",
+  "model": "glm-5.2"
+}

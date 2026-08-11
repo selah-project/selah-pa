@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਯੋਰਾਮ ਉਸ ਦਾ ਪੁੱਤਰ, ਅਖਜ਼ਯਾਹੂ ਉਸ ਦਾ ਪੁੱਤਰ, ਯੋਆਸ਼ ਉਸ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "ਯੋਰਾਮ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ਅਖਜ਼ਯਾਹੂ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ਯੋਆਸ਼"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:21.152660227Z",
+  "model": "glm-5.2"
+}

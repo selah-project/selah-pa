@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਹਰ ਉਹ ਜ਼ੀਨ ਜਿਸ ਉੱਤੇ ਜ਼ਾਬ ⟨ਜ਼ੀਨ ਉੱਤੇ⟩ ਸਵਾਰੀ ਕਰਦਾ ਹੈ, ਅਪਵਿੱਤਰ ਹੋਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਹਰ ਉਹ"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "ਜ਼ੀਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ਸਵਾਰੀ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ਜ਼ਾਬ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ਅਪਵਿੱਤਰ ਹੋਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:39:07.628386735Z",
+  "model": "glm-5.2"
+}

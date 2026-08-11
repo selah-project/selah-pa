@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਕੀ ⟨ਕੋਈ⟩ ਮਰਦ ਆਪਣੀ ਝੋਲੀ ਵਿੱਚ ਅੱਗ ਰੱਖ ਸਕਦਾ ਹੈ, ਅਤੇ ਉਸ ਦੇ ਕੱਪੜੇ ਨਾ ਸੜਨ?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "ਕੀ ਰੱਖ ਸਕਦਾ ਹੈ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "ਆਪਣੀ ਝੋਲੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਕੱਪੜੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "ਸੜਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:15.234682628Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਤੂੰ ਸੁਨਹਿਰੀ ਜੜ੍ਹਾਂ ਬਣਾਏ।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ਅਤੇ ਤੂੰ ਬਣਾਏ"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "ਜੜ੍ਹਾਂ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੁਨਹਿਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:23:19.906551104Z",
+  "model": "glm-5.2"
+}

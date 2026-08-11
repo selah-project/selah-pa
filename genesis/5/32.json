@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਨੋਹ ਪੰਜ ਸੌ ਸਾਲ ਦਾ ਪੁੱਤਰ ਸੀ, ਅਤੇ ਨੋਹ ਨੇ ⟨את⟩ ਸ਼ੇਮ, ⟨את⟩ ਖ਼ਾਮ ਅਤੇ ⟨את⟩ ਯਾਫ਼ੇਤ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ … ਸੀ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੋਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ ਦਾ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ … ਨੇ ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੋਹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸ਼ੇਮ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਸ਼ੇਮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਖ਼ਾਮ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ਖ਼ਾਮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਯਾਫ਼ੇਤ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ਯਾਫ਼ੇਤ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:51.574139455Z",
+  "model": "glm-5.2"
+}

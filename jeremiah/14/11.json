@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੈਨੂੰ ਕਿਹਾ: ਤੂੰ ਇਸ ਲੋਕ ਲਈ ਭਲਾਈ ਲਈ ਅਰਦਾਸ ਨਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "ਅਰਦਾਸ ਕਰ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ਭਲਾਈ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:20:38.315340456Z",
+  "model": "glm-5.2"
+}

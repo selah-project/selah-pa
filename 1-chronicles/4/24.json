@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਸ਼ਿਮੋਨ ਦੇ ਪੁੱਤਰ — ਨਮੂਏਲ ਅਤੇ ਯਾਮੀਨ, ਯਾਰੀਬ, ਜ਼ੇਰਾਖ, ਸ਼ਾਊਲ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ਸ਼ਿਮੋਨ"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "ਨਮੂਏਲ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ਅਤੇ ਯਾਮੀਨ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ਯਾਰੀਬ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ਜ਼ੇਰਾਖ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਾਊਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:55:28.439360948Z",
+  "model": "glm-5.2"
+}

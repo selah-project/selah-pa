@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਕਿਉਂਕਿ ਭਾਵੇਂ ⟨ਉਹ⟩ ਦੁੱਖ ਦੇਵੇ, ਪਰ ⟨ਉਹ⟩ ਖ਼ੇਸੇਦ ਦੀ ਬਹੁਤਾਤ ਅਨੁਸਾਰ ਦਇਆ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਭਾਵੇਂ"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ਦੁੱਖ ਦੇਵੇ"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ਪਰ ਦਇਆ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ਬਹੁਤਾਤ ਅਨੁਸਾਰ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ਖ਼ੇਸੇਦ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:54.280974323Z",
+  "model": "glm-5.2"
+}

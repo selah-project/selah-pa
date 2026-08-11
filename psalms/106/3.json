@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 106,
+  "translation": "ਖ਼ੁਸ਼ ਹਨ ⟨ਉਹ⟩ ਜੋ ਮਿਆਰ ਰੱਖਦੇ ਹਨ, ਹਰ ਵੇਲੇ ਧਰਮ ਕਰਨ ਵਾਲਾ।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ਖ਼ੁਸ਼ ਹਨ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ਜੋ ਰੱਖਦੇ ਹਨ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਮਿਆਰ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ਧਰਮ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ਵੇਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:09:21.005847337Z",
+  "model": "glm-5.2"
+}

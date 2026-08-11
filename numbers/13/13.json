@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਆਸ਼ੇਰ ਕਬੀਲੇ ਲਈ — ਸ਼ੇਤੂਰ, ਮੀਕਾਏਲ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਆਸ਼ੇਰ"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "ਸ਼ੇਤੂਰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ਮੀਕਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:29.448774243Z",
+  "model": "glm-5.2"
+}

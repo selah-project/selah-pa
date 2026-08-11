@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 75,
+  "translation": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ; „ਨਾਸ ਨਾ ਕਰ\"। ਆਸਾਫ਼ ਦਾ ਜ਼ਬੂਰ, ਇੱਕ ਗੀਤ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ਨਾਸ ਕਰ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ਆਸਾਫ਼ ਦਾ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ਇੱਕ ਗੀਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:59:36.688198741Z",
+  "model": "glm-5.2"
+}

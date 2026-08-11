@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਦਾਊਦ ⟨ਸੀ⟩ ਸਭ ਤੋਂ ਛੋਟਾ; ਅਤੇ ਤਿੰਨ ਵੱਡੇ ਸ਼ਾਊਲ ਦੇ ਪਿੱਛੇ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ਅਤੇ ਦਾਊਦ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ਛੋਟਾ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ਅਤੇ ਤਿੰਨ"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ਵੱਡੇ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ਗਏ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ਦੇ ਪਿੱਛੇ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਾਊਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:58:54.169670364Z",
+  "model": "glm-5.2"
+}

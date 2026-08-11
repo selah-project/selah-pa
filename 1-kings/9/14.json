@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਹੀਰਾਮ ਨੇ ਰਾਜੇ ਨੂੰ ਇੱਕ ਸੌ ਵੀਹ ਸੁਨਿਹਰੀ ਛੋਹ ਭੇਜੀਆਂ।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ਅਤੇ ਭੇਜੀਆਂ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ਹੀਰਾਮ ਨੇ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ਰਾਜੇ ਨੂੰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ਅਤੇ ਵੀਹ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ਸੁਨਿਹਰੀ ਛੋਹ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:25:47.557881251Z",
+  "model": "glm-5.2"
+}

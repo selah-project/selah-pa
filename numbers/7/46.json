@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬੱਕਰਾ, ਬੱਕਰੀਆਂ ਦਾ, ਪਾਪ ਬਲੀ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "ਬੱਕਰਾ"
+    },
+    {
+      "surface": "עִזִּים",
+      "gloss": "ਬੱਕਰੀਆਂ ਦਾ"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לְחַטָּאת",
+      "gloss": "ਪਾਪ ਬਲੀ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:50:25.837503565Z",
+  "model": "glm-5.2"
+}

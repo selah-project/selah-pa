@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਸੱਤ ਮੇਮਣਿਆਂ ਲਈ, ਹਰ ਇੱਕ ਮੇਮਣੇ ਲਈ ਇੱਕ ਦਸਵੰਤ;",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ਅਤੇ ⟨ਇੱਕ⟩ ਦਸਵੰਤ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ਮੇਮਣੇ ਲਈ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ਸੱਦ ਲਈ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ਮੇਮਣਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:59.415381879Z",
+  "model": "glm-5.2"
+}

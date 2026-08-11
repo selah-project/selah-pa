@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਸੱਤਵੇਂ ਦਿਨ ਤੁਹਾਡੇ ਲਈ ਪਵਿੱਤਰ ਸੱਦਾ ਹੋਵੇ; ਕੋਈ ਵੀ ਨੌਕਰੀ ਵਾਲਾ ਕੰਮ ਤੁਸੀਂ ਨਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ਅਤੇ ... ਦਿਨ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ਸੱਤਵੇਂ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ਸੱਦਾ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ਨੌਕਰੀ ਵਾਲਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ਤੁਸੀਂ ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:35.868941746Z",
+  "model": "glm-5.2"
+}

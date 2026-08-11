@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਜ਼ੁਲਮ ਬੀਜਣ ਵਾਲਾ ਨਾਸ ਵਾਢੇਗਾ, ਅਤੇ ਆਪਣੇ ਕ੍ਰੋਧ ਦਾ ਡੰਡਾ ਨਸ਼ਟ ਹੋ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "ਬੀਜਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ਜ਼ੁਲਮ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ਵਾਢੇਗਾ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ਨਾਸ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ਅਤੇ ਡੰਡਾ"
+    },
+    {
+      "surface": "עברਘו",
+      "gloss": "ਆਪਣੇ ਕ੍ਰੋਧ ਦਾ"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ਨਸ਼ਟ ਹੋ ਜਾਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:30:33.504227147Z",
+  "model": "glm-5.2"
+}

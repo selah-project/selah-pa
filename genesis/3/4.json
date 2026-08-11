@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਸੱਪ ਨੇ ਇਸਤਰੀ ਨੂੰ ਕਿਹਾ, ਤੁਸੀਂ ਮਰੋਗੇ ਨਹੀਂ, ਕਿਤੇ ਨਹੀਂ ਮਰੋਗੇ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ਸੱਪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ਇਸਤਰੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮਰੋਗੇ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ਕਿਤੇ ਨਹੀਂ ਮਰੋਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:44:08.062490355Z",
+  "model": "glm-5.2"
+}

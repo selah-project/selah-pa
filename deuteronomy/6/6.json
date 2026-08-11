@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਇਹ ਉਹ ਬਚਨ ਹੋਣਗੇ ਜਿਹੜੇ ਮੈਂ ਤੈਨੂੰ ਅੱਜ ਹੁਕਮ ਦਿੰਦਾ ਹਾਂ, ਤੇਰੇ ਦਿਲ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ਅਤੇ ਹੋਣਗੇ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ਉਹ ਬਚਨ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਹੜੇ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ਤੈਨੂੰ ਹੁਕਮ ਦਿੰਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਅੱਜ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ਤੇਰੇ ਦਿਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:58.741616474Z",
+  "model": "glm-5.2"
+}

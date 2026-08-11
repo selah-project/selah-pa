@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਚਲਾਕ ਨੇ ਬੁਰਾਈ ਵੇਖੀ ਅਤੇ ਲੁਕ ਗਿਆ; ਭੋਲੇ ਲੋਕਾਂ ਨੇ ਲੰਘ ਕੇ ਸਜ਼ਾ ਪਾਈ।",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ਚਲਾਕ ਨੇ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ਵੇਖੀ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ਲੁਕ ਗਿਆ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ਭੋਲੇ ਲੋਕਾਂ ਨੇ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ਲੰਘ ਕੇ"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "ਸਜ਼ਾ ਪਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:34:02.202635068Z",
+  "model": "glm-5.2"
+}

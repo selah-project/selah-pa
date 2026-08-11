@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 109,
+  "translation": "ਉਸ ਦੇ ਦਿਨ ਥੋੜ੍ਹੇ ਹੋਣ, ਅਤੇ ਇੱਕ ਹੋਰ ਉਸ ਦਾ ਅਹੁਦਾ ਲਵੇ।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ਹੋਣ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ਉਸ ਦੇ ਦਿਨ"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "ਥੋੜ੍ਹੇ"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ਉਸ ਦਾ ਅਹੁਦਾ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ਲਵੇ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ਇੱਕ ਹੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:10:32.088972382Z",
+  "model": "glm-5.2"
+}

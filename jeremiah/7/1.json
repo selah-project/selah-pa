@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਉਹ ਬਚਨ ਜੋ ਯਿਰਮਿਯਾਹੂ ਲਈ ਯਾਹਵੇਹ ⟨את⟩ ਦੇ ਤੋਂ ⟨ਹੋਈ⟩, ⟨ਕੇ ਕਹਿਣ⟩:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ਹਾਲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ਹੋਈ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ਦੇ ਤੋਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕੇ ਕਹਿਣ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:17:10.400961070Z",
+  "model": "glm-5.2"
+}

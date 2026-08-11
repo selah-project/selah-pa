@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਇਉਂ ਕਹਿੰਦਾ ਹੈ ਅਦੋਨਾਈ ਯਾਹਵੇਹ ਸੈਨਾਵਾਂ: ਜਾ, ਇਸ ਪ੍ਰਬੰਧਕ ਕੋਲ ਆ, ਸ਼ੇਬਨਾ ਜੋ ਘਰ ਉੱਤੇ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਹਿੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ਸੈਨਾਵਾਂ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਜਾ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "ਪ੍ਰਬੰਧਕ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵੱਲੋਂ"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "ਸ਼ੇਬਨਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:55:18.938061853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਇਹ ਹਨ ਏਸਾਵ ਦੇ ਪੁੱਤਰਾਂ ਦੇ ਨਾਮ: ਏਲੀਫ਼ਜ਼, ਅਦਾ ਦਾ ਪੁੱਤਰ, ਏਸਾਵ ਦੀ ਪਤਨੀ, ਰੇਊਏਲ, ਬਸ਼ਮਤ ਦਾ ਪੁੱਤਰ, ਏਸਾਵ ਦੀ ਪਤਨੀ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ਏਲੀਫ਼ਜ਼"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ਅਦਾ ਦਾ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ਪਤਨੀ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ ਦੀ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ਰੇਊਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "ਬਸ਼ਮਤ ਦਾ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ਪਤਨੀ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:13.807237555Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਚੰਗੀ ⟨ਹੈ⟩ ਸੁੱਕੀ ਟੁਕੜੀ ਅਤੇ ਉਸ ਵਿੱਚ ਸ਼ਾਂਤੀ, ਵਿਆਹ-ਝਗੜਿਆਂ ਦੇ ਬਲੀਦਾਨਾਂ ਨਾਲ ਭਰੇ ਘਰ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗੀ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ਟੁਕੜੀ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ਸੁੱਕੀ"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "ਅਤੇ ਸ਼ਾਂਤੀ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ਘਰ ਤੋਂ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ਭਰੇ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ਬਲੀਦਾਨਾਂ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ਵਿਆਹ-ਝਗੜਿਆਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:37.851725121Z",
+  "model": "glm-5.2"
+}

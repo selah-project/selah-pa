@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਮੈਂ ⟨ਫਿਰ⟩ ਮੁੜਿਆ, ਮੈਂ, ਅਤੇ ਵੇਖਿਆ ਵਿਅਰਥਤਾ ਨੂੰ ਸੂਰਜ ਦੇ ਹੇਠਾਂ।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ਅਤੇ ਮੈਂ ਮੁੜਿਆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ਅਤੇ ਵੇਖਿਆ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ਵਿਅਰਥਤਾ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਦੇ ਹੇਠਾਂ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:11:38.603576387Z",
+  "model": "glm-5.2"
+}

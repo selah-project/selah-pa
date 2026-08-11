@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 145,
+  "translation": "ਤੂੰ ⟨את⟩ ਆਪਣਾ ਹੱਥ ਖੋਲ੍ਹਦਾ ਹੈਂ, ਅਤੇ ਹਰ ਜੀਵ ਨੂੰ ਰਜ਼ਾ ਨਾਲ ਰੱਜਦਾ ਹੈਂ।",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ਖੋਲ੍ਹਦਾ ਹੈਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਆਪਣਾ ਹੱਥ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ਆਪਣਾ ਹੱਥ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ਅਤੇ ਰੱਜਦਾ ਹੈਂ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜੀਵ ਨੂੰ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ਰਜ਼ਾ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:18:36.655783800Z",
+  "model": "glm-5.2"
+}

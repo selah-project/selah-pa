@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਪਾਣੀ ਮੇਰੇ ਸਿਰ ਉੱਤੇ ਹੜ੍ਹ ਗਏ, ਮੈਂ ਆਖਿਆ, ਮੈਂ ਕੱਟਿਆ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "ਹੜ੍ਹ ਗਏ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ਮੇਰੇ ਸਿਰ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ਮੈਂ ਆਖਿਆ"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "ਮੈਂ ਕੱਟਿਆ ਗਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:44.910315322Z",
+  "model": "glm-5.2"
+}

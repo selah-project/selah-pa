@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਬਾਨੀ, ਅਤੇ ਬਿੰਨੂਈ, ਸ਼ਿਮੀ",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਬਾਨੀ"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "ਅਤੇ ਬਿੰਨੂਈ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ਸ਼ਿਮੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:43:12.414744679Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਫਿਰ ਏਦੋਮੀ ਆਏ ਅਤੇ ਯਹੂਦਾਹ ਵਿੱਚ ਮਾਰੇ ਅਤੇ ਬੰਦੀ ਲੈ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ਅਤੇ ਫਿਰ"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "ਏਦੋਮੀ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ਆਏ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ਅਤੇ ਮਾਰੇ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ਯਹੂਦਾਹ ਵਿੱਚ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ਅਤੇ ਲੈ ਗਏ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ਬੰਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:36:38.900646508Z",
+  "model": "glm-5.2"
+}

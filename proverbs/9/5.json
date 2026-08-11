@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਆਓ, ਮੇਰੀ ਰੋਟੀ ਖਾਓ ਅਤੇ ਮੇਰੇ ਵੱਲੋਂ ਮਿਲਾਏ ਦਾਖ-ਰਸ ਪੀਓ।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ਆਓ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ਖਾਓ"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "ਮੇਰੀ ਰੋਟੀ"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ਅਤੇ ਪੀਓ"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ਦਾਖ-ਰਸ"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ਮੇਰੇ ਵੱਲੋਂ ਮਿਲਾਏ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:24:31.948026283Z",
+  "model": "glm-5.2"
+}

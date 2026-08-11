@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਯਿਸ਼ੂਆ ਵਿੱਚ ਅਤੇ ਮੋਲਾਦਾ ਵਿੱਚ ਅਤੇ ਬੇਤ-ਪਾਲੇਤ ਵਿੱਚ,",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "ਅਤੇ ਯਿਸ਼ੂਆ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "ਅਤੇ ਮੋਲਾਦਾ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ਅਤੇ ਬੇਤ ਵਿੱਚ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ਪਾਲੇਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:49:05.469411340Z",
+  "model": "glm-5.2"
+}

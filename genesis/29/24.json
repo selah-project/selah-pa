@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਲਵਾਨ ਨੇ ਆਪਣੀ ਧੀ ਲੇਆਹ ਨੂੰ ਦਾਸੀ ਵਜੋਂ ⟨ਆਪਣੀ ਦਾਸੀ⟩ ਜ਼ਿਲਪਾਹ ਨੂੰ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ਅਤੇ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ਲਵਾਨ ਨੇ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜ਼ਿਲਪਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ਜ਼ਿਲਪਾਹ"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "ਆਪਣੀ ਦਾਸੀ"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "ਲੇਆਹ ਨੂੰ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ਆਪਣੀ ਧੀ"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "ਦਾਸੀ ਵਜੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:56:24.132030315Z",
+  "model": "glm-5.2"
+}

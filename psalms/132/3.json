@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 132,
+  "translation": "ਜੇ ਮੈਂ ਆਪਣੇ ਘਰ ਦੇ ਤੰਬੂ ਵਿੱਚ ਆਵਾਂ, ਜੇ ਮੈਂ ਆਪਣੇ ਵਿਛੋਹੜੇ ਦੇ ਮੰਜੇ ਉੱਤੇ ਚੜ੍ਹਾਂ,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ਆਵਾਂ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ਤੰਬੂ ਵਿੱਚ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ਆਪਣੇ ਘਰ ਦੇ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ਚੜ੍ਹਾਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ਮੰਜੇ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ਆਪਣੇ ਵਿਛੋਹੜੇ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:54.404383265Z",
+  "model": "glm-5.2"
+}

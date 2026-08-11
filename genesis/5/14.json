@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਕੇਨਾਨ ਦੇ ਸਾਰੇ ਦਿਨ ਦਸ ਸਾਲ ਅਤੇ ਨੌਂ ਸੌ ਸਾਲ ਹੋਏ, ਅਤੇ ⟨ਉਹ⟩ ਮਰ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ਹੋਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ਕੇਨਾਨ ਦੇ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ਅਤੇ ਨੌਂ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਮਰ ਗਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:27.560263617Z",
+  "model": "glm-5.2"
+}

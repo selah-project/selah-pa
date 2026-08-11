@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਉਸ ਦੇ ਪਨੂੰਏਲ ਤੋਂ ਲੰਘਣ ਵੇਲੇ ਉਸ ਲਈ ਸੂਰਜ ਚੜ੍ਹਿਆ, ਅਤੇ ਉਹ ਆਪਣੀ ਲੱਤ ਤੇ ਲੰਗੜਾ ਰਿਹਾ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "ਅਤੇ ਚੜ੍ਹਿਆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਵੇਲੇ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ਲੰਘਣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪਨੂੰਏਲ ਤੋਂ"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ਪਨੂੰਏਲ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ਅਤੇ ਉਹ"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "ਲੰਗੜਾ ਰਿਹਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਤੇ"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ਆਪਣੀ ਲੱਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:59:39.944951992Z",
+  "model": "glm-5.2"
+}

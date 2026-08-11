@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਸਾਡਾ ਪਾਣੀ ਪੈਸੇ ਲੈ ਕੇ ਪੀਤਾ ਹੈ, ਸਾਡੀ ਲੱਕੜ ਮੁੱਲ ਲੈ ਕੇ ਆਉਂਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ਸਾਡਾ ਪਾਣੀ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ਪੈਸੇ ਲੈ ਕੇ"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "ਪੀਤਾ ਹੈ"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ਸਾਡੀ ਲੱਕੜ"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ਮੁੱਲ ਲੈ ਕੇ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ਆਉਂਦੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:38.540051797Z",
+  "model": "glm-5.2"
+}

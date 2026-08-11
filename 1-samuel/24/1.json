@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਦਾਵਿਦ ਉੱਥੋਂ ਚਲਿਆ ਗਿਆ ਅਤੇ ਮਸਾਦਾਂ ਵਿੱਚ ਵੱਸ ਗਿਆ, ਏਨ-ਗਦੀ।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ਅਤੇ ਚਲਿਆ ਗਿਆ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਵਿਦ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ਉੱਥੋਂ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ਅਤੇ ਵੱਸ ਗਿਆ"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "ਮਸਾਦਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਏਨ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "-ਗਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:03:12.811685193Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਮੈਂ ⟨ਤੈਨੂੰ ਸਲਾਹ ਦਿੰਦਾ ਹਾਂ⟩ — ਮੇਲ੍ਹਕ ਦੇ ਮੂੰਹ ⟨ਦੇ ਬਚਨ⟩ ਦੀ ਰਾਖੀ ਕਰ, ਅਤੇ ⟨ਇਸੇ ਲਈ⟩ ਏਲੋਹੀਮ ਦੀ ਸਹੁੰ ਦੇ ਕਾਰਨ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਮੇਲ੍ਹਕ ਦੇ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ਰਾਖੀ ਕਰ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ⟨ਇਸੇ ਲਈ⟩"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ਦੇ ਕਾਰਨ"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "ਸਹੁੰ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:14:53.843013583Z",
+  "model": "glm-5.2"
+}

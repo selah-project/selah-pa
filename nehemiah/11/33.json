@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਖ਼ਾਸੋਰ, ਰਾਮਾ, ਗਿੱਤਾਯਿਮ।",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ਖ਼ਾਸੋਰ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ਰਾਮਾ"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "ਗਿੱਤਾਯਿਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:21.377430116Z",
+  "model": "glm-5.2"
+}

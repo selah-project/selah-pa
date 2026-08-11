@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਸ਼ਾਊਲ ਅਮਲੇਕ ਦੇ ਨਗਰ ਤੱਕ ਆਇਆ, ਅਤੇ ਨਦੀ ਵਿੱਚ ਘਾਤ ਲਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਾਊਲ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ਨਗਰ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ਅਮਲੇਕ ਦੇ"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ਅਤੇ ਘਾਤ ਲਾਇਆ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ਨਦੀ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:57:41.972336034Z",
+  "model": "glm-5.2"
+}

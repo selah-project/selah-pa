@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ⟨ਜਿਹੜੀਆਂ⟩ ਚੜ਼੍ਹਾਈਆਂ ⟨ਸਨ⟩ — ਬਲਦ ਛੇ ਸੌ ਅਤੇ ਭੇਡਾਂ ਤਿੰਨ ਹਜ਼ਾਰ।",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "ਅਤੇ ⟨ਜਿਹੜੀਆਂ⟩ ਚੜ਼੍ਹਾਈਆਂ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ਅਤੇ ਭੇਡਾਂ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਹਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:38:58.930602700Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਅਖੀਯਾਹ, ਖਾਨਾਨ, ਅਨਾਨ,",
+  "tokens": [
+    {
+      "surface": "וַאֲחִיָּ֥ה",
+      "gloss": "ਅਤੇ ਅਖੀਯਾਹ"
+    },
+    {
+      "surface": "חָנָ֖ן",
+      "gloss": "ਖਾਨਾਨ"
+    },
+    {
+      "surface": "עָנָֽן",
+      "gloss": "ਅਨਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:48:25.676437314Z",
+  "model": "glm-5.2"
+}

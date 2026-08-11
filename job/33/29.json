@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਵੇਖੋ, ਸਾਰੇ ਇਹ ⟨ਕੰਮ⟩ ਏਲ ਕਰਦਾ ਹੈ — ਦੋ ਵਾਰ, ਤਿੰਨ ਵਾਰ, ਇੱਕ ਮਨੁੱਖ ਦੇ ਨਾਲ।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ਦੋ ਵਾਰ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ਤਿੰਨ ਵਾਰ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ਇੱਕ ਮਨੁੱਖ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:53:25.557678543Z",
+  "model": "glm-5.2"
+}

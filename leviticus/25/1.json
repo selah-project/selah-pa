@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨਾਲ ਸੀਨਾਯ ਪਹਾੜ ਉੱਤੇ ਗੱਲ ਕੀਤੀ, ⟨ਕਹਿੰਦੇ ਹੋਏ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ਪਹਾੜ ਉੱਤੇ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ਸੀਨਾਯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਹਿੰਦੇ ਹੋਏ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:12.202311450Z",
+  "model": "glm-5.2"
+}

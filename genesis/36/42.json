@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਸਰਦਾਰ ਕਨਜ਼, ਸਰਦਾਰ ਤੇਮਾਨ, ਸਰਦਾਰ ਮਿਬਤਸਾਰ।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ਕਨਜ਼"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ਤੇਮਾਨ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ਮਿਬਤਸਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:00:21.034067467Z",
+  "model": "glm-5.2"
+}

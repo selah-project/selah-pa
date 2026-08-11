@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਸੋਟਿਆਂ ਨੂੰ ਯਾਹਵੇਹ ਦੇ ਸਾਹਮਣੇ, ਗਵਾਹੀ ਦੇ ਤੰਬੂ ਵਿਚ, ਰੱਖਿਆ।",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ਅਤੇ ਰੱਖਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸੋਟਿਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "ਸੋਟਿਆਂ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ਤੰਬੂ ਵਿਚ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ਗਵਾਹੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:56:44.911866775Z",
+  "model": "glm-5.2"
+}

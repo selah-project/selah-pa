@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਮੋਆਬ ਵਿੱਚ ਮੈਂ ਮੁਕੱਦਮੇ ਕਰਾਂਗਾ, ਅਤੇ ਉਹ ਜਾਣਨਗੇ ਕਿ ਮੈਂ ਯਾਹਵੇਹ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "ਅਤੇ ਮੋਆਬ ਵਿੱਚ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ਮੈਂ ਕਰਾਂਗਾ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ਮੁਕੱਦਮੇ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ਅਤੇ ਉਹ ਜਾਣਨਗੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:32.981498574Z",
+  "model": "glm-5.2"
+}

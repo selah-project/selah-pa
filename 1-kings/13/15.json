@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਤਾਂ ਉਸ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, ਮੇਰੇ ਨਾਲ ਘਰ ਆ ਅਤੇ ਰੋਟੀ ਖਾ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਜਾ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ਮੇਰੇ ਨਾਲ",
+      "marks": "ਮੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ਅਤੇ ਖਾ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:27:31.334606269Z",
+  "model": "glm-5.2"
+}

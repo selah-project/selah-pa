@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਆਸ਼ੇਰ ਤੋਂ, ਲੜਾਈ ਲਈ ਮੰਨਣ ਵਾਲੇ, ਯੁੱਧ ਲੜਨ ਲਈ ⟨ਤਿਆਰ⟩, ਚਾਲੀ ਹਜ਼ਾਰ।",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "ਅਤੇ ਆਸ਼ੇਰ ਤੋਂ"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "ਨਿਕਲਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ਲੜਾਈ ਲਈ"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ਮੰਨਣ ਲਈ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਯੁੱਧ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ਚਾਲੀ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:03:58.865390410Z",
+  "model": "glm-5.2"
+}

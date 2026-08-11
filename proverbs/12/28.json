@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਧਾਰਮਿਕਤਾ ਦੇ ਮਾਰਗ ਵਿੱਚ ਜੀਵਨ ਹੈ, ਅਤੇ ਉਸ ਦੇ ਰਾਹ ਦੇ ਕਿਨਾਰੇ ⟨ਕੋਈ⟩ ਮੌਤ ਨਹੀਂ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "ਮਾਰਗ ਵਿੱਚ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ਧਾਰਮਿਕਤਾ ਦੇ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ਜੀਵਨ ਹੈ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ਅਤੇ ਰਾਹ ਦੇ"
+    },
+    {
+      "surface": "נתי׬ה",
+      "gloss": "ਕਿਨਾਰੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮੌਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:26:05.374829797Z",
+  "model": "glm-5.2"
+}

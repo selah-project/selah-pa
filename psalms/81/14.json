@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 81,
+  "translation": "ਕੀ ਕਰਕੇ ਮੇਰੇ ਲੋਕ ਮੇਰੀ ਸੁਣਦੇ, ਅਤੇ ਇਸਰਾਏਲ ਮੇਰੇ ਰਾਹਾਂ ਵਿੱਚ ਚੱਲਦੇ!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ਕੀ ਕਰਕੇ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ਮੇਰੇ ਲੋਕ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣਦੇ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ਮੇਰੇ ਰਾਹਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ਚੱਲਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:01:36.874145200Z",
+  "model": "glm-5.2"
+}

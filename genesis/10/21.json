@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਸ਼ੇਮ ਤੋਂ ਵੀ ⟨ਉਸੇ ਦੇ⟩ ਪੁੱਤਰ ਪੈਦਾ ਹੋਏ — ਉਹ ਸਾਰੇ ਬਨੀ-ਏਬਰ ਦਾ ਪਿਤਾ ਹੈ, ਯਾਫਤ ਦਾ ਵੱਡਾ ਭਰਾ।",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "ਅਤੇ ਸ਼ੇਮ ਤੋਂ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ਪੈਦਾ ਹੋਏ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਦਾ ਪਿਤਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬਨੀ-"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ਏਬਰ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ਦਾ ਭਰਾ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ਯਾਫਤ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ਵੱਡਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:59.203445656Z",
+  "model": "glm-5.2"
+}

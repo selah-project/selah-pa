@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਹੇ ਇਸਰਾਏਲ, ਤੇਰੇ ਨਬੀ ਉਜਾੜਾਂ ਵਿੱਚ ਲੂੰਬੜੀਆਂ ਵਾਂਗ ਹੋਏ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "ਲੂੰਬੜੀਆਂ ਵਾਂਗ"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "ਉਜਾੜਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "ਤੇਰੇ ਨਬੀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਹੇ ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਹੋਏ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:46:01.518917357Z",
+  "model": "glm-5.2"
+}

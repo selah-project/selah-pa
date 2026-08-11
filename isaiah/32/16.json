@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਉਦਾਸੀ ਵਿੱਚ ਨਿਆਂ ਵੱਸੇਗਾ, ਅਤੇ ਕਾਰਮਲ ਵਿੱਚ ਸਿੱਧੀ ਬੈਠੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "ਅਤੇ ਵੱਸੇਗਾ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ਉਦਾਸੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ਅਤੇ ਸਿੱਧੀ"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "ਕਾਰਮਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ਬੈਠੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:58:45.749885714Z",
+  "model": "glm-5.2"
+}

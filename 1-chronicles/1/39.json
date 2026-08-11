@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਲੋਤਾਨ ਦੇ ਪੁੱਤਰ: ਖ਼ੋਰੀ ਅਤੇ ਹੋਮਾਮ; ਅਤੇ ਲੋਤਾਨ ਦੀ ਭੈਣ ⟨ਸੀ⟩ ਤਿਮਨਾ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ਲੋਤਾਨ ਦੇ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ਖ਼ੋਰੀ"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "ਅਤੇ ਹੋਮਾਮ"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ਅਤੇ ਭੈਣ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ਲੋਤਾਨ ਦੀ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ਤਿਮਨਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:43.281823644Z",
+  "model": "glm-5.2"
+}

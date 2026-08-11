@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਦੋ ਗਵਾਹਾਂ ਦੇ ਮੂੰਹ 'ਤੇ ਜਾਂ ਤਿੰਨ ਗਵਾਹਾਂ ਦੇ ਮੂੰਹ 'ਤੇ ਮਰਨ ਵਾਲਾ ਮਾਰਿਆ ਜਾਵੇ; ਇੱਕ ਗਵਾਹ ਦੇ ਮੂੰਹ 'ਤੇ ਉਹ ਮਾਰਿਆ ਨਾ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "'ਤੇ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ਗਵਾਹਾਂ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ਗਵਾਹਾਂ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ਮਾਰਿਆ ਜਾਵੇ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ਮਰਨ ਵਾਲਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ਮਾਰਿਆ ਜਾਵੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "'ਤੇ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਗਵਾਹ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:18:45.773858792Z",
+  "model": "glm-5.2"
+}

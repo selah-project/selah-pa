@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਨੌਵਾਂ ਯੇਸ਼ੂਆ ਨੂੰ, ਦਸਵਾਂ ਸ਼ਖਨਯਾਹੂ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "ਯੇਸ਼ੂਆ ਨੂੰ"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "ਨੌਵਾਂ"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "ਸ਼ਖਨਯਾਹੂ ਨੂੰ"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "ਦਸਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:26.350798433Z",
+  "model": "glm-5.2"
+}

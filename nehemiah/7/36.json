@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਯੇਰੀਖੋ ਦੇ ਪੁੱਤਰ, ਤਿੰਨ ਸੌ ਚਾਲੀ ਪੰਜ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ਯੇਰੀਖੋ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ਚਾਲੀ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:42:54.070433656Z",
+  "model": "glm-5.2"
+}

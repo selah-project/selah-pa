@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਆ, ਮੇਰੇ ਪ੍ਰਿਆ, ਆਓ ਅਸੀਂ ਖੇਤ ਵਿੱਚ ਨਿਕਲੀਏ, ਆਓ ਪਿੰਡਾਂ ਵਿੱਚ ਰਾਤ ਬਿਤਾਈਏ।",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ਆ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ਮੇਰੇ ਪ੍ਰਿਆ"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "ਆਓ ਅਸੀਂ ਨਿਕਲੀਏ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ਖੇਤ ਵਿੱਚ"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "ਆਓ ਰਾਤ ਬਿਤਾਈਏ"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "ਪਿੰਡਾਂ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:16.274371920Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਉਹਨਾਂ ਨੇ ਦੇਖਿਆ, ਇਸ ਲਈ ਹੈਰਾਨ ਹੋਏ; ਉਹ ਘਬਰਾ ਗਏ, ਉਹ ਕੰਬ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ਉਹਨਾਂ ਨੇ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ਦੇਖਿਆ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ਹੈਰਾਨ ਹੋਏ"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ਘਬਰਾ ਗਏ"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "ਕੰਬ ਗਏ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:48:04.027908796Z",
+  "model": "glm-5.2"
+}

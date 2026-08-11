@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਰਾਹੇਲ ਦੇ ਪੁੱਤਰ — ਯੂਸਫ ਅਤੇ ਬਿਨਯਾਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ਰਾਹੇਲ ਦੇ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੂਸਫ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ਅਤੇ ਬਿਨਯਾਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:39.852002129Z",
+  "model": "glm-5.2"
+}

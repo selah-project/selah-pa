@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 43,
+  "translation": "ਅਤੇ ⟨ਆਪਣੇ⟩ ਭਰਾਵਾਂ ਨੂੰ ⟨את⟩ ਲਵੋ, ਅਤੇ ਉੱਠੋ, ਉਸ ਮਨੁੱਖ ਕੋਲ ਵਾਪਸ ਜਾਓ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਭਰਾਵਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ਭਰਾਵਾਂ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ਲਵੋ"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ਅਤੇ ਉੱਠੋ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ਵਾਪਸ ਜਾਓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ਉਸ ਮਨੁੱਖ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:06:30.387787498Z",
+  "model": "glm-5.2"
+}

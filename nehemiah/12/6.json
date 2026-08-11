@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਸ਼ਮਾਯਾਹ, ਅਤੇ ਯੋਯਾਰੀਬ, ਯਦਾਯਾਹ।",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "ਸ਼ਮਾਯਾਹ"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "ਅਤੇ ਯੋਯਾਰੀਬ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ਯਦਾਯਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:49:47.452851866Z",
+  "model": "glm-5.2"
+}

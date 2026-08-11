@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਏਲੋਨ, ਅਤੇ ਤਿਮਨਾਹ, ਅਤੇ ਏਕਰੋਨ,",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "ਅਤੇ ਏਲੋਨ"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "ਅਤੇ ਤਿਮਨਾਹ"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ਅਤੇ ਏਕਰੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:04.879526453Z",
+  "model": "glm-5.2"
+}

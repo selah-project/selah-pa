@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਲੋਦ, ਖ਼ਾਦੀਦ ਅਤੇ ਓਨੋ ਦੇ ਪੁੱਤਰ, ਸੱਤ ਸੌ ਪੰਜਾਹ-ਪੰਜ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ਲੋਦ"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ਖ਼ਾਦੀਦ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ਅਤੇ ਓਨੋ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:15.740013808Z",
+  "model": "glm-5.2"
+}

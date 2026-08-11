@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਧਿਕਾਰ ਹੋਵੇ ਤੂੰ ਆਉਂਦੇ ਸਮੇਂ, ਅਤੇ ਧਿਕਾਰ ਹੋਵੇ ਤੂੰ ਜਾਂਦੇ ਸਮੇਂ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਧਿਕਾਰ ਹੋਵੇ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ਆਉਂਦੇ ਸਮੇਂ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ਅਤੇ ਧਿਕਾਰ ਹੋਵੇ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ਜਾਂਦੇ ਸਮੇਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:22:46.383731943Z",
+  "model": "glm-5.2"
+}

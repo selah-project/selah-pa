@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਇਸਰਾਏਲ ਸ਼ਿੱਟੀਮ ਵਿਖੇ ਵਸਿਆ, ਅਤੇ ਲੋਕ ਮੋਆਬ ਦੀਆਂ ਧੀਆਂ ਕੋਲ ਵਿਭਚਾਰ ਕਰਨ ਲੱਗੇ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ਅਤੇ ਵਸਿਆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "ਸ਼ਿੱਟੀਮ ਵਿਖੇ"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ਅਤੇ ਲੱਗੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ਵਿਭਚਾਰ ਕਰਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ ਦੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:27.905512615Z",
+  "model": "glm-5.2"
+}

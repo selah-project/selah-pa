@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 46:6",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਫੁਰਤੀਲਾ ਭੱਜੇ ਨਾ, ਅਤੇ ਸੂਰਮਾ ਬਚੇ ਨਾ — ਉੱਤਰ ਵੱਲ, ਫ਼ਰਾਤ ਦਰਿਆ ਦੇ ਕੰਢੇ, ਉਹ ਠੋਕਰ ਖਾ ਕੇ ਡਿੱਗ ਪਏ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ਭੱਜੇ"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ਫੁਰਤੀਲਾ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ਬਚੇ"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ਸੂਰਮਾ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ਉੱਤਰ ਵੱਲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਤੇ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਕੰਢੇ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ਦਰਿਆ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ਫ਼ਰਾਤ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ਠੋਕਰ ਖਾ ਕੇ ਗਿਰੇ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ਅਤੇ ਡਿੱਗ ਪਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:35:06.859026736Z",
+  "model": "glm-5.2"
+}

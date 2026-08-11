@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਇੱਕ ਮੂਰਖ ਨੂੰ ਉੱਚ-ਭਰਿਆ ਬੋਲ ਸ਼ੋਭਦਾ ਨਹੀਂ, ਕਿੰਨਾ ਹੀ ਘੱਟ ਕਿ ਇੱਕ ਦਾਨੀ ਨੂੰ ਝੂਠੇ ਬੁੱਲ੍ਹ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ਸ਼ੋਭਦਾ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ਮੂਰਖ ਨੂੰ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ਬੁੱਲ੍ਹ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ਉੱਚ-ਭਰਿਆ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ਕਿੰਨਾ ਹੀ ਘੱਟ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ਦਾਨੀ ਨੂੰ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ਬੁੱਲ੍ਹ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ਝੂਠੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:33.018567462Z",
+  "model": "glm-5.2"
+}

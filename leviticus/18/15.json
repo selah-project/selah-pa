@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤੇਰੀ ਨੂੰਹ ਦੀ ਨੰਗਤਾ ਨੂੰ ਤੂੰ ਨਾ ਖੋਲ੍ਹ; ਉਹ ਤੇਰੇ ਪੁੱਤਰ ਦੀ ਪਤਨੀ ਹੈ — ਉਸ ਦੀ ਨੰਗਤਾ ਨੂੰ ਤੂੰ ਨਾ ਖੋਲ੍ਹ।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ਨੰਗਤਾ"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "ਤੇਰੀ ਨੂੰਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ਤੂੰ ਖੋਲ੍ਹ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ਪਤਨੀ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ਤੇਰੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ਤੂੰ ਖੋਲ੍ਹ"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ਉਸ ਦੀ ਨੰਗਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:38:14.403438067Z",
+  "model": "glm-5.2"
+}

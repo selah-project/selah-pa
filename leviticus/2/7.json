@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਜੇ ਤੇਰਾ ਕ਼ਰਬਾਨ ਦੀਗ਼ਚੇ ਵਿੱਚ ⟨ਪਕਾਈ ਗਈ⟩ ਮਨਖਾਹ ਹੋਵੇ, ਤਾਂ ਤੇਲ ਨਾਲ ਸੋਲਤ ਦੀ ਬਣਾਈ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ਮਨਖਾਹ"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ਦੀਗ਼ਚੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ਤੇਰਾ ਕ਼ਰਬਾਨ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ਸੋਲਤ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ਤੇਲ ਨਾਲ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ਬਣਾਈ ਜਾਵੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:30:33.980055251Z",
+  "model": "glm-5.2"
+}

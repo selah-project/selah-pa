@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 23:1",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਬਿਲਆਮ ਨੇ ਬਲਾਕ ਨੂੰ ਕਿਹਾ, ਇੱਥੇ ਮੇਰੇ ਲਈ ਸੱਤ ਬੇਦੀਆਂ ਬਣਾ, ਅਤੇ ਇੱਥੇ ਮੇਰੇ ਲਈ ਸੱਤ ਬਲਦ ਅਤੇ ਸੱਤ ਮੇਢੇ ਤਿਆਰ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ਬਿਲਆਮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ਬਲਾਕ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ਬਣਾ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ਇੱਥੇ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "ਬੇਦੀਆਂ"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "ਅਤੇ ਤਿਆਰ ਕਰ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ਇੱਥੇ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ਅਤੇ ਸੱਤ"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ਮੇਢੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:00:32.505694405Z",
+  "model": "glm-5.2"
+}

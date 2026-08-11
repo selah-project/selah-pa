@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਮੇਰੇ ਵੱਲ ਬਚਨ ਆਇਆ ⟨ਜੋ ਕਹਿੰਦਾ ਸੀ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਵੱਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਜੋ ਕਹਿੰਦਾ ਸੀ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:47:04.483895734Z",
+  "model": "glm-5.2"
+}

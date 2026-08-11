@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਮਹਾਲਲਏਲ ਨੇ ਪੰਜ ਸਾਲ ਅਤੇ ਸੱਠ ਸਾਲ ਜੀਵਿਆ, ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਯਰਦ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਵਿਆ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ਮਹਾਲਲਏਲ ਨੇ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸੱਠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਰਦ ਨੂੰ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ਯਰਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:27.560448921Z",
+  "model": "glm-5.2"
+}

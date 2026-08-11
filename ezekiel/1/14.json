@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਜੀਵ ਦੌੜਦੇ ਅਤੇ ਮੁੜਦੇ, ਬਿਜਲੀ ਦੇ ਚਮਕਣ ਵਾਂਗ।",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "ਅਤੇ ਜੀਵ"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "ਦੌੜਦੇ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ਅਤੇ ਮੁੜਦੇ"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ਦੇ ਚਮਕਣ ਵਾਂਗ"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "ਬਿਜਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:40:52.527910090Z",
+  "model": "glm-5.2"
+}

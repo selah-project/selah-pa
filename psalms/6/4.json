@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਮੇਰੀ ਜਾਨ ਬਹੁਤ ਘਬਰਾ ਗਈ ਹੈ; ਪਰ ⟨ਹੇ⟩ ਯਾਹਵੇਹ, ⟨ਇਹ⟩ ⟨ਕਦੋਂ ਤੱਕ⟩?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ਅਤੇ ਮੇਰੀ ਜਾਨ"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ਘਬਰਾ ਗਈ ਹੈ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ਤੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ਕਦੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:27:44.503582870Z",
+  "model": "glm-5.2"
+}

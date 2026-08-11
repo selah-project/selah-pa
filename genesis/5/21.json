@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਖ਼ਨੋਖ਼ ਪੈਂਤਾਲਵੀ ਸਾਲ ਜੀਇਆ, ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਮਤੂਸ਼ਲਾਖ਼ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਇਆ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ਖ਼ਨੋਖ਼"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੈਂਤਾਲਵੀ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸਠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮਤੂਸ਼ਲਾਖ਼"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ਮਤੂਸ਼ਲਾਖ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:48.173314306Z",
+  "model": "glm-5.2"
+}

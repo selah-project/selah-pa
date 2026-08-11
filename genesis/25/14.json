@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਮਿਸ਼ਮਾ, ਅਤੇ ਦੁਮਾਹ, ਅਤੇ ਮਾਸਾ।",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "ਅਤੇ ਮਿਸ਼ਮਾ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ਅਤੇ ਦੁਮਾਹ"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "ਅਤੇ ਮਾਸਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:54:55.419756220Z",
+  "model": "glm-5.2"
+}

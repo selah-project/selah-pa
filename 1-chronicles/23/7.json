@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਗਰਸ਼ੋਨੀਆਂ ਵਿੱਚੋਂ — ਲਾਦਾਨ ਅਤੇ ਸ਼ਿਮਈ।",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "ਗਰਸ਼ੋਨੀਆਂ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ਲਾਦਾਨ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ਅਤੇ ਸ਼ਿਮਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:10:57.579296401Z",
+  "model": "glm-5.2"
+}

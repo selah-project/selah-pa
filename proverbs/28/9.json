@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਜੋ ⟨ਆਪਣੀ⟩ ਕੰਨ ਨੂੰ ਤੌਰਾਹ ਸੁਣਨ ਤੋਂ ਹਟਾਉਂਦਾ ⟨ਹੈ⟩, ਉਸ ਦੀ ਵੀ ਬੇਨਤੀ ਘਿਣਾਉਣੀ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "ਹਟਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ਉਸ ਦੀ ਕੰਨ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ਸੁਣਨ ਤੋਂ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ਤੌਰਾਹ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "ਉਸ ਦੀ ਬੇਨਤੀ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ਘਿਣਾਉਣੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:10.944095515Z",
+  "model": "glm-5.2"
+}

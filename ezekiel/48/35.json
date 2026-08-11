@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਚਾਰੇ ਪਾਸੇ ਅਠਾਰਾਂ ਹਜ਼ਾਰ, ਅਤੇ ਉਸ ਸ਼ਹਿਰ ਦਾ ਨਾਂ ਉਸ ਦਿਨ ਤੋਂ: ਯਾਹਵੇਹ ਸ਼ਾਮਾ।",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ਚਾਰੇ ਪਾਸੇ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ਅਠਾਰਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ਦਸ)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ਅਤੇ ਨਾਂ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਉਸ ਸ਼ਹਿਰ ਦਾ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ਉਸ ਦਿਨ ਤੋਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ਸ਼ਾਮਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:06:07.616819631Z",
+  "model": "glm-5.2"
+}

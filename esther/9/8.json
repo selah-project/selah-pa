@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ⟨את⟩ ਪੋਰਾਤਾ, ਅਤੇ ⟨את⟩ ਅਦਲਯਾ, ਅਤੇ ⟨את⟩ ਅਰੀਦਾਤਾ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਪੋਰਾਤਾ"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ਪੋਰਾਤਾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਦਲਯਾ"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "ਅਦਲਯਾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਰੀਦਾਤਾ"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "ਅਰੀਦਾਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:20:00.024985345Z",
+  "model": "glm-5.2"
+}

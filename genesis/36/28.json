@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਇਹ ਹਨ ਦੀਸ਼ਾਨ ਦੇ ਪੁੱਤਰ: ਊਸ ਅਤੇ ਅਰਾਨ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ਦੀਸ਼ਾਨ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ਊਸ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ਅਤੇ ਅਰਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:02.004852807Z",
+  "model": "glm-5.2"
+}

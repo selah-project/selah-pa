@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਧਿਰਤੀ ਹੈਂ ਤੂੰ ਸ਼ਹਿਰ ਵਿੱਚ, ਅਤੇ ਧਿਰਤੀ ਹੈਂ ਤੂੰ ਖੇਤ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਧਿਰਤੀ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ਸ਼ਹਿਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ਅਤੇ ਧਿਰਤੀ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ਖੇਤ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:22:04.418772230Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਆਪਣੀ ਰੋਟੀ ਪਾਣੀਆਂ ਦੇ ਮੂਹਾਨੇ ਉੱਤੇ ਭੇਜ, ਕਿਉਂਕਿ ਬਹੁਤ ਦਿਨਾਂ ਵਿੱਚ ਤੈਨੂੰ ਇਹ ਮਿਲੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ਭੇਜ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ਆਪਣੀ ਰੋਟੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਮੂਹਾਨੇ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ਪਾਣੀਆਂ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ਬਹੁਤ ਵਿੱਚ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ਦਿਨਾਂ"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ਤੈਨੂੰ ਇਹ ਮਿਲੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:59.768832046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ⟨את⟩ ⟨ਪੋਰਸ ਗਿੱਧ⟩, ਅਤੇ ⟨את⟩ ਬਾਜ਼ ⟨ਆਪਣੀ⟩ ਪ੍ਰਜਾਤੀ ਅਨੁਸਾਰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "⟨ਪੋਰਸ ਗਿੱਧ⟩"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "⟨ਪੋਰਸ ਗਿੱਧ⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਬਾਜ਼"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ਬਾਜ਼"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ਪ੍ਰਜਾਤੀ ਅਨੁਸਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:34:37.622219543Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਉਸਦੇ ਸਾਹਮਣੇ ਤੋਂ ਜਲਦੀ ਬਾਹਰ ਨਾ ਨਿਕਲ; ਕਿਸੇ ਭੈੜੇ ਕੰਮ ਵਿੱਚ ਖਲੋ ਨਾ; ਕਿਉਂਕਿ ਜੋ ਕੁਝ ਉਸਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹ ਸਭ ਕਰਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ਜਲਦੀ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ਉਸਦੇ ਸਾਹਮਣੇ ਤੋਂ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ਬਾਹਰ ਨਿਕਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ਖਲੋ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ਕੰਮ ਵਿੱਚ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਕਿਸੇ ਭੈੜੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ ਕੁਝ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ਉਸਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ਉਹ ਕਰਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:14:53.843141924Z",
+  "model": "glm-5.2"
+}

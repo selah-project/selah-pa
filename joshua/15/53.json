@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਯਨੀਮ, ਅਤੇ ਬੇਤ-ਤਪੂਖ਼, ਅਤੇ ਅਫ਼ੇਕਾਹ;",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "ਅਤੇ ਯਨੀਮ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ਤਪੂਖ਼"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "ਅਤੇ ਅਫ਼ੇਕਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:46.066813958Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਦੇ ਭਰਾ ਲੇਵੀ ਏਲੋਹੀਮ ਦੇ ਮਸ਼ਕਾਨ ਦੇ ਘਰ ਦੀ ਸਾਰੀ ਸੇਵਾ ਲਈ ਨਿਯੁਕਤ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦੇ ਭਰਾ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ਲੇਵੀ"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "ਨਿਯੁਕਤ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "ਸੇਵਾ ਲਈ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ਮਸ਼ਕਾਨ ਦੇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ ਦੀ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:41.328594080Z",
+  "model": "glm-5.2"
+}

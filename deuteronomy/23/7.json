@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਉਹਨਾਂ ਦਾ ਸ਼ਾਂਤੀ ਜਾਂ ਉਹਨਾਂ ਦਾ ਭਲਾਈ ਨਾ ਲੱਭੀਂ, ਆਪਣੇ ਸਾਰੇ ਦਿਨਾਂ ਵਿੱਚ, ਸਦਾ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "ਲੱਭੀਂ"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ਉਹਨਾਂ ਦਾ ਸ਼ਾਂਤੀ"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ਜਾਂ ਉਹਨਾਂ ਦਾ ਭਲਾਈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ਆਪਣੇ ਦਿਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦਾ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:53.540290207Z",
+  "model": "glm-5.2"
+}

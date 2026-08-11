@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਆਦਮ ਨੇ ਆਪਣੀ ਪਤਨੀ ਦਾ ਨਾਮ ਖੱਵਾ ਰੱਖਿਆ, ਕਿਉਂਕਿ ਉਹ ਸਾਰੇ ਜੀਵਾਂ ਦੀ ਮਾਂ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਰੱਖਿਆ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਆਦਮ ਨੇ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ਆਪਣੀ ਪਤਨੀ ਦਾ"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "ਖੱਵਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਮਾਂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜੀਵਾਂ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:44:45.295966777Z",
+  "model": "glm-5.2"
+}

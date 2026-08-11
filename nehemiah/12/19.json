@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਯੋਯਾਰੀਬ ਲਈ ਮਤੇਨਾਈ; ਯਦਯਾ ਲਈ ਊਜ਼ੀ;",
+  "tokens": [
+    {
+      "surface": "וּלְיוֹיָרִ֣יב",
+      "gloss": "ਅਤੇ ਯੋਯਾਰੀਬ ਲਈ"
+    },
+    {
+      "surface": "מַתְּנַ֔י",
+      "gloss": "ਮਤੇਨਾਈ"
+    },
+    {
+      "surface": "לִֽידַֽעְיָ֖ה",
+      "gloss": "ਯਦਯਾ ਲਈ"
+    },
+    {
+      "surface": "עֻזִּֽי",
+      "gloss": "ਊਜ਼ੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:49:45.101261693Z",
+  "model": "glm-5.2"
+}

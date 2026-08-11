@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਮੇਰ ਦੇ ਪੁੱਤਰ, ਇੱਕ ਹਜ਼ਾਰ ਬਾਵੰਜਾ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਇੱਮੇਰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਇੱਕ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ਬਾਵੰਜਾ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:43:38.809908583Z",
+  "model": "glm-5.2"
+}

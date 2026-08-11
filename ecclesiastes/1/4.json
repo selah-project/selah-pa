@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਇੱਕ ਪੀੜ੍ਹੀ ਜਾਂਦੀ ਹੈ ਅਤੇ ਇੱਕ ਪੀੜ੍ਹੀ ਆਉਂਦੀ ਹੈ, ਪਰ ਧਰਤੀ ਸਦਾ ਲਈ ਖੜ੍ਹੀ ਰਹਿੰਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ਇੱਕ ਪੀੜ੍ਹੀ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ਜਾਂਦੀ ਹੈ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ਅਤੇ ਇੱਕ ਪੀੜ੍ਹੀ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਉਂਦੀ ਹੈ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ਪਰ ਧਰਤੀ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ਖੜ੍ਹੀ ਰਹਿੰਦੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:09:08.260533279Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਸ਼ਿਓਲ, ਅਤੇ ਬੰਦ ਹੋਈ ਕੁੱਖ, ਉਹ ਧਰਤੀ ਜੋ ਪਾਣੀ ਨਾਲ ਰੱਜਦੀ ਨਹੀਂ, ਅਤੇ ਅੱਗ ਜੋ ਇਹ ਨਹੀਂ ਆਖਦ੾: ਬਸ!",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਿਓਲ"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ਅਤੇ ਬੰਦ ਹੋਈ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ਕੁੱਖ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਰੱਜਦੀ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ ਨਾਲ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ਅਤੇ ਅੱਗ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ਆਖਦੀ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ਬਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:32.464488050Z",
+  "model": "glm-5.2"
+}

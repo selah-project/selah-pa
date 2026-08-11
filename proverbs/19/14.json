@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਘਰ ਅਤੇ ਦੌਲਤ ਪਿਤਾਵਾਂ ਦੀ ਵਿਰਾਸਤ ⟨ਹਨ⟩, ਪਰ ਸਮਝਦਾਰ ਇਸਤਰੀ ਯਾਹਵੇਹ ਤੋਂ ⟨ਮਿਲਦੀ ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ਅਤੇ ਦੌਲਤ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ਵਿਰਾਸਤ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ਪਿਤਾਵਾਂ ਦੀ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ਪਰ ਯਾਹਵੇਹ ਤੋਂ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇਸਤਰੀ"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "ਸਮਝਦਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:29:15.228413815Z",
+  "model": "glm-5.2"
+}

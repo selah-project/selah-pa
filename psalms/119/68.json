@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਤੂੰ ਚੰਗਾ ਹੈਂ ਅਤੇ ਚੰਗਾਈ ਕਰਦਾ ਹੈਂ; ਮੈਨੂੰ ਆਪਣੇ ਨਿਯਮ ਸਿਖਾ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "ਅਤੇ ਚੰਗਾਈ ਕਰਦਾ ਹੈਂ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ਮੈਨੂੰ ਸਿਖਾ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ਆਪਣੇ ਨਿਯਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:13:13.082309672Z",
+  "model": "glm-5.2"
+}

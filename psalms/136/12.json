@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 136,
+  "translation": "ਇੱਕ ਸਖ਼ਤ ਹੱਥ ਅਤੇ ਤਣੀ ਬਾਂਹ ਨਾਲ, ਕਿਉਂਕਿ ਉਸ ਦਾ ਖ਼ੇਸੇਦ ਸਦੀਵ ਕਾਇਮ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "ਹੱਥ ਨਾਲ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ਸਖ਼ਤ"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ਅਤੇ ਬਾਂਹ ਨਾਲ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ਤਣੀ ਹੋਈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦੀਵ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ਉਸ ਦਾ ਖ਼ੇਸੇਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:16:56.397186223Z",
+  "model": "glm-5.2"
+}

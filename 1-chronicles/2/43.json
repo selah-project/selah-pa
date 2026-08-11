@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਖੇਬਰੋਨ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩: ਕੋਰਹ ਅਤੇ ਤੱਪੂਹ ਅਤੇ ਰੇਕੇਮ ਅਤੇ ਸ਼ਿਮਾ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ... ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ਖੇਬਰੋਨ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ਕੋਰਹ"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "ਅਤੇ ਤੱਪੂਹ"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ਅਤੇ ਰੇਕੇਮ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ਅਤੇ ਸ਼ਿਮਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:25.534685640Z",
+  "model": "glm-5.2"
+}

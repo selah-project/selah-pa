@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਜੇ ਉਹ ਉਸ ਨੂੰ ਇਹ ਤਿੰਨ ਨਹੀਂ ਕਰਦਾ, ਤਾਂ ਉਹ ਮੁਫ਼ਤ ਵਿੱਚ ਨਿਕਲ ਜਾਏ, ਬਿਨਾਂ ਪੈਸੇ ਦੇ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ਕਰਦਾ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ਤਾਂ ਉਹ ਨਿਕਲ ਜਾਏ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ਮੁਫ਼ਤ ਵਿੱਚ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ਪੈਸੇ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:19:41.555498270Z",
+  "model": "glm-5.2"
+}

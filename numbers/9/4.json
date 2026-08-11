@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਇਸਰਾਏਲ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਪਸਾਹ ਕਰਨ ਵਾਸਤੇ ਗੱਲ ਕੀਤੀ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ਕਰਨ ਵਾਸਤੇ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ਪਸਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:37:28.146556917Z",
+  "model": "glm-5.2"
+}

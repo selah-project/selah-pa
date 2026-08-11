@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਗੱਜ਼ਾਮ ਦੇ ਪੁੱਤਰ, ਉੱਜ਼ਾ ਦੇ ਪੁੱਤਰ, ਪਸੇਖ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ਗੱਜ਼ਾਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ਉੱਜ਼ਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ਪਸੇਖ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:45:59.240893916Z",
+  "model": "glm-5.2"
+}

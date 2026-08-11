@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਉੱਜੜ ਵਿੱਚ: ਬੇਤ ਹਾਅਰਾਬਾ, ਮਿਦੀਨ, ਅਤੇ ਸਖਾਕਾਹ।",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "ਉੱਜੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ਹਾਅਰਾਬਾ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ਮਿਦੀਨ"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "ਅਤੇ ਸਖਾਕਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:41.256219539Z",
+  "model": "glm-5.2"
+}

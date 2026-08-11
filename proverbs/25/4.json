@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਚਾਂਦੀ ਤੋਂ ਪੁਠ ਹਟਾਓ, ਅਤੇ ਸੋਨਾਰੇ ਲਈ ਇੱਕ ਬਰਤਨ ਨਿਕਲੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "ਹਟਾਓ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ਪੁਠ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ਚਾਂਦੀ ਤੋਂ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ਅਤੇ ਨਿਕਲੇਗਾ"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "ਸੋਨਾਰੇ ਲਈ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ਇੱਕ ਬਰਤਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:32:46.681180127Z",
+  "model": "glm-5.2"
+}

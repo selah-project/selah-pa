@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਗੋਦ ਵਿੱਚ ਪੈਂਦਾ ਹੈ ⟨את⟩ ਗੋਰਾਲ, ਪਰ ਇਸ ਦਾ ਹਰ ਫ਼ੈਸਲਾ ਯਾਹਵੇਹ ਤੋਂ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "ਗੋਦ ਵਿੱਚ"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ਪੈਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਗੋਰਾਲ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ਗੋਰਾਲ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ਪਰ ਯਾਹਵੇਹ ਤੋਂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ਇਸ ਦਾ ਫ਼ੈਸਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:27:25.990368630Z",
+  "model": "glm-5.2"
+}

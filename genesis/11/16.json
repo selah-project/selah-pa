@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਏਵੇਰ ਚਾਰ ਅਤੇ ਤੀਹ ਸਾਲ ਜੀਵਿਆ, ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਪੇਲੇਗ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਵਿਆ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ਏਵੇਰ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ਅਤੇ ਤੀਹ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪੇਲੇਗ ਨੂੰ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ਪੇਲੇਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:24.502501055Z",
+  "model": "glm-5.2"
+}

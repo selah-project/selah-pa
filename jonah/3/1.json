@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਯੋਨਾਹ ਕੋਲ ਦੂਜੀ ਵਾਰ ⟨ਆਇਆ⟩, ⟨ਕਹਿੰਦਾ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ਯੋਨਾਹ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ਦੂਜੀ ਵਾਰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਹਿੰਦਾ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T00:14:45.374569232Z",
+  "model": "glm-5.2"
+}

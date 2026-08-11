@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਇਹ ⟨ਉਹ⟩ ਤੋਰਾਹ ਹੈ ਹਰ ਇੱਕ ਚੱਟਣ-ਮਾਰ ਤਸੀਹ ਲਈ ਅਤੇ ⟨ਉਸ⟩ ਛਿੱਲ-ਉੱਭੜ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ਤੋਰਾਹ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਹਰ ਇੱਕ ਲਈ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ਚੱਟਣ-ਮਾਰ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ਤਸੀਹ"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "ਅਤੇ ਛਿੱਲ-ਉੱਭੜ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:32.008520609Z",
+  "model": "glm-5.2"
+}

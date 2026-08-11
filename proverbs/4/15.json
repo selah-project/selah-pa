@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਉਸ ਤੋਂ ਬਚ, ⟨ਉਸ ਦੇ⟩ ਰਾਹੀਂ ਨਾ ਲੰਘ; ਉਸ ਤੋਂ ਹਟ ਕੇ ਲੰਘ ਜਾ।",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "ਉਸ ਤੋਂ ਬਚ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ਲੰਘ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਦੇ ਰਾਹੀਂ"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ਹਟ ਕੇ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ਉਸ ਤੋਂ"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "ਅਤੇ ਲੰਘ ਜਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:12.516138314Z",
+  "model": "glm-5.2"
+}

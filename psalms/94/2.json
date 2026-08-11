@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 94,
+  "translation": "ਆਪਣੇ ਆਪ ਨੂੰ ਉਠਾ, ਧਰਤੀ ਦੇ ਜੱਜ, ਘਮੰਡੀਆਂ ਉੱਤੇ ਬਦਲਾ ਵਾਪਸ ਕਰ!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "ਆਪਣੇ ਆਪ ਨੂੰ ਉਠਾ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ਜੱਜ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ਵਾਪਸ ਕਰ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ਬਦਲਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ਘਮੰਡੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:05:25.563941205Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦੇ ਦੂਤ ਨੇ ਯਹੋਸ਼ੁਆ ਨੂੰ ਚੇਤਾਵਨੀ ਦਿੱਤੀ, ਕਹਿ ਕੇ:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "ਅਤੇ … ਨੇ ਚੇਤਾਵਨੀ ਦਿੱਤੀ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "… ਦੂਤ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "ਯਹੋਸ਼ੁਆ ਨੂੰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:23:52.661722755Z",
+  "model": "glm-5.2"
+}

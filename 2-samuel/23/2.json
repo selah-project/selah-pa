@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਯਾਹਵੇਹ ਦੇ ਰੂਆਖ਼ ਨੇ ਮੇਰੇ ਵਿੱਚ ਗੱਲ ਕੀਤੀ, ਉਸ ਦਾ ਬਚਨ ਮੇਰੀ ਜੀਭ ਉੱਤੇ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ਰੂਆਖ਼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ਮੇਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਬਚਨ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ਮੇਰੀ ਜੀਭ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:18:33.805275155Z",
+  "model": "glm-5.2"
+}

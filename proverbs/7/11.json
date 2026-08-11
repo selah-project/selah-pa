@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਕਿੜਕਣ ਵਾਲੀ ਹੈ ਉਹ, ਅਤੇ ਡਿਗਲਣੀ, ਆਪਣੇ ਘਰ ਵਿੱਚ ਉਸ ਦੇ ਪੈਰ ਨਹੀਂ ਟਿਕਦੇ;",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "ਕਿੜਕਣ ਵਾਲੀ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਹੈ ਉਹ"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "ਅਤੇ ਡਿਗਲਣੀ"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "ਆਪਣੇ ਘਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ਟਿਕਦੇ"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "ਉਸ ਦੇ ਪੈਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:29.943225352Z",
+  "model": "glm-5.2"
+}

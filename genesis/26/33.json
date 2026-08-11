@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਉਸ ਨੂੰ ਸ਼ਿਬਆਹ ਕਹਿਕੇ ਪੁਕਾਰਿਆ; ਇਸ ਲਈ ਉਸ ਸ਼ਹਿਰ ਦਾ ਨਾਮ ਬਿਰ-ਸ਼ਿਬਆਹ ⟨ਹੈ⟩, ਇਸ ਦਿਨ ਤੱਕ।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਪੁਕਾਰਿਆ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "ਸבעה",
+      "gloss": "ਸ਼ਿਬਆਹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਉਸ ਸ਼ਹਿਰ ਦਾ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ਬਿਰ-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸ਼ਿਬਆਹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਇਸ ਦਿਨ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:04.041873904Z",
+  "model": "glm-5.2"
+}

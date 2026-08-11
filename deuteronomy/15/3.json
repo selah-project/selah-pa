@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਤੂੰ ⟨את⟩ ਨਿਵਾਸੀ ਅਜਨਬੀ ਤੋਂ ਪਿੱਛੋ, ਪਰ ਜੋ ਕੁਝ ਤੇਰੇ ਭਰਾ ਕੋਲ ਤੇਰਾ ਹੋਵੇ ਆਪਣਾ ਹੱਥ ਛੱਡ ਦੇਵੇ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨਿਵਾਸੀ ਅਜਨਬੀ"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "ਨਿਵਾਸੀ ਅਜਨਬੀ"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "ਤੂੰ ਪਿੱਛੋ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ਪਰ ਜੋ ਕੁਝ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ਆਪਣਾ ਹੱਥ⟩"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ਤੇਰੇ ਭਰਾ ਕੋਲ"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "ਛੱਡ ਦੇਵੇ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ਆਪਣਾ ਹੱਥ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:16:11.081639789Z",
+  "model": "glm-5.2"
+}

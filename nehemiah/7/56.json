@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਨਤਸੀਆਚ ਦੇ ਪੁੱਤਰ, ਚਤੀਫ਼ਾ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ਨਤਸੀਆਚ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ਚਤੀਫ਼ਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:45:45.039531918Z",
+  "model": "glm-5.2"
+}

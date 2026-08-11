@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 50,
+  "translation": "ਅਤੇ ਯੋਸੇਫ਼ ਨੇ ਉਹਨਾਂ ਨੂੰ ਆਖਿਆ: ਡਰੋ ਨਹੀਂ, ਕਿ ਕੀ ਮੈਂ ਏਲੋਹੀਮ ਦੀ ਥਾਂ ਹਾਂ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਆਖਿਆ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੋਸੇਫ਼ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ਡਰੋ"
+    },
+    {
+      "surface": "ਛי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ਕੀ ... ਦੀ ਥਾਂ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ ਹਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:10:13.366060721Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਨਖਸ਼ੋਨ ਨੇ ⟨את⟩ ਸਲਮਾ ਨੂੰ ਜਨਮ ਦਿੱਤਾ, ਅਤੇ ਸਲਮਾ ਨੇ ⟨את⟩ ਬੋਅਜ਼ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ਅਤੇ ਨਖਸ਼ੋਨ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਲਮਾ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ਸਲਮਾ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ਅਤੇ ਸਲਮਾ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬੋਅਜ਼"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ਬੋਅਜ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:01.996373852Z",
+  "model": "glm-5.2"
+}

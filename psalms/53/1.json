@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 53,
+  "translation": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ, ਮਖਲਤ ਉੱਤੇ, ਸਿਖਿਆ-ਗੀਤ, ਦਾਵਿਦ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "ਮਖਲਤ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ਸਿਖਿਆ-ਗੀਤ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:52:27.566948497Z",
+  "model": "glm-5.2"
+}

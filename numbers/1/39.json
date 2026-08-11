@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ, ਦਾਨ ਦੇ ਕਬੀਲੇ ਲਈ, ਬਾਸਠ ਹਜ਼ਾਰ ਅਤੇ ਸੱਤ ਸੌ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸੱਠ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ਅਤੇ ਸੱਤ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:31.956428525Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 50,
+  "translation": "ਅਤੇ ਉਸ ਨਾਲ ਰਥ ਵੀ ਅਤੇ ਘੋੜ ਸਵਾਰ ਵੀ ਚੜ੍ਹ ਗਏ; ਅਤੇ ⟨ਉਹ⟩ ਛਾਉਣੀ ਬਹੁਤ ਭਾਰੀ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ਅਤੇ ਚੜ੍ਹ ਗਏ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ਉਸ ਨਾਲ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ਰਥ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਅਤੇ"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ਘੋੜ ਸਵਾਰ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ਛਾਉਣੀ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ਭਾਰੀ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:09:32.820349551Z",
+  "model": "glm-5.2"
+}

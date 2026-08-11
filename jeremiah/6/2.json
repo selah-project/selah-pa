@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਸੁੰਦਰ ਅਤੇ ਨਾਜ਼ੁਕ ⟨ਨੂੰ⟩ — ਮੈਂ ਬਤ-ਤਸੀਯੋਨ ਦਾ ਨਾਸ ਕਰ ਦਿੱਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "ਸੁੰਦਰ ⟨ਨੂੰ⟩"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "ਅਤੇ ਨਾਜ਼ੁਕ"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ਮੈਂ ਨਾਸ ਕਰ ਦਿੱਤਾ ਹੈ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਬਤ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ਤਸੀਯੋਨ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:16:37.683153088Z",
+  "model": "glm-5.2"
+}

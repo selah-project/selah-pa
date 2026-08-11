@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਸੁਣ, ਹੇ ਯਾਹਵੇਹ, ਅਤੇ ਮੇਰੇ ਉੱਤੇ ਦਯਾ ਕਰ; ਹੇ ਯਾਹਵੇਹ, ਮੇਰਾ ਸਹਾਇਕ ਬਣ।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ਅਤੇ ਮੇਰੇ ਉੱਤੇ ਦਯਾ ਕਰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਬਣ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ਸਹਾਇਕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:35:17.738025008Z",
+  "model": "glm-5.2"
+}

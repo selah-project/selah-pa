@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਇਹ ਰਾਖੇਲ ਦੇ ਪੁੱਤਰ ਹਨ ਜੋ ਯਾਅਕੋਬ ਨੂੰ ਪੈਦਾ ਹੋਏ; ਸਾਰੀਆਂ ਨਫ਼ਸ਼ਾਂ ਚੌਦਾਂ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ਰਾਖੇਲ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ਪੈਦਾ ਹੋਏ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ਯਾਅਕੋਬ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀਆਂ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਨਫ਼ਸ਼ਾਂ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚੌਦਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਚੌਦਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:06:22.186786951Z",
+  "model": "glm-5.2"
+}

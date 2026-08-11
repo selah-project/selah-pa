@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਗਾਦ ਦੇ ਪੁੱਤਰਾਂ ਦੇ ਕਬੀਲੇ ਦੇ ਲਸ਼ਕਰ ਉੱਤੇ ਦੇਉਏਲ ਦਾ ਪੁੱਤਰ ਏਲੀਆਸਾਪ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ... ਉੱਤੇ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ਲਸ਼ਕਰ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ਕਬੀਲੇ ਦੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ਏਲੀਆਸਾਪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ਦੇਉਏਲ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:52:17.872294723Z",
+  "model": "glm-5.2"
+}

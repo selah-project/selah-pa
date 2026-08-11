@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਸੱਚ ਮੈਂ ਜਾਣਦਾ ਹਾਂ ਕਿ ਇਉਂ ਹੈ, ਪਰ ਇਨਸਾਨ ਏਲ ਦੇ ਨਾਲ ਕਿਵੇਂ ਧਰਮੀ ਠਹਿਰੇ?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ਸੱਚ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ਮੈਂ ਜਾਣਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਉਂ ਹੈ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ਪਰ ਕਿਵੇਂ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ਧਰਮੀ ਠਹਿਰੇ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਇਨਸਾਨ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:40:42.830081429Z",
+  "model": "glm-5.2"
+}

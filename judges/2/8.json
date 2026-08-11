@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਯੇਹੋਸ਼ੁਆ ਯਾਹਵੇਹ ਦਾ ਦਾਸ, ਨੂਨ ਦਾ ਪੁੱਤਰ, ਸੌ ਦਸ ਸਾਲ ਦੀ ਉਮਰ ਦਾ ਹੋ ਕੇ ਮਰ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ... ਮਰ ਗਿਆ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ਯੇਹੋਸ਼ੁਆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ਨੂਨ ਦਾ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ਦਾਸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "... ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ਅਤੇ ਦਸ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:38:34.614787248Z",
+  "model": "glm-5.2"
+}

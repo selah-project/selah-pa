@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਮੈਂ ਮੇਰੇ ਪ੍ਰਿਯ ਦੀ ਹਾਂ, ਅਤੇ ਉਸ ਦੀ ਤਾਂਘ ਮੇਰੇ ਵੱਲ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ਮੇਰੇ ਪ੍ਰਿਯ ਦੀ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ਅਤੇ ਮੇਰੇ ਵੱਲ"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ਉਸ ਦੀ ਤਾਂਘ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:16.274254149Z",
+  "model": "glm-5.2"
+}

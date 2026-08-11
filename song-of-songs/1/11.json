@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸੋਨੇ ਦੀਆਂ ਲੜੀਆਂ ਅਸੀਂ ਤੈਨੂੰ ਬਣਾਈਏ, ਚਾਂਦੀ ਦੇ ਬੂਟਿਆਂ ਸਣੇ।",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "ਲੜੀਆਂ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ ਦੀਆਂ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ਅਸੀਂ ਬਣਾਈਏ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਸਣੇ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ਬੂਟਿਆਂ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ਚਾਂਦੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:59:25.417389376Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਹਦਦ ਦੀ ਮੌਤ ਹੋਈ, ਅਤੇ ਏਦੋਮ ਦੇ ਸਰਦਾਰ ਹੋਏ ⟨ਹਨ⟩: ਸਰਦਾਰ ਤਿਮਨਾ, ਸਰਦਾਰ ਅਲਵਾ, ਸਰਦਾਰ ਯਤੇਤ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਮੌਤ ਹੋਈ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ਹਦਦ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ਹੋਏ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ ਦੇ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ਤਿਮਨਾ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ਅਲਵਾ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "ਯਤੇਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:08.576951223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਜ਼ਿਲਪਾਹ, ਲੇਆਹ ਦੀ ਦਾਸੀ ਨੇ, ਯਅਕੋਬ ਲਈ ਇੱਕ ਪੁੱਤਰ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ਅਤੇ ਜੰਮਿਆ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ਜ਼ਿਲਪਾਹ ਨੇ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ਦਾਸੀ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ਲੇਆਹ ਦੀ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ਯਅਕੋਬ ਲਈ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਇੱਕ ਪੁੱਤਰ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:56:09.644287330Z",
+  "model": "glm-5.2"
+}

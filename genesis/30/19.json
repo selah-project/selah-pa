@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਲੇਆਹ ਫਿਰ ਗਰਭਵਤੀ ਹੋਈ, ਅਤੇ ਯਾਕੋਬ ਲਈ ਛੇਵਾਂ ਪੁੱਤਰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਗਰਭਵਤੀ ਹੋਈ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਫਿਰ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ਲੇਆਹ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ਅਤੇ ਜੰਮਿਆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ਛੇਵਾਂ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ਯਾਕੋਬ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:57:31.707185570Z",
+  "model": "glm-5.2"
+}

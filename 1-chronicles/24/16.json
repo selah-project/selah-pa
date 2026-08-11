@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਊਨ੍ਹੀਵਾਂ ਪਤਾਖ਼ਯਾਹ ਲਈ, ਵੀਹਵਾਂ ਯੇਖ਼ੇਜ਼ਕੇਲ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "ਪਤਾਖ਼ਯਾਹ ਲਈ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ਨੌਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "ਯੇਖ਼ੇਜ਼ਕੇਲ ਲਈ"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "ਵੀਹਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:12:02.084886470Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਉਸ ਦਾ ⟨את⟩ ਰੋਟੀ ਨਾ ਖਾ ਜਿਸ ਦੀ ਨਜ਼ਰ ਖਰਾਬ ਹੈ, ਅਤੇ ਉਸ ਦੇ ਸੁਆਦੀ ਨਿਵਾਲਿਆਂ ਨੂੰ ਨਾ ਚਾਹੁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ਖਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਰੋਟੀ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਖਰਾਬ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਨਜ਼ਰ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "ਪתאו",
+      "gloss": "ਚਾਹੁ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ਉਸ ਦੇ ਸੁਆਦੀ ਨਿਵਾਲਿਆਂ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:31.972278434Z",
+  "model": "glm-5.2"
+}

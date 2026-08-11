@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਤੂੰ, ਹੇ ਮਾਰੇ ਹੋਏ ਭੈੜੇ, ਇਸਰਾਏਲ ਦੇ ਨਸੀਬ, ਜਿਸ ਦਾ ਦਿਨ ਆ ਗਿਆ ਹੈ, ਅਪਰਾਧ ਦੇ ਸਮੇਂ ਦਾ ਅੰਤ ⟨ਹੈ⟩ —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ਅਤੇ ਤੂੰ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ਮਾਰੇ ਹੋਏ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ਭੈੜੇ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਬ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਦਾ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆ ਗਿਆ ਹੈ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ਸਮੇਂ ਦਾ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ਅਪਰਾਧ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ਅੰਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:50:22.684279287Z",
+  "model": "glm-5.2"
+}

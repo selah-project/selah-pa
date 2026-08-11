@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ⟨את⟩ ਓਫਿਰ, ਅਤੇ ⟨את⟩ ਖ਼ਵੀਲਾਹ, ਅਤੇ ⟨את⟩ ਯੋਬਾਬ; ਇਹ ਸਾਰੇ ਯਾਕਤਾਨ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਓਫਿਰ"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "ਓਫਿਰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਖ਼ਵੀਲਾਹ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ਖ਼ਵੀਲਾਹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਯੋਬਾਬ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ਯੋਬਾਬ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਇਹ ਸਾਰੇ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ਯਾਕਤਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:05.154883056Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਅਵਰਾਹਾਮ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ: ਆਪਣਾ ਧਿਆਨ ਰੱਖ, ਕਦੇ ਮੇਰੇ ਬੇਟੇ ਨੂੰ ਉਥੇ ਵਾਪਸ ਨਾ ਲਿਆਏ!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ਧਿਆਨ ਰੱਖ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਆਪਣਾ"
+    },
+    {
+      "surface": "ਤਨ",
+      "gloss": "ਕਦੇ ਨਾ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ਤੂੰ ਵਾਪਸ ਲਿਆਏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬੇਟੇ ਨੂੰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਮੇਰੇ ਬੇਟੇ ਨੂੰ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ਉਥੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:54:03.379491501Z",
+  "model": "glm-5.2"
+}

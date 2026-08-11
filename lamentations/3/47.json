@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਦਹਿਸ਼ਤ ਅਤੇ ਫਾਹੀ, ਬਣੀ ⟨ਹੈ⟩ ਸਾਡੇ ਲਈ, ਉਜਾੜ ਅਤੇ ਤਬਾਹੀ।",
+  "tokens": [
+    {
+      "surface": "פַּחַד",
+      "gloss": "ਦਹਿਸ਼ਤ"
+    },
+    {
+      "surface": "וָפַחַת",
+      "gloss": "ਅਤੇ ਫਾਹੀ"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "ਬਣੀ"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "ਸਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "הַשֵּׁאת",
+      "gloss": "ਉਜਾੜ"
+    },
+    {
+      "surface": "וְהַשָּׁבֶר",
+      "gloss": "ਅਤੇ ਤਬਾਹੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:06:38.190353610Z",
+  "model": "glm-5.2"
+}

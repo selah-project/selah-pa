@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਯਹੂਦ, ਅਤੇ ਬਨੇ-ਬਰਕ, ਅਤੇ ਗਤ-ਰਿਮੋਨ ⟨ਹਨ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "ਅਤੇ ਯਹੂਦ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਬਨੇ-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ਬਰਕ"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "ਅਤੇ ਗਤ-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ਰਿਮੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:38.479261586Z",
+  "model": "glm-5.2"
+}

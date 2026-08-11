@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 25:1",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਸ਼ਬਦ ਮੇਰੇ ਕੋਲ ਆਇਆ, ⟨ਕਹਿੰਦੇ ਹੋਏ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਸ਼ਬਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ ਆਇਆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਹਿੰਦੇ ਹੋਏ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:43.576273314Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਇਹ ⟨ਹੈ⟩ ⟨ਉਹ⟩ ਬਚਨ ਜੋ ਯਾਹਵੇਹ ਨੇ ਮੋਆਬ ਲਈ ਉਦੋਂ ਤੋਂ ਬੋਲਿਆ ਹੈ,",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬੋਲਿਆ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ਉਦੋਂ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:53:20.637740827Z",
+  "model": "glm-5.2"
+}

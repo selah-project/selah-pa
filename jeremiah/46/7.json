@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਕੌਣ ਹੈ ⟨ਇਹ⟩ ਜੋ ਨਦੀ ਵਾਂਗ ਚੜ੍ਹਦਾ ਹੈ, ਜਿਸ ਦੇ ਪਾਣੀ ਦਰਿਆਵਾਂ ਵਾਂਗ ਛਲਕਦੇ ਹਨ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ਨਦੀ ਵਾਂਗ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ਚੜ੍ਹਦਾ ਹੈ"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "ਦਰਿਆਵਾਂ ਵਾਂਗ"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "ਛਲਕਦੇ ਹਨ"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ਜਿਸ ਦੇ ਪਾਣੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:35:06.859150948Z",
+  "model": "glm-5.2"
+}

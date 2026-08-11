@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਇੱਕ ਨਰਮ ਜਵਾਬ ਗੁੱਸੇ ਨੂੰ ਮੋੜਦਾ ਹੈ, ਪਰ ਇੱਕ ਦੁਖਦਾਈ ਬਚਨ ਕ੍ਰੋਧ ਨੂੰ ਚੁੱਕਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "ਜਵਾਬ"
+    },
+    {
+      "surface": "רך",
+      "gloss": "ਨਰਮ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ਮੋੜਦਾ ਹੈ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ਗੁੱਸੇ ਨੂੰ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ਪਰ ਇੱਕ ਬਚਨ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ਦੁਖਦਾਈ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ਚੁੱਕਦਾ ਹੈ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ਕ੍ਰੋਧ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:27:21.907595928Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਹਰ ਉਹ ਨਫ਼ੇਸ਼ ਜੋ ਇਸੇ ਦਿਨ ਕੋਈ ਵੀ ਕੰਮ ਕਰੇਗਾ, ਉਹੀ ਨਫ਼ੇਸ਼ ਮੈਂ ⟨את⟩ ਆਪਣੇ ਲੋਕਾਂ ਦੇ ਵਿਚੋਂ ਨਾਸ ਕਰ ਦੇਵਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਹਰ ਉਹ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ਨਫ਼ੇਸ਼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ਕਰੇਗਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ਇਸੇ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "ਨਾਸ ਕਰ ਦੇਵਾਂਗਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹੀ ਨਫ਼ੇਸ਼"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ਨਫ਼ੇਸ਼"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ਦੇ ਵਿਚੋਂ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ਆਪਣੇ ਲੋਕਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:43:32.416575245Z",
+  "model": "glm-5.2"
+}

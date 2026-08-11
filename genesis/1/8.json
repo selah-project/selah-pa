@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਏਲੋਹੀਮ ਨੇ ਅਕਾਸ਼ ਦਾ ਨਾਂ ਅਕਾਸ਼ ਰੱਖਿਆ। ਤਾਂ ਸ਼ਾਮ ਹੋਈ ਅਤੇ ਸਵੇਰ ਹੋਈ — ਦੂਜਾ ਦਿਨ।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ਅਤੇ ਨਾਂ ਰੱਖਿਆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਨੇ"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ਅਕਾਸ਼ ਦਾ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ਅਕਾਸ਼"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਈ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਸ਼ਾਮ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਈ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਸਵੇਰ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਦੂਜਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:44:08.498909112Z",
+  "model": "glm-5.2"
+}

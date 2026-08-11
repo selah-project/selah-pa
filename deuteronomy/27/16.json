@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਧਿਕਾਰ ਹੈ ਉਸ ਨੂੰ ਜੋ ਆਪਣੇ ਪਿਤਾ ਅਤੇ ਆਪਣੀ ਮਾਂ ਦੀ ਨਿੰਦਾ ਕਰੇ। ਅਤੇ ਸਾਰੇ ਲੋਕ ਕਹਿਣਗੇ: ਆਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਧਿਕਾਰ ਹੈ"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ਜੋ ਨਿੰਦਾ ਕਰੇ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ਆਪਣੇ ਪਿਤਾ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ਅਤੇ ਆਪਣੀ ਮਾਂ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ਆਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:22.087288134Z",
+  "model": "glm-5.2"
+}

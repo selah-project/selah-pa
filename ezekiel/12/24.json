@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਕਿਉਂਕਿ ਹੋਰ ਕੋਈ ਵਿਰਲਾ ਦਰਸ਼ਨ ਨਹੀਂ ਹੋਵੇਗਾ, ਅਤੇ ਨਾ ਨਰਮ ਕਰਨ ਵਾਲਾ ਜਾਦੂ, ਇਸਰਾਏਲ ਦੇ ਘਰ ਦੇ ਵਿਚਕਾਰ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ਦਰਸ਼ਨ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ਵਿਰਲਾ"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "ਅਤੇ ਨਾ ਜਾਦੂ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ਨਰਮ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ਦੇ ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:45:26.760897756Z",
+  "model": "glm-5.2"
+}

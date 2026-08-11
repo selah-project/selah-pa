@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਮੀਕਾ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ — ਪੀਥੋਨ ਅਤੇ ਮੇਲੇਖ ਅਤੇ ਤਾਰਆ ਅਤੇ ਅਹਾਜ਼।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ਮੀਕਾ ਦੇ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ਪੀਥੋਨ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ਅਤੇ ਮੇਲੇਖ"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "ਅਤੇ ਤਾਰਆ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ਅਤੇ ਅਹਾਜ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T02:59:09.831559152Z",
+  "model": "glm-5.2"
+}

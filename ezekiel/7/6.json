@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅੰਤ ਆਇਆ, ਅੰਤ ਆਇਆ; ਉਹ ਤੇਰੇ ਵਿਰੁੱਧ ਜਾਗ ਪਿਆ ਹੈ — ਵੇਖੋ, ਆ ਰਹੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "ਅੰਤ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "⟨ਉਹ⟩ ਅੰਤ"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "ਜਾਗ ਪਿਆ ਹੈ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੇਰੇ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ਆ ਰਹੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:43:12.754790482Z",
+  "model": "glm-5.2"
+}

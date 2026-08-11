@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਇਸਰਾਏਲ ਦੀ ਸਾਰੀ ਸਭਾ ਇਹ ਕਰੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ਸਭਾ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੀ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ਕਰੇਗੀ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:15:31.134674913Z",
+  "model": "glm-5.2"
+}

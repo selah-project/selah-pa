@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਹੱਰਬੀਤ, ਅਤੇ ਕਿਸ਼ਯੋਨ, ਅਤੇ ਆਬੇਸ।",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ਅਤੇ ਹੱਰਬੀਤ"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "ਅਤੇ ਕਿਸ਼ਯੋਨ"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "ਅਤੇ ਆਬੇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:11.198818392Z",
+  "model": "glm-5.2"
+}

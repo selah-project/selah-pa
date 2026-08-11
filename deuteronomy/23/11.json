@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਜੇ ਤੁਹਾਡੇ ਵਿਚੋਂ ਕੋਈ ਮਨੁੱਖ ਹੋਵੇ ਜੋ ਰਾਤ ਦੀ ਵਾਰਦਾਤ ਕਰਕੇ ਪਵਿੱਤਰ ਨਾ ਹੋਵੇ, ਤਾਂ ਉਹ ਛਾਉਣੀ ਤੋਂ ਬਾਹਰ ਨਿਕਲ ਜਾਏ — ਛਾਉਣੀ ਦੇ ਅੰਦਰ ਨਾ ਆਵੇ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ਤੁਹਾਡੇ ਵਿਚੋਂ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਕੋਈ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ਵਾਰਦਾਤ ਕਰਕੇ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ਰਾਤ ਦੀ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ਅਤੇ ਨਿਕਲ ਜਾਏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ਬਾਹਰ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ਛਾਉਣੀ ਤੋਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ਆਵੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ਅੰਦਰ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ਛਾਉਣੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:32.349561819Z",
+  "model": "glm-5.2"
+}

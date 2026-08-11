@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬਲਦ, ⟨ਇੱਕ⟩ ਵਰ੍ਹੇ ਦਾ ਮਾਦਾ, ਇੱਕ ਮੇਢਾ, ਇੱਕ ਇੱਕ ਵਰ੍ਹੇ ਦਾ ਭਾਰਾ ਸੁਆਮੀ, ਸਾੜਨ ਦੇ ਕੁਰਬਾਨ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਮਾਦਾ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਵਰ੍ਹੇ ਦਾ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ਮੇਢਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ਭਾਰਾ ਸੁਆਮੀ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਮਾਦਾ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ਵਰ੍ਹੇ ਦਾ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ਸਾੜਨ ਦੇ ਕੁਰਬਾਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:12.695798317Z",
+  "model": "glm-5.2"
+}

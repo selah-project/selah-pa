@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 41,
+  "translation": "ਟਾਪੂਆਂ ਨੇ ਵੇਖਿਆ ਅਤੇ ਡਰੇ; ਧਰਤੀ ਦੇ ਸਿਰੇ ਕੰਬ ਗਏ; ਨੇੜੇ ਆਏ ਅਤੇ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ਵੇਖਿਆ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ਟਾਪੂਆਂ ਨੇ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ਅਤੇ ਡਰੇ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ਸਿਰੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "ਕੰਬ ਗਏ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ਨੇੜੇ ਆਏ"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "ਅਤੇ ਆਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:02:53.701856538Z",
+  "model": "glm-5.2"
+}

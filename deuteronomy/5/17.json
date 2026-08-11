@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤੂੰ ਕਤਲ ਨਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "ਤੂੰ ਕਤਲ ਕਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:25.238756695Z",
+  "model": "glm-5.2"
+}

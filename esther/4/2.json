@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਉਹ ਮੇਰੇ ਦਰਵਾਜ਼ੇ ਦੇ ਸਾਹਮਣੇ ਤੱਕ ਆਇਆ, ਕਿਉਂਕਿ ਟਾਹਲੀ ਪਾ ਕੇ ਮੇਰੇ ਦਰਵਾਜ਼ੇ ਵਿਚ ਜਾਣਾ ਨਹੀਂ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ਦਰਵਾਜ਼ੇ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਮੇਰੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ ਸੀ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ਜਾਣਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿਚ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ਦਰਵਾਜ਼ੇ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਮੇਰੇ"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "ਪਾ ਕੇ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ਟਾਹਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:18:12.444644198Z",
+  "model": "glm-5.2"
+}

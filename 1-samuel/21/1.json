@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ⟨ਉਹ⟩ ਉੱਠਿਆ ਅਤੇ ਗਿਆ, ਅਤੇ ਯਹੋਨਾਤਾਨ ⟨ਸ਼ਹਿਰ⟩ ਵਿੱਚ ਆਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਉੱਠਿਆ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਗਿਆ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ਅਤੇ ਯਹੋਨਾਤਾਨ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ਸ਼ਹਿਰ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T22:01:51.407625123Z",
+  "model": "glm-5.2"
+}

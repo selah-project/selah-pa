@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਮੈਂ ਇਕੱਲਾ ਸਾਰੇ ⟨את⟩ ਇਸ ਲਾਕੇ ਨੂੰ ਨਹੀਂ ਚੁੱਕ ਸਕਦਾ, ਕਿਉਂਕਿ ਇਹ ਮੇਰੇ ਲਈ ਬਹੁਤ ਭਾਰੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ਮੈਂ ਸਕਦਾ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ਇਕੱਲਾ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ਚੁੱਕਣ ਲਈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਇਸ ਲਾਕੇ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲਾਕੇ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ਭਾਰੀ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:54:41.435490585Z",
+  "model": "glm-5.2"
+}

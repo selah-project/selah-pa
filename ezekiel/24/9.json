@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਇਸ ਲਈ ਇਉਂ ਕਹਿੰਦਾ ਹੈ ਅਦੋਨਾਈ ਯਾਹਵੇਹ: ਹਾਏ ⟨ਤੇਰੇ ਵੱਲੋਂ⟩ ਲਹੂ ਦੇ ਸ਼ਹਿਰ ਨੂੰ! ਵੀ ਮੈਂ ਮਸਾਲਾ ਵੱਡਾ ਕਰਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਹਿੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ਹਾਏ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ਸ਼ਹਿਰ ਨੂੰ"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ਲਹੂ ਦੇ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "ਵੱਡਾ ਕਰਾਂਗਾ"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "ਮਸਾਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:22.846889735Z",
+  "model": "glm-5.2"
+}

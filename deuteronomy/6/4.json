@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਸੁਣ, ਹੇ ਇਸਰਾਏਲ! ਯਾਹਵੇਹ ਸਾਡਾ ਏਲੋਹੀਮ, ਯਾਹਵੇਹ ⟨ਹੈ⟩ ਇੱਕ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਹੇ ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ਸਾਡਾ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:11:31.380618167Z",
+  "model": "glm-5.2"
+}

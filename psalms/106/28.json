@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 106,
+  "translation": "ਅਤੇ ਉਹ ਬਾਲ-ਪਿਓਰ ਨਾਲ ਜੁੜ ਗਏ, ਅਤੇ ਮਰੇ ਹੋਏਆਂ ਦੇ ਬਲੀਦਾਨ ਖਾਧੇ।",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "ਅਤੇ ਜੁੜ ਗਏ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ਬਾਲ ਨਾਲ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ਪਿਓਰ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ਅਤੇ ਖਾਧੇ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ਬਲੀਦਾਨ"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "ਮਰੇ ਹੋਏਆਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:09:35.912051276Z",
+  "model": "glm-5.2"
+}

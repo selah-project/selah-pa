@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਮੈਂ ਕਹਿਲਤ ਯਿਸਰਾਏਲ ਉੱਤੇ ਯਰੂਸ਼ਾਲਮ ਵਿੱਚ ਰਾਜਾ ਰਿਹਾ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ਕਹਿਲਤ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ਰਿਹਾ ਹਾਂ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ਯਰੂਸ਼ਾਲਮ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:09:35.519299448Z",
+  "model": "glm-5.2"
+}

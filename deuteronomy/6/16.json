@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਤੁਸੀਂ ਯਾਹਵੇਹ ਆਪਣੇ ਏਲੋਹੀਮ ਦੀ ⟨את⟩ ਪਰਖ ਨਾ ਕਰੋ, ਜਿਵੇਂ ਤੁਸੀਂ ਪਰਖ ਵਿਚ ਪਰਖਿਆ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ਤੁਸੀਂ ਪਰਖ ਕਰੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ਆਪਣੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਜਿਵੇਂ"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ਤੁਸੀਂ ਪਰਖਿਆ ਸੀ"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "ਪਰਖ ਵਿਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:10:35.772701078Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਗਾਦ ਲਈ: ਏਲਯਾਸਾਫ਼, ਦੇਉਏਲ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ਗਾਦ ਲਈ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ਏਲਯਾਸਾਫ਼"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ਦੇਉਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:23.323388209Z",
+  "model": "glm-5.2"
+}

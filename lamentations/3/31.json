@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਕਿਉਂਕਿ ਅਦੋਨਾਈ ਹਮੇਸ਼ਾ ਲਈ ਰੱਦ ਨਹੀਂ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ਰੱਦ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਹਮੇਸ਼ਾ ਲਈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:54.280860580Z",
+  "model": "glm-5.2"
+}

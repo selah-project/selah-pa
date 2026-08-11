@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਕੇਨਾਨ ਨੂੰ ਸੱਤਰ ਸਾਲ ਜੀਊਣਾ ਹੋਇਆ, ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਮਹਲਲਏਲ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ-ਜੀਊਣਾ ਹੋਇਆ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ਕੇਨਾਨ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ਸੱਤਰ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ-ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮਹਲਲਏਲ ਨੂੰ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ਮਹਲਲਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:13.788478661Z",
+  "model": "glm-5.2"
+}

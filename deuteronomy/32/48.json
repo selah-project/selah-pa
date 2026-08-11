@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਠੀਕ ਇਸੇ ਦਿਨ ਮੋਸ਼ੇ ਨਾਲ ਗੱਲ ਕੀਤੀ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ਠੀਕ ਇਸੇ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:24:23.805079129Z",
+  "model": "glm-5.2"
+}

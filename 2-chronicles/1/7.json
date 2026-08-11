@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਸ ਰਾਤ ਏਲੋਹੀਮ ਸ਼ਲੋਮੋਹ ਨੂੰ ਦਿੱਸਿਆ, ਅਤੇ ਉਸ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ: ਮੰਗ, ਮੈਂ ਤੈਨੂੰ ਕੀ ਦੇਵਾਂ?",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "ਰਾਤ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ਦਿੱਸਿਆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ ਨੂੰ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ਮੰਗ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ਮੈਂ ਦੇਵਾਂ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੈਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:16:11.328116005Z",
+  "model": "glm-5.2"
+}

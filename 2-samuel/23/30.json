@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਬਨਾਯਾਹੂ ਪਿਰਅਤੋਨੀ, ਹਿੱਦਾਈ ਗਾਅਸ਼ ਦੇ ਨਾਹਲਿਆਂ ਤੋਂ,",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "ਬਨਾਯਾਹੂ"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "ਪਿਰਅਤੋਨੀ"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "ਹਿੱਦਾਈ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ਨਾਹਲਿਆਂ ਤੋਂ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ਗਾਅਸ਼ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.820527761Z",
+  "model": "glm-5.2"
+}

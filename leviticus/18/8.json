@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤੇਰੇ ਪਿਤਾ ਦੀ ਪਤਨੀ ਦੀ ਨੰਗਤਾ — ਤੂੰ ਨਾ ਖੋਲ੍ਹੇਂ; ਉਹ ਤੇਰੇ ਪਿਤਾ ਦੀ ਨੰਗਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ਦੀ ਨੰਗਤਾ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ਪਤਨੀ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ਤੇਰੇ ਪਿਤਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ਤੂੰ ਖੋਲ੍ਹੇਂ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ਦੀ ਨੰਗਤਾ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ਤੇਰੇ ਪਿਤਾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:38:36.740115869Z",
+  "model": "glm-5.2"
+}

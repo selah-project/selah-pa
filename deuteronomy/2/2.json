@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੇਰੇ ਨਾਲ ਬੋਲਿਆ ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਬੋਲਿਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:22.798854746Z",
+  "model": "glm-5.2"
+}

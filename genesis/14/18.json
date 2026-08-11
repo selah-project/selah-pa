@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਮਲਕੀ-ਸਦੇਕ, ਸ਼ਾਲੇਮ ਦਾ ਰਾਜਾ, ਰੋਟੀ ਅਤੇ ਦਾਖਮਦਰਾ ਲੈ ਕੇ ਆਇਆ, ਅਤੇ ਉਹ ਏਲ ਏਲਯੋਨ ਦਾ ਜਾਜਕ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "ਅਤੇ ਮਲਕੀ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-ਸਦੇਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ਸ਼ਾਲੇਮ"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ਲੈ ਕੇ ਆਇਆ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ਅਤੇ ਦਾਖਮਦਰਾ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ਅਤੇ ਉਹ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ਜਾਜਕ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ਏਲ ਨੂੰ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ਏਲਯੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:49:24.683129677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਆਪਣਾ ਮੂੰਹ ਧੂੜ ਵਿੱਚ ਰੱਖੇ, ਕਦੇ ਆਸ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ਰੱਖੇ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ਧੂੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ਆਪਣਾ ਮੂੰਹ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ਕਦੇ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ਆਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:54.280489273Z",
+  "model": "glm-5.2"
+}

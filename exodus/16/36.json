@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਅਤੇ ਓਮਰ ⟨ਇਹ⟩ ਇੱਕ ਈਪਾਹ ਦਾ ਦਸਵਾਂ ਹਿੱਸਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ਅਤੇ ਓਮਰ"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ਦਸਵਾਂ ਹਿੱਸਾ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ਈਪਾਹ ਦਾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:17:42.920699873Z",
+  "model": "glm-5.2"
+}

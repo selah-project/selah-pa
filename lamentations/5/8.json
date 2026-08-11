@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਗੁਲਾਮਾਂ ਨੇ ਸਾਡੇ ਉੱਤੇ ਰਾਜ ਕੀਤਾ ਹੈ; ਉਹਨਾਂ ਦੇ ਹੱਥੋਂ ਡਾਹ ਮੁਕਤ ਕਰਨ ਵਾਲਾ ਕੋਈ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "ਗੁਲਾਮਾਂ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ਰਾਜ ਕੀਤਾ ਹੈ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਸਾਡੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ਮੁਕਤ ਕਰਨ ਵਾਲਾ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਕੋਈ ਨਹੀਂ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਹੱਥੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:27.769023985Z",
+  "model": "glm-5.2"
+}

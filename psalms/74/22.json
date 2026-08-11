@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 74,
+  "translation": "ਉੱਠ, ਹੇ ਏਲੋਹੀਮ! ਆਪਣੀ ਹੀ ਦਲੀਲ ਲੜ; ਯਾਦ ਕਰ ਆਪਣੀ ਬੇਇਜ਼ਤੀ ਨੂੰ ਨਾਬਾਲ ਤੋਂ ਸਾਰਾ ਦਿਨ।",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ਉੱਠ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ਲੜ"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "ਆਪਣੀ ਦਲੀਲ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ਯਾਦ ਕਰ"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ਆਪਣੀ ਬੇਇਜ਼ਤੀ ਨੂੰ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ਨਾਬਾਲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰਾ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਦਿਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:58:40.309354267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਜੇ ਉਸ ਦੇ ਪਵਿੱਤਰ ਹੋਣ ਤੋਂ ਬਾਅਦ ਨੇਤੇਕ ਚਮੜੀ ਵਿੱਚ ਫੈਲੇ, ਫੈਲੇ ਤਾਂ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ਫੈਲੇ"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "ਫੈਲੇ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ਨੇਤੇਕ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ਚਮੜੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ਤੋਂ ਬਾਅਦ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ਉਸ ਦੇ ਪਵਿੱਤਰ ਹੋਣ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:16.614528812Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਕਿਉਂਕਿ ਨੇੜੇ ਹੈ ਦਿਨ, ਅਤੇ ਨੇੜੇ ਹੈ ਯਾਹਵੇਹ ਦਾ ਦਿਨ — ਬੱਦਲਾਂ ਦਾ ਦਿਨ, ਨਸਲਾਂ ਦਾ ਸਮਾਂ ⟨ਹੋਵੇਗਾ⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ਨੇੜੇ ਹੈ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ਅਤੇ ਨੇੜੇ ਹੈ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ਬੱਦਲਾਂ ਦਾ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ਸਮਾਂ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ਨਸਲਾਂ ਦਾ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ਹੋਵੇਗਾ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:55:52.380439143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਇਹ ਉਹ ਆਗਿਆਵਾਂ ਹਨ ਜੋ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨੂੰ ⟨את⟩ ਇਸਰਾਏਲ ਦੇ ਬੱਚਿਆਂ ਲਈ ਸੀਨਾਯ ਪਹਾੜ ਉੱਤੇ ਦਿੱਤੀਆਂ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ਆਗਿਆਵਾਂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ਦਿੱਤੀਆਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੋਸ਼ੇ ਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ਪਹਾੜ ਉੱਤੇ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ਸੀਨਾਯ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:32.031633691Z",
+  "model": "glm-5.2"
+}

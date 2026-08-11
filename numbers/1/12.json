@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਦਾਨ ਲਈ — ਅਖੀਏਜ਼ਰ, ਅਮੀਸ਼ੱਦਾਈ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "ਦਾਨ ਲਈ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "ਅਖੀਏਜ਼ਰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "ਅਮੀਸ਼ੱਦਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:47.673562594Z",
+  "model": "glm-5.2"
+}

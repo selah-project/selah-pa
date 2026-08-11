@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਸਾਨੂੰ ਇਸ ਥਾਂ ਤੇ ਲਿਆਇਆ, ਅਤੇ ਸਾਨੂੰ ⟨את⟩ ਇਹ ਧਰਤੀ ਦਿੱਤੀ, ਇੱਕ ਧਰਤੀ ਜਿਹੜੀ ਦੁੱਧ ਅਤੇ ਸ਼ਹਿਦ ਨਾਲ ਵਹਿੰਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਸਾਨੂੰ ਲਿਆਇਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਤੇ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ਥਾਂ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਦਿੱਤੀ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਹ ਧਰਤੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ਵਹਿੰਦੀ ਹੈ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ਦੁੱਧ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ਅਤੇ ਸ਼ਹਿਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:42.697832269Z",
+  "model": "glm-5.2"
+}

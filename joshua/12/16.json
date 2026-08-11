@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਮਕੀਦਾ ਦਾ ਰਾਜਾ, ਇੱਕ; ਬੇਤ-ਏਲ ਦਾ ਰਾਜਾ, ਇੱਕ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "ਮਕੀਦਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלਚ",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ਏਲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:49.601209668Z",
+  "model": "glm-5.2"
+}

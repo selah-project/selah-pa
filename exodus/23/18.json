@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਤੂੰ ਖਮੀਰ ਦੇ ਨਾਲ ਮੇਰੇ ਬਲੀਦਾਨ ਦਾ ਲਹੂ ਨਾ ਬਲਿ ਕਰੀਂ; ਅਤੇ ਮੇਰੇ ਤਿਉਹਾਰ ਦੀ ਚਰਬੀ ਬਿਹਾਈ ਤੱਕ ਨਾ ਰਹੇ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "ਤੂੰ ਬਲਿ ਕਰੀਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ਖਮੀਰ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ਲਹੂ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ਮੇਰੇ ਬਲੀਦਾਨ ਦਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ਰਹੇ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ਚਰਬੀ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ਮੇਰੇ ਤਿਉਹਾਰ ਦੀ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਬਿਹਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:20:54.162657610Z",
+  "model": "glm-5.2"
+}

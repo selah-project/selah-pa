@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 4:32",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੰਡ ਸਨ: ਏਤਾਮ, ਅਤੇ ਆਯਿਨ, ਰਿਮੋਨ, ਅਤੇ ਤੋਖਨ, ਅਤੇ ਅਸ਼ਾਨ — ਪੰਜ ਸ਼ਹਿਰ।",
+  "tokens": [
+    {
+      "surface": "וחצריהם",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੰਡ"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ਏਤਾਮ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ਅਤੇ ਆਯਿਨ"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ਰਿਮੋਨ"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ਅਤੇ ਤੋਖਨ"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ਅਤੇ ਅਸ਼ਾਨ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:02.142867250Z",
+  "model": "glm-5.2"
+}

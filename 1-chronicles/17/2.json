@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਨਾਤਨ ਨੇ ਦਾਵਿਦ ਨੂੰ ਕਿਹਾ: ਤੇਰੇ ਦਿਲ ਵਿੱਚ ਜੋ ਕੁਝ ਵੀ ⟨ਹੈ⟩ ਉਹ ਕਰ, ਕਿਉਂਕਿ ਏਲੋਹੀਮ ਤੇਰੇ ਨਾਲ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਨਾਤਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ਦਾਵਿਦ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਜੋ ਕੁਝ ਵੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ਜੋ⟩"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ਤੇਰੇ ਦਿਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕਰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਨਾਲ ⟨ਹੈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T03:07:14.347589277Z",
+  "model": "glm-5.2"
+}

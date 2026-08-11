@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਕੀ ਮੈਂ ਨੇੜੇ ਦਾ ਏਲੋਹੀਮ ਹਾਂ, ਯਾਹਵੇਹ ਦਾ ਕਥਨ, ਅਤੇ ਦੂਰ ਦਾ ਏਲੋਹੀਮ ਨਹੀਂ?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "ਕੀ ਏਲੋਹੀਮ ਦਾ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ਨੇੜੇ ਦਾ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ ਹਾਂ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ਕਥਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ਦੂਰ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:24:59.705095609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਵਚਨ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਕਹਿੰਦਾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਵਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਆਇਆ, ਕਹਿੰਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:02.154528066Z",
+  "model": "glm-5.2"
+}

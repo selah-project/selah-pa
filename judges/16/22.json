@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਅਤੇ ਉਸ ਦੇ ਸਿਰ ਦੇ ਵਾਲ ਉੱਗਣੇ ਸ਼ੁਰੂ ਹੋਏ, ਜਿਵੇਂ ਜਦੋਂ ਮੁੰਨੇ ਗਏ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ਅਤੇ ਸ਼ੁਰੂ ਹੋਏ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ਵਾਲ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ਉਸ ਦੇ ਸਿਰ ਦੇ"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "ਉੱਗਣੇ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਜਿਵੇਂ ਜਦੋਂ"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "ਮੁੰਨੇ ਗਏ ਸਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:47:49.274732080Z",
+  "model": "glm-5.2"
+}

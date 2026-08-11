@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ⟨ਉਸਨੂੰ⟩ ਬਲਦਿਆ ਗਿਆ; ਅਤੇ ਮੋਸ਼ੇ ਨੇ ⟨את⟩ ਲਹੂ ਨੂੰ ਬਲਦੇਖੇ ਉੱਤੇ ਚਾਰੇ ਪਾਸੇ ਛਿੜਕਿਆ।",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ਅਤੇ ਬਲਦਿਆ ਗਿਆ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ਅਤੇ ਛਿੜਕਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਲਹੂ ਨੂੰ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ਲਹੂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ਬਲਦੇਖੇ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ਚਾਰੇ ਪਾਸੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:34:03.470278694Z",
+  "model": "glm-5.2"
+}

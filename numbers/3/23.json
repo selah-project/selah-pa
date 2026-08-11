@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਕੁਲਾਂ ਗੇਰਸ਼ੁਨੀ, ਮਗਰ ਨੂੰ ਮਸਕਨ ਦੇ, ਇੰਜਾਦ ਕਰਨਗੇ ਪੱਛਮ ਵੱਲ।",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਲਾਂ"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ਗੇਰਸ਼ੁਨੀ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ਮਗਰ ਨੂੰ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ਮਸਕਨ ਦੇ"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "ਇੰਜਾਦ ਕਰਨਗੇ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ਪੱਛਮ ਵੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:47:07.981707038Z",
+  "model": "glm-5.2"
+}

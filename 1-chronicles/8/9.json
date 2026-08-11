@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਖੋਦੇਸ਼ ⟨ਆਪਣੀ ਪਤਨੀ⟩ ਤੋਂ ⟨את⟩ ਯੋਬਾਬ ਅਤੇ ⟨את⟩ ਸ਼ਿਬਯਾ ਅਤੇ ⟨את⟩ ਮੇਸ਼ਾ ਅਤੇ ⟨את⟩ ਮਲਕਾਮ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜੰਮਿਆ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ਖੋਦੇਸ਼"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ਆਪਣੀ ਪਤਨੀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯੋਬਾਬ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ਯੋਬਾਬ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸ਼ਿਬਯਾ"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "ਸ਼ਿਬਯਾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਮੇਸ਼ਾ"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "ਮੇਸ਼ਾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਮਲਕਾਮ"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ਮਲਕਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:58:20.916644622Z",
+  "model": "glm-5.2"
+}

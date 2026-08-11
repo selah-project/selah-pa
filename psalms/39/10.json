@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਮੈਂ ਚੁੱਪ ਰਿਹਾ, ਮੈਂ ⟨ਆਪਣਾ⟩ ਮੂੰਹ ਨਹੀਂ ਖੋਲ੍ਹਿਆ, ਕਿਉਂਕਿ ਤੂੰ ⟨ਇਹ⟩ ਕੀਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ਮੈਂ ਚੁੱਪ ਰਿਹਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ਮੈਂ ਖੋਲ੍ਹਿਆ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ਤੂੰ ਕੀਤਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:43:26.059342919Z",
+  "model": "glm-5.2"
+}

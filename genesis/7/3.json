@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਨਾਲ ਹੀ ਅਕਾਸ਼ ਦੇ ਪੰਛੀਆਂ ਵਿੱਚੋਂ ਸੱਤ-ਸੱਤ, ਨਰ ਅਤੇ ਮਾਦਾ, ਤਾਂ ਜੋ ਧਰਤੀ ਦੇ ਸਾਰੇ ਪਾਸੇ ਉੱਤੇ ਬੀਜ ਜੀਵਤ ਰਹੇ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਨਾਲ ਹੀ"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "ਵਿੱਚੋਂ ਪੰਛੀਆਂ ਦੇ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ਅਕਾਸ਼ ਦੇ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ਨਰ"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ਅਤੇ ਮਾਦਾ"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "ਤਾਂ ਜੋ ਜੀਵਤ ਰਹੇ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ਬੀਜ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਪਾਸੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:37.857295847Z",
+  "model": "glm-5.2"
+}

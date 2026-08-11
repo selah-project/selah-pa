@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਏਲੀਆਬ ਉਸਦਾ ਪੁੱਤਰ, ਯਰੋਖ਼ਾਮ ਉਸਦਾ ਪੁੱਤਰ, ਏਲਕਾਨਾਹ ਉਸਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ਏਲੀਆਬ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ਯਰੋਖ਼ਾਮ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ਏਲਕਾਨਾਹ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:40.529993215Z",
+  "model": "glm-5.2"
+}

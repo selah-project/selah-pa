@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਸ਼ੇਤ ਪੰਜ ਸਾਲ ਅਤੇ ਇੱਕ ਸੌ ਸਾਲ ਜਿਊਿਆ, ਅਤੇ ਉਸਨੇ ⟨את⟩ ਏਨੋਸ਼ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜਿਊਿਆ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ਸ਼ੇਤ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ਅਤੇ ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਉਸਨੇ ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਨੋਸ਼"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਏਨੋਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:21.365087974Z",
+  "model": "glm-5.2"
+}

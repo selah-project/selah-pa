@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਯਾਹਵੇਹ ਵੱਲ ਪੁਕਾਰਿਆ, ਕਹਿੰਦੇ ਹੋਏ: ਹੇ ਏਲ, ਮਿਹਰ ਕਰ, ਉਸ ਨੂੰ ਚੰਗਾ ਕਰ, ਮਿਹਰ ਕਰ!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ਅਤੇ ਪੁਕਾਰਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਹੇ ਏਲ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਮਿਹਰ ਕਰ"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ਚੰਗਾ ਕਰ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਮਿਹਰ ਕਰ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਉਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:20.244224803Z",
+  "model": "glm-5.2"
+}

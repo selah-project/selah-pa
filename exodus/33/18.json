@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ, \"ਮੈਨੂੰ ਹੁਣ ⟨את⟩ ਤੇਰੇ ਕਾਵੋਦ ਦਿਖਾ।\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ਮੈਨੂੰ ਦਿਖਾ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਤੇਰੇ ਕਾਵੋਦ"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ਤੇਰੇ ਕਾਵੋਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:27:11.927123647Z",
+  "model": "glm-5.2"
+}

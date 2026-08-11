@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਤੂੰ ਕਿਸੇ ਦਾਸ ਨੂੰ ਉਸ ਦੇ ਮਾਲਕ ਕੋਲ ਨਾ ਸੌਂਪੀਂ, ਜੋ ਤੇਰੇ ਕੋਲ ਆਵੇ, ਉਸ ਦੇ ਮਾਲਕ ਕੋਲੋਂ ਭੱਜ ਕੇ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "ਤੂੰ ਸੌਂਪੀਂ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ਦਾਸ ਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ਉਸ ਦੇ ਮਾਲਕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ਭੱਜ ਕੇ ਆਵੇ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ਕੋਲੋਂ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ਉਸ ਦੇ ਮਾਲਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:58.291582741Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ⟨ਉਹ⟩ ਪਰੋਹ ਕੋਲੋਂ ਨਿਕਲਿਆ ਅਤੇ ਯਾਹਵੇਹ ਨੂੰ ਬੇਨਤੀ ਕੀਤੀ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਨਿਕਲਿਆ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ਕੋਲੋਂ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ਪਰੋਹ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ਅਤੇ ਬੇਨਤੀ ਕੀਤੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:14:29.292350585Z",
+  "model": "glm-5.2"
+}

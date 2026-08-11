@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਯਾਹਵੇਹ ਦੇ ਭੈ ਵਿੱਚ ਸਖ਼ਤ ਭਰੋਸਾ ਹੈ, ਅਤੇ ਉਸ ਦੇ ਬੱਚਿਆਂ ਲਈ ਪਨਾਹ ਬਣੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "ਦੇ ਭੈ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ਭਰੋਸਾ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ਸਖ਼ਤ"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਬੱਚਿਆਂ ਲਈ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਬਣੇਗਾ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ਪਨਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:26:41.031438793Z",
+  "model": "glm-5.2"
+}

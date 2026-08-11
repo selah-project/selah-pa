@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਹਰ ਇੱਕ ਜਿਸ ਨੂੰ ਖੰਭ-ਪਰ ਅਤੇ ਖਰੋਂਚ-ਛਿਲਕਾ ਨਹੀਂ ⟨ਹੈ⟩, ਉਸ ਨੂੰ ਨਾ ਖਾਓ; ਉਹ ਤੁਹਾਡੇ ਲਈ ਅਪਵਿੱਤਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਹਰ ਇੱਕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਨੂੰ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ਖੰਭ-ਪਰ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ਅਤੇ ਖਰੋਂਚ-ਛਿਲਕਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਖਾਓ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ਅਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ਲכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:02.318278620Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਤਸੀਦੋਨੀਮ ⟨ਚੀਰਮੋਨ ਨੂੰ⟩ ਸ਼ਿਰਯੋਨ ਸੱਦਦੇ ਹਨ, ਅਤੇ ⟨ਹਾਅਮੋਰੀ⟩ ⟨ਉਸ ਨੂੰ⟩ ਸ਼ਨੀਰ ਸੱਦਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "ਤਸੀਦੋਨੀਮ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ਸੱਦਦੇ ਹਨ"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ਚੀਰਮੋਨ ਨੂੰ"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "ਸ਼ਿਰਯੋਨ"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ਅਤੇ ⟨ਹਾਅਮੋਰੀ⟩"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ਸੱਦਦੇ ਹਨ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "ਸ਼ਨੀਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:26.535788756Z",
+  "model": "glm-5.2"
+}

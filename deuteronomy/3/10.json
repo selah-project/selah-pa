@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਮੈਦਾਨ ਦੇ ਸਾਰੇ ਸ਼ਹਿਰ ਅਤੇ ਸਾਰਾ ਗਿਲਆਦ ਅਤੇ ਸਾਰਾ ਬਾਸ਼ਾਨ, ਸਾਲਖਾ ਅਤੇ ਅਦਰਾਈ ਤੱਕ — ਬਾਸ਼ਾਨ ਵਿੱਚ ਓਗ ਦੇ ਰਾਜ ਦੇ ਸ਼ਹਿਰ —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ਮੈਦਾਨ ਦੇ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰਾ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ਗਿਲਆਦ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰਾ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ਬਾਸ਼ਾਨ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "ਸਾਲਖਾ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ਅਤੇ ਅਦਰਾਈ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ਰਾਜ ਦੇ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ਓਗ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ਬਾਸ਼ਾਨ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:26.536044877Z",
+  "model": "glm-5.2"
+}

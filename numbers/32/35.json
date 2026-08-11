@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ⟨את⟩ ਅਤਾਰੋਤ-ਸ਼ੋਫਨ ਅਤੇ ⟨את⟩ ਯਾਅਜ਼ੇਰ ਅਤੇ ਯੋਗਬੇਹਾ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਤਾਰੋਤ-ਸ਼ੋਫਨ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ਅਤਾਰੋਤ"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "ਸ਼ੋਫਨ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਯਾਅਜ਼ੇਰ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ਯਾਅਜ਼ੇਰ"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ਅਤੇ ਯੋਗਬੇਹਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:01.172661874Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 43,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਕਾਵੋਦ ਉਸ ਦਰਵਾਜ਼ੇ ਦੇ ਰਸਤੇ ਤੋਂ ਘਰ ਵਿੱਚ ਆਇਆ ਜਿਸ ਦਾ ਮੂੰਹ ਪੂਰਬ ਵੱਲ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "ਅਤੇ ਕਾਵੋਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ਰਸਤੇ ਤੋਂ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ਦਰਵਾਜ਼ੇ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਦਾ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ਪੂਰਬ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:02:42.525938961Z",
+  "model": "glm-5.2"
+}

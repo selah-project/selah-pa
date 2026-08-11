@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਕਾਹਨ ਤੇਲ ਦੇ ਲੋਗ ਵਿੱਚੋਂ ਲਏ, ਅਤੇ ਪਾਵੇ ਉਹ ⟨ਤੇਲ⟩ ਕਾਹਨ ਦੇ ਖੱਬੇ ਹੱਥ ਦੀ ਹਥੇਲੀ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ਅਤੇ ਕਾਹਨ ਲਏ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕਾਹਨ"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "ਲੋਗ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ਤੇਲ ਦੇ"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ਅਤੇ ਪਾਵੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ਹਥੇਲੀ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕਾਹਨ ਦੇ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ਖੱਬੇ ਹੱਥ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:37:26.119088186Z",
+  "model": "glm-5.2"
+}

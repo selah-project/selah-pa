@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਇਸ ਤੋਂ ਇਲਾਵਾ, ਸ਼ਲੋਮੋਹ ਰਾਜ-ਗੱਦੀ ਉੱਤੇ ਬੈਠਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ਅਤੇ ਇਸ ਤੋਂ ਇਲਾਵਾ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ਬੈਠਾ ਹੈ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ਗੱਦੀ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ਰਾਜ-"
+    }
+  ],
+  "timestamp": "2026-08-10T22:19:49.212488359Z",
+  "model": "glm-5.2"
+}

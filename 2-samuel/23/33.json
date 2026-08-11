@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਸ਼ਮਾਹ ⟨ਹਰਾਰੀ⟩, ਅਖੀਅਮ ਸ਼ਰਰ ⟨ਹਰਾਰੀ⟩ ਦਾ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ਸ਼ਮਾਹ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ਹਰਾਰੀ"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "ਅਖੀਅਮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "ਸ਼ਰਰ"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ਹਰਾਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:18:10.403072696Z",
+  "model": "glm-5.2"
+}

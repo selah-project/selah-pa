@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 130,
+  "translation": "ਕਿਉਂਕਿ ਤੇਰੇ ਨਾਲ ਮਾਫ਼ੀ ਹੈ, ਤਾਂ ਜੋ ਤੂੰ ਡਰੇਂ ਜਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ਮਾਫ਼ੀ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ਤਾਂ ਜੋ"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ਤੂੰ ਡਰੇਂ ਜਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:33.224070299Z",
+  "model": "glm-5.2"
+}

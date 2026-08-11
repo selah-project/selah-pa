@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਕੋਈ ਮਨੁੱਖ ਤੇਰੇ ਨਾਲ ਨਾ ਚੜ੍ਹੇ, ਅਤੇ ਵੀ ਕੋਈ ਮਨੁੱਖ ਸਾਰੇ ਪਹਾੜ ਉੱਤੇ ਨਜ਼ਰ ਨਾ ਆਵੇ; ਗੋਡਾਂ ਅਤੇ ਵੱਢੇ ਉਸ ਪਹਾੜ ਦੇ ਸਾਹਮਣੇ ਨਾ ਚਰਨ।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ਅਤੇ ਕੋਈ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ਚੜ੍ਹੇ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ਅਤੇ ਵੀ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਕੋਈ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ਨਜ਼ਰ ਆਵੇ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ਗੋਡਾਂ"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ਅਤੇ ਵੱਢੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ਚਰਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ਉਸ ਪਹਾੜ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ ਪਹਾੜ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:27:37.959153161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਪਹਿਲੇ ਦਿਨ ⟨ਇਹ⟩ ਪਵਿੱਤਰ ਸੱਦਾ ⟨ਹੋਵੇਗਾ⟩ — ਕੋਈ ਵੀ ਸੇਵਾ ਦਾ ਕੰਮ ਨਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ਪਹਿਲੇ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ਸੱਦਾ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ਸੇਵਾ ਦਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:53.692173477Z",
+  "model": "glm-5.2"
+}

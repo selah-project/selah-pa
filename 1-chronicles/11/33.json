@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਜ਼ਮਾਵੇਥ ⟨ਦਾ⟩ ਬਾਹਰੂਮੀ, ਏਲਯਾਖਬਾ ⟨ਦਾ⟩ ਸ਼ਾਅਲਬੋਨੀ।",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "ਅਜ਼ਮਾਵੇਥ"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "ਬਾਹਰੂਮੀ"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "ਏਲਯਾਖਬਾ"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ਸ਼ਾਅਲਬੋਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:59.648500579Z",
+  "model": "glm-5.2"
+}

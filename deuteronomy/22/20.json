@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਪਰ ਜੇ ਇਹ ਗੱਲ ਸੱਚ ਹੋਈ, ਕਿ ਨੌਜਵਾਨ ਔਰਤ ਲਈ ਬਿਰਹਣਪੁਣੇ ਦੇ ਸਬੂਤ ਨਹੀਂ ਲੱਭੇ ਗਏ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਪਰ ਜੇ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ਸੱਚ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਹੋਈ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਇਹ ਗੱਲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ਲੱਭੇ ਗਏ"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "ਬਿਰਹਣਪੁਣੇ ਦੇ ਸਬੂਤ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ਨੌਜਵਾਨ ਔਰਤ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:29.300616066Z",
+  "model": "glm-5.2"
+}

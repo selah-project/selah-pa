@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਯੇਹੋਸ਼ੁਆ ਨੂੰ ਕਿਹਾ, ⟨ਕਿ⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ਯੇਹੋਸ਼ੁਆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਿ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T21:26:57.282091485Z",
+  "model": "glm-5.2"
+}

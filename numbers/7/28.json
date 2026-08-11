@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬੱਕਰੀਆਂ ਦਾ ਇੱਕ ਵਾਲਾਂ ਵਾਲਾ ਬੋਤਾ, ਪਾਪ ਭੇਟ ਵਾਸਤੇ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ਵਾਲਾਂ ਵਾਲਾ ਬੋਤਾ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ਬੱਕਰੀਆਂ ਦਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ਪਾਪ ਭੇਟ ਵਾਸਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:15.233901003Z",
+  "model": "glm-5.2"
+}

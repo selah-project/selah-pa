@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਤੂੰ ਆਪਣੇ ⟨ਭਾਈ⟩ ਦੇ ਵਿਰੁੱਧ ਝੂਠਾ ਗਵਾਹ ਨਾ ਬਣ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ਤੂੰ ਜਵਾਬ ਦੇਵੇਂਗਾ\/ਗਵਾਹ ਬਣੇਂਗਾ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ਆਪਣੇ ਭਾਈ ਦੇ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਗਵਾਹ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ਝੂਠਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:17:58.701196013Z",
+  "model": "glm-5.2"
+}

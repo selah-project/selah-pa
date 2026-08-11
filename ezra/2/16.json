@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਆਤੇਰ ਦੇ ਪੁੱਤਰ, ਯਖ਼ਜ਼ਕੀਯਾਹ ਦੇ ⟨ਪੁੱਤਰ⟩, ਨੱਬੇ ਅਤੇ ਅੱਠ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ਆਤੇਰ"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "ਯਖ਼ਜ਼ਕੀਯਾਹ ਦੇ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ਨੱਬੇ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:10.985859987Z",
+  "model": "glm-5.2"
+}

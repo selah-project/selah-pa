@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 105,
+  "translation": "ਯਾਹਵੇਹ ਨੂੰ ਅਤੇ ਉਸ ਦੇ ਬਲ ਨੂੰ ਲੱਭੋ, ਉਸ ਦਾ ਚਿਹਰਾ ਹਮੇਸ਼ਾ ਮੰਗੋ।",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ਲੱਭੋ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੂੰ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਬਲ ਨੂੰ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ਮੰਗੋ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ਉਸ ਦਾ ਚਿਹਰਾ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ਹਮੇਸ਼ਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:08:11.027252518Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਭੇਜੋ ⟨ਇੱਕ⟩ ਮੇਲਾ ਧਰਤੀ ਦੇ ਸ਼ਾਸਕ ⟨ਨੂੰ⟩, ਸੇਲਾ ਤੋਂ ਮਾਰੂਥਲ ਵੱਲ, ਸੀਓਨ ਦੀ ਧੀ ਦੇ ਪਹਾੜ ਤੱਕ।",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ਭੇਜੋ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ਮੇਲਾ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ਸ਼ਾਸਕ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ਸੇਲਾ ਤੋਂ"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ਮਾਰੂਥਲ ਵੱਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ ਦੇ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ਸੀਓਨ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:54:48.909112668Z",
+  "model": "glm-5.2"
+}

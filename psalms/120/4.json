@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 120,
+  "translation": "ਸੂਰਮੇ ਦੇ ਤਿੱਖੇ ਤੀਰ, ਰਤਮ ਝਾੜੀ ਦੇ ਅੰਗਾਰਿਆਂ ਸਮੇਤ।",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "ਤੀਰ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ਸੂਰਮੇ ਦੇ"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ਤਿੱਖੇ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਸਮੇਤ"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ਅੰਗਾਰਿਆਂ"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ਰਤਮ ਝਾੜੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:46.282188151Z",
+  "model": "glm-5.2"
+}

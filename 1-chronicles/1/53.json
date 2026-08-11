@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸਰਦਾਰ ਕ਼ਨਜ਼, ਸਰਦਾਰ ਤੇਮਾਨ, ਸਰਦਾਰ ਮਿਬਤਸਾਰ।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ਕ਼ਨਜ਼"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ਤੇਮਾਨ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ਮਿਬਤਸਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:31.037113495Z",
+  "model": "glm-5.2"
+}

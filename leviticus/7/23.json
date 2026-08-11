@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਯਿਸਰਾਏਲ ਦੇ ਬੱਚਿਆਂ ਨਾਲ ਗੱਲ ਕਰੋ, ⟨ਕਹਿੰਦੇ ਹੋਏ⟩: ਬਲਦ, ਭੇਡ ਅਤੇ ਬੱਕਰੀ ਦੀ ਕੋਈ ਵੀ ਚਰਬੀ ਤੁਸੀਂ ਨਾ ਖਾਓ।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ਗੱਲ ਕਰੋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ਚਰਬੀ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "ਅਤੇ ਭੇਡ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ਅਤੇ ਬੱਕਰੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਤੁਸੀਂ ਖਾਓ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:32:47.000341370Z",
+  "model": "glm-5.2"
+}

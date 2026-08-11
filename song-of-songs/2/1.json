@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਮੈਂ ਹਾਂ ⟨ਇੱਕ⟩ ਸ਼ਰੋਨ ਦੀ ⟨ਫੁੱਲ⟩, ਤੇ ਘਾਟੀਆਂ ਦੀ ਕਮਲ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ ਹਾਂ"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "⟨ਫੁੱਲ⟩"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ਸ਼ਰੋਨ ਦੀ"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "ਕਮਲ"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ਘਾਟੀਆਂ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:05.094559303Z",
+  "model": "glm-5.2"
+}

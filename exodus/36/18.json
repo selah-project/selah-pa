@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਓਟ ਦੇ ਪੰਜਾਹ ਕਿੱਲੇ ਬਣਾਏ, ਤਾਂ ਕਿ ⟨את⟩ ਓਟ ਨੂੰ ਜੋੜ ਕੇ ਇੱਕ ਬਣਾਇਆ ਜਾ ਸਕੇ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਬਣਾਏ"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ਕਿੱਲੇ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ਓਟ ਦੇ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ਪੰਜਾਹ"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "ਤਾਂ ਕਿ ਜੋੜ ਕੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਓਟ ਨੂੰ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ਓਟ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ਬਣਾਇਆ ਜਾ ਸਕੇ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:28:26.505944364Z",
+  "model": "glm-5.2"
+}

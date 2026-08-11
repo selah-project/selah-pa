@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸ਼ੱਲੂਮ ਦਾ ਪੁੱਤਰ, ਤਸਾਦੋਕ ਦਾ ਪੁੱਤਰ, ਅਖੀਤੂਬ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਸ਼ੱਲੂਮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ਤਸਾਦੋਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ਅਖੀਤੂਬ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:36:50.253835087Z",
+  "model": "glm-5.2"
+}

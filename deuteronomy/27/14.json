@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਲਵੀਆਂ ਨੇ ਬੁਲੰਦ ਆਵਾਜ਼ ਨਾਲ ਸਾਰੇ ਇਸਰਾਏਲ ਦੇ ਮਰਦਾਂ ਨੂੰ ਜਵਾਬ ਦੇ ਕੇ ਕਹਿਣਾ ਹੈ:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ਅਤੇ ਜਵਾਬ ਦੇਣਗੇ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ਲਵੀਆਂ ਨੇ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ਆਵਾਜ਼"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ਬੁਲੰਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:22.086887687Z",
+  "model": "glm-5.2"
+}

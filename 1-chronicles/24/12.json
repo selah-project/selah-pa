@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਗਿਆਰ੍ਹਵਾਂ ਏਲਯਾਸ਼ੀਬ ਨੂੰ, ਬਾਰ੍ਹਵਾਂ ਯਾਕੀਮ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ਏਲਯਾਸ਼ੀਬ ਨੂੰ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ਗਿਆਰ੍ਹਵਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨–⟩"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ਯਾਕੀਮ ਨੂੰ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਬਾਰ੍ਹਵਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨–⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:26.350900904Z",
+  "model": "glm-5.2"
+}

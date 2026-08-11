@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 101,
+  "translation": "ਟੇਢਾ ਦਿਲ ਮੇਰੇ ਤੋਂ ਦੂਰ ਹਟੇਗਾ; ਬੁਰਾਈ ਨੂੰ ਮੈਂ ਨਹੀਂ ਜਾਣਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ਟੇਢਾ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ਹਟੇਗਾ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ਮੇਰੇ ਤੋਂ ਦੂਰ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਬੁਰਾਈ ਨੂੰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ਮੈਂ ਜਾਣਾਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:06:41.136241600Z",
+  "model": "glm-5.2"
+}

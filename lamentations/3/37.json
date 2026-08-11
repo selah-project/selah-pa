@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਕੌਣ ⟨ਹੈ ਅਜਿਹਾ ਜੋ⟩ ਬੋਲਦਾ ਹੈ ਅਤੇ ⟨ਇਹ⟩ ਹੁੰਦਾ ਹੈ, ਜਦੋਂ ਅਦੋਨਾਈ ਨੇ ਆਗਿਆ ਨਹੀਂ ਦਿੱਤੀ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ਹੈ ਅਜਿਹਾ ਜੋ⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਬੋਲਦਾ ਹੈ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੁੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ਆਗਿਆ ਦਿੱਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:38.947629089Z",
+  "model": "glm-5.2"
+}

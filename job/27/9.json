@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਕੀ ਏਲ ਉਸ ਦੀ ਪੁਕਾਰ ਸੁਣੇਗਾ, ਜਦੋਂ ਉਸ ਉੱਤੇ ਸੰਕਟ ਆਵੇ?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "ਉਸ ਦੀ ਪੁਕਾਰ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ਸੁਣੇਗਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ਆਵੇ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ਸੰਕਟ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:49:02.119494811Z",
+  "model": "glm-5.2"
+}

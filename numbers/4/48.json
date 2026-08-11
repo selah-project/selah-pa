@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ ਅੱਠ ਹਜ਼ਾਰ ਅਤੇ ਪੰਜ ਸੌ ਅਤੇ ਅੱਸੀ ⟨ਹੋਏ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ਹੋਏ"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ਅੱਠ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ਅਤੇ ਅੱਸੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:48:56.550793044Z",
+  "model": "glm-5.2"
+}

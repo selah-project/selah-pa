@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਜੇ ਤੂੰ ਆਪਣੇ ਦਿਲ ਵਿੱਚ ਆਖੇਂਗਾ, ਅਸੀਂ ਕਿਵੇਂ ਜਾਣਾਂਗੇ ⟨ਕਿ⟩ ⟨את⟩ ⟨ਉਹ⟩ ਬਚਨ ਜੋ ਯਾਹਵੇਹ ਨੇ ਨਹੀਂ ਬੋਲਿਆ?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ਤੂੰ ਆਖੇਂਗਾ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ਆਪਣੇ ਦਿਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ਕਿਵੇਂ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ਅਸੀਂ ਜਾਣਾਂਗੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬਚਨ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ਬੋਲਿਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:03.898438819Z",
+  "model": "glm-5.2"
+}

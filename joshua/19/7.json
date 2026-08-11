@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਯਿਨ, ਰਿੱਮੋਨ, ਅਤੇ ਏਤੇਰ, ਅਤੇ ਅਸ਼ਾਨ; ਚਾਰ ਸ਼ਹਿਰ ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੰਡ।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ਅਯਿਨ"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ਰਿੱਮੋਨ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ਅਤੇ ਏਤੇਰ"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ਅਤੇ ਅਸ਼ਾਨ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੰਡ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:34:53.361542789Z",
+  "model": "glm-5.2"
+}

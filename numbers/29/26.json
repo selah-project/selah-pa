@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਪੰਜਵੇਂ ਦਿਨ ਨੌਂ ਬਲਦ, ਦੋ ਮੇਢੇ, ਚੌਦਾਂ ਇੱਕ ਸਾਲ ਦੇ ਮੇਮਣੇ, ਨਿਰਦੋਸ਼।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ਅਤੇ ਦਿਨ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ਪੰਜਵੇਂ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ਨੌਂ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ਮੇਢੇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਮੇਮਣੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ ਦੇ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚੌਦਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ਨਿਰਦੋਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:24.420681138Z",
+  "model": "glm-5.2"
+}

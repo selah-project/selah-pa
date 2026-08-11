@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਉਹ ਬੱਚੇ ਜੋ ਉਨ੍ਹਾਂ ਤੋਂ ਜੰਮਣਗੇ — ਉਨ੍ਹਾਂ ਦੀ ਤੀਜੀ ਪੀੜ੍ਹੀ — ਯਾਹਵੇਹ ਦੀ ਕਹਿਲ ਵਿੱਚ ਉਨ੍ਹਾਂ ਲਈ ਦਾਖ਼ਲ ਹੋਵੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ਬੱਚੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ਜੰਮਣਗੇ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਨ੍ਹਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ਪੀੜ੍ਹੀ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ਤੀਜੀ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ਦਾਖ਼ਲ ਹੋਵੇਗੀ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਨ੍ਹਾਂ ਲਈ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ਕਹਿਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:32.349191631Z",
+  "model": "glm-5.2"
+}

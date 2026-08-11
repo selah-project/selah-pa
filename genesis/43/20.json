@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 43,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਨੇ ਕਿਹਾ, ਹੇ ਮੇਰੇ ਮਾਲਕ, ਅਸੀਂ ਪਹਿਲੀ ਵਾਰ ਅਨਾਜ ਖਰੀਦਣ ਲਈ ਸੱਚਮੁੱਚ ਹੇਠਾਂ ਆਏ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ਹੇ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਮੇਰੇ ਮਾਲਕ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ਆਏ"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "ਅਸੀਂ ਆਏ"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "ਪਹਿਲੀ ਵਾਰ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ਖਰੀਦਣ ਲਈ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ਅਨਾਜ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:05:47.370142693Z",
+  "model": "glm-5.2"
+}

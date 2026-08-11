@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਧਿਕਾਰ ਹੋਵੇ ⟨ਤੇਰੀ⟩ ਟੋਕਰੀ ⟨ਨੂੰ⟩ ਅਤੇ ⟨ਤੇਰੀ⟩ ਗੁੰਦਣ-ਵੇਲੇ ⟨ਨੂੰ⟩।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਧਿਕਾਰ ਹੋਵੇ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ਤੇਰੀ ਟੋਕਰੀ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ਅਤੇ ਤੇਰੀ ਗੁੰਦਣ-ਵੇਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:22:46.383363550Z",
+  "model": "glm-5.2"
+}

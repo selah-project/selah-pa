@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਗਲੁਹੰਮ ਨਾ ਬੰਨ੍ਹ ਆਪਣੇ ਬਲਦ ਨੂੰ ਜਦੋਂ ਉਹ ⟨ਆਪਣੇ⟩ ਗਹਾਈ ਵਿੱਚ ⟨ਵੱਢਦਾ⟩ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ਗਲੁਹੰਮ ਬੰਨ੍ਹ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ਆਪਣੇ ਗਹਾਈ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:56.742405799Z",
+  "model": "glm-5.2"
+}

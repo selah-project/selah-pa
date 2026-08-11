@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 103,
+  "translation": "ਕਿਉਂਜੁ ਉਹ ਜਾਣਦਾ ਹੈ ਸਾਡੀ ਬਣਤਰ, ⟨ਉਹ⟩ ਯਾਦ ਰੱਖਦਾ ਹੈ ਕਿ ਸਾਡਾ ਸਰੂਪ ਮਿੱਟੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਜੁ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ਜਾਣਦਾ-ਹੈ"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ਸਾਡੀ-ਬਣਤਰ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ਯਾਦ-ਰੱਖਦਾ-ਹੈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ਮਿੱਟੀ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ਅਸੀਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:07:23.050415833Z",
+  "model": "glm-5.2"
+}

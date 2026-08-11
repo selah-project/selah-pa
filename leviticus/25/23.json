@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ⟨ਇਹ⟩ ਧਰਤੀ ਨਾਸ ਲਈ ਨਾ ਵਿਕੇ, ਕਿਉਂਕਿ ਧਰਤੀ ਮੇਰੀ ਹੈ, ਕਿਉਂਕਿ ਤੁਸੀਂ ਮੇਰੇ ਨਾਲ ਪਰਦੇਸੀ ਅਤੇ ਵਸਨੀਕ ਹੋ।",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ਅਤੇ ਧਰਤੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ਵਿਕੇ"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "ਨਾਸ ਲਈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ਪਰਦੇਸੀ"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "ਅਤੇ ਵਸਨੀਕ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ਤੁਸੀਂ ਹੋ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ਮੇਰੇ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:54.004419862Z",
+  "model": "glm-5.2"
+}

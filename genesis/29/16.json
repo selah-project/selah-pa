@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਲਾਬਾਨ ਦੀਆਂ ਦੋ ਧੀਆਂ ਸਨ; ਵੱਡੀ ਦਾ ਨਾਮ ਲੇਆਹ ਸੀ, ਅਤੇ ਛੋਟੀ ਦਾ ਨਾਮ ਰਾਖੇਲ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "ਅਤੇ ਲਾਬਾਨ ਦੀਆਂ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ ਸਨ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ਵੱਡੀ ਦਾ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ਲੇਆਹ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ਅਤੇ ਦਾ ਨਾਮ"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ਛੋਟੀ ਦਾ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ਰਾਖੇਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:57:12.358115127Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 97,
+  "translation": "ਯਾਹਵੇਹ ਰਾਜ ਕਰਦਾ ਹੈ — ਧਰਤੀ ਖ਼ੁਸ਼ੀ ਨਾਲ ਲਹਿਰੇ, ਅਨੇਕ ਟਾਪੂ ਅਨੰਦ ਮਨਾਉਣ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ਖ਼ੁਸ਼ੀ ਨਾਲ ਲਹਿਰੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ਅਨੰਦ ਮਨਾਉਣ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ਟਾਪੂ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ਅਨੇਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:06:08.437862063Z",
+  "model": "glm-5.2"
+}

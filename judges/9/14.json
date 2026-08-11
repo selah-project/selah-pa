@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਸਾਰੇ ਰੁੱਖਾਂ ਨੇ ਕੰਟੀਲੇ ਝਾੜੀ ਨੂੰ ਕਿਹਾ, ਤੂੰ ਜਾ, ਤੂੰ ਸਾਡੇ ਉੱਤੇ ਰਾਜ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ਅਤੇ ਕਹਿਣ ਲੱਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ਰੁੱਖਾਂ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "ਕੰਟੀਲੇ ਝਾੜੀ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੂੰ ਜਾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜ ਕਰ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ਸਾਡੇ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:42:53.253410486Z",
+  "model": "glm-5.2"
+}

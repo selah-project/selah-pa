@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਸਿਰਫ਼ ਲਹੂ ਨਾ ਖਾਣਾ; ਉਸ ਨੂੰ ਧਰਤੀ ਉੱਤੇ ਪਾਣੀ ਵਾਂਗ ਉਂਡੇਲ ਦੇਣਾ ਹੈ:",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ਲਹੂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਖਾਣਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ਉਸ ਨੂੰ ਉਂਡੇਲ ਦੇਣਾ ਹੈ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ਪਾਣੀ ਵਾਂਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:24.685524863Z",
+  "model": "glm-5.2"
+}

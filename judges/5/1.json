@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤਾਂ ਦੇਬੋਰਾਹ ਅਤੇ ਅਬੀਨੋਅਮ ਦਾ ਪੁੱਤਰ ਬਾਰਾਕ ਨੇ ਉਸ ਦਿਨ ਗਾਇਆ, ⟨ਕਹਿ ਕੇ⟩:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "ਤਾਂ ... ਗਾਇਆ"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "ਦੇਬੋਰਾਹ"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "ਅਤੇ ਬਾਰਾਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ਅਬੀਨੋਅਮ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਹਿ ਕੇ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T21:40:17.652394439Z",
+  "model": "glm-5.2"
+}

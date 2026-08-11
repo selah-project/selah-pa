@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਬਾਨੀ ਦੇ ਪੁੱਤਰ, ਛੇ ਸੌ ਬਤਾਲੀ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ਖני",
+      "gloss": "ਬਾਨੀ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ਚਾਲੀ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:03.732839773Z",
+  "model": "glm-5.2"
+}

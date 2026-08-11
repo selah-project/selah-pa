@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਕੀ ਗਿਲਅਦ ਵਿੱਚ ਗੋਂਦ ਨਹੀਂ? ਕੀ ਉੱਥੇ ਕੋਈ ਹਕੀਮ ਨਹੀਂ? ਕਿਉਂਕਿ ਕਿਉਂ ਮੇਰੇ ਲੋਕਾਂ ਦੀ ਧੀ ਦੀ ਹੱਲ ਨਹੀਂ ਚੜ੍ਹੀ?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "ਗੋਂਦ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਕੀ ... ਨਹੀਂ"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ਗਿਲਅਦ ਵਿੱਚ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ਹਕੀਮ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ਚੜ੍ਹੀ"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "ਹੱਲ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ਮੇਰੇ ਲੋਕਾਂ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:17:29.757640680Z",
+  "model": "glm-5.2"
+}

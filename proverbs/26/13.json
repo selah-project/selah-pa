@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਆਲਸੀ ⟨ਕਹਿੰਦਾ ਹੈ⟩, ਮਾਰਗ ਵਿੱਚ ਸ਼ਖਲ ਹੈ, ਖੁੱਲ੍ਹੀਆਂ ਥਾਵਾਂ ਵਿਚਕਾਰ ਅਰੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ਕਹਿੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ਆਲਸੀ"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ਸ਼ਖਲ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ਮਾਰਗ ਵਿੱਚ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ਅਰੀ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "ਖੁੱਲ੍ਹੀਆਂ ਥਾਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:16.271474470Z",
+  "model": "glm-5.2"
+}

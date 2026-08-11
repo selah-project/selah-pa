@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਯਿਤਸਰ ਤੋਂ ਯਿਤਸਰੀ ਕੁਨਬਾ, ਸ਼ਿੱਲੇਮ ਤੋਂ ਸ਼ਿੱਲੇਮੀ ਕੁਨਬਾ।",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "ਯਿਤਸਰ ਤੋਂ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਨਬਾ"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "ਯਿਤਸਰੀ"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "ਸ਼ਿੱਲੇਮ ਤੋਂ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਨਬਾ"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "ਸ਼ਿੱਲੇਮੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:48.809424609Z",
+  "model": "glm-5.2"
+}

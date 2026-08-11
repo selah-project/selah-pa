@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ⟨את⟩ ਬੇਤ-ਤਸੂਰ ਅਤੇ ⟨את⟩ ਸ਼ੋਖੋ ਅਤੇ ⟨את⟩ ਅਦੁੱਲਾਮ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਬੇਤ-ਤਸੂਰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ਤਸੂਰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸ਼ੋਖੋ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ਸ਼ੋਖੋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਦੁੱਲਾਮ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ਅਦੁੱਲਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:22:22.152265282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਤੁਸੀਂ ਸੱਤ ਦਿਨ ਛੱਪਰਾਂ ਵਿੱਚ ਵਸਣਾ; ਯਿਸਰਾਏਲ ਵਿੱਚ ਹਰ ਉਹ ਜੰਮਪਲ ਛੱਪਰਾਂ ਵਿੱਚ ਵਸੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "ਛੱਪਰਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ਤੁਸੀਂ ਵਸਣਾ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਉਹ"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ਜੰਮਪਲ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ਵਸੇਗਾ"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "ਛੱਪਰਾਂ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:53.842469759Z",
+  "model": "glm-5.2"
+}

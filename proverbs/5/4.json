@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਪਰ ਉਸ ਦਾ ਅੰਤ ਕੌੜੀ ਹੈ ਵਰਮੀਥ ਵਾਂਗ, ਤਿੱਖੀ ਹੈ ਦੋ-ਧਾਰੀ ਤਲਵਾਰ ਵਾਂਗ।",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "ਪਰ ਉਸ ਦਾ ਅੰਤ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ਕੌੜੀ ਹੈ"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "ਵਰਮੀਥ ਵਾਂਗ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ਤਿੱਖੀ ਹੈ"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ਦੋ-ਧਾਰੀ ਤਲਵਾਰ ਵਾਂਗ"
+    },
+    {
+      "surface": "פיות",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:02.314112840Z",
+  "model": "glm-5.2"
+}

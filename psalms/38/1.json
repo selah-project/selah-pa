@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 38,
+  "translation": "ਦਾਵਿਦ ਦਾ ਜ਼ਬੂਰ, ਚੇਤੇ ਕਰਨ ਲਈ ⟨:⟩",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ਚੇਤੇ ਕਰਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:44:09.814268288Z",
+  "model": "glm-5.2"
+}

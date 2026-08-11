@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਉਹ ਰਿਤਮਾਹ ਤੋਂ ਚਾਲੇ ਗਏ, ਅਤੇ ਰਿਮਨ-ਪਰੇਸ ਵਿਖੇ ਡੇਰੇ ਲਾਏ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ਅਤੇ ਉਹ ਚਾਲੇ ਗਏ"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "ਰਿਤਮਾਹ ਤੋਂ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ਅਤੇ ਡੇਰੇ ਲਾਏ"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "ਰਿਮਨ-ਪਰੇਸ ਵਿਖੇ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T21:06:06.477667506Z",
+  "model": "glm-5.2"
+}

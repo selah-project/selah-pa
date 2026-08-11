@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਇੱਕ ਕਪਟੀ ਮਨੁੱਖ ਦੇ ਰਾਜ ਤੋਂ, ਲੋਕਾਂ ਦੇ ਫਾਹਿਆਂ ਤੋਂ,",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "ਰਾਜ ਤੋਂ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "ਕਪਟੀ"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ਫਾਹਿਆਂ ਤੋਂ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਲੋਕਾਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:42:04.111056176Z",
+  "model": "glm-5.2"
+}

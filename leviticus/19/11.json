@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਚੋਰੀ ਨਾ ਕਰੋ, ਅਤੇ ਝੂਠ ਨਾ ਬੋਲੋ, ਅਤੇ ਆਪਣੇ ਗੁਆਂਢੀ ਨੂੰ ਧੋਖਾ ਨਾ ਦਿਓ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "ਚੋਰੀ ਕਰੋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "ਝੂਠ ਬੋਲੋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ਧੋਖਾ ਦਿਓ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਇੱਕ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ਆਪਣੇ ਗੁਆਂਢੀ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:39:44.119635681Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਏਲੋਹੀਮ ਨੇ ਉਸ ਰਾਤ ਇੰਝ ਕੀਤਾ, ਅਤੇ ਗਿੱਝ ਉੱਤੇ ਇਕੱਲੀ ਉਸ ਉੱਤੇ ਸੁੱਕਾ ਰਿਹਾ, ਅਤੇ ਸਾਰੀ ਧਰਤੀ ਉੱਤੇ ਓਸਾਣਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਕੀਤਾ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਨੇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇੰਝ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ਰਾਤ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ਸੁੱਕਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "ਗਿੱਝ"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "ਇਕੱਲੀ ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ਓਸਾਣਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:41:38.763053883Z",
+  "model": "glm-5.2"
+}

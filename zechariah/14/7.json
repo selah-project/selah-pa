@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਇੱਕ ਦਿਨ ਹੋਵੇਗਾ, ਉਹ ਯਾਹਵੇਹ ਲਈ ਜਾਣਿਆ ਜਾਵੇਗਾ, ਨਾ ਦਿਨ ਅਤੇ ਨਾ ਹੀ ਰਾਤ, ਅਤੇ ਸ਼ਾਮ ਦੇ ਸਮੇਂ ਹੋਵੇਗਾ ⟨ਕਿ⟩ ਚਾਨਣ ਹੋਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ਅਤੇ ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ਜਾਣਿਆ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ ਹੀ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ਰਾਤ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ਅਤੇ ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ਸਮੇਂ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਸ਼ਾਮ ਦੇ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ਚਾਨਣ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:25:25.312582804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਸ਼ਮੋਤ ਹਰੋਰੀ, ਖੇਲੇਤਸ ਪਲੋਨੀ,",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ਸ਼ਮੋਤ"
+    },
+    {
+      "surface": "ਹהਰורי",
+      "gloss": "ਹਰੋਰੀ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ਖੇਲੇਤਸ"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ਪਲੋਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:35.314378129Z",
+  "model": "glm-5.2"
+}

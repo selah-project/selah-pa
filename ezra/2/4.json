@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਸ਼ਫ਼ਤਯਾਹ ਦੇ ਪੁੱਤਰ — ਤਿੰਨ ਸੌ, ਹਠਾਹ ਅਤੇ ਦੋ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ਸ਼ਫ਼ਤਯਾਹ ਦੇ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ਹਠਾਹ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:45.273865251Z",
+  "model": "glm-5.2"
+}

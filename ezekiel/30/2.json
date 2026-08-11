@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ, ਨਬੀਆਈ ਅਤੇ ਕਹੁ: ਅਦੋਨਾਈ ਯਾਹਵੇਹ ਇੰਝ ਆਖਦਾ ਹੈ — ਹਾਉ ਕਰੋ, ਹਾਏ! ਉਸ ਦਿਨ ਲਈ!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ਨਬੀਆਈ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ਅਤੇ ਕਹੁ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇੰਝ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਦਾ ਹੈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ਹਾਉ ਕਰੋ"
+    },
+    {
+      "surface": "הה",
+      "gloss": "ਹਾਏ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ਉਸ ਦਿਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:55:52.380307906Z",
+  "model": "glm-5.2"
+}

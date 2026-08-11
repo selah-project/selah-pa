@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਦਲਾਯਾਹ ਦੇ ਪੁੱਤਰ, ਤੋਬੀਯਾਹ ਦੇ ਪੁੱਤਰ, ਨਕੋਦਾ ਦੇ ਪੁੱਤਰ — ਛੇ ਸੌ ਬਵੰਜਾ ਅਤੇ ਦੋ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "ਦਲਾਯਾਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "ਤੋਬੀਯਾਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ਨਕੋਦਾ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ਬਵੰਜਾ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:34:13.420910012Z",
+  "model": "glm-5.2"
+}

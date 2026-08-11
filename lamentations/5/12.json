@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਸਰਦਾਰ ਉਹਨਾਂ ਦੇ ਹੱਥਾਂ ਨਾਲ ਤੇ ਤਸੀਯੋਨ ਵਿੱਚ ਟੰਗੇ ਗਏ, ਬਜ਼ੁਰਗਾਂ ਦੇ ਚਿਹਰਿਆਂ ਦਾ ਮਾਣ ਨਾ ਕੀਤਾ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਹੱਥਾਂ ਨਾਲ"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ਟੰਗੇ ਗਏ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਚਿਹਰਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ਬਜ਼ੁਰਗਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "ਮਾਣ ਕੀਤਾ ਗਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:09.371566887Z",
+  "model": "glm-5.2"
+}

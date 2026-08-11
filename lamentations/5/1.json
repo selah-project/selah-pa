@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਯਾਹਵੇਹ, ਸਿਮਰ ⟨ਕਰ⟩ ਸਾਡੇ ਨਾਲ ਕੀ ਹੋਇਆ ਹੈ; ਧਿਆਨ ਨਾਲ ਵੇਖ ਅਤੇ ਵੇਖ ⟨ਕਰ⟩ ⟨את⟩ ਸਾਡੀ ਬੇਇੱਜ਼ਤੀ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ਸਿਮਰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਹੋਇਆ ਹੈ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਡੇ ਨਾਲ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ਧਿਆਨ ਨਾਲ ਵੇਖ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ਅਤੇ ਵੇਖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਡੀ ਬੇਇੱਜ਼ਤੀ ਨੂੰ"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ਸਾਡੀ ਬੇਇੱਜ਼ਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:38.539510557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਜੇ ਉਹ ਇੱਕ ਭੇਡ ਆਪਣੀ ਭੇਟ ਵਜੋਂ ਚੜ੍ਹਾਉਂਦਾ ਹੈ, ਤਾਂ ਉਹ ਉਸ ਨੂੰ ਯਾਹਵੇਹ ਦੇ ਸਾਹਮਣੇ ਲਿਆਵੇ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ਭੇਡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ਚੜ੍ਹਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਆਪਣੀ ਭੇਟ ਨੂੰ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ਆਪਣੀ ਭੇਟ ਵਜੋਂ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ਤਾਂ ਉਹ ਲਿਆਵੇ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:31:10.722385864Z",
+  "model": "glm-5.2"
+}

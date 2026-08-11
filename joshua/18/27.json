@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਰੇਕੇਮ ਅਤੇ ਯਿਰਪ਼ੀਏਲ ਅਤੇ ਤਾਰਾਲਾ;",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "ਅਤੇ ਰੇਕੇਮ"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "ਅਤੇ ਯਿਰਪ਼ੀਏਲ"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "ਅਤੇ ਤਾਰਾਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:34:52.537830230Z",
+  "model": "glm-5.2"
+}

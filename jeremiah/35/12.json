@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਅਤੇ ਯਿਰਮਿਯਾਹੂ ਵੱਲ ਯਾਹਵੇਹ ਦਾ ਸ਼ਬਦ ਹੋਇਆ, ⟨ਜੋ ਕਹਿੰਦਾ ਸੀ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਸ਼ਬਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਜੋ ਕਹਿੰਦਾ ਸੀ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:30:39.246319055Z",
+  "model": "glm-5.2"
+}

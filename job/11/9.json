@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਧਰਤੀ ਤੋਂ ਲੰਮੀ ਹੈ ⟨ਇਸਦੀ⟩ ਮਾਪ, ਅਤੇ ਸਮੁੰਦਰ ਤੋਂ ਚੌੜੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "ਲੰਮੀ ਹੈ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ਧਰਤੀ ਤੋਂ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ਮਾਪ"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "ਅਤੇ ਚੌੜੀ ਹੈ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ਸਮੁੰਦਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:41:31.725003855Z",
+  "model": "glm-5.2"
+}

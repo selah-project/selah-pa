@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 127,
+  "translation": "ਵੇਖੋ, ਪੁੱਤਰ ਯਾਹਵੇਹ ਦੀ ਵਿਰਾਸਤ ⟨ਹਨ⟩, ਉਦਰ ਦਾ ਫਲ ⟨ਉਸ ਦਾ⟩ ਇਨਾਮ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ਵਿਰਾਸਤ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ਇਨਾਮ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ਫਲ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ਉਦਰ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:32.560370898Z",
+  "model": "glm-5.2"
+}

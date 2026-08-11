@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਅਤੇ ਉਸਨੇ ⟨את⟩ ਏਫੋਦ ਬਣਾਇਆ — ਸੋਨਾ, ਨੀਲਾ, ਅਰਗਮਨ, ਕਿਰਮਨੀ ਰੰਗ, ਅਤੇ ਮਰੋੜੀ ਹੋਈ ਸਣ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਉਸਨੇ ਬਣਾਇਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਫੋਦ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ਏਫੋਦ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨਾ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ਨੀਲਾ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ਅਰਗਮਨ"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ਅਤੇ ਕਿਰਮਨੀ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਰੰਗ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ਅਤੇ ਸਣ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ਮਰੋੜੀ ਹੋਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:29:23.021026682Z",
+  "model": "glm-5.2"
+}

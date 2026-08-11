@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਇਹ ਹਨ ਜਿਹੜੇ ਉਹਨਾਂ ਵਿਚੋਂ ਤੁਸੀਂ ਨਾ ਖਾਓ: ਸ਼ਾਹਾਂ ਅਤੇ ਪ੍ਰੇਰੇਸ-ਗਿੱਧ ਅਤੇ ਅਜ਼ਨੀਯਾਹ।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਹੜੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਤੁਸੀਂ ਖਾਓ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ਉਹਨਾਂ ਵਿਚੋਂ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ਸ਼ਾਹਾਂ"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "ਅਤੇ ਪ੍ਰੇਰੇਸ-ਗਿੱਧ"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ਅਤੇ ਅਜ਼ਨੀਯਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:02.318541294Z",
+  "model": "glm-5.2"
+}

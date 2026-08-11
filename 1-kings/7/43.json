@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ⟨את⟩ ਅਧਾਰਾਂ ਦੇ ਦਸ, ਅਤੇ ⟨את⟩ ਹੌਦੀਆਂ ਦਸ, ਅਧਾਰਾਂ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਧਾਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ਅਧਾਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਹੌਦੀਆਂ"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "ਹੌਦੀਆਂ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ਅਧਾਰਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:21:49.920809675Z",
+  "model": "glm-5.2"
+}

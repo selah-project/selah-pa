@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਫਿਟਕਾਰਿਆ ਹੋਇਆ ⟨ਹੈ⟩ ਜੋ ਆਪਣੀ ਸੱਸ ਨਾਲ ਸੌਂਦਾ ਹੈ, ਅਤੇ ਸਾਰੇ ਲੋਕ ਕਹਿਣਗੇ: ਆਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਫਿਟਕਾਰਿਆ ਹੋਇਆ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ਸੌਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "ਆਪਣੀ ਸੱਸ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "ਛל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ਆਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:33.044307181Z",
+  "model": "glm-5.2"
+}

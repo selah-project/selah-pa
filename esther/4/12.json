@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਮਾਰਦਕਯ ਨੂੰ ⟨את⟩ ਏਸਤਰ ਦੇ ਬੋਲ ਦੱਸ ਦਿੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦੱਸ ਦਿੱਤੇ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ਮਾਰਦਕਯ ਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਸਤਰ ਦੇ ਬੋਲ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਬੋਲ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ਏਸਤਰ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:40:48.552133360Z",
+  "model": "glm-5.2"
+}

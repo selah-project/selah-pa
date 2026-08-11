@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਬੁਰਾਈਆਂ ਅਤੇ ⟨ਚੰਗਾਈ⟩ ਕੀ ਏਲਯੋਨ ਦੇ ਮੂੰਹ ਤੋਂ ਨਹੀਂ ਨਿਕਲਦੀਆਂ?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ਮੂੰਹ ਤੋਂ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ਏਲਯੋਨ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ਨਿਕਲਦੀਆਂ"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ਬੁਰਾਈਆਂ"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ਅਤੇ ⟨ਚੰਗਾਈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:38.948536796Z",
+  "model": "glm-5.2"
+}

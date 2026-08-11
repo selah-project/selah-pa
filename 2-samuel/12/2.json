@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਮੀਰ ਕੋਲ ਬਹੁਤ ਹੀ ਵੱਡੀ ਗਿਣਤੀ ਵਿੱਚ ਭੇਡਾਂ ਅਤੇ ਵੱਡੇ ਪਸ਼ੂ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ਅਮੀਰ ਕੋਲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ਭੇਡਾਂ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ਅਤੇ ਵੱਡੇ ਪਸ਼ੂ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ਵੱਡੀ ਗਿਣਤੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ ਹੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:12:01.074755382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 43,
+  "translation": "ਅਤੇ ਅਰੀਏਲ ਬਾਰਾਂ ਫ਼ੁੱਟ ਲੰਮਾ, ਬਾਰਾਂ ਫ਼ੁੱਟ ਚੌੜਾ, ਚੌਰਸ ⟨ਹੈ⟩ ⟨ਆਪਣੇ⟩ ਚਾਰ ਪਾਸਿਆਂ ਵੱਲ।",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "ਅਤੇ ਅਰੀਏਲ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਬਾਰਾਂ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਫ਼ੁੱਟ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ਲੰਮਾ"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ਬਾਰਾਂ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਫ਼ੁੱਟ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ਚੌੜਾ"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ਚੌਰਸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "ਪਾਸਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:02:35.590376953Z",
+  "model": "glm-5.2"
+}

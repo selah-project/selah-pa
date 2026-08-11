@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਯੋਏਲ ਨਾਤਨ ਦਾ ਭਰਾ, ਮਿਬਖ਼ਾਰ ਹਗਰੀ ਦਾ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ਯੋਏਲ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ਭਰਾ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਨਾਤਨ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "ਮਿਬਖ਼ਾਰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ਹਗਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:10.616188560Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਯਤੂਰ, ਨਾਫਿਸ਼ ਅਤੇ ਕੇਦਮਾ; ਇਹ ਹਨ ਯਿਸ਼ਮਾਏਲ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "ਯਤੂਰ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ਨਾਫਿਸ਼"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ਅਤੇ ਕੇਦਮਾ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਹਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ਯਿਸ਼ਮਾਏਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:57.288591785Z",
+  "model": "glm-5.2"
+}

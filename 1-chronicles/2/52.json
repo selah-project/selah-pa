@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਕਿਰਯਤ ਯੇਅਰੀਮ ਦੇ ਪਿਤਾ ਸ਼ੋਬਾਲ ਦੇ ਪੁੱਤਰ ਸਨ: ਹਰੋਏਹ, ਅਤੇ ਮਨੂਹੋਤ ਦਾ ਅੱਧਾ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ-ਸਨ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "ਸ਼ੋਬਾਲ-ਦੇ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਦਾ-ਪਿਤਾ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ਕਿਰਯਤ"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "ਯੇਅਰੀਮ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ਹਰੋਏਹ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ਅੱਧਾ"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "ਮਨੂਹੋਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:38.633992769Z",
+  "model": "glm-5.2"
+}

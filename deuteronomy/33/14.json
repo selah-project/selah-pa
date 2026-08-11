@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਸੂਰਜ ਦੇ ਫ਼ਸਲਾਂ ਦੇ ਮੇਗਦ ਤੋਂ, ਅਤੇ ਚੰਦਰਮਾਵਾਂ ਦੇ ਪੈਦਾਵਾਰ ਤੋਂ,",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "ਅਤੇ ਦੇ ਮੇਗਦ ਤੋਂ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ਫ਼ਸਲਾਂ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ਸੂਰਜ"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ਅਤੇ ਦੇ ਮੇਗਦ ਤੋਂ"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ਪੈਦਾਵਾਰ"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ਚੰਦਰਮਾਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:18.343027403Z",
+  "model": "glm-5.2"
+}

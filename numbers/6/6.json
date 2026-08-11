@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਯਾਹਵੇਹ ਲਈ ਵਿਛੁੜਨ ਦੇ ਸਾਰੇ ਦਿਨਾਂ ਵਿੱਚ ਉਹ ਕਿਸੇ ਮੁਰਦੇ ਜਾਨ ਕੋਲ ਨਹੀਂ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "ਉਸ ਦੇ ਵਿਛੁੜਨ ਦੇ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ਮੁਰਦੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ਜਾਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:56.941809133Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਉਸ ਦੇ ਵਿਛੁੜਨ ਦੇ ਸਾਰੇ ਦਿਨਾਂ ਵਿੱਚ ਉਹ ਯਾਹਵੇਹ ਲਈ ਪਵਿੱਤਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ਉਸ ਦੇ ਵਿਛੁੜਨ ਦੇ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:56.942078019Z",
+  "model": "glm-5.2"
+}

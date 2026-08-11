@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬੱਕਰਾ ਪਾਪ-ਬਲੀ ਲਈ;",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "ਬੱਕਰਾ"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "ਬੱਕਰੀਆਂ ਦਾ"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "ਪਾਪ-ਬਲੀ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:39.759725865Z",
+  "model": "glm-5.2"
+}

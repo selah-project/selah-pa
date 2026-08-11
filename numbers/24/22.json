@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਫਿਰ ਵੀ ਕੈਨ ਲਈ ਬਰਬਾਦੀ ਹੋਵੇਗੀ; ⟨ਕਿੰਨੀ ਲੰਬੀ?⟩ ਅਸ਼ੂਰ ਤੈਨੂੰ ਕੈਦੀ ਬਣਾ ਕੇ ਲੈ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਫਿਰ ਵੀ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇਗੀ"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "ਬਰਬਾਦੀ ਲਈ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ਕੈਨ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤਕ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕਿੰਨੀ ਲੰਬੀ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ਅਸ਼ੂਰ"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "ਤੈਨੂੰ ਕੈਦੀ ਬਣਾਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:00:04.359460679Z",
+  "model": "glm-5.2"
+}

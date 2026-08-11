@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਰਊਬੇਨ ਜੀਵੇ ਅਤੇ ਨਾ ਮਰੇ, ਅਤੇ ਉਸ ਦੇ ਮਰਦ ⟨ਸਨ⟩ ਗਿਣਤੀ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ਜੀਵੇ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬੇਨ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "ਮਰੇ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਸਨ⟩"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ਉਸ ਦੇ ਮਰਦ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ਗਿਣਤੀ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:47.401135047Z",
+  "model": "glm-5.2"
+}

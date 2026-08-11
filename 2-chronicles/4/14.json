@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ⟨את⟩ ਆਧਾਰਾਂ ਨੂੰ ਬਣਾਇਆ, ਅਤੇ ⟨את⟩ ਹੌਦਾਂ ਨੂੰ ਬਣਾਇਆ ਆਧਾਰਾਂ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਆਧਾਰਾਂ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ਆਧਾਰਾਂ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਬਣਾਇਆ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਹੌਦਾਂ"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "ਹੌਦਾਂ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਬਣਾਇਆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ਆਧਾਰਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:19:09.127076162Z",
+  "model": "glm-5.2"
+}

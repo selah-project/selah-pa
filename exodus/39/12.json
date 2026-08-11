@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਅਤੇ ⟨ਇਹ⟩ ਕਤਾਰ ⟨ਇਹ⟩ ਤੀਜੀ: ਲੇਸ਼ੇਮ, ਸ਼ੇਵੂ ਅਤੇ ਅਖ਼ਲਾਮਾਹ।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ਅਤੇ ਕਤਾਰ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ਤੀਜੀ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ਲੇਸ਼ੇਮ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ਸ਼ੇਵੂ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ਅਤੇ ਅਖ਼ਲਾਮਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:28:18.421247933Z",
+  "model": "glm-5.2"
+}

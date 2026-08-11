@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਨਸੀਂ ਬੈਤ-ਾਬ ਦਾ ਗੇਰਸ਼ੁਨੀਆਂ ਲਈ ⟨ਹੈ⟩ ਏਲਯਾਸਾਫ ਪੁੱਤਰ ਲਾਏਲ ਦਾ।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ਅਤੇ ਨਸੀਂ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੈਤ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ਾਬ"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "ਗੇਰਸ਼ੁਨੀਆਂ ਲਈ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ਏਲਯਾਸਾਫ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ਲਾਏਲ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:47:07.981837303Z",
+  "model": "glm-5.2"
+}

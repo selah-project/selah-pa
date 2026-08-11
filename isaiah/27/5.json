@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਜਾਂ ਮੇਰੀ ਪਨਾਹ ਨੂੰ ਫੜੇ, ਉਹ ਮੇਰੇ ਨਾਲ ਸ਼ਾਲੋਮ ਕਰੇ, ਸ਼ਾਲੋਮ ਉਹ ਮੇਰੇ ਨਾਲ ਕਰੇ।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "ਫੜੇ"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "ਮੇਰੀ ਪਨਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ਉਹ ਕਰੇ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਸ਼ਾਲੋਮ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਸ਼ਾਲੋਮ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ਉਹ ਕਰੇ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:56:59.759211841Z",
+  "model": "glm-5.2"
+}

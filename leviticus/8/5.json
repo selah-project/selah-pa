@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਸਭਾ ਨੂੰ ਕਿਹਾ, ਇਹ ⟨ਹੈ⟩ ਉਹ ਬਚਨ ਜੋ ਯਾਹਵੇਹ ਨੇ ਕਰਨ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ਸਭਾ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ਹੁਕਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ਕਰਨ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:33:58.076316253Z",
+  "model": "glm-5.2"
+}

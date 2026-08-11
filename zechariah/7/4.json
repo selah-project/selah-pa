@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਸੈਬਾਓਤ ਦਾ ਕਥਨ ਮੇਰੇ ਕੋਲ ⟨ਆਇਆ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕਥਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ਸੈਬਾਓਤ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:22:39.280220798Z",
+  "model": "glm-5.2"
+}

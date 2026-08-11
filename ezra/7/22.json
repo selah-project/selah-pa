@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਚਾਂਦੀ ਸੌ ਤਲਤਾਂ ਤੱਕ, ਅਤੇ ਕਣਕ ਸੌ ਕੋਰਾਂ ਤੱਕ, ਅਤੇ ਦਾਖ਼ਮਦਾ ਸੌ ਬਤਾਂ ਤੱਕ, ਅਤੇ ਤੇਲ ਸੌ ਬਤਾਂ ਤੱਕ, ਅਤੇ ਲੂਣ ਜਿਥੇ ਲਿਖਿਆ ਨਹੀਂ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ਚਾਂਦੀ"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "ਤਲਤਾਂ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ਅਤੇ … ਤੱਕ"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "ਕਣਕ"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "ਕੋਰਾਂ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ਅਤੇ … ਤੱਕ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ਦਾਖ਼ਮਦਾ"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "ਬਤਾਂ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ਅਤੇ … ਤੱਕ"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "ਬਤਾਂ"
+    },
+    {
+      "surface": "משח",
+      "gloss": "ਤੇਲ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "ਅਤੇ ਲੂਣ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ਜਿਥੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ਲਿਖਿਆ ਗਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:37:04.393315408Z",
+  "model": "glm-5.2"
+}

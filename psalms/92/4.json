@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 92,
+  "translation": "ਦਸ ਤਾਰਾਂ ਵਾਲੇ ਉੱਤੇ, ਅਤੇ ਨੇਬਲ ਉੱਤੇ, ਕਿਨੋਰ ਨਾਲ ਹਿੱਗਾਯੋਨ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ਦਸ ਤਾਰਾਂ ਵਾਲੇ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ਨੇਬਲ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ਹਿੱਗਾਯੋਨ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ਕਿਨੋਰ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:05:36.529092568Z",
+  "model": "glm-5.2"
+}

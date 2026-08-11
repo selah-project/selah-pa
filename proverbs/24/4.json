@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਗਿਆਨ ਨਾਲ ਕਮਰੇ ਭਰ ਜਾਂਦੇ ⟨ਹਨ⟩ — ਹਰ ਇੱਕ ਕੀਮਤੀ ਅਤੇ ਸੁਹਾਵਣਾ ਧਨ ਨਾਲ।",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "ਅਤੇ ਗਿਆਨ ਨਾਲ"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "ਕਮਰੇ"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ਭਰ ਜਾਂਦੇ ⟨ਹਨ⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਇੱਕ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ਧਨ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ਕੀਮਤੀ"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "ਅਤੇ ਸੁਹਾਵਣਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:08.077808072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਹਾਰੀਮ ਦੇ ਪੁੱਤਰ: ਹਜ਼ਾਰ ਅਤੇ ਸਤਾਂਰਾਂ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ਹਾਰੀਮ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ਅਤੇ ਸੱਤ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ਤਾਂਰਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:24.935010437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਬੁਰੇ ਮਰਦ ⟨ਕੋਈ⟩ ਮਿਆਦ ਨਹੀਂ ਸਮਝਦੇ, ਪਰ ਯਾਹਵੇਹ ਦੇ ਖੋਜੀ ਸਭ ਕੁਝ ਸਮਝਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਬੁਰੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ਸਮਝਦੇ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਮਿਆਦ"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "ਪਰ ਖੋਜੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ਸਮਝਦੇ ਹਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਭ ਕੁਝ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:05.573391005Z",
+  "model": "glm-5.2"
+}

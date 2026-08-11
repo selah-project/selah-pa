@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਮਹੀਨੇ ਦੇ ਚੌਵੀ ਦਿਨ, ਛੀਵੇਂ ਮਹੀਨੇ ਵਿੱਚ, ਦਰਯਾਵੇਸ਼ ਰਾਜੇ ਦੇ ਦੂਜੇ ਸਾਲ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "ਬיום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ਅਤੇ ਚਾਰ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ਮਹੀਨੇ ਦੇ"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "ਛੀਵੇਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ਸਾਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਦੂਜੇ"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "ਦਰਯਾਵੇਸ਼ ਦੇ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:20:42.262577439Z",
+  "model": "glm-5.2"
+}

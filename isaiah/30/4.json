@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਕਿਉਂਕਿ ⟨ਉਸਦੇ⟩ ਸਰਦਾਰ ਤਸੋਆਨ ਵਿੱਚ ਸਨ, ਅਤੇ ⟨ਉਸਦੇ⟩ ਦੂਤ ਖ਼ਾਨੇਸ ਪਹੁੰਚਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "ਤਸੋਆਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ਅਤੇ ਦੂਤ"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "ਖ਼ਾਨੇਸ"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ਪਹੁੰਚਦੇ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:59:19.022290447Z",
+  "model": "glm-5.2"
+}

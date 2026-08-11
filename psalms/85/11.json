@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 85,
+  "translation": "ਖ਼ੇਸੇਦ ਅਤੇ ਸੱਚ ਮਿਲੇ, ਜ਼ਿਮੀਂ ਅਤੇ ਸ਼ਾਲੋਮ ਨੇ ਇੱਕ ਦੂਜੇ ਨੂੰ ਚੁੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ਖ਼ੇਸੇਦ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ਅਤੇ ਸੱਚ"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ਮਿਲੇ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ਜ਼ਿਮੀਂ"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ਅਤੇ ਸ਼ਾਲੋਮ"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "ਚੁੰਮਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:02:30.628935335Z",
+  "model": "glm-5.2"
+}

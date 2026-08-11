@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਤੁਸੀਂ ਲੋਕਾਂ ਵਿੱਚੋਂ ਆਪਣੇ ਲਈ ਬਾਰਾਂ ਮਰਦ ਚੁਣੋ — ਹਰੇਕ ਕੋਲੋਂ ਇੱਕ ਮਰਦ, ਹਰੇਕ ਕੋਲੋਂ ਇੱਕ ਮਰਦ ⟨ਹਰੇਕ⟩ ਕੋਲੋਂ ਗੋਤ ਦੇ:",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ਚੁਣੋ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕਾਂ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਹਰੇਕ ਮਰਦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਹਰੇਕ ਮਰਦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ਗੋਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:28:30.570222541Z",
+  "model": "glm-5.2"
+}

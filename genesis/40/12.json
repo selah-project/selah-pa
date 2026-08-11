@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 40,
+  "translation": "ਤਾਂ ਯੋਸੇਫ਼ ਨੇ ਉਸ ਨੂੰ ਆਖਿਆ: ਇਸ ਦੀ ਵਿਆਖਿਆ ਇਹ ਹੈ — ਤਿੰਨ ਬਲ ਤਿੰਨ ਦਿਨ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਆਖਿਆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੋਸੇਫ਼ ਨੇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਸ ਦੀ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ਵਿਆਖਿਆ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ਬਲ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:03:28.535616873Z",
+  "model": "glm-5.2"
+}

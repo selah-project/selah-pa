@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਤੇਰੇ ਦੋਵੇਂ ਛਾਤੀਆਂ ਦੋ ਹਿਰਨੀਆਂ ਦੇ ਬੱਚਿਆਂ ਵਾਂਗ ਹਨ, ਇੱਕ ਗ਼ਜ਼ਲ ਦੇ ਜੁੜਵੇ।",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "ਦੋਵੇਂ"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "ਛਾਤੀਆਂ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ਵਾਂਗ ਦੋ"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "ਹਿਰਨੀਆਂ ਦੇ ਬੱਚੇ"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "ਜੁੜਵੇ"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ਗ਼ਜ਼ਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:01:13.283422058Z",
+  "model": "glm-5.2"
+}

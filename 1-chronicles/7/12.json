@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਸ਼ੁੱਪੀਮ ਅਤੇ ਹੁੱਪੀਮ — ਈਰ ਦੇ ਪੁੱਤਰ; ਹੁਸ਼ੀਮ — ਅਹਰ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ਅਤੇ ਸ਼ੁੱਪੀਮ"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ਅਤੇ ਹੁੱਪੀਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ਈਰ ਦੇ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ਹੁਸ਼ੀਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ਅਹਰ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:58:28.588508195Z",
+  "model": "glm-5.2"
+}

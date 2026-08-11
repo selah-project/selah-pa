@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਇਹ ਹਾਸ਼ਾਮ ⟨ਦੀ⟩ ਤੋਰਾਹ ਹੈ — ਕਦੋਸ਼ ਕਦਾਸ਼ੀਮ ਉਹ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ਤੋਰਾਹ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ਹਾਸ਼ਾਮ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਕਦੋਸ਼"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ਕਦਾਸ਼ੀਮ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:33:20.094317132Z",
+  "model": "glm-5.2"
+}

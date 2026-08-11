@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਹੇਫਰ ⟨ਦਾ⟩ ਮੇਖੇਰਾਤੀ, ਅਖੀਯਾ ⟨ਦਾ⟩ ਪੇਲੋਨੀ।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ਹੇਫਰ"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "ਮੇਖੇਰਾਤੀ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ਅਖੀਯਾ"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "ਪੇਲੋਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:59.648948970Z",
+  "model": "glm-5.2"
+}

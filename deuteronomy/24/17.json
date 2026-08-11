@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਤੂੰ ਪਰਦੇਸੀ ਦਾ ਨਿਆਂ ਨਾ ਤੋੜ, ਨਾ ⟨ਹੀ⟩ ਯਤੀਮ ਦਾ, ਅਤੇ ਤੂੰ ਵਿਧਵਾ ਦਾ ਕੱਪੜਾ ਵਚਨਬੱਧ ਨਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ਤੂੰ ਤੋੜ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ਪਰਦੇਸੀ ਦਾ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ਯਤੀਮ ਦਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ਤੂੰ ਵਚਨਬੱਧ ਕਰ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ਕੱਪੜਾ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ਵਿਧਵਾ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:46.731557583Z",
+  "model": "glm-5.2"
+}

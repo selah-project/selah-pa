@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਜ਼ੇਰਾਖ ਲਈ, ਜ਼ੇਰਾਖੀ ਕਬੀਲਾ; ਸ਼ਾਊਲ ਲਈ, ਸ਼ਾਊਲੀ ਕਬੀਲਾ।",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "ਜ਼ੇਰਾਖ ਲਈ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕਬੀਲਾ"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ਜ਼ੇਰਾਖੀ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ਸ਼ਾਊਲ ਲਈ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕਬੀਲਾ"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "ਸ਼ਾਊਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:14.350311233Z",
+  "model": "glm-5.2"
+}

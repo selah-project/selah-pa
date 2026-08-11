@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਸੁਨਹਿਰੀ ਹਥੇਲੀ-ਕਟੋਰੀ, ਦਸ ⟨ਸ਼ਕਲ⟩ ਸੋਨੇ ਦੀ, ਧੂਣੀ ਨਾਲ ਭਰੀ ਹੋਈ।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ਹਥੇਲੀ-ਕਟੋਰੀ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ ਦੀ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ਭਰੀ ਹੋਈ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ਧੂਣੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:47.613937386Z",
+  "model": "glm-5.2"
+}

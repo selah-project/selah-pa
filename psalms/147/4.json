@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 147,
+  "translation": "ਤਾਰਿਆਂ ਦੀ ਗਿਣਤੀ ਕਰਦਾ ਹੈ, ਉਹਨਾਂ ਸਭ ਨੂੰ ਨਾਂ ਬੁਲਾਉਂਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "ਗਿਣਤੀ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ਗਿਣਤੀ"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ਤਾਰਿਆਂ ਦੀ"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ਉਹਨਾਂ ਸਭ ਨੂੰ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ਨਾਂ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ਬੁਲਾਉਂਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:19:47.047057484Z",
+  "model": "glm-5.2"
+}

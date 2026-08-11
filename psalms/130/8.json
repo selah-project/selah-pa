@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 130,
+  "translation": "ਅਤੇ ਉਹ ਯਿਸਰਾਏਲ ਨੂੰ ਉਸ ਦੇ ਸਾਰੇ ਅਪਰਾਧਾਂ ਤੋਂ ਛੁਡਾਏਗਾ।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ਅਤੇ ਉਹ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ਛੁਡਾਏਗਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਿਸਰਾਏਲ ਨੂੰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ਸਾਰੇ ਤੋਂ"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ਉਸ ਦੇ ਅਪਰਾਧਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:48.791781853Z",
+  "model": "glm-5.2"
+}

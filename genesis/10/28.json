@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ⟨את⟩ ਓਵਾਲ, ਅਤੇ ⟨את⟩ ਅਬੀਮਾਏਲ, ਅਤੇ ⟨את⟩ ਸ਼ਵਾ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਓਵਾਲ"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ਓਵਾਲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਬੀਮਾਏਲ"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ਅਬੀਮਾਏਲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸ਼ਵਾ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ਸ਼ਵਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:03.796500210Z",
+  "model": "glm-5.2"
+}

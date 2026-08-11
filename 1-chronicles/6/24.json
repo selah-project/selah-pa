@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਉਸ ਦਾ ਭਰਾ ਅਸਾਫ਼, ਜੋ ਉਸ ਦੇ ਸੱਜੇ ਪਾਸੇ ਖੜ੍ਹਾ ਸੀ — ਅਸਾਫ਼ ਬੇਰਕਯਾਹ ਦਾ ਪੁੱਤਰ, ਸ਼ਿਮਆ ਦਾ ਪੁੱਤਰ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਭਰਾ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ਅਸਾਫ਼"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ਖੜ੍ਹਾ ਸੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ਉਸ ਦੇ ਸੱਜੇ ਪਾਸੇ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ਅਸਾਫ਼"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "ਬੇਰਕਯਾਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ਸ਼ਿਮਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:22.475976905Z",
+  "model": "glm-5.2"
+}

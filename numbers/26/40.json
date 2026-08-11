@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਬੇਲਾ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ ਅਰਦ ਅਤੇ ਨਾਅਮਾਨ; ਅਰਦੀ ਕਬੀਲਾ, ਲਈ ਨਾਅਮਾਨ, ਨਾਅਮੀ ਕਬੀਲਾ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ⟨ਸਨ⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ਬੇਲਾ ਦੇ"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "ਅਰਦ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "ਅਤੇ ਨਾਅਮਾਨ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕਬੀਲਾ"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "ਅਰਦੀ"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "ਲਈ ਨਾਅਮਾਨ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕਬੀਲਾ"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "ਨਾਅਮੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:50.623514232Z",
+  "model": "glm-5.2"
+}

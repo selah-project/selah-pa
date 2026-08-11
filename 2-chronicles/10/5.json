@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਉਹ ਨੇ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ, „ਹੋਰ ਤਿੰਨ ਦਿਨ ⟨ਹੋ ਜਾਓ⟩, ਫਿਰ ਤੁਸੀਂ ਮੇਰੇ ਕੋਲ ਵਾਪਸ ਆਓ।” ਅਤੇ ਲੋਕ ਚਲੇ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ਅਤੇ ਵਾਪਸ ਆਓ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਚਲਾ ਗਿਆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:45:44.991492781Z",
+  "model": "glm-5.2"
+}

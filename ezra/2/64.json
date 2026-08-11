@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਸਾਰੀ ਕਾਹਲ ਇਕੱਠੀ ਤੌਰ ਤੇ, ਚਾਰ ਰਬੋ, ਦੋ ਹਜ਼ਾਰ, ਤਿੰਨ ਸੌ, ਸੱਠ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ਕਾਹਲ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ਇਕੱਠੀ ਤੌਰ ਤੇ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ਰਬੋ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਦੋ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ਸੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:34:46.561056401Z",
+  "model": "glm-5.2"
+}

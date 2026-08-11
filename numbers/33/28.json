@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਉਹ ਤਾਰਾਹ ਤੋਂ ਚਲੇ, ਅਤੇ ਮਿਤਕਾਹ ਵਿਖੇ ਡੇਰੇ ਲਾਏ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ਅਤੇ ਉਹ ਚਲੇ"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "ਤਾਰਾਹ ਤੋਂ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ਅਤੇ ਡੇਰੇ ਲਾਏ"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "ਮਿਤਕਾਹ ਵਿਖੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:57.196816933Z",
+  "model": "glm-5.2"
+}

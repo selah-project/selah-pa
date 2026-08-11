@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਮਿਦਯਾਨੀਆਂ ਨੂੰ ਤੰਗ ਕਰੋ ਅਤੇ ⟨את⟩ ⟨ਉਹਨਾਂ ਨੂੰ⟩ ਮਾਰੋ;",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ਤੰਗ ਕਰੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮਿਦਯਾਨੀਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "ਮਿਦਯਾਨੀਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "ਅਤੇ ਮਾਰੋ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹਨਾਂ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:00:08.411344261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਮੈਂ ਇਸ ਕਰਕੇ ⟨את⟩ ਦਾਵਿਦ ਦੇ ਬੀਜ ਨੂੰ ਦੁਖ ਦੇਵਾਂਗਾ, ਪਰ ਸਦਾ ਲਈ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ਅਤੇ ਮੈਂ ਦੁਖ ਦੇਵਾਂਗਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਦਾਵਿਦ ਦੇ ਬੀਜ ਨੂੰ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ਬੀਜ ਨੂੰ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਵਿਦ ਦੇ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ਕਰਕੇ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ਪਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਦਾ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:27:04.952450698Z",
+  "model": "glm-5.2"
+}

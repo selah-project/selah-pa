@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ⟨את⟩ ਪਰਸ਼ਨਦਾਤਾ, ਅਤੇ ⟨את⟩ ਦਲਫੋਨ, ਅਤੇ ⟨את⟩ ਅਸਪਾਤਾ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਪਰਸ਼ਨਦਾਤਾ"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "ਪਰਸ਼ਨਦਾਤਾ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਦਲਫੋਨ"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "ਦਲਫੋਨ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਸਪਾਤਾ"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "ਅਸਪਾਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:20:00.024844098Z",
+  "model": "glm-5.2"
+}

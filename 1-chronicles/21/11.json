@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਗਾਦ ਦਾਵਿਦ ਕੋਲ ਆਇਆ, ਅਤੇ ਉਸ ਨੂੰ ਆਖਿਆ: ਇਉਂ ਕਹਿੰਦਾ ਹੈ ਯਾਹਵੇਹ, ਚੁਣ ਲੈ:",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ਦਾਵਿਦ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਆਖਿਆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਹਿੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ਚੁਣ ਲੈ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:10:16.970640159Z",
+  "model": "glm-5.2"
+}

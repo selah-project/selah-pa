@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਵਚਨ ਮੇਰੇ ਕੋਲ ⟨ਆਇਆ⟩, ਇਹ ⟨ਕਹਿੰਦਾ ਹੋਇਆ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਵਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਇਹ ⟨ਕਹਿੰਦਾ ਹੋਇਆ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:20:11.626242369Z",
+  "model": "glm-5.2"
+}

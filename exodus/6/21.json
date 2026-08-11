@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਯਿਤਸਹਾਰ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ ਕੋਰਹ ਅਤੇ ਨੇਫ਼ੇਗ ਅਤੇ ਜ਼ਿਕ੍ਰੀ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ਯਿਤਸਹਾਰ ਦੇ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ਕੋਰਹ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ਅਤੇ ਨੇਫ਼ੇਗ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ਅਤੇ ਜ਼ਿਕ੍ਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:10:58.122816237Z",
+  "model": "glm-5.2"
+}

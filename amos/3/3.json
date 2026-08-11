@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਕੀ ਦੋ ਮਿਲ ਕੇ ਤੁਰਨਗੇ, ਬਿਨਾਂ ਇਹ ਕਿ ਉਹ ਮਿਲ ਗਏ ਹੋਣ?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ਕੀ ... ਤੁਰਨਗੇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ਮਿਲ ਕੇ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ਉਹ ਮਿਲ ਗਏ ਹੋਣ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:53:53.764369294Z",
+  "model": "glm-5.2"
+}

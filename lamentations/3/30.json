@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਮਾਰਨ ਵਾਲੇ ਨੂੰ ⟨ਆਪਣਾ⟩ ਗਲ੍ਹ ਦੇਵੇ, ਬੇਇਜ਼ਤੀ ਨਾਲ ਰਜਾ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ਦੇਵੇ"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ਮਾਰਨ ਵਾਲੇ ਨੂੰ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ਗਲ੍ਹ"
+    },
+    {
+      "surface": "ਙשבע",
+      "gloss": "ਰਜਾ ਜਾਵੇ"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ਬੇਇਜ਼ਤੀ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:54.280717179Z",
+  "model": "glm-5.2"
+}

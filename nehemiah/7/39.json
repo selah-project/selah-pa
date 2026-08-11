@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਯਾਹਵੇਹ ਦੇ ਸਨਾਤਕ: ਯਦਾਯਾ ਦੇ ਪੁੱਤਰ, ਯੇਸ਼ੁਆ ਦੇ ਪਰਿਵਾਰ ਤੋਂ, ਨੌ ਸੌ ਤਿਹੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ ਸਨਾਤਕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ਯਦਾਯਾ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ਪਰਿਵਾਰ ਤੋਂ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ਯੇਸ਼ੁਆ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ਨੌ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ਤਿਹੱਤਰ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ਅਤੇ ਤਿੰਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:43:38.809728140Z",
+  "model": "glm-5.2"
+}

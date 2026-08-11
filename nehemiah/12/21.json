@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਖ਼ਲਕੀਯਾਹ ਦੇ ⟨ਘਰ ਅਧੀਨ⟩ ਖ਼ਸ਼ਬਯਾਹ; ਯਦਯਾਹ ਦੇ ⟨ਘਰ ਅਧੀਨ⟩ ਨਤਨਏਲ।",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "ਖ਼ਲਕੀਯਾਹ ਦੇ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ਖ਼ਸ਼ਬਯਾਹ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "ਯਦਯਾਹ ਦੇ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ਨਤਨਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:15.346465186Z",
+  "model": "glm-5.2"
+}

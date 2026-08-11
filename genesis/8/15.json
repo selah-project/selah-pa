@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਏਲੋਹੀਮ ਨੇ ਨੋਆਖ਼ ਨਾਲ ਗੱਲ ਕੀਤੀ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਗੱਲ ਕੀਤੀ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੋਆਖ਼"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:57.544440832Z",
+  "model": "glm-5.2"
+}

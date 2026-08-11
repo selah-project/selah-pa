@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਮਹਿਫ਼ਿਲ-ਮੁਖੀ ਲਈ, ਯਦੂਤੂਨ ਲਈ; ਦਾਵਿਦ ਦਾ ਜ਼ਬੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮਹਿਫ਼ਿਲ-ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ਯਦੂਤੂਨ ਲਈ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:44:00.874867737Z",
+  "model": "glm-5.2"
+}

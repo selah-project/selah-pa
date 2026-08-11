@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਸਤਾਰ੍ਹਵਾਂ ਖ਼ੇਜ਼ੀਰ ਲਈ, ਅਠਾਰ੍ਹਵਾਂ ਹੱਪੀਸੇਸ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "ਖ਼ੇਜ਼ੀਰ ਲਈ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "ਹੱਪੀਸੇਸ ਲਈ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ਅੱਠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:12:02.084776986Z",
+  "model": "glm-5.2"
+}

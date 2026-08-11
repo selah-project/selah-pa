@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 83,
+  "translation": "ਗ਼ਬਲ ਅਤੇ ਅੰਮੋਨ ਅਤੇ ਅਮਾਲੇਕ, ਪਲਿਸ਼ਤੀ ⟨ਲੋਕ⟩ ਤਸੂਰ ਦੇ ਵਸਨੀਕਾਂ ਸਣੇ।",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "ਗ਼ਬਲ"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ਅਤੇ ਅੰਮੋਨ"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ਅਤੇ ਅਮਾਲੇਕ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ਪਲਿਸ਼ਤੀ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਸਣੇ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ਵਸਨੀਕਾਂ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ਤਸੂਰ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:01:45.818728710Z",
+  "model": "glm-5.2"
+}

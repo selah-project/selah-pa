@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਬਹਾਦਰ ਅਤੇ ਯੁੱਧ ਦਾ ਆਦਮੀ, ਜੱਜ ਅਤੇ ਨਬੀ, ਜੋਤਸ਼ੀ ਅਤੇ ਬਜ਼ੁਰਗ,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ਬਹਾਦਰ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ਅਤੇ ਆਦਮੀ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਯੁੱਧ ਦਾ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ਜੱਜ"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ਅਤੇ ਨਬੀ"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ਜੋਤਸ਼ੀ"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ਅਤੇ ਬਜ਼ੁਰਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:48:37.658373913Z",
+  "model": "glm-5.2"
+}

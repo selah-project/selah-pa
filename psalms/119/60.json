@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਮੈਂ ਜਲਦੀ ਕੀਤੀ, ਅਤੇ ਦੇਰ ਨਹੀਂ ਲਾਈ, ਤੇਰੇ ਹੁਕਮ ਮੰਨਣ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ਮੈਂ ਜਲਦੀ ਕੀਤੀ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ਦੇਰ ਲਾਈ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ਮੰਨਣ ਲਈ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ਤੇਰੇ ਹੁਕਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:12:46.407518321Z",
+  "model": "glm-5.2"
+}

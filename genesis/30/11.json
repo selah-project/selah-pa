@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਲੇਆਹ ਨੇ ਕਿਹਾ, ਕਿਸਮਤ! ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਉਸ ਦਾ ਨਾਂ ਗਾਦ ਰੱਖਿਆ।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ਲੇਆਹ ਨੇ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ਕਿਸਮਤ!"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ਅਤੇ ਰੱਖਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਸ ਦਾ ਨਾਂ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ਉਸ ਦਾ ਨਾਂ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:56:09.644415521Z",
+  "model": "glm-5.2"
+}

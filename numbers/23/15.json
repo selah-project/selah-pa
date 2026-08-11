@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਬਾਲਕ ਨੂੰ ਕਿਹਾ, ਇੰਜ ਆਪਣੀ ਸਾਂਝੀ ਭੇਟ ਕੋਲ ਖੜ੍ਹਾ ਰਹੋ, ਅਤੇ ਮੈਂ ਇੰਜ ਮਿਲਣ ਜਾਂਦਾ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ਬਾਲਕ"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "ਖੜ੍ਹਾ ਰਹੋ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇੰਜ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "ਆਪਣੀ ਸਾਂਝੀ ਭੇਟ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ਅਤੇ ਮੈਂ"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "ਮਿਲਣ ਜਾਂਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇੰਜ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:00:47.370612943Z",
+  "model": "glm-5.2"
+}

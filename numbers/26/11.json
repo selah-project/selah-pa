@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਪਰ ਕੁਰਾਹ ਦੇ ਪੁੱਤਰ ਨਹੀਂ ਮਰੇ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਪਰ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ਕੁਰਾਹ ਦੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ਮਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:26.067251088Z",
+  "model": "glm-5.2"
+}

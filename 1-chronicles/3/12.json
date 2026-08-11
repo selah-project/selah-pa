@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਮਤਸਯਾਹੂ ਉਸ ਦਾ ਪੁੱਤਰ, ਅਜ਼ਰਯਾਹ ਉਸ ਦਾ ਪੁੱਤਰ, ਯੋਤਾਮ ਉਸ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "ਅਮਤਸਯਾਹੂ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ਅਜ਼ਰਯਾਹ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ਯੋਤਾਮ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:21.152772557Z",
+  "model": "glm-5.2"
+}

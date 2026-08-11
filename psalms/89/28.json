@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 89,
+  "translation": "ਵੀ ਮੈਂ ਉਸ ਨੂੰ ਬਕੂਰ ਮੰਨਾਂਗਾ, ਧਰਤੀ ਦੇ ਰਾਜਿਆਂ ਤੋਂ ਸਭ ਤੋਂ ਉੱਚਾ।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ਬਕੂਰ"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ਉਸ ਨੂੰ ਮੰਨਾਂਗਾ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ਸਭ ਤੋਂ ਉੱਚਾ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ਰਾਜਿਆਂ ਤੋਂ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:03:32.667257160Z",
+  "model": "glm-5.2"
+}

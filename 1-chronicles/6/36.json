@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਬੁੱਕੀ ਉਸ ਦਾ ਪੁੱਤਰ, ਉੱਜੀ ਉਸ ਦਾ ਪੁੱਤਰ, ਜ਼ੇਰਹਯਾਹ ਉਸ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "ਬੁੱਕੀ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ,"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ਉੱਜੀ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ,"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ਜ਼ੇਰਹਯਾਹ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ।"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:41.329204051Z",
+  "model": "glm-5.2"
+}

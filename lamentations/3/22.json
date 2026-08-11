@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਯਾਹਵੇਹ ਦੇ ਖ਼ੇਸੇਦ ⟨ਹਨ⟩ ਕਿ ⟨ਅਸੀਂ⟩ ਖ਼ਤਮ ਨਹੀਂ ਹੋਏ, ਕਿ ਉਹਦੀਆਂ ਦਇਆਵਾਂ ਮੁੱਕੀਆਂ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ਖ਼ੇਸੇਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ਖ਼ਤਮ ਹੋਏ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ਮੁੱਕੀਆਂ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ਉਹਦੀਆਂ ਦਇਆਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:18.428805826Z",
+  "model": "glm-5.2"
+}

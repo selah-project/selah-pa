@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਮੀਕਾਏਲ, ਅਤੇ ਯਿਸ਼ਪਾ, ਅਤੇ ਯੋਖਾ — ਬਰੀਆ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "ਅਤੇ ਮੀਕਾਏਲ"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ਅਤੇ ਯਿਸ਼ਪਾ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ਅਤੇ ਯੋਖਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ਬਰੀਆ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:59:20.727621326Z",
+  "model": "glm-5.2"
+}

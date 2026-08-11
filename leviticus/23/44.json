@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਯਾਹਵੇਹ ਦੇ ਨਿਯਤ-ਸਮਿਆਂ ਨੂੰ ਯਿਸਰਾਏਲ ਦੇ ਪੁੱਤਰਾਂ ਕੋਲ ⟨ਸੁਣਾਇਆ⟩।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਬੋਲਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨਿਯਤ-ਸਮਿਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "ਨਿਯਤ-ਸਮਿਆਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:53.842772831Z",
+  "model": "glm-5.2"
+}

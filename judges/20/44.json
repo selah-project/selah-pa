@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਬਿਨਯਾਮੀਨ ਵਿੱਚੋਂ ਅਠਾਰਾਂ ਹਜ਼ਾਰ ਮਰਦ ਡਿੱਗ ਪਏ; ⟨ਇਹ⟩ ⟨את⟩ ਸਾਰੇ ਇਹ ਬਹਾਦਰ ਮਰਦ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "ਅਤੇ ਡਿੱਗ ਪਏ"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "ਬਿਨਯਾਮੀਨ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ਅੱਠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਇਹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਬਹਾਦਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:49:55.544350300Z",
+  "model": "glm-5.2"
+}

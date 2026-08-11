@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 50,
+  "translation": "ਅਤੇ ਯੋਸੇਫ਼ ਆਪਣੇ ਪਿਤਾ ਦੇ ਚਿਹਰੇ ਉੱਤੇ ਡਿੱਗ ਪਿਆ ਅਤੇ ਉਸ ਲਈ ਰੋਇਆ ਅਤੇ ਉਸ ਨੂੰ ਚੁੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ਅਤੇ ਡਿੱਗ ਪਿਆ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੋਸੇਫ਼"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਚਿਹਰੇ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ਆਪਣੇ ਪਿਤਾ ਦੇ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ਅਤੇ ਰੋਇਆ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ਅਤੇ ਚੁੰਮਿਆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:10:04.551289565Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਤੁਸੀਂ ਮੇਰੇ ਲਈ ਇੱਕ ਲੋਕ ਬਣੋ, ਅਤੇ ਮੈਂ ਤੁਹਾਡੇ ਲਈ ਏਲੋਹੀਮ ਬਣਾਂ।",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "ਅਤੇ ਤੁਸੀਂ ਬਣੋ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ਇੱਕ ਲੋਕ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ਅਤੇ ਮੈਂ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ਬਣਾਂ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:27:59.121754978Z",
+  "model": "glm-5.2"
+}

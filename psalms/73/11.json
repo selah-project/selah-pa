@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 73,
+  "translation": "ਅਤੇ ਉਹ ਆਖਦੇ ਹਨ, “ਕਿਵੇਂ ਏਲ ਜਾਣਦਾ ਹੈ? ਕੀ ਅਤਿ-ਉੱਚੇ ਵਿੱਚ ਗਿਆਨ ਹੈ?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ਅਤੇ ਉਹ ਆਖਦੇ ਹਨ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ਕਿਵੇਂ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ਜਾਣਦਾ ਹੈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ਕੀ ⟨ਹੈ⟩"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ਗਿਆਨ"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "ਅਤਿ-ਉੱਚੇ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:58:24.062245506Z",
+  "model": "glm-5.2"
+}

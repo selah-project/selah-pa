@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 104,
+  "translation": "ਮਨੁੱਖ ਆਪਣੇ ਕੰਮ ਲਈ ਨਿਕਲਦਾ ਹੈ, ਅਤੇ ਆਪਣੀ ਸੇਵਾ ਲਈ ਸ਼ਾਮ ਤੱਕ।",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ਨਿਕਲਦਾ ਹੈ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ਆਪਣੇ ਕੰਮ ਲਈ"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ਅਤੇ ਆਪਣੀ ਸੇਵਾ ਲਈ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਸ਼ਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:07:34.049343060Z",
+  "model": "glm-5.2"
+}

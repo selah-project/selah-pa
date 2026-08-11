@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 4:6",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਤਸ਼ਹੀਲ ਤੋਂ ਝੰਡਾ ਚੁੱਕੋ, ਭੱਜ ਜਾਓ, ਨਾ ਰੁਕੋ; ਕਿਉਂਕਿ ਮੈਂ ਉੱਤਰ ਤੋਂ ਬੁਰਾਈ ਲਿਆਉਂਦਾ ਹਾਂ, ਅਤੇ ਵੱਡਾ ਤਬਾਹੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ਚੁੱਕੋ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ਝੰਡਾ"
+    },
+    {
+      "surface": "ציונה",
+      "gloss": "ਤਸ਼ਹੀਲ ਵੱਲ"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "ਭੱਜ ਜਾਓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "ਰੁਕੋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ਲਿਆਉਂਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ਉੱਤਰ ਤੋਂ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ਅਤੇ ਤਬਾਹੀ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:15:29.201840725Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੈਨੂੰ ਕਿਹਾ, ਜੋ ਉਹ ਬੋਲੇ ਹਨ ਉਹ ਭਲੀ ਕਿਹਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ਭਲੀ ਕਿਹਾ ਹੈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ਉਹ ਬੋਲੇ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:12.548914833Z",
+  "model": "glm-5.2"
+}

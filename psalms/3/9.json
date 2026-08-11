@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਯਾਹਵੇਹ ਲਈ ⟨ਹੈ⟩ ਮੁਕਤੀ; ਤੇਰੇ ਲੋਕਾਂ ਉੱਤੇ ⟨ਹੈ⟩ ਤੇਰੀ ਬਰਕਤ। ਸੇਲਾਹ।",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ਮੁਕਤੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਲੋਕਾਂ"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ਤੇਰੀ ਬਰਕਤ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ਸੇਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:26:28.961749828Z",
+  "model": "glm-5.2"
+}

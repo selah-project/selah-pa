@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 65,
+  "translation": "ਮੰਡਲੀ ਦੇ ਇਮਾਮ ਲਈ, ਜ਼ਬੂਰ, ਦਾਵਿਦ ਲਈ, ਗੀਤ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲੀ ਦੇ ਇਮਾਮ ਲਈ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਲਈ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ਗੀਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:55:41.229170671Z",
+  "model": "glm-5.2"
+}

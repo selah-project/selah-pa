@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਬਹੁਤ ਮਹਿ ਖਾਣਾ ਚੰਗਾ ਨਹੀਂ, ਅਤੇ ⟨ਉਹਨਾਂ ਦੇ⟩ ਆਪਣੇ ਮਹਿਮਾ ਦੀ ਖੋਜ ਕਰਨਾ ਕਾਵੋਦ ਨਹੀਂ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ਖਾਣਾ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ਮਹਿ"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "ਅਤੇ ਖੋਜ ਕਰਨਾ"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "ਆਪਣੇ ਮਹਿਮਾ ਦੀ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ਕਾਵੋਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:02.797204924Z",
+  "model": "glm-5.2"
+}

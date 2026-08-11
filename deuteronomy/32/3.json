@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਕਿਉਂਕਿ ਮੈਂ ਯਾਹਵੇਹ ਦਾ ਨਾਮ ਪੁਕਾਰਾਂਗਾ, ਸਾਡੇ ਏਲੋਹੀਮ ਨੂੰ ਮਹਿਮਾ ਦਿਓ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ਮੈਂ ਪੁਕਾਰਾਂਗਾ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ਦਿਓ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ਮਹਿਮਾ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ਸਾਡੇ ਏਲੋਹੀਮ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:32.231709304Z",
+  "model": "glm-5.2"
+}

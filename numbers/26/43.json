@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 26:43",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਸ਼ੂਹਾਮੀ ਦੇ ਸਾਰੇ ਕੁਨਬੇ, ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਗਏ ⟨ਸਨ⟩ ਚੌਂਤੇ ਹਜ਼ਾਰ ਚਾਰ ਸੌ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਨਬੇ"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "ਸ਼ੂਹਾਮੀ ਦੇ"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਗਏ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚੌਂਤੇ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:48.061576411Z",
+  "model": "glm-5.2"
+}

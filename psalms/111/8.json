@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 111,
+  "translation": "ਟਿਕਾਏ ਹੋਏ ਸਦਾ ਲਈ, ਸਦਾ-ਸਦਾ ਲਈ; ਸੱਚ ਅਤੇ ਸਿੱਧੇ ਹੋ ਕੇ ਬਣਾਏ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "ਟਿਕਾਏ ਹੋਏ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦਾ-ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ਬਣਾਏ ਗਏ"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ਸੱਚ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ਅਤੇ ਸਿੱਧੇ ਹੋ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:11:25.250288137Z",
+  "model": "glm-5.2"
+}

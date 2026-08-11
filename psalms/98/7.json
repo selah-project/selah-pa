@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 98,
+  "translation": "ਸਮੁੰਦਰ ਗੜਗੜਾਏ ਅਤੇ ⟨ਉਸ ਦੀ⟩ ਪੂਰਨਤਾ ⟨ਵੀ⟩; ਦੁਨੀਆ ਅਤੇ ⟨ਉਸ ਦੇ⟩ ਵਾਸੀ।",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ਗੜਗੜਾਏ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ਅਤੇ ਪੂਰਨਤਾ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ਦੁਨੀਆ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ਅਤੇ ਵਾਸੀ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਉਸ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:06:22.571831870Z",
+  "model": "glm-5.2"
+}

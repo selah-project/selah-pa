@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਖ਼ਾਸਰ-ਗਦਾਹ, ਅਤੇ ਖੇਸ਼ਮੋਨ, ਅਤੇ ਬੇਤ-ਪਾਲੇਤ,",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ਅਤੇ ਖ਼ਾਸਰ"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "ਗਦਾਹ"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "ਅਤੇ ਖੇਸ਼ਮੋਨ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ਪਾਲੇਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:34.288386689Z",
+  "model": "glm-5.2"
+}

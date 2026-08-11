@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਸ਼ਿਓਲ ਅਤੇ ਅਬਦੋਨ ਰਜਦੇ ਨਹੀਂ, ਅਤੇ ਮਨੁੱਖ ਦੀਆਂ ਅੱਖਾਂ ਰਜਦੀਆਂ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਿਓਲ"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "ਅਤੇ ਅਬਦੋਨ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ਰਜਦੇ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ਅਤੇ ਅੱਖਾਂ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਮਨੁੱਖ ਦੀਆਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ਰਜਦੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:55.390805051Z",
+  "model": "glm-5.2"
+}

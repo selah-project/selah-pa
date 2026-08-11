@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਦੂਤ ਨੂੰ ⟨ਕਿਹਾ⟩, ਅਤੇ ਉਸ ਨੇ ਆਪਣੀ ਤਲਵਾਰ ਮਿਆਨ ਵਿੱਚ ਪਾ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਕਿਹਾ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "ਦੂਤ ਨੂੰ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ਅਤੇ ਪਾ ਲਈ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ਆਪਣੀ ਤਲਵਾਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "ਮਿਆਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:08:38.816476290Z",
+  "model": "glm-5.2"
+}

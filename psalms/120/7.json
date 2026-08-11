@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 120,
+  "translation": "ਮੈਂ ਸ਼ਾਲੋਮ ਹਾਂ, ਪਰ ਜਦੋਂ ਮੈਂ ਬੋਲਦਾ ਹਾਂ ਤਾਂ ਉਹ ਯੁੱਧ ਲਈ ਹੁੰਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਸ਼ਾਲੋਮ ਹਾਂ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ਪਰ ਜਦੋਂ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ਮੈਂ ਬੋਲਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ਯੁੱਧ ਲਈ ਹੁੰਦੇ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:39.140997611Z",
+  "model": "glm-5.2"
+}

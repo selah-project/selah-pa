@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਯੂਸਫ਼ ਮਰ ਗਿਆ, ਅਤੇ ਉਸ ਦੇ ਸਾਰੇ ਭਰਾ, ਅਤੇ ਉਹ ਸਾਰੀ ਪੀੜ੍ਹੀ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਮਰ ਗਿਆ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੂਸਫ਼"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ਉਸ ਦੇ ਭਰਾ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਉਹ ਸਾਰੀ"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ਪੀੜ੍ਹੀ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ਉਹ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T20:09:20.064041387Z",
+  "model": "glm-5.2"
+}

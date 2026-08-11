@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਤੀਜਾ ਜ਼ੱਕੂਰ, ਉਸ ਦੇ ਪੁੱਤਰ ਅਤੇ ਉਸ ਦੇ ਭਰਾ ਬਾਰਾਂ।",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "ਤੀਜਾ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ਜ਼ੱਕੂਰ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ਉਸ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਭਰਾ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਬਾਰਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-ਸਰ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T03:12:28.508889912Z",
+  "model": "glm-5.2"
+}

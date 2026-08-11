@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਤਿੰਨਾਂ ਹੇਠ ਧਰਤੀ ਕੰਬਦੀ ਹੈ, ਅਤੇ ਚਾਰ ਹੇਠ ਤੁਰ ਸਕਦੀ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ਤਿੰਨਾਂ ਹੇਠ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ਕੰਬਦੀ ਹੈ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ਅਤੇ ਚਾਰ ਹੇਠ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ਤੁਰ ਸਕਦੀ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "⟨ਚੁੱਕ ਸਕਦੀ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T01:34:37.750395290Z",
+  "model": "glm-5.2"
+}

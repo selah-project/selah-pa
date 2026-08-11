@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਤਾਂ ਤੂੰ ਉਸ ਦੀ ⟨ਹੱਥ⟩ ਕੱਟ ਦੇਵੇਂ — ਤੇਰੀ ਅੱਖ ਦਯਾ ਨਾ ਕਰੇ।",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ਤਾਂ ਕੱਟ ਦੇਵੇਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਹੱਥ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ਉਸ ਦੀ ਹੱਥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ਦਯਾ ਕਰੇ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ਤੇਰੀ ਅੱਖ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:04.172243514Z",
+  "model": "glm-5.2"
+}

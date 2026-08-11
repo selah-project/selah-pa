@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਸ਼ਿਮਓਨ ਦੇ ਪੁੱਤਰਾਂ ਵਿਲੋਂ, ਲੜਾਈ ਲਈ ਸੂਰਮੇ, ਸੱਤ ਹਜ਼ਾਰ ਅਤੇ ਇੱਕ ਸੌ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ਵਿਲੋਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ਸ਼ਿਮਓਨ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ਸੂਰਮੇ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਸਾਹਸ ਵਾਲੇ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ਲੜਾਈ ਲਈ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ਅਤੇ ਇੱਕ ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:03:33.853870917Z",
+  "model": "glm-5.2"
+}

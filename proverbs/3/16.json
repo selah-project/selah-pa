@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਲੰਮੀ ਉਮਰ ਉਸ ਦੇ ਸੱਜੇ ਹੱਥ ਵਿੱਚ ਹੈ, ਉਸ ਦੇ ਖੱਬੇ ਹੱਥ ਵਿੱਚ ਧਨ ਅਤੇ ਮਾਣ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ਲੰਮੀ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਉਮਰ"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "ਉਸ ਦੇ ਸੱਜੇ ਹੱਥ ਵਿੱਚ"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "ਉਸ ਦੇ ਖੱਬੇ ਹੱਥ ਵਿੱਚ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਧਨ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ਅਤੇ ਮਾਣ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:21:37.949021187Z",
+  "model": "glm-5.2"
+}

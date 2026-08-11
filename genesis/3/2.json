@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਇਸਤਰੀ ਨੇ ਸੱਪ ਨੂੰ ਕਿਹਾ, ਬਾਗ਼ ਦੇ ਰੁੱਖਾਂ ਦੇ ਫ਼ਲ ਤੋਂ ਅਸੀਂ ਖਾਂਦੇ ਹਾਂ,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ਇਸਤਰੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ਸੱਪ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ਫ਼ਲ ਤੋਂ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ਰੁੱਖਾਂ ਦੇ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ਬਾਗ਼ ਦੇ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ਅਸੀਂ ਖਾਂਦੇ ਹਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:44:08.061880869Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਤੂੰ ਚੋਰੀ ਨਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ਤੂੰ ਚੋਰੀ ਕਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:17:58.701079525Z",
+  "model": "glm-5.2"
+}

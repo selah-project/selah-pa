@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅੱਖ ਬਦਲੇ ਅੱਖ, ਦੰਦ ਬਦਲੇ ਦੰਦ, ਹੱਥ ਬਦਲੇ ਹੱਥ, ਪੈਰ ਬਦਲੇ ਪੈਰ।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ਅੱਖ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਅੱਖ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ਦੰਦ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ਦੰਦ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ਪੈਰ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ਪੈਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:20:07.506329670Z",
+  "model": "glm-5.2"
+}

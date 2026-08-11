@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਕਿਉਂਜੁ ਯਾਹਵੇਹ ਦੀ ਕੂਕ ਤੋਂ ਅੱਸ਼ੂਰ ਬਿਖੜ ਜਾਵੇਗਾ — ਸੋਟੇ ਨਾਲ ⟨ਉਹ⟩ ਮਾਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਜੁ"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ਕੂਕ ਤੋਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ਬਿਖੜ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ਅੱਸ਼ੂਰ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ਸੋਟੇ ਨਾਲ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ਮਾਰੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:59:46.863220183Z",
+  "model": "glm-5.2"
+}

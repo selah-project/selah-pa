@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 41,
+  "translation": "ਸੱਤ ਚੰਗੀਆਂ ਗਾਵਾਂ — ਸੱਤ ਸਾਲ ਹਨ; ਅਤੇ ਸੱਤ ਚੰਗੀਆਂ ਬੱਲੀਆਂ — ਸੱਤ ਸਾਲ ਹਨ; ਇੱਕ ਹੀ ਸੁਪਨਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ਗਾਵਾਂ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ਚੰਗੀਆਂ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਹਨ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ਅਤੇ ਸੱਤ"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ਬੱਲੀਆਂ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ਚੰਗੀਆਂ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਹਨ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ਸੁਪਨਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:03:57.491219713Z",
+  "model": "glm-5.2"
+}

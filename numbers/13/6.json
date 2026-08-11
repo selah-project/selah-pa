@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਯਹੂਦਾ ਦੇ ਕਬੀਲੇ ਲਈ ਕਾਲੇਵ, ਯਫੁੱਨੇ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ਕਾਲੇਵ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ਯਫੁੱਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:06.701733358Z",
+  "model": "glm-5.2"
+}

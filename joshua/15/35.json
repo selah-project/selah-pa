@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਯਰਮੂਥ, ਅਤੇ ਅਦੁੱਲਾਮ, ਸੋਕੋਹ, ਅਤੇ ਅਜ਼ੇਕਾਹ;",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "ਯਰਮੂਥ"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "ਅਤੇ ਅਦੁੱਲਾਮ"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "ਸੋਕੋਹ"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "ਅਤੇ ਅਜ਼ੇਕਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:53.288546670Z",
+  "model": "glm-5.2"
+}

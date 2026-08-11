@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਕਲਾਮ ਯਿਰਮਯਾਹੂ ਵੱਲ ⟨ਆਇਆ⟩, ⟨ਕੇ⟩ ⟨ਕਹਿਣਾ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਆਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕਲਾਮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਯਾਹੂ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕੇ⟩ ⟨ਕਹਿਣਾ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:28:48.455352193Z",
+  "model": "glm-5.2"
+}

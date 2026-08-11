@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 40,
+  "translation": "ਕਿਉਂਕਿ ਪਹਾੜ ਉਸ ਲਈ ਉਪਜ ਚੁੱਕਦੇ ਹਨ, ਅਤੇ ਖੇਤ ਦੇ ਸਾਰੇ ਜਾਨਵਰ ਉੱਥੇ ਖੇਡਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "בול",
+      "gloss": "ਉਪਜ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ਚੁੱਕਦੇ ਹਨ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ਜਾਨਵਰ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ਖੇਤ ਦੇ"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ਖੇਡਦੇ ਹਨ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:57:50.761810485Z",
+  "model": "glm-5.2"
+}

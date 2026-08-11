@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਖੜ੍ਹੇ ਹੋ, ਯਾਹਵੇਹ! ਮਨੁੱਖ ਨਾ ਸਖ਼ਤ ਹੋਵੇ; ਗੋਯਮ ਤੇਰੇ ਸਾਹਮਣੇ ਦਾਖ਼ਲ ਹੋਣ।",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ਖੜ੍ਹੇ ਹੋ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ਸਖ਼ਤ ਹੋਵੇ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ਦਾਖ਼ਲ ਹੋਣ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ਗੋਯਮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਤੇ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ਤੇਰੇ ਸਾਹਮਣੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:29:18.849262059Z",
+  "model": "glm-5.2"
+}

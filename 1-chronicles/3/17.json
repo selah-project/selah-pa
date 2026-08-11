@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਯਕਨਯਾ ਦੇ ਪੁੱਤਰ ⟨ਹਨ⟩: ਅਸੀਰ, ਸ਼ਅਲਤੀਏਲ ਉਸ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "ਯਕਨਯਾ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ਅਸੀਰ"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ਸ਼ਅਲਤੀਏਲ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:45.277625968Z",
+  "model": "glm-5.2"
+}

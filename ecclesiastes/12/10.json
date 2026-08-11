@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਕੋਹੇਲੇਤ ਨੇ ਪਿਆਰੇ ਬਚਨ ਲੱਭਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ, ਅਤੇ ⟨ਜੋ⟩ ਲਿਖਿਆ ਗਿਆ ⟨ਉਹ⟩ ਸੇਧ ਹੈ — ਸੱਚੇ ਬਚਨ।",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "ਲੱਭਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ਕੋਹੇਲੇਤ ਨੇ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ਲੱਭਣ ਲਈ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ਪਿਆਰੇ"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ਅਤੇ ਲਿਖਿਆ ਗਿਆ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ਸੇਧ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ਸੱਚੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:33.694119816Z",
+  "model": "glm-5.2"
+}

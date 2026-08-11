@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਜ਼ੱਕਾਈ ਦੇ ਪੁੱਤਰ, ਸੱਤ ਸੌ ਅਤੇ ਸਾਠ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ਜ਼ੱਕਾਈ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸਾਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:03.732602058Z",
+  "model": "glm-5.2"
+}

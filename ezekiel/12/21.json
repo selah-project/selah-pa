@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 12:21",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਕੀਤਾ ਮੇਰੇ ਉੱਤੇ ਆਇਆ, ਕਹਿੰਦਾ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕੀਤਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਉੱਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:45:26.760283134Z",
+  "model": "glm-5.2"
+}

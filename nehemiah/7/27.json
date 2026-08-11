@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਨਾਤੋਤ ਦੇ ਮਰਦ ਇੱਕ ਸੌ ਅਠਾਈ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ਅਨਾਤੋਤ ਦੇ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:56.660009555Z",
+  "model": "glm-5.2"
+}

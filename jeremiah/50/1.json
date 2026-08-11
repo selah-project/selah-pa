@@ -1,0 +1,61 @@
+{
+  "tier": "hand",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 50,
+  "translation": "ਉਹ ਬਚਨ ਜੋ ਯਾਹਵੇਹ ਨੇ ਬਾਬਲ ਬਾਰੇ — ਕਸਦੀਆਂ ਦੇ ਦੇਸ ਬਾਰੇ — ਯਿਰਮਿਯਾਹੂ ਨਬੀ ਦੇ ਹੱਥ ਰਾਹੀਂ ਬੋਲਿਆ।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ਉਹ ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬੋਲਿਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਬਾਰੇ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ਬਾਬਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਬਾਰੇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਦੇਸ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ਕਸਦੀਆਂ ਦੇ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ਹੱਥ ਰਾਹੀਂ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ਨਬੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:38:53.218765840Z",
+  "model": "claude-fable-5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਯੇਹੋਸ਼ੁਆ ⟨the⟩ ⟨את⟩ ਦੇ ਨਾਲ ਸੀ, ਅਤੇ ਉਸ ਦੀ ਖ਼ਬਰ ਸਾਰੀ ⟨the⟩ ਧਰਤੀ ਵਿੱਚ ਸੁਣੀ ਜਾਣ ਲੱਗੀ।",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "ਅਤੇ ਸੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ਯੇਹੋਸ਼ੁਆ"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ਅਤੇ ਸੀ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ਉਸ ਦੀ ਖ਼ਬਰ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਸਾਰੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:29:05.286807432Z",
+  "model": "glm-5.2"
+}

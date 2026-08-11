@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਪਖ਼ਤ-ਮੋਆਬ ਦੇ ਪੁੱਤਰ, ਯੇਸ਼ੂਆ ਅਤੇ ਯੋਆਵ ਦੇ ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ, ਦੋ ਹਜ਼ਾਰ ਅੱਠ ਸੌ ਅਠਾਰਾਂ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ਪਖ਼ਤ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ਯੇਸ਼ੂਆ"
+    },
+    {
+      "surface": "ולואב",
+      "gloss": "ਅਤੇ ਯੋਆਵ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਦੋ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ਅੱਠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਅਠਾਰਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:02.963790278Z",
+  "model": "glm-5.2"
+}

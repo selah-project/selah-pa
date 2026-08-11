@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 43,
+  "translation": "ਅਤੇ ਕਾਲ ਧਰਤੀ ਵਿੱਚ ਭਾਰੀ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "ਅਤੇ ਕਾਲ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ਭਾਰੀ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਧਰਤੀ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:05:41.533104402Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਸ਼ਲੋਮੋਹ ਨੇ ⟨את⟩ ਗ਼ੇਜ਼ਰ ਅਤੇ ⟨את⟩ ਹੇਠਲੇ ਬੇਤ-ਖੋਰੋਨ ਨੂੰ ਬਣਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ਅਤੇ ਬਣਾਇਆ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਗ਼ੇਜ਼ਰ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ਗ਼ੇਜ਼ਰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਬੇਤ-ਖੋਰੋਨ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ਖੋਰੋਨ"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ਹੇਠਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:24:55.550767871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਤੁਹਾਡੇ ਪਿਤਾ ਕਿੱਥੇ ਹਨ? ਅਤੇ ⟨ਕੀ⟩ ਨਬੀ ਸਦਾ ਤੱਕ ਜੀਊਂਦੇ ਹਨ?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "ਤੁਹਾਡੇ ਪਿਤਾ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ਕਿੱਥੇ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਹਨ"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ਅਤੇ ਨਬੀ"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "ਸਦਾ ਤੱਕ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ਜੀਊਂਦੇ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:54:42.996234766Z",
+  "model": "glm-5.2"
+}

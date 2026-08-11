@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਰਫ਼ਾਈਮ ਵੀ ਗਿਣੇ ਜਾਂਦੇ ਸਨ, ਉਹ ਵੀ, ਅਨਾਕੀਮ ਵਾਂਗ; ਅਤੇ ਮੋਆਬੀ ਉਹਨਾਂ ਨੂੰ ਏਮੀਮ ਕਹਿੰਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "ਰਫ਼ਾਈਮ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ਗਿਣੇ ਜਾਂਦੇ ਸਨ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "ਅਨਾਕੀਮ ਵਾਂਗ"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "ਅਤੇ ਮੋਆਬੀ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ਕਹਿੰਦੇ ਹਨ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ਏਮੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:52.709352582Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਇੱਕ ਤਖ਼ਤੇ ਲਈ ਦੋ ਯਦੋਤ, ਇੱਕ ਨੂੰ ਇੱਕ ਨਾਲ ਜੋੜ ਕੇ; ਮਿਸ਼ਕਣ ਦੇ ਸਾਰੇ ਤਖ਼ਤਿਆਂ ਲਈ ਇਉਂ ਹੀ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "ਯਦੋਤ"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "ਤਖ਼ਤੇ ਲਈ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "ਜੋੜ ਕੇ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਉਂ ਹੀ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕੀਤਾ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਸਾਰੇ ਲਈ"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "ਤਖ਼ਤਿਆਂ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ਮਿਸ਼ਕਣ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:28:02.601225641Z",
+  "model": "glm-5.2"
+}

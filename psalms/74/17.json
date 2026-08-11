@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 74,
+  "translation": "ਤੂੰ ਧਰਤੀ ਦੇ ਸਾਰੇ ਹੱਦ ਟਿਕਾਏ; ਤੂੰ ਗਰਮੀ ਅਤੇ ਸਿਆਲ ਨੂੰ ਘੜਿਆ।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "ਟਿਕਾਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ਗਰਮੀ"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ਅਤੇ ਸਿਆਲ ਨੂੰ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "ਘੜਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:59:23.631761327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਇਹ ਹਨ ਏਤਸਰ ਦੇ ਪੁੱਤਰ: ਬਿਲਹਾਨ ਅਤੇ ਜ਼ਾਵਾਨ ਅਤੇ ਅਕਾਨ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ਏਤਸਰ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ਬਿਲਹਾਨ"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ਅਤੇ ਜ਼ਾਵਾਨ"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "ਅਤੇ ਅਕਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:02.004718655Z",
+  "model": "glm-5.2"
+}

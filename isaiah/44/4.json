@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 44,
+  "translation": "ਅਤੇ ਉਹ ਘਾਹ ਵਿਚਕਾਰ, ਪਾਣੀ ਦੇ ਨਾਲਿਆਂ ਕੰਢੇ ਛਿੰਗਾਰਾਂ ਵਾਂਗ ਉੱਗ ਸਕਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "ਅਤੇ ਉਹ ਉੱਗ ਸਕਣਗੇ"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ਘਾਹ"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "ਛਿੰਗਾਰਾਂ ਵਾਂਗ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਕੰਢੇ"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "ਨਾਲਿਆਂ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:04:41.970486720Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਬੁੱਧੀ ਤੋਂ ਸੱਖਣਾ ਮਨੁੱਖ ਤਾੜੀ ਮਾਰਦਾ ਹੈ, ⟨ਅਤੇ⟩ ਆਪਣੇ ਸਾਥੀ ਦੇ ਸਾਹਮਣੇ ਜ਼ਮਾਨਤ ਬਣਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ਤੋਂ ਸੱਖਣਾ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਬੁੱਧੀ"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "ਤਾੜੀ ਮਾਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਬਣਦਾ ਹੈ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ਜ਼ਮਾਨਤ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ਆਪਣੇ ਸਾਥੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:39.386752818Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਲੇਵੀਆਂ ਵਿੱਚੋਂ ⟨ਕੁਝ⟩ ਹਿੱਸੇ, ਯਹੂਦਾਹ ਵਿੱਚ, ਬਿਨਯਾਮੀਨ ਲਈ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ਅਤੇ … ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ਲੇਵੀਆਂ"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "ਹਿੱਸੇ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾਹ"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "ਬਿਨਯਾਮੀਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:21.377916849Z",
+  "model": "glm-5.2"
+}

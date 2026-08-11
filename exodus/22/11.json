@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਜੇ ਉਸ ਤੋਂ ਚੋਰੀ ਹੋ ਜਾਏ ਤਾਂ ਉਹ ਉਸ ਦੇ ਮਾਲਕ ਨੂੰ ਭਰਪੂਰ ਕਰੇ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ਚੋਰੀ"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ਹੋ ਜਾਏ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ਉਸ ਤੋਂ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ਭਰਪੂਰ ਕਰੇ"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ਉਸ ਦੇ ਮਾਲਕ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:19:52.446388415Z",
+  "model": "glm-5.2"
+}

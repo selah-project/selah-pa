@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਕਿਉਂਕਿ ਬਿਨਾਂ ਸ਼ੱਕ ਇੱਕ ਅਗਾਂਹ ਭਵਿੱਖ ਹੈ, ਅਤੇ ਤੇਰੀ ਆਸ ਕੱਟੀ ਨਹੀਂ ਜਾਵੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਬਿਨਾਂ ਸ਼ੱਕ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ਹੈ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ਅਗਾਂਹ ਭਵਿੱਖ"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ਅਤੇ ਤੇਰੀ ਆਸ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ਕੱਟੀ ਜਾਵੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:45.185944464Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਯਾਹਵੇਹ ਤੁਹਾਡੇ ਪਿਤਰਿਆਂ ਉੱਤੇ ਬਹੁਤ ਗੁੱਸੇ ਹੋਇਆ — ਕ੍ਰੋਧ!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ਗੁੱਸੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ਤੁਹਾਡੇ ਪਿਤਰਿਆਂ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ਕ੍ਰੋਧ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:21:27.469133032Z",
+  "model": "glm-5.2"
+}

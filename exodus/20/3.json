@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਤੇਰੇ ਲਈ ਹੋਰ ਏਲੋਹੀਮ ਮੇਰੇ ਮੂੰਹ ਦੇ ਸਾਹਮਣੇ ਨਾ ਹੋਣ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਮੇਰੇ ਮੂੰਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:18:56.231514112Z",
+  "model": "glm-5.2"
+}

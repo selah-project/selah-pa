@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਖਲਖੁਲ, ਬੈਤ-ਤਸੂਰ ਅਤੇ ਗਦੋਰ।",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ਖਲਖੁਲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੈਤ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ਤਸੂਰ"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "ਅਤੇ ਗਦੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:31.975436424Z",
+  "model": "glm-5.2"
+}

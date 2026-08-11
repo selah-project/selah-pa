@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਇਹ ⟨ਹਨ⟩ ਏਸਾਵ ਦੀਆਂ ਤੋਲਦੋਤ — ਉਹ ⟨ਹੀ⟩ ਏਦੋਮ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ਤੋਲਦੋਤ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ ਦੀਆਂ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ⟨ਹੀ⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:03.101205071Z",
+  "model": "glm-5.2"
+}

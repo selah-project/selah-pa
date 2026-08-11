@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਸ਼ਮੂਏਲ ਦੇ ਕੰਨ ਖੋਲ੍ਹੇ ਸਨ, ਇੱਕ ਦਿਨ ਪਹਿਲਾਂ, ਸ਼ਾਊਲ ਦੇ ਆਉਣ ਤੋਂ, ਕਹਿ ਕੇ:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ਅਤੇ ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ਖੋਲ੍ਹੇ ਸਨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਕੰਨ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ਕੰਨ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ਸ਼ਮੂਏਲ ਦੇ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਇੱਕ ਦਿਨ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਪਹਿਲਾਂ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ਆਉਣ ਤੋਂ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਾਊਲ ਦੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:55:18.074521262Z",
+  "model": "glm-5.2"
+}

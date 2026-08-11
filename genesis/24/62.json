@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਯਿਤਸਖ਼ਕ ਬੇਏਰ-ਲਖ਼ਈ-ਰੋਈ ਦੇ ਰਸਤੇ ਤੋਂ ਆਇਆ; ਅਤੇ ਉਹ ਦੱਖਣ ਦੇ ਦੇਸ਼ ਵਿੱਚ ਵੱਸਦਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "ਅਤੇ ਯਿਤਸਖ਼ਕ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ਦੇ ਰਸਤੇ ਤੋਂ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ਬੇਏਰ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ਲਖ਼ਈ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ਰੋਈ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ਅਤੇ ਉਹ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ਵੱਸਦਾ ਸੀ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ਦੱਖਣ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:54:39.756718911Z",
+  "model": "glm-5.2"
+}

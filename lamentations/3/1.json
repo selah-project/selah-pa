@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਮੈਂ ⟨ਹਾਂ⟩ ਉਹ ਮਨੁੱਖ ਜਿਸ ਨੇ ਦੁੱਖ ਵੇਖਿਆ ਹੈ, ਉਸ ਦੇ ਕ੍ਰੋਧ ਦੀ ਛੜੀ ⟨ਹੇਠ⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ਉਹ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ਵੇਖਿਆ ਹੈ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ਦੁੱਖ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ਛੜੀ ⟨ਹੇਠ⟩"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ਉਸ ਦੇ ਕ੍ਰੋਧ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:02.035954751Z",
+  "model": "glm-5.2"
+}

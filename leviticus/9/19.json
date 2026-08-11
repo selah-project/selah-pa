@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ⟨את⟩ ਚਰਬੀਆਂ ਬਲਦ ਤੋਂ ਅਤੇ ਮੇਢੇ ਤੋਂ — ⟨the⟩ ਮੋਟੀ ਪੂਛ, ਅਤੇ ⟨the⟩ ਢੱਕਣ, ਅਤੇ ⟨the⟩ ਗੁਰਦੇ, ਅਤੇ ⟨the⟩ ਜਿਗਰ ਦੀ ਲਟੂ —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਚਰਬੀਆਂ"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ਚਰਬੀਆਂ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ਅਤੇ ਤੋਂ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ਮੇਢੇ"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ਮੋਟੀ ਪੂਛ"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "ਅਤੇ ਢੱਕਣ"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "ਅਤੇ ਗੁਰਦੇ"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "ਅਤੇ ਲਟੂ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ਜਿਗਰ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:34:49.752031674Z",
+  "model": "glm-5.2"
+}

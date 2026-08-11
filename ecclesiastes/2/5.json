@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਮੈਂ ਆਪਣੇ ਲਈ ਬਾਗ਼ ਅਤੇ ਫ਼ਿਰਦੌਸ ਬਣਾਏ, ਅਤੇ ਉਹਨਾਂ ਵਿੱਚ ਹਰ ਫ਼ਲ ਦੇ ਰੁੱਖ ਲਗਾਏ।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ਮੈਂ ਬਣਾਏ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ਬਾਗ਼"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ਅਤੇ ਫ਼ਿਰਦੌਸ"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ਅਤੇ ਮੈਂ ਲਗਾਏ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ਉਹਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ਰੁੱਖ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਸਾਰੇ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ਫ਼ਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:11:25.776535726Z",
+  "model": "glm-5.2"
+}

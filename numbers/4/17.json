@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਅਤੇ ਅਹਰੋਨ ਨੂੰ ਬੋਲ ਕੇ ਕਿਹਾ,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਬੋਲਿਆ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨੂੰ"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "ਅਹਰੋਨ"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:48:22.868472231Z",
+  "model": "glm-5.2"
+}

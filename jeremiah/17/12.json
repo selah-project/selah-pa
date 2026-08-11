@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਮਹਿਮਾ ਦਾ ਸਿੰਘਾਸਨ, ਆਦਿ ਤੋਂ ਬੁਲੰਦ, ਸਾਡੇ ਪਵਿੱਤਰ-ਸਥਾਨ ਦਾ ਥਾਂ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "ਸਿੰਘਾਸਨ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ਮਹਿਮਾ ਦਾ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ਬੁਲੰਦ"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "ਆਦਿ ਤੋਂ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ਥਾਂ"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "ਸਾਡੇ ਪਵਿੱਤਰ-ਸਥਾਨ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:21:27.732090480Z",
+  "model": "glm-5.2"
+}

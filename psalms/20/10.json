@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਯਾਹਵੇਹ, ਬਚਾ! ⟨ਇਹ⟩ ਰਾਜਾ ਸਾਡੀ ਪੁਕਾਰ ਦੇ ਦਿਨ ਸਾਡਾ ਉੱਤਰ ਦੇਵੇ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ਬਚਾ!"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ਸਾਡਾ ਉੱਤਰ ਦੇਵੇ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "ਸਾਡੀ ਪੁਕਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:30:41.788906349Z",
+  "model": "glm-5.2"
+}

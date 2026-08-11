@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਉਹ, ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਕਿ ਉਹ ਲੇਟਦੇ, ਉਹ ਉਹਨਾਂ ਕੋਲ, ਛੱਤ ਉੱਤੇ ਚੜ੍ਹ ਗਈ।",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ਅਤੇ ਉਹ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਕਿ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ਉਹ ਲੇਟਦੇ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ਚੜ੍ਹ ਗਈ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ਉਹਨਾਂ ਕੋਲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "ਛੱਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:26:56.578879749Z",
+  "model": "glm-5.2"
+}

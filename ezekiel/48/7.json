@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਅਤੇ ⟨ਦੇ ਬਾਡੇ ਉੱਤੇ⟩ ਰਊਬੇਨ ਦੇ, ਪੂਰਬ ਵੱਲੋਂ ਪੱਛਮ ਵੱਲ ਤੱਕ — ਇੱਕ ਹਿੱਸਾ ਯਹੂਦਾਹ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ⟨ਦੇ ਬਾਡੇ ਉੱਤੇ⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬੇਨ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ਪੱਖ ਤੋਂ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ਪੂਰਬ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ਪੱਖ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ਪੱਛਮ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾਹ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:04:41.826379602Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਬੇਲਾ ਦੇ ਪੁੱਤਰ ⟨ਹੋਏ⟩: ਅੱਦਾਰ, ਅਤੇ ਗੇਰਾ, ਅਤੇ ਅਬੀਹੁਦ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ⟨ਹੋਏ⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ਬੇਲਾ ਦੇ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ਅੱਦਾਰ"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ਅਤੇ ਗੇਰਾ"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ਅਤੇ ਅਬੀਹੁਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:59:26.537995746Z",
+  "model": "glm-5.2"
+}

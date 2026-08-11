@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਜੇ ਔਰਤ ਹੋਵੇ, ਤਾਂ ਤੇਰੀ ਕਦਰਤ ਤੀਹ ਸ਼ਕਲ ਹੋਵੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ਔਰਤ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ਤਾਂ ... ਹੋਵੇਗੀ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ਤੇਰੀ ਕਦਰਤ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ਤੀਹ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ਸ਼ਕਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:45.817349896Z",
+  "model": "glm-5.2"
+}

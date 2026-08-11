@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਜਦੋਂ ਤੁਹਾਡੇ ਵਿੱਚ ਕੋਈ ਨਬੀ ਜਾਂ ਸੁਪਨਿਆਂ ਦਾ ਸੁਪਨਾ ਵੇਖਣ ਵਾਲਾ ਉੱਠੇ, ਅਤੇ ਉਹ ਤੈਨੂੰ ਕੋਈ ਨਿਸ਼ਾਨੀ ਜਾਂ ਅਚੰਭਾ ਦੇਵੇ,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ਉੱਠੇ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ਤੁਹਾਡੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ਨਬੀ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ਸੁਪਨਾ ਵੇਖਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ਸੁਪਨਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਦੇਵੇ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ਨਿਸ਼ਾਨੀ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "ਅਚੰਭਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:15:38.772398786Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਯੂਬ ਨੇ ਆਪਣਾ ਮਸਾਲ ਉਚਾਚਣਾ ਜਾਰੀ ਰੱਖਿਆ ਅਤੇ ਕਿਹਾ:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ਜਾਰੀ ਰੱਖਿਆ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ਅਯੂਬ ਨੇ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ਉਚਾਚਣਾ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ਆਪਣਾ ਮਸਾਲ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:50:00.146772005Z",
+  "model": "glm-5.2"
+}

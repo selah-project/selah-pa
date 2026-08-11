@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਸੁਣੋ ⟨את⟩ ⟨ਉਹ⟩ ਬਚਨ ਜੋ ਯਾਹਵੇਹ ਤੁਹਾਨੂੰ ਗਿਆਉਂਦਾ ਹੈ, ਹੇ ਇਸਰਾਏਲ ਦੇ ਘਰਾਣੇ,",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬਚਨ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਗਿਆਉਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ਤੁਹਾਨੂੰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰਾਣੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:18:51.050599557Z",
+  "model": "glm-5.2"
+}

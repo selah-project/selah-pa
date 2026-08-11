@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਧੋਖੇਬਾਜ਼ ⟨ਹੈ⟩ ਹਿਰਦਾ ਸਭ ਤੋਂ ਵੱਧ, ਅਤੇ ਲਾਇਲਾਜ ਹੈ ਉਹ; ਕੌਣ ਉਸ ਨੂੰ ਜਾਣ ਸਕਦਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ਧੋਖੇਬਾਜ਼"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "ਹਿਰਦਾ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ਸਭ ਤੋਂ ਵੱਧ"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "ਅਤੇ ਲਾਇਲਾਜ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ਉਸ ਨੂੰ ਜਾਣ ਸਕਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:21:27.731414556Z",
+  "model": "glm-5.2"
+}

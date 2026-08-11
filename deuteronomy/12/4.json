@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਤੁਸੀਂ ਆਪਣੇ ਏਲੋਹੀਮ ਯਾਹਵੇਹ ਪ੍ਰਤੀ ਇਉਂ ਨਾ ਕਰਨਾ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ਤੁਸੀਂ ਕਰਨਾ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਪ੍ਰਤੀ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ਆਪਣੇ ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:15:06.576559641Z",
+  "model": "glm-5.2"
+}

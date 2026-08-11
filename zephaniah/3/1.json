@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਹਾਇ ⟨ਉਸ⟩ ਬਗ਼ਾਵਤਕਾਰੀ ਅਤੇ ⟨ਉਸ⟩ ਮਲੀਨ ⟨ਔਰਤ ਲਈ⟩! ⟨ਉਹ⟩ ਸ਼ਹਿਰ ⟨ਜੋ⟩ ਦਬਾਕੇ ਰੱਖਦੀ ⟨ਹੈ⟩!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ਹਾਇ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ਬਗ਼ਾਵਤਕਾਰੀ"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ਅਤੇ ਮਲੀਨ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ਦਬਾਕੇ ਰੱਖਣ ਵਾਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:19:29.497606853Z",
+  "model": "glm-5.2"
+}

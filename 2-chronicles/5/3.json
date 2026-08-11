@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਯਿਸਰਾਏਲ ਦੇ ਸਾਰੇ ਮਰਦ ਮੌਕੇ ਉੱਤੇ ਰਾਜੇ ਕੋਲ ਇਕੱਠੇ ਹੋਏ — ਉਹ ⟨ਹੈ⟩ ਸੱਤਵਾਂ ਮਹੀਨਾ।",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ਅਤੇ ਇਕੱਠੇ ਹੋਏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ਮੌਕੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ਮਹੀਨਾ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ਸੱਤਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:21:49.538507238Z",
+  "model": "glm-5.2"
+}

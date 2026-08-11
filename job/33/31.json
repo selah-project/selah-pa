@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਧਿਆਨ ਦੇ, ਹੇ ਅਯੂਬ, ਮੇਰੀ ਸੁਣ; ਚੁੱਪ ਰਹੁ ਅਤੇ ਮੈਂ ਬੋਲਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "ਧਿਆਨ ਦੇ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ਹੇ ਅਯੂਬ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੀ"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "ਚੁੱਪ ਰਹੁ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ਅਤੇ ਮੈਂ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ਬੋਲਾਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:53:25.558091783Z",
+  "model": "glm-5.2"
+}

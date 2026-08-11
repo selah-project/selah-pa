@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਇਕ ਗਿਆਨਵਾਨ ਵਿੱਚ ਇਕ ਡਾਟ ਵੱਧ ਡੂੰਘੀ ਉਤਰਦੀ ⟨ਹੈ⟩, ਵਲੋਂ ਕਿ ਸੌ ਕੋੜੇ ਕਸਈ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ਉਤਰਦੀ ⟨ਹੈ⟩"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ਇਕ ਡਾਟ"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "ਇਕ ਗਿਆਨਵਾਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ਵਲੋਂ ਮਾਰਨ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ਕਸਈ ਨੂੰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:11.932458831Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਪਸ਼ਹੂਰ ਦੇ ਪੁੱਤਰ: ਹਜ਼ਾਰ ਦੋ ਸੌ ਚਾਲੀ ਅਤੇ ਸੱਤ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ਪਸ਼ਹੂਰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ਦੋ ਸੌ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ਚਾਲੀ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ਅਤੇ ਸੱਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:24.934884170Z",
+  "model": "glm-5.2"
+}

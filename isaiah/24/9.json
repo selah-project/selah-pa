@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਗੀਤ ਨਾਲ ਉਹ ਦਾਖ ⟨ਨਹੀਂ⟩ ਪੀਂਦੇ; ਪੀਣ ਵਾਲਿਆਂ ਲਈ ਮਦਿਰਾ ਕੌੜੀ ਹੋ ਜਾਂਦੀ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ਗੀਤ ਨਾਲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ਉਹ ਪੀਂਦੇ ਹਨ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ਦਾਖ"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ਕੌੜੀ ਹੋ ਜਾਂਦੀ ਹੈ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ਮਦਿਰਾ"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "ਪੀਣ ਵਾਲਿਆਂ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:56:08.471752770Z",
+  "model": "glm-5.2"
+}

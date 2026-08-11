@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਮੇਰੇ ਸਾਰੇ ਪਾਪਾਂ ਤੋਂ ਮੈਨੂੰ ਛੁਡਾ; ਨਾਸ਼ਕਾਂ ਦੀ ਬਦਨਾਮੀ ਮੈਨੂੰ ਨਾ ਬਣਾ।",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ਤੋਂ ਸਾਰੇ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ਮੇਰੇ ਪਾਪਾਂ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ਮੈਨੂੰ ਛੁਡਾ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ਬਦਨਾਮੀ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ਨਾਸ਼ਕਾਂ ਦੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ਮੈਨੂੰ ਬਣਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:43:26.059096135Z",
+  "model": "glm-5.2"
+}

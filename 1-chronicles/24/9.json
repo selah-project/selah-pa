@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਪੰਜਵਾਂ ਮਲਕੀਯਾਹ ਨੂੰ, ਛੇਵਾਂ ਮੀਯਾਮੀਨ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "ਮਲਕੀਯਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ਪੰਜਵਾਂ"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "ਮੀਯਾਮੀਨ ਨੂੰ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ਛੇਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:26.350466873Z",
+  "model": "glm-5.2"
+}

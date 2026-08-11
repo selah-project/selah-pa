@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 99,
+  "translation": "ਉਹ ਤੇਰੇ ਨਾਂ ਦੀ ਸਤਿਕਾਰ ਕਰਨ — ਵੱਡਾ ਅਤੇ ਭਿਆਨਕ — ਕਿ ਪਵਿੱਤਰ ਹੈ ਉਹ!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ਸਤਿਕਾਰ ਕਰਨ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ਤੇਰੇ ਨਾਂ ਦੀ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਵੱਡਾ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ਅਤੇ ਭਿਆਨਕ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:06:25.114303785Z",
+  "model": "glm-5.2"
+}

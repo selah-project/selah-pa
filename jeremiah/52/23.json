@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 52,
+  "translation": "ਅਤੇ ਅਨਾਰ ਨੰਬਰ ਦੇ ਵਾਰ ਨਾਲ ਛਿਆਨਵੇ ਸਨ; ਜਾਲੀ ਉੱਤੇ ਸਾਰੇ ਅਨਾਰ ਚਾਰੇ ਪਾਸੇ ਇੱਕ ਸੌ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ⟨ਸਨ⟩"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ਅਨਾਰ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ਨੱਬੇ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ਅਤੇ ਛੇ"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "ਨੰਬਰ ਦੇ ਵਾਰ ਨਾਲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "ਅਨਾਰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "ਜਾਲੀ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ਚਾਰੇ ਪਾਸੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:40:17.002229764Z",
+  "model": "glm-5.2"
+}

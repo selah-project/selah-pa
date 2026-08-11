@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਕੰਮ ਲਈ ⟨ਕੱਪੜਾ⟩ ਹੀ ਸਾਰਾ ਕੰਮ ਬਣਾਉਣ ਲਈ ਕਾਫ਼ੀ ਸੀ, ਅਤੇ ਵਾਧੂ ਬਚਿਆ।",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "ਅਤੇ ਕੰਮ ਲਈ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "דים",
+      "gloss": "ਕਾਫ਼ੀ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ਬਣਾਉਣ ਲਈ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨אֵת⟩",
+      "marks": "ਇਸਨੂੰ"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ਅਤੇ ਵਾਧੂ ਬਚਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:28:38.201733324Z",
+  "model": "glm-5.2"
+}

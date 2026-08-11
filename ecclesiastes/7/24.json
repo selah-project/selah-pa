@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਦੂਰ ਹੈ ਜੋ ਹੋਇਆ, ਅਤੇ ਡੂੰਘਾ, ਡੂੰਘਾ — ਕੌਣ ਇਸ ਨੂੰ ਲੱਭ ਸਕਦਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ਦੂਰ ਹੈ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ਹੋਇਆ"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ਅਤੇ ਡੂੰਘਾ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ਡੂੰਘਾ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ਇਸ ਨੂੰ ਲੱਭ ਸਕਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:07.947972447Z",
+  "model": "glm-5.2"
+}

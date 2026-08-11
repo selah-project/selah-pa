@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸ਼ਲੋਮੋਹ ਦੇ ਨੌਕਰਾਂ ਦੇ ਪੁੱਤਰ: ਸੋਤਾਈ ਦੇ ਪੁੱਤਰ, ਸੋਫ਼ੇਰੇਤ ਦੇ ਪੁੱਤਰ, ਪਰੂਦਾ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ਨੌਕਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "ਸੋਤਾਈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "ਸੋਫ਼ੇਰੇਤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "ਪਰੂਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:46:08.336657603Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਤੇਰੇ ਸਿਰ ਉੱਤੇ ਦੇ ਤੇਰੇ ਅਕਾਸ਼ ਤਾਂਬੇ ਦੇ ਹੋਣਗੇ, ਅਤੇ ਤੇਰੇ ਹੇਠਾਂ ਦੀ ਧਰਤੀ ਲੋਹੇ ਦੀ।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਹੋਣਗੇ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ਤੇਰੇ ਅਕਾਸ਼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ਤੇਰੇ ਸਿਰ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ਤਾਂਬੇ ਦੇ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ਅਤੇ ਧਰਤੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ਤੇਰੇ ਹੇਠਾਂ ਦੀ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ਲੋਹੇ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:22:10.863417993Z",
+  "model": "glm-5.2"
+}

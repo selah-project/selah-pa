@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਜੋ ਮਨੁੱਖ ਸਮਝ ਦੇ ਰਾਹ ਤੋਂ ਭਟਕਦਾ ⟨ਹੈ⟩, ਰਫ਼ਾਈਮ ਦੀ ਸਭਾ ਵਿੱਚ ਆਰਾਮ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ਜੋ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "ਭਟਕਦਾ ਹੈ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ਰਾਹ ਤੋਂ"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ਸਮਜ ਦੇ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ਸਭਾ ਵਿੱਚ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ਰਫ਼ਾਈਮ ਦੀ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ਆਰਾਮ ਕਰੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:30:16.605484371Z",
+  "model": "glm-5.2"
+}

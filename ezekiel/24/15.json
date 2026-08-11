@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਵਚਨ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਕਹਿੰਦਾ:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "ਵਚਨ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "ਕਹਿੰਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:53:20.859930212Z",
+  "model": "glm-5.2"
+}

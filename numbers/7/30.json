@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਚੌਥੇ ਦਿਨ ਰਊਬੇਨ ਦੇ ਪੁੱਤਰਾਂ ਦਾ ਨਸੀਂ — ਸ਼ਦੇਊਰ ਦਾ ਪੁੱਤਰ ਏਲੀਤਸੂਰ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ਚੌਥੇ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਂ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਦੇ ਪੁੱਤਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬੇਨ"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ਏਲੀਤਸੂਰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ਸ਼ਦੇਊਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:30.339812299Z",
+  "model": "glm-5.2"
+}

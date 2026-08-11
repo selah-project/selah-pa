@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਖ਼ੁਸ਼ੀ ਵਾਲਾ ਦਿਲ ਚਿਹਰੇ ਨੂੰ ਚੰਗਾ ਕਰਦਾ ⟨ਹੈ⟩, ਪਰ ਦਿਲ ਦੇ ਦੁੱਖ ਨਾਲ ਰੂਹ ਪੀੜਤ ਹੁੰਦੀ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ਖ਼ੁਸ਼ੀ ਵਾਲਾ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ਚੰਗਾ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ਚਿਹਰੇ ਨੂੰ"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "ਪਰ ਦੁੱਖ ਨਾਲ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ ਦੇ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਰੂਹ"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ਪੀੜਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:27:05.182861900Z",
+  "model": "glm-5.2"
+}

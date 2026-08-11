@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਕਥਨ ਮੇਰੇ ਕੋਲ ਆਇਆ, ਇਹ ਕਹਿ ਕੇ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕਥਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਇਹ ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:46:55.054094079Z",
+  "model": "glm-5.2"
+}

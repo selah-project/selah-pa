@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 23:29",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਖ਼ੇਲੇਵ ਬਿਨ ਬਾਅਨਾਹ ਨਤੋਫ਼ਾਤੀ, ਇਤਾਈ ਬਿਨ ਰੀਬਾਈ ਗਿਬਿਆ ਤੋਂ, ਬਿਨ ਬਿਨਯਾਮੀਨ ਦੇ,",
+  "tokens": [
+    {
+      "surface": "חלב",
+      "gloss": "ਖ਼ੇਲੇਵ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ਬਾਅਨਾਹ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ਨਤੋਫ਼ਾਤੀ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ਇਤਾਈ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ਰੀਬਾਈ"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "ਗਿਬਿਆ ਤੋਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ਬਿਨਯਾਮੀਨ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.820322069Z",
+  "model": "glm-5.2"
+}

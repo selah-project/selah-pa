@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਇਸ ਲਈ ਉਸ ਨੇ ਉਸ ਥਾਂ ਦਾ ਨਾਮ ਬੇਰ-ਸ਼ਬਾ ਪੁਕਾਰਿਆ, ਕਿਉਂਕਿ ਉੱਥੇ ਉਹ ਦੋਵੇਂ ਸਹੁੰ ਖਾਧੀ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ਪੁਕਾਰਿਆ"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ਥਾਂ ਦਾ ਨਾਮ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ਬੇਰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸ਼ਬਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ਸਹੁੰ ਖਾਧੀ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ਉਹ ਦੋਵੇਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:52:43.282290407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਖ਼ਾਨਾਨ ਦੇ ਪੁੱਤਰ, ਗਿੱਦੇਲ ਦੇ ਪੁੱਤਰ, ਗਾਖਰ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ਖ਼ਾਨਾਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ਗਿੱਦੇਲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "ਗਾਖਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:45:59.240523791Z",
+  "model": "glm-5.2"
+}

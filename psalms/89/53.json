@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 89,
+  "translation": "ਧੰਨਵਾਦ ਹੋਵੇ ਯਾਹਵੇਹ ਨੂੰ ⟨ਉਹ ਵੀ⟩ ਸਦਾ ਲਈ। ਆਮੀਨ, ਅਤੇ ਆਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ਧੰਨਵਾਦ ਹੋਵੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ਆਮੀਨ"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ਅਤੇ ਆਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:03:45.257160216Z",
+  "model": "glm-5.2"
+}

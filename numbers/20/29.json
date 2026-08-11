@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 20:29",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਸਾਰੀ ⟨ਸਭਾ⟩ ਨੇ ਦੇਖਿਆ ਕਿ ਅਹਰੋਨ ਗਵਾਇਆ ਗਿਆ, ਅਤੇ ਸਾਰੇ ਬਨੀ ਯਿਸਰਾਏਲ ਨੇ ਅਹਰੋਨ ਲਈ ⟨את⟩ ਅਹਰੋਨ ਨੂੰ ਤੀਹ ਦਿਨ ਰੋਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ਅਤੇ ਦੇਖਿਆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ਸਭਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "ਗਵਾਇਆ ਗਿਆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ਅਤੇ ਰੋਇਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅਹਰੋਨ ਨੂੰ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ਤੀਹ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬਨੀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:57:19.546433782Z",
+  "model": "glm-5.2"
+}

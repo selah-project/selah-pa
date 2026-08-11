@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਸ਼ਿਮਓਨ ਦੇ ਕਬੀਲੇ ਲਈ ਸ਼ਾਫਾਤ, ਖ਼ੋਰੀ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ਸ਼ਿਮਓਨ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ਸ਼ਾਫਾਤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ਖ਼ੋਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:06.701480333Z",
+  "model": "glm-5.2"
+}

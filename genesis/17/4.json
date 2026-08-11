@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਮੈਂ — ਇੱਥੇ ਹੈ, ਮੇਰੀ ਬਰਤਨ ⟨את⟩ ਤੇਰੇ ਨਾਲ ਹੈ, ਅਤੇ ਤੂੰ ਕੌਮਾਂ ਦੇ ਇੱਕ ਭੀੜ ਦਾ ਪਿਤਾ ਬਣਨਗਾ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਇੱਥੇ ਹੈ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ਮੇਰੀ ਬਰਤਨ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ਤੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ਅਤੇ ਤੂੰ ਬਣਨਗਾ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ਪਿਤਾ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ਭੀੜ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ਕੌਮਾਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:51:28.574405101Z",
+  "model": "glm-5.2"
+}

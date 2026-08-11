@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਗੋਮਰ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ — ਅਸ਼ਕਨਾਜ਼ ਅਤੇ ਰੀਫ਼ਾਤ ਅਤੇ ਤੋਗਰਮਾਹ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ਗੋਮਰ ਦੇ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ਅਸ਼ਕਨਾਜ਼"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ਅਤੇ ਰੀਫ਼ਾਤ"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ਅਤੇ ਤੋਗਰਮਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:24.693343937Z",
+  "model": "glm-5.2"
+}

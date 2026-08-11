@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਲਿਬਨਾ ਦਾ ਰਾਜਾ, ਇੱਕ; ਅਦੁੱਲਾਮ ਦਾ ਰਾਜਾ, ਇੱਕ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ਲਿਬਨਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ਅਦੁੱਲਾਮ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:49.601062961Z",
+  "model": "glm-5.2"
+}

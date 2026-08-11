@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਈਰਾ ⟨ਜਾਂਦਾ ਹੈ⟩ ਯਿਤਰੀ, ਗਾਰੇਬ ⟨ਜਾਂਦਾ ਹੈ⟩ ਯਿਤਰੀ।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ਈਰਾ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ਯਿਤਰੀ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ਗਾਰੇਬ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ਯਿਤਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.480985228Z",
+  "model": "glm-5.2"
+}

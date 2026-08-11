@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਵੇਖ, ਮੈਂ ਤੇਰੇ ਅੱਗੇ ਅੱਜ ਰੱਖਿਆ ਹੈ ⟨את⟩ ਜੀਵਨ ਅਤੇ ⟨את⟩ ਭਲਾਈ, ਅਤੇ ⟨את⟩ ਮੌਤ ਅਤੇ ⟨את⟩ ਬੁਰਾਈ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ਵੇਖ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ਮੈਂ ਰੱਖਿਆ ਹੈ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ਤੇਰੇ ਅੱਗੇ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਅੱਜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜੀਵਨ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ਜੀਵਨ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਭਲਾਈ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ਭਲਾਈ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਮੌਤ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ਮੌਤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ਬੁਰਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:23:43.839201383Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਕਿਉਂਕਿ ਵੇਸਵਾ ⟨ਇੱਕ⟩ ਡੂੰਘੀ ਖਾੜੀ ਹੈ, ਅਤੇ ਨਿੱਗਰ ਇਸਤਰੀ ⟨ਇੱਕ⟩ ਤੰਗ ਖੂਹ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ਖਾੜੀ"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ਡੂੰਘੀ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ਵੇਸਵਾ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ਅਤੇ ਖੂਹ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ਤੰਗ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ਨਿੱਗਰ ਇਸਤਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:52.271194575Z",
+  "model": "glm-5.2"
+}

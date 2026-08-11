@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਵਾਜੇ ਵਜਾਉਣ ਵਾਲੇ ਲਈ, ਅੱਠਵੀਂ ⟨ਧੁਨ⟩ ਉੱਤੇ, ਦਾਵਿਦ ਦਾ ਜ਼ਬੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਵਾਜੇ ਵਜਾਉਣ ਵਾਲੇ ਲਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ਅੱਠਵੀਂ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:29:06.350595648Z",
+  "model": "glm-5.2"
+}

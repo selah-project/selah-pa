@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, ਨਹੀਂ, ਮੇਰੇ ਮਾਲਕ, ਪਰ ਤੇਰੇ ਦਾਸ ਅਨਾਜ ਖਰੀਦਣ ਲਈ ਆਏ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਮੇਰੇ ਮਾਲਕ"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ਅਤੇ ਤੇਰੇ ਦਾਸ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ਆਏ ਹਨ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ਖਰੀਦਣ ਲਈ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ਅਨਾਜ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:04:48.669477928Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਇਹ ⟨ਹਨ⟩ ਗੇਰਸ਼ੋਮ ਦੇ ਪੁੱਤਰਾਂ ਦੇ ਨਾਮ: ਲਿਬਨੀ ਅਤੇ ਸ਼ਿਮਈ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ਗੇਰਸ਼ੋਮ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਲਿਬਨੀ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ਅਤੇ ਸ਼ਿਮਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:49.731652190Z",
+  "model": "glm-5.2"
+}

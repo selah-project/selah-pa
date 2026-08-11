@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਹਰ ਵੇਲੇ ਦੋਸਤ ਪਿਆਰ ਕਰਦਾ ਹੈ, ਅਤੇ ਮੁਸੀਬਤ ਲਈ ਭਰਾ ਜੰਮਿਆ ਜਾਂਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ਵੇਲੇ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ਪਿਆਰ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ਦੋਸਤ"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ਅਤੇ ਭਰਾ"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "ਮੁਸੀਬਤ ਲਈ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ਜੰਮਿਆ ਜਾਂਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:39.386518911Z",
+  "model": "glm-5.2"
+}

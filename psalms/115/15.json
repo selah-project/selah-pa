@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 115,
+  "translation": "ਤੁਸੀਂ ਬਰਕਤੀ ਹੋ ਯਾਹਵੇਹ ਵੱਲੋਂ, ਜੋ ਅਕਾਸ਼ ਅਤੇ ਧਰਤੀ ਦਾ ਕਰਨਹਾਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "ਬਰਕਤੀ ਹੋ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ਤੁਸੀਂ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਵੱਲੋਂ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕਰਨਹਾਰ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ਅਕਾਸ਼"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ਅਤੇ ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:10:13.685986860Z",
+  "model": "glm-5.2"
+}

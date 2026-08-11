@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਏਲੋਹੀਮ ਨੇ ਮਨੁੱਖ ਨੂੰ ਪੁਕਾਰਿਆ ਅਤੇ ਉਸ ਨੂੰ ਆਖਿਆ, ਤੂੰ ਕਿੱਥੇ ਹੈਂ?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਪੁਕਾਰਿਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਆਖਿਆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ਕਿੱਥੇ ਹੈਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:44:02.836745823Z",
+  "model": "glm-5.2"
+}

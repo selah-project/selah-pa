@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 82,
+  "translation": "ਕਮਜ਼ੋਰ ਅਤੇ ਯਤੀਮ ਦਾ ਨਿਆਂ ਕਰੋ; ਦੱਬੇ ਅਤੇ ਕੰਗਾਲ ਨੂੰ ਨੇਕ ਠਹਿਰਾਓ।",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "ਨਿਆਂ ਕਰੋ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ਕਮਜ਼ੋਰ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ਅਤੇ ਯਤੀਮ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ਦੱਬੇ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ਅਤੇ ਕੰਗਾਲ"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "ਨੇਕ ਠਹਿਰਾਓ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:01:23.017787379Z",
+  "model": "glm-5.2"
+}

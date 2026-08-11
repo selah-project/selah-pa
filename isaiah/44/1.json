@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 44,
+  "translation": "ਅਤੇ ਹੁਣ ਸੁਣ, ਯਾਕੋਬ ਮੇਰੇ ਦਾਸ, ਅਤੇ ਇਸਰਾਏਲ, ਜਿਸ ਨੂੰ ਮੈਂ ਚੁਣਿਆ ਹੈ:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ਮੇਰੇ ਦਾਸ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ਅਤੇ ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ਮੈਂ ਚੁਣਿਆ ਹੈ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:04:41.969866091Z",
+  "model": "glm-5.2"
+}

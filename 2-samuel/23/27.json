@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਬੀਏਜ਼ਰ ਅਨਾਤੋਤੀ, ਮੇਬੁੰਨਈ ਹੁਸ਼ਾਤੀ,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "ਅਬੀਏਜ਼ਰ"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "ਅਨਾਤੋਤੀ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ਮੇਬੁੰਨਈ"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ਹੁਸ਼ਾਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.432744357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਅਬਦੋਨ, ਅਤੇ ਜ਼ਿਕਰੀ, ਅਤੇ ਖ਼ਾਨਾਨ।",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "ਅਤੇ ਅਬਦੋਨ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ਅਤੇ ਜ਼ਿਕਰੀ"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "ਅਤੇ ਖ਼ਾਨਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:44.583462496Z",
+  "model": "glm-5.2"
+}

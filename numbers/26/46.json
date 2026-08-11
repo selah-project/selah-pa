@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਆਸ਼ੇਰ ਦੀ ਧੀ ਦਾ ਨਾਂ ਸਰਾਖ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ਅਤੇ ਨਾਂ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਆਸ਼ੇਰ"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "ਸਰਾਖ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:00.264051059Z",
+  "model": "glm-5.2"
+}

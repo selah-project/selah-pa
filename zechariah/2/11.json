@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਹਾਏ, ਤਸੀਯੋਨ, ਬਚ ਕੇ ਭੱਜੋ, ਬਾਬਲ ਦੀ ਧੀ ਦੇ ਵਸਣ ਵਾਲੀ!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ਹਾਏ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ਤਸੀਯੋਨ"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ਬਚ ਕੇ ਭੱਜੋ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ਵਸਣ ਵਾਲੀ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ ਦੇ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ਬਾਬਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:53:45.660041561Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਜੋ ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਯਿਰਮਿਯਾਹੂ ਕੋਲ ਆਇਆ, ਸੋਗਾਂ ਦੇ ਕੰਮਾਂ ਵਿੱਚ:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਕੰਮਾਂ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ਸੋਗਾਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:20:53.084600550Z",
+  "model": "glm-5.2"
+}

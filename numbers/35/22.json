@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਪਰ ਜੇ ਅਚਾਨਕ, ਬਿਨਾਂ ਵੈਰ ਦੇ, ਉਸ ਨੂੰ ਧੱਕਾ ਦਿੱਤਾ, ਜਾਂ ਉਸ ਉੱਤੇ ਕੋਈ ਸੰਦ ਸਿੱਟਿਆ, ਬਿਨਾਂ ਘਾਤ ਦੇ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਪਰ ਜੇ"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "ਅਚਾਨਕ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "ਵੈਰ ਦੇ"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "ਉਸ ਨੂੰ ਧੱਕਾ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "ਸਿੱਟਿਆ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ਸੰਦ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "ਘਾਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:06:55.955398756Z",
+  "model": "glm-5.2"
+}

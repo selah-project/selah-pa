@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਧਰਤੀ ਦੇ ਸਾਰੇ ਲੋਕ ਵੇਖਣਗੇ ਕਿ ਯਾਹਵੇਹ ਦਾ ਨਾਮ ਤੇਰੇ ਉੱਤੇ ਬੁਲਾਇਆ ਗਿਆ ਹੈ, ਅਤੇ ਉਹ ਤੈਨੂੰ ਡਰ ਕਰਨਗੇ।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ਅਤੇ ਵੇਖਣਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ਬੁਲਾਇਆ ਗਿਆ ਹੈ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ਤੇਰੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ਅਤੇ ਉਹ ਡਰ ਕਰਨਗੇ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ਤੈਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:22:20.898391292Z",
+  "model": "glm-5.2"
+}

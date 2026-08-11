@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਕਿਉਂਕਿ ਨੀਹਾਂ ਢਾਹ ਦਿੱਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ — ਧਰਮੀ ਨੇ ਕੀ ਕੀਤਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ਨੀਹਾਂ"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ਢਾਹ ਦਿੱਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ਕੀਤਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:30:19.893482740Z",
+  "model": "glm-5.2"
+}

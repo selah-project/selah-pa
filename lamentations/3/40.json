@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਆਪਣੇ ਰਾਹ ਘੋਖੀਏ ਅਤੇ ਪਰਖੀਏ, ਅਤੇ ਯਾਹਵੇਹ ਵੱਲ ⟨ਵਾਪਸ⟩ ਮੁੜੀਏ।",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "ਘੋਖੀਏ"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "ਆਪਣੇ ਰਾਹ"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "ਅਤੇ ਪਰਖੀਏ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ਅਤੇ ਮੁੜੀਏ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:38.948770594Z",
+  "model": "glm-5.2"
+}

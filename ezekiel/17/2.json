@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਹੇ ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ, ਇੱਕ ਪਹੇਲੀ ਪੁਛ ਅਤੇ ਇਸਰਾਏਲ ਦੇ ਘਰਾਣੇ ਵੱਲ ਇੱਕ ਮਸਲ ਬਿਆਨ ਕਰ:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਹੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "ਪੁਛ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "ਇੱਕ ਪਹੇਲੀ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ਅਤੇ ਬਿਆਨ ਕਰ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ਇੱਕ ਮਸਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰਾਣੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:48:38.271080939Z",
+  "model": "glm-5.2"
+}

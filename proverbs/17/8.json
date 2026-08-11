@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਰਿਸ਼ਵਤ ⟨ਦੇਣ ਵਾਲੇ ਦੀਆਂ ਅੱਖਾਂ ਵਿੱਚ⟩ ਇੱਕ ਕਿਰਪਾ ਦਾ ਪਥਰ ਹੈ; ਜਿੱਧਰ ਵੀ ਮੁੜੇ, ਉਹ ਸਫਲ ਹੁੰਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ਪੱਥਰ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ਕਿਰਪਾ ਦਾ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ਰਿਸ਼ਵਤ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ਅੱਖਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ਉਸ ਦੇ ਮਾਲਕ ਦੀਆਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਜਿੱਧਰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿੱਥੇ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ਮੁੜੇ"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ਸਫਲ ਹੁੰਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:33.018697566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 7:29",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਸ਼ਲਮੀ ਕੁਰਬਾਨ ਲਈ: ਦੋ ਬਲਦ, ਪੰਜ ਮੇਢੇ, ਪੰਜ ਬੱਕਰੇ, ਇੱਕ ਸਾਲ ਦੇ ਪੰਜ ਮੇਮਣੇ — ਇਹ ਹੇਲੋਨ ਦੇ ਪੁੱਤਰ ਏਲੀਆਵ ਦਾ ਕੁਰਬਾਨ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "ਅਤੇ ... ਲਈ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ਸ਼ਲਮੀ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ਮੇਢੇ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "ਬੱਕਰੇ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਮੇਮਣੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ਕੁਰਬਾਨ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ਏਲੀਆਵ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ਹੇਲੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:30.339586537Z",
+  "model": "glm-5.2"
+}

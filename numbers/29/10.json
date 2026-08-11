@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਦਸਵੰਤ, ਦਸਵੰਤ ਹਰ ਇੱਕ ਬੱਕਰੇ ਲਈ, ਸੱਤ ਬੱਕਰਿਆਂ ਲਈ ⟨ਹਰ ਇੱਕ ਲਈ⟩;",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ਦਸਵੰਤ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ਦਸਵੰਤ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ਬੱਕਰੇ ਲਈ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ਹਰ ਇੱਕ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ਸੱਤ ਲਈ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ਬੱਕਰਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:29.098856369Z",
+  "model": "glm-5.2"
+}

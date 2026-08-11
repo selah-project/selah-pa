@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਅਤੇ ਤੁਸੀਂ ਇੱਕ ਕਾਤਲ ਦੀ ਜਾਨ ਲਈ ਬਦਲਾ ਨਹੀਂ ਲਓ, ਜੋ ਮੌਤ ਦੇ ਯੋਗ ਹੈ, ਕਿਉਂਕਿ ਉਹ ਯਕੀਨਨ ਮਾਰਿਆ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ਤੁਸੀਂ ਲਓ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ਬਦਲਾ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ਜਾਨ ਲਈ"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ਕਾਤਲ ਦੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ਮੌਤ ਦੇ ਯੋਗ ਹੈ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ਮੌਤ ਲਈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਯਕੀਨਨ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ਮਾਰਿਆ ਜਾਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:07:03.136678894Z",
+  "model": "glm-5.2"
+}

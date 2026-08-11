@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 62,
+  "translation": "ਸਿਰਫ਼ ਏਲੋਹੀਮ ਲਈ ਚੁੱਪ ਰਹੁ, ਹੇ ਮੇਰੀ ਜਾਨ, ਕਿਉਂਕਿ ਉਸ ਤੋਂ ਹੀ ਮੇਰੀ ਆਸ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ਏਲੋਹੀਮ ਲਈ"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ਚੁੱਪ ਰਹੁ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ਹੇ ਮੇਰੀ ਜਾਨ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ਉਸ ਤੋਂ ਹੀ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ਮੇਰੀ ਆਸ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:55:09.080140397Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਖ਼ਾਦੀਦ, ਤਸਬੋਈਮ, ਨਬਲਾਤ।",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "ਖ਼ਾਦੀਦ"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "ਤਸਬੋਈਮ"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "ਨਬਲਾਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:21.377677470Z",
+  "model": "glm-5.2"
+}

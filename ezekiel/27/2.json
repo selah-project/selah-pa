@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਤੂੰ, ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ, ਤਸੋਰ ਲਈ ਇੱਕ ਕੁਰਲਾਹਟ ਚੁੱਕ:",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ਅਤੇ ਤੂੰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ਚੁੱਕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ਤਸੋਰ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ਇੱਕ ਕੁਰਲਾਹਟ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:54:41.165835875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਲਅਦਯਾ ਦੇ ⟨ਵਾਸਤੇ⟩, ਜ਼ਖਰਯਾ; ਲਗਿੰਨਥੋਨ ਦੇ ⟨ਵਾਸਤੇ⟩, ਮਸ਼ੁੱਲਾਮ;",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "ਲਅਦਯਾ ਦੇ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ਜ਼ਖਰਯਾ"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "ਲਗਿੰਨਥੋਨ ਦੇ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ਮਸ਼ੁੱਲਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:48:54.647079321Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 60,
+  "translation": "ਕੌਣ ਮੈਨੂੰ ਕਿਲ੍ਹੇ ਦੇ ਸ਼ਹਿਰ ਵਿੱਚ ਲਿਜਾਏਗਾ? ਕੌਣ ਮੈਨੂੰ ਅਦੋਮ ਤੱਕ ਲੈ ਜਾਏਗਾ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "ਯבלני",
+      "gloss": "ਮੈਨੂੰ ਲਿਜਾਏਗਾ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ਕਿਲ੍ਹੇ ਦੇ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ਮੈਨੂੰ ਲੈ ਜਾਏਗਾ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਅਦੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:54:55.352569339Z",
+  "model": "glm-5.2"
+}

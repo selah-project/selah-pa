@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਸੋਚ-ਵਿਚਾਰ ਤੈਨੂੰ ਰੱਖੇਗਾ, ਸਮਝ ਤੈਨੂੰ ਨਿਹਚਾ ਕੇ ਰੱਖੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "ਸੋਚ-ਵਿਚਾਰ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ਰੱਖੇਗਾ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ਸਮਝ"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "ਨਿਹਚਾ ਕੇ ਰੱਖੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:52.256527675Z",
+  "model": "glm-5.2"
+}

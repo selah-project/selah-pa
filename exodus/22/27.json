@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਏਲੋਹੀਮ ਨੂੰ ਨਾ ਬਦਨਾਮ ਕਰ, ਅਤੇ ਆਪਣੇ ਲੋਕਾਂ ਦੇ ਆਗੂ ਨੂੰ ਨਾ ਭੰਡਿਆ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ਬਦਨਾਮ ਕਰ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ਅਤੇ ਆਗੂ"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ਆਪਣੇ ਲੋਕਾਂ ਦੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ਭੰਡਿਆ ਕਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:19:54.270916010Z",
+  "model": "glm-5.2"
+}

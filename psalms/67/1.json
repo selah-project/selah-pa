@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 67,
+  "translation": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ, ਸਾਜ਼ਾਂ ਦੇ ਨਾਲ, ⟨ਇੱਕ⟩ ਜ਼ਬੂਰ, ⟨ਇੱਕ⟩ ਗੀਤ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ਸਾਜ਼ਾਂ ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ਗੀਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:56:05.671648898Z",
+  "model": "glm-5.2"
+}

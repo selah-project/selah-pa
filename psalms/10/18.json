@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਯਤੀਮ ਅਤੇ ਕੁਚਿਤ ਦਾ ਨਿਆਂ ਕਰਨ ਲਈ, ਤਾਂ ਜੋ ⟨ਉਹ⟩ ਹੋਰ ਨਾ ਡਰਾਉਂਦਾ ਰਹੇ — ਧਰਤੀ ਦਾ ਮਨੁੱਖ।",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ਨਿਆਂ ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ਯਤੀਮ"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ਅਤੇ ਕੁਚਿਤ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ਹੋਰ ਰਹੇ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ਡਰਾਉਂਦਾ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਦਾ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:28:54.425531673Z",
+  "model": "glm-5.2"
+}

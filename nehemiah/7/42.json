@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਹਾਰਮ ਦੇ ਪੁੱਤਰ: ਹਜ਼ਾਰ ਸਤਾਰਾਂ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ਹਾਰਮ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ਤਾਰਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:32.801311752Z",
+  "model": "glm-5.2"
+}

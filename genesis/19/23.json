@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਸੂਰਜ ਧਰਤੀ ਉੱਤੇ ਚੜ੍ਹ ਆਇਆ ⟨ਸੀ⟩, ਅਤੇ ਲੂਤ ਤਸੋਅਰ ਵਿੱਚ ਆਇਆ।",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ਨਿਕਲਿਆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ਅਤੇ ਲੂਤ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ਤਸੋਅਰ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:51:28.706384639Z",
+  "model": "glm-5.2"
+}

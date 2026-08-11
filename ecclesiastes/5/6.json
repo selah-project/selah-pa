@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਕਿਉਂਕਿ ਸੁਪਨਿਆਂ ਦੀ ਬਹੁਲਤਾ ਵਿੱਚ ⟨ਆਉਂਦੇ ਹਨ⟩ ਵਿਅਰਥ ਅਤੇ ਬਹੁਤ ਸਾਰੇ ਬੋਲ — ਸਗੋਂ ਤੂੰ ⟨את⟩ ਏਲੋਹੀਮ ਤੋਂ ਡਰ!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ਦੀ ਬਹੁਲਤਾ ਵਿੱਚ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ਸੁਪਨਿਆਂ"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ਅਤੇ ਵਿਅਰਥ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ਅਤੇ ਬੋਲ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ਬਹੁਤ ਸਾਰੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਸਗੋਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਲੋਹੀਮ ਨੂੰ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ਡਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:14:49.718108290Z",
+  "model": "glm-5.2"
+}

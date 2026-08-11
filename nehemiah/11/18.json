@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਪਵਿੱਤਰ ਸ਼ਹਿਰ ਵਿੱਚ ਸਾਰੇ ਲੇਵੀ ਦੋ ਸੌ ਚੁਰਾਸੀ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ਲੇਵੀ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ਸ਼ਹਿਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ਦੋ ਸੌ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ਅੱਸੀ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ਅਤੇ ਚਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:40.567990693Z",
+  "model": "glm-5.2"
+}

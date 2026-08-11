@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਯਾਕੋਬ ਨੇ ਕਿਹਾ, ਅੱਜ ਹੀ ਮੈਨੂੰ ⟨את⟩ ਆਪਣੀ ਜੇਠੇ ਦਾ ਹੱਕ ਵੇਚ ਦੇ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ ਨੇ"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ਵੇਚ ਦੇ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ਅੱਜ ਹੀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਆਪਣੀ ਜੇਠੇ ਦਾ ਹੱਕ"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ਆਪਣੀ ਜੇਠੇ ਦਾ ਹੱਕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੈਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:03.172579048Z",
+  "model": "glm-5.2"
+}

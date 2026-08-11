@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਯਕੀਨਨ ਮੇਰੇ ਵਿਰੁੱਧ ⟨ਉਹ⟩ ਮੁੜਦਾ ਹੈ, ⟨ਉਹ⟩ ਆਪਣਾ ਹੱਥ ਪਲਟਦਾ ਹੈ ਸਾਰਾ ਦਿਨ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ਯਕੀਨਨ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ਮੇਰੇ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ਮੁੜਦਾ ਹੈ"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ਪਲਟਦਾ ਹੈ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ਆਪਣਾ ਹੱਥ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰਾ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਦਿਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:02.037327589Z",
+  "model": "glm-5.2"
+}

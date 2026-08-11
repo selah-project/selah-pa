@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਅਦਾਯਾਹ, ਅਤੇ ਬਰਾਯਾਹ, ਅਤੇ ਸ਼ਿਮਰਤ — ਸ਼ਿਮਈ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "ਅਤੇ ਅਦਾਯਾਹ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ਅਤੇ ਬਰਾਯਾਹ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ਅਤੇ ਸ਼ਿਮਰਤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ਸ਼ਿਮਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:44.583111806Z",
+  "model": "glm-5.2"
+}

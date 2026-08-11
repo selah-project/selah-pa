@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਸਦਮਾ ਅਤੇ ਖੌਫ਼ਨਾਕ ਗੱਲ ਧਰਤੀ ਵਿੱਚ ਵਾਪਰੀ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ਸਦਮਾ"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "ਅਤੇ ਖੌਫ਼ਨਾਕ ਗੱਲ"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ਵਾਪਰੀ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਧਰਤੀ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:16:02.673364653Z",
+  "model": "glm-5.2"
+}

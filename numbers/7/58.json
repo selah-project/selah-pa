@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬੱਕਰੀਆਂ ਦਾ ਇੱਕ ਬੋਤਾ ਪਾਪ-ਭੇਟ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "ਬੋਤਾ"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "ਬੱਕਰੀਆਂ ਦਾ"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "ਪਾਪ-ਭੇਟ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:49.082605276Z",
+  "model": "glm-5.2"
+}

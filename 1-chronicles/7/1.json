@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਯਿਸਾਸਕਾਰ ਦੇ ਪੁੱਤਰ — ਤੋਲਾ, ਫੂਆ, ਯਾਸ਼ੂਬ ਅਤੇ ਸ਼ਿਮਰੋਨ, ਚਾਰ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ਅਤੇ … ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ਯਿਸਾਸਕਾਰ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ਤੋਲਾ"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "ਅਤੇ ਫੂਆ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ਯਾਸ਼ੂਬ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ਅਤੇ ਸ਼ਿਮਰੋਨ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:00:11.263943663Z",
+  "model": "glm-5.2"
+}

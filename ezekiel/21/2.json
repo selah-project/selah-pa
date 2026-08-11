@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਹੇ ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ, ਆਪਣਾ ਮੂੰਹ ਦੱਖਣ ਵੱਲ ਕਰ, ਅਤੇ ਦੱਖਣ ਵੱਲ ਟਪਕਾ, ਅਤੇ ਦੱਖਣ ਦੇ ਖੇਤ ਦੇ ਜੰਗਲ ਵੱਲ ਨਬੀਗੀ ਕਰ:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ਕਰ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ਆਪਣਾ ਮੂੰਹ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ਦੱਖਣ"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ਅਤੇ ਟਪਕਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ਦੱਖਣ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ਅਤੇ ਨਬੀਗੀ ਕਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ਜੰਗਲ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ਖੇਤ ਦੇ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ਦੱਖਣ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:50:58.096307506Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਜੋ ਆਖਦੇ ਹਨ, ⟨ਇਹ⟩ ਨੇੜੇ ਨਹੀਂ ⟨ਹੈ⟩; ਘਰ ਬਣਾਓ, ਇਹ ਡੱਕਾ ⟨ਹੈ⟩, ਅਤੇ ਅਸੀਂ ਮਾਸ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "ਜੋ ਆਖਦੇ ਹਨ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "ਨੇੜੇ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਬਣਾਓ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ਡੱਕਾ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ਅਤੇ ਅਸੀਂ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ਮਾਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:45:40.337331891Z",
+  "model": "glm-5.2"
+}

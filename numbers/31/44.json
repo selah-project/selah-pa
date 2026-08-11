@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਵੱਡੇ ਪਸ਼ੂ ਛੱਤੀ ਹਜ਼ਾਰ,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ਅਤੇ ਵੱਡੇ ਪਸ਼ੂ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ਅਤੇ ਤੀਹ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:41.958303153Z",
+  "model": "glm-5.2"
+}

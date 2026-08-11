@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਜ਼ਾਨੋਆਹ, ਅਤੇ ਏਨ-ਗੰਮ, ਤੱਪੂਆਹ, ਅਤੇ ਏਨਾਮ;",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "ਅਤੇ ਜ਼ਾਨੋਆਹ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ਅਤੇ ਏਨ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-ਗੰਮ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ਤੱਪੂਆਹ"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "ਅਤੇ ਏਨਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:53.288430472Z",
+  "model": "glm-5.2"
+}

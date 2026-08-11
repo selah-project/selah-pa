@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਜਿਹਾ ਦਿਲ ਹੈ ਉਹ ਤੈਨੂੰ ਦੇਵੇ, ਅਤੇ ਤੇਰੀ ਸਾਰੀ ਸਲਾਹ ਪੂਰੀ ਕਰੇ।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ਦੇਵੇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "ਤੇਰੇ ਦਿਲ ਅਨੁਸਾਰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੀ"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ਤੇਰੀ ਸਲਾਹ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ਪੂਰੀ ਕਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:31:57.362864293Z",
+  "model": "glm-5.2"
+}

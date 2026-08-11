@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਗਾਦ ਦਾ ਕਬੀਲਾ, ਅਤੇ ਗਾਦ ਦੇ ਪੁੱਤਰਾਂ ਦਾ ਨਾਸੀ ਅਲੀਸਾਪ ਰਉਏਲ ਦਾ ਪੁੱਤਰ ⟨ਹੋਵੇ⟩।",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "ਅਤੇ ⟨ਕਬੀਲਾ⟩"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ਅਤੇ ਨਾਸੀ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਦੇ ਪੁੱਤਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ਅਲੀਸਾਪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ਰਉਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:47:40.809459293Z",
+  "model": "glm-5.2"
+}

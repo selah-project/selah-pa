@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਬਿਖੇਰੀ ਹੈ ਖੁੱਲ੍ਹੀ ਝਿੜਕ, ਲੁਕੀ ਹੋਈ ਪ੍ਰੀਤ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ਬਿਖੇਰੀ ਹੈ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ਝਿੜਕ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ਖੁੱਲ੍ਹੀ"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ਪ੍ਰੀਤ ਤੋਂ"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "ਲੁਕੀ ਹੋਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:47.885327297Z",
+  "model": "glm-5.2"
+}

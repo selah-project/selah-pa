@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਪਰੋਹ ਮੁੜਿਆ ਅਤੇ ਆਪਣੇ ਘਰ ਵਿੱਚ ਆਇਆ, ਅਤੇ ਉਸ ਨੇ ਇਸ ਗੱਲ ਵੱਲ ਵੀ ਆਪਣਾ ਹਿਰਦਾ ਨਹੀਂ ਲਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਮੁੜਿਆ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ਪਰੋਹ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ਆਪਣੇ ਘਰ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ਲਾਇਆ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ਆਪਣਾ ਹਿਰਦਾ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ਇਸ ਗੱਲ ਵੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:11:44.660671651Z",
+  "model": "glm-5.2"
+}

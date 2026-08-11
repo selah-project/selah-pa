@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਮੀਕਾ ਦਾ ਭਰਾ ⟨ਸੀ⟩ ਯਿਸ਼ੀਯਾਹ; ਯਿਸ਼ੀਯਾਹ ਦੇ ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ ⟨ਸੀ⟩ ਜ਼ਖਰਯਾਹੂ।",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ਭਰਾ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ਮੀਕਾ"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ਯਿਸ਼ੀਯਾਹ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ਯਿਸ਼ੀਯਾਹ"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ਜ਼ਖਰਯਾਹੂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:51.248032348Z",
+  "model": "glm-5.2"
+}

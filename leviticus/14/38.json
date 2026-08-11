@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਤਾਂ ਕਹਿਣ ਵਾਲਾ ਘਰ ਤੋਂ ਬਾਹਰ ਆਵੇਗਾ, ਘਰ ਦੇ ਬੂਹੇ ਕੋਲ, ਅਤੇ ⟨ਉਹ⟩ ਘਰ ਨੂੰ ਸੱਤ ਦਿਨਾਂ ਲਈ ਬੰਦ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ਤਾਂ ਬਾਹਰ ਆਵੇਗਾ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕਹਿਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ਬੂਹੇ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ ਦੇ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ਅਤੇ ਬੰਦ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਘਰ ਨੂੰ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:37:02.687267548Z",
+  "model": "glm-5.2"
+}

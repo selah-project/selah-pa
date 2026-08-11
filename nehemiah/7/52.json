@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬੇਸਾਈ ਦੇ ਪੁੱਤਰ, ਮਉਨੀਮ ਦੇ ਪੁੱਤਰ, ਨਫੂਸ਼ਸਿਮ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "ਬੇਸਾਈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "ਮਉਨੀਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "ਨਫੂਸ਼ਸਿਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:45:59.241069279Z",
+  "model": "glm-5.2"
+}

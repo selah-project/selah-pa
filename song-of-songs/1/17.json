@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸਾਡੇ ਘਰ ਦੀਆਂ ਕੜੰਮਾਂ ਦੇਵਦਾਰ ਹਨ, ਸਾਡੇ ਤਖ਼ਤੇ ਸਰੂ ਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "ਕੜੰਮਾਂ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ਸਾਡੇ ਘਰ ਦੀਆਂ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ਦੇਵਦਾਰ"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "ਸਾਡੇ ਤਖ਼ਤੇ"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "ਸਰੂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:58:41.303108774Z",
+  "model": "glm-5.2"
+}

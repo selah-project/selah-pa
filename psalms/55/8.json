@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 55,
+  "translation": "ਵੇਖੋ, ਮੈਂ ਦੂਰ ਭੱਜ ਜਾਵਾਂ, ਮੈਂ ਉਜਾੜ ਵਿੱਚ ਟਿਕਾਣਾ ਕਰਾਂ। ਸੇਲਾ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ਮੈਂ ਦੂਰ ਭੱਜ ਜਾਵਾਂ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ਭੱਜਣਾ"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ਮੈਂ ਟਿਕਾਣਾ ਕਰਾਂ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ਉਜਾੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ਸੇਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:52:06.629544593Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਇਹ ਹਨ ਅਵਰਾਹਾਮ ਦੇ ਜੀਵਨ ਦੇ ਸਾਲਾਂ ਦੇ ਦਿਨ, ਜੋ ਉਸਨੇ ਜੀਵੇ — ਸੌ ਸਾਲ ਅਤੇ ਸੱਤਰ ਸਾਲ ਅਤੇ ਪੰਜ ਸਾਲ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ ਹਨ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦੇ ਦਿਨ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਸਾਲਾਂ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ਜੀਵਨ ਦੇ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਉਸਨੇ ਜੀਵੇ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ਅਤੇ ਸੱਤਰ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:54:47.032326290Z",
+  "model": "glm-5.2"
+}

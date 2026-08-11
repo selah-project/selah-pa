@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇਸ ਗੱਲ ਉੱਤੇ ਯਾਹਵੇਹ ਨੇ ਰਾਜੀ ਹੋਇਆ — ਇਹ ਨਹੀਂ ਹੋਵੇਗਾ, ਯਾਹਵੇਹ ਨੇ ਕਿਹਾ।",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ਰਾਜੀ ਹੋਇਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਸ ਗੱਲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:13:29.443450315Z",
+  "model": "glm-5.2"
+}

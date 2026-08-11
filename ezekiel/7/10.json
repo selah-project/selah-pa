@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਵੇਖੋ, ਉਹ ਦਿਨ! ਵੇਖੋ, ਆ ਰਿਹਾ ਹੈ! ਨਿਕਲੀ ਹੈ ⟨ਉਹ⟩ ਭੋਰ — ਖਿੜੀ ਹੈ ⟨ਉਹੀ⟩ ਡੰਡਾ, ਪੁੰਗਰਿਆ ਹੈ ਹੰਕਾਰ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਉਹ ਦਿਨ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ਆ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ਨਿਕਲੀ ਹੈ"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "ਭੋਰ"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "ਖਿੜੀ ਹੈ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ਡੰਡਾ"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ਪੁੰਗਰਿਆ ਹੈ"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "ਹੰਕਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:43:00.482254091Z",
+  "model": "glm-5.2"
+}

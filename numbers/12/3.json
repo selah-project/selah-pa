@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਉਹ ਮਨੁੱਖ ਮੋਸ਼ੇ ਬਹੁਤ ਨਿਮ੍ਰ ਸੀ, ਧਰਤੀ ਦੇ ਚਿਹਰੇ ਉੱਤੇ ਸਾਰੇ ਮਨੁੱਖਾਂ ਨਾਲੋਂ ਵੱਧ।",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ਅਤੇ ਉਹ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ਨਿਮ੍ਰ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ਸਾਰਿਆਂ ਨਾਲੋਂ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਚਿਹਰੇ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:48.617049187Z",
+  "model": "glm-5.2"
+}

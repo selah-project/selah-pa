@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਜੋ ਮਾਸ ਅਤੇ ਰੋਟੀ ਵਿੱਚ ਬਾਕੀ ਰਹੇ, ਉਸ ਨੂੰ ਅੱਗ ਵਿੱਚ ਤੁਸੀਂ ਸਾੜ ਦੇਵੋ।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ਅਤੇ ਜੋ ਬਾਕੀ ਰਹੇ"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "ਮਾਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ਅਤੇ ਰੋਟੀ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ਅੱਗ ਵਿੱਚ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ਤੁਸੀਂ ਸਾੜ ਦੇਵੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:17.710121493Z",
+  "model": "glm-5.2"
+}

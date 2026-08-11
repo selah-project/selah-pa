@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਵਚਨ ਉਸ ਕੋਲ ਆਇਆ, ⟨ਕਹਿੰਦਾ ਹੋਇਆ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਉਂ ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਵਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਕੋਲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਹਿੰਦਾ ਹੋਇਆ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T22:28:28.969271924Z",
+  "model": "glm-5.2"
+}

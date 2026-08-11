@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਅਵਰਾਹਾਮ ਨੇ ਕਿਹਾ: ਮੈਂ ਸਹੁੰ ਖਾਵਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ਸਹੁੰ ਖਾਵਾਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:52:27.595633155Z",
+  "model": "glm-5.2"
+}

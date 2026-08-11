@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਬਲਾਕ, ਸਪੋਰ ਦੇ ਪੁੱਤਰ ਨੇ, ⟨את⟩ ਸਭ ਉਹ ਕੁਝ ਦੇਖਿਆ ਜੋ ਯਿਸਰਾਏਲ ਨੇ ਅਮੋਰੀ ਲਈ ਕੀਤਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ਅਤੇ ਦੇਖਿਆ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ਬਲਾਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ਸਪੋਰ ਦੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਭ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕੀਤਾ ਸੀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਨੇ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ਅਮੋਰੀ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:37.823345847Z",
+  "model": "glm-5.2"
+}

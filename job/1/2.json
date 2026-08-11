@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਉਸ ਦੇ ਘਰ ਸੱਤ ਪੁੱਤਰ ਅਤੇ ਤਿੰਨ ਧੀਆਂ ਪੈਦਾ ਹੋਏ।",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "ਅਤੇ ਪੈਦਾ ਹੋਏ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਦੇ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ਅਤੇ ਤਿੰਨ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:43:30.024866965Z",
+  "model": "glm-5.2"
+}

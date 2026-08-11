@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਨਪਤਾਲੀ ਦੇ ਬੱਚਿਆਂ ਦੇ ਕਬੀਲੇ ਲਈ ⟨ਇੱਕ⟩ ਨਸੀਅ — ਪਦਾਹੇਲ, ਅਮੀਹੁਦ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ਅਤੇ ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ਨਪਤਾਲੀ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਅ"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "ਪਦਾਹੇਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ਅਮੀਹੁਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:44.727954081Z",
+  "model": "glm-5.2"
+}

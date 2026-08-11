@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਅਬੀਸ਼ੂਆ ਨੇ ⟨את⟩ ਬੁੱਕੀ ਨੂੰ ਜਨਮ ਦਿੱਤਾ; ਅਤੇ ਬੁੱਕੀ ਨੇ ⟨את⟩ ਉੱਜੀ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ਅਤੇ ਅਬੀਸ਼ੂਆ ਨੇ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬੁੱਕੀ ਨੂੰ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ਬੁੱਕੀ"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ਅਤੇ ਬੁੱਕੀ ਨੇ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉੱਜੀ ਨੂੰ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ਉੱਜੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:55:41.991049622Z",
+  "model": "glm-5.2"
+}

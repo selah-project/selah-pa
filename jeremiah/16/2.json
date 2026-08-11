@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਤੂੰ ਆਪਣੇ ਲਈ ਇਸਤਰੀ ਨਾ ਲਵੀਂ, ਅਤੇ ਇਸ ਥਾਂ ਤੇ ਤੇਰੇ ਪੁੱਤਰ ਅਤੇ ਧੀਆਂ ਨਾ ਹੋਣ:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ਤੂੰ ਲਵੀਂ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇਸਤਰੀ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ਹੋਣਗੇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ਅਤੇ ਧੀਆਂ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ਇਸ ਥਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:21:34.274951331Z",
+  "model": "glm-5.2"
+}

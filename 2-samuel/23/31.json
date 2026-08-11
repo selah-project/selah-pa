@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਬੀ-ਅਲਬੋਨ ਅਰਬਾਤੀ, ਅਜ਼ਮਾਵੇਤ ਬਰਖੁਮੀ,",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ਅਬੀ"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "-ਅਲਬੋਨ"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ਅਰਬਾਤੀ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ਅਜ਼ਮਾਵੇਤ"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "ਬਰਖੁਮੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.820664198Z",
+  "model": "glm-5.2"
+}

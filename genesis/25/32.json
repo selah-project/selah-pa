@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਏਸਾਵ ਨੇ ਕਿਹਾ, ਇੱਥੇ ਹਾਂ, ਮੈਂ ਤਾਂ ਮਰਨ ਨੂੰ ਜਾ ਰਿਹਆਂ, ਤਾਂ ਇਹ ਜੇਠੇ ਦਾ ਹੱਕ ਮੈਨੂੰ ਕੀਹ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ ਨੇ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਇੱਥੇ ਹਾਂ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ਜਾ ਰਿਹਆਂ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ਮਰਨ ਨੂੰ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ਤਾਂ ਕੀਹ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ਜੇਠੇ ਦਾ ਹੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:03.172720715Z",
+  "model": "glm-5.2"
+}

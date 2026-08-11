@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਇੱਕ ਛਾਪ ਸੁੱਧ ਸੋਨੇ ਦੀ — ⟨את⟩ ਇਸ ਨੂੰ ⟨ਉਹ⟩ ਬਣਾਏ, ⟨את⟩ ਇਹ ਸਾਰੇ ਬਰਤਨ।",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ਇੱਕ ਛਾਪ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ ਦੀ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ਸੁੱਧ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ਬਣਾਏ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ਇਸ ਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਬਰਤਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ਬਰਤਨ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:21:38.971118467Z",
+  "model": "glm-5.2"
+}

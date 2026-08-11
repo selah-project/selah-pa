@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "joshua 15:60",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਕਿਰਯਤ-ਬਾਲ — ਉਹੀ ਕਿਰਯਤ-ਯਾਰੀਮ — ਅਤੇ ਰੱਬਾ; ਦੋ ਨਗਰ ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੰਡ।",
+  "tokens": [
+    {
+      "surface": "קרית",
+      "gloss": "ਕਿਰਯਤ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ਬਾਲ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ਕਿਰਯਤ"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "ਯਾਰੀਮ"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ਅਤੇ ਰੱਬਾ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਨਗਰ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੰਡ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:31.975764858Z",
+  "model": "glm-5.2"
+}

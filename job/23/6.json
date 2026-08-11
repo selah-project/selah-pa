@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਕੀ ਬਹੁਤ ਸਾਰੇ ਬਲ ਨਾਲ ਉਹ ਮੇਰੇ ਨਾਲ ਝਗੜੇ? ਨਹੀਂ, ਸਗੋਂ ਉਹੀ ਮੇਰੇ ਵਿੱਚ ⟨ਸਮਝ⟩ ਪਾਏ।",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "ਕੀ ਬਹੁਤ ਸਾਰੇ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ਬਲ ਨਾਲ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ਉਹ ਝਗੜੇ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ਮੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ਸਗੋਂ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ਪਾਏ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ਮੇਰੇ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:47:17.361998193Z",
+  "model": "glm-5.2"
+}

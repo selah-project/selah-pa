@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਉਸ ਦੇਸ਼ ਦਾ ਸੋਨਾ ਚੰਗਾ ਹੈ; ਉੱਥੇ ਬਦੋਲਖ਼ ⟨ਹੈ⟩ ਅਤੇ ਸ਼ੋਹਾਮ ਦੀ ਪੱਥਰ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ਅਤੇ ਸੋਨਾ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਦੇਸ਼ ਦਾ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ਬਦੋਲਖ਼"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ਅਤੇ ਪੱਥਰ"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ਸ਼ੋਹਾਮ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:44:49.235015421Z",
+  "model": "glm-5.2"
+}

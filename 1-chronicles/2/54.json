@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਸ਼ਲਮਾ ਦੇ ਪੁੱਤਰ: ਬੇਤ-ਲੇਖਮ, ਅਤੇ ਨਤੋਫਾਤੀ, ਅਤੇ ਅਤਰੋਤ ਬੇਤ-ਯੋਆਬ, ਅਤੇ ਅੱਧੇ ਮਨਾਹਤੀ, ਹਤਸਰਾਈ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ਸ਼ਲਮਾ ਦੇ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਲੇਖਮ"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "ਅਤੇ ਨਤੋਫਾਤੀ"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "ਅਤਰੋਤ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਤ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ਯੋਆਬ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ਅਤੇ ਅੱਧੇ"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "ਮਨਾਹਤੀ"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "ਹਤਸਰਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:17.287644221Z",
+  "model": "glm-5.2"
+}

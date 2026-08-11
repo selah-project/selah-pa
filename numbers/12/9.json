@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਤਾਂ ਯਾਹਵੇਹ ਦਾ ਕ੍ਰੋਧ ਉਹਨਾਂ ਵਿਰੁੱਧ ਭੜਕਿਆ, ਅਤੇ ⟨ਉਹ⟩ ਚਲਿਆ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ਤਾਂ ਭੜਕਿਆ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ਕ੍ਰੋਧ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ਉਹਨਾਂ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਚਲਿਆ ਗਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:24.604380841Z",
+  "model": "glm-5.2"
+}

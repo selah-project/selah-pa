@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਸ਼ਿਮਰੋਨ-ਮਰਓਨ ਦਾ ਰਾਜਾ ਇੱਕ; ਅਖਸ਼ਾਫ਼ ਦਾ ਰਾਜਾ ਇੱਕ —",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ਸ਼ਿਮਰੋਨ"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "ਮਰਓਨ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ਅਖਸ਼ਾਫ਼"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:30.167189691Z",
+  "model": "glm-5.2"
+}

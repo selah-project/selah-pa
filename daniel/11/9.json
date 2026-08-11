@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ⟨ਉਹ⟩ ਦੱਖਣ ਦੇ ਰਾਜੇ ਦੇ ਰਾਜ ਵਿੱਚ ਆਵੇਗਾ ਪਰ ਆਪਣੀ ਧਰਤੀ ਉੱਤੇ ਵਾਪਸ ਆਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ਅਤੇ ਆਵੇਗਾ"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ਰਾਜ ਵਿੱਚ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ ਦੇ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ਦੱਖਣ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ਪਰ ਵਾਪਸ ਆਵੇਗਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ਆਪਣੀ ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:28:07.858770882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ⟨את⟩ ਹਦੋਰਾਮ, ਅਤੇ ⟨את⟩ ਉਜ਼ਾਲ, ਅਤੇ ⟨את⟩ ਦਿਕਲਾਹ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਹਦੋਰਾਮ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ਹਦੋਰਾਮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਉਜ਼ਾਲ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ਉਜ਼ਾਲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਦਿਕਲਾਹ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ਦਿਕਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:03.796233086Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਇੱਕ ਚੱਟਾਨ ਉੱਤਰ ਵੱਲ ਮੀਖਾਮਸ਼ ਦੇ ਸਾਹਮਣੇ ਸੀ, ਅਤੇ ਦੂਜੀ ਦੱਖਣ ਵੱਲ ਗਬਾ ਦੇ ਸਾਹਮਣੇ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ਚੱਟਾਨ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ਉੱਤਰ ਵੱਲ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "ਮੀਖਾਮਸ਼"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ਅਤੇ ਦੂਜੀ"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ਦੱਖਣ ਵੱਲ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ਗਬਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:56:22.550428107Z",
+  "model": "glm-5.2"
+}

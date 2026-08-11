@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਮਾਓਨ, ਕਰਮੇਲ, ਅਤੇ ਜ਼ੀਫ, ਅਤੇ ਯੂਤਾਹ;",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "ਮਾਓਨ"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "ਕਰਮੇਲ"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "ਅਤੇ ਜ਼ੀਫ"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "ਅਤੇ ਯੂਤਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:46.067277808Z",
+  "model": "glm-5.2"
+}

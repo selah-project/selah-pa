@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਫਿਟਕਾਰਿਆ ⟨ਹੈ⟩ ⟨ਉਹ⟩ ਜੋ ਪਰਦੇਸੀ, ਯਤੀਮ ਅਤੇ ਵਿਧਵਾ ਦਾ ਨਿਆਂ ਭਟਕਾਉਂਦਾ ⟨ਹੈ⟩, ਅਤੇ ਸਾਰੇ ਲੋਕ ਕਹਿਣਗੇ: ਆਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਫਿਟਕਾਰਿਆ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ਭਟਕਾਉਂਦਾ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ਪਰਦੇਸੀ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ਯਤੀਮ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ਅਤੇ ਵਿਧਵਾ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ਆਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:35.119350824Z",
+  "model": "glm-5.2"
+}

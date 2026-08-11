@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ⟨את⟩ ਛੋਟੀ ਉੱਲੂ, ਅਤੇ ⟨את⟩ ਕੋਰਮੋਰੈਂਟ, ਅਤੇ ⟨את⟩ ਵੱਡੀ ਉੱਲੂ,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਛੋਟੀ ਉੱਲੂ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ਛੋਟੀ ਉੱਲੂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਕੋਰਮੋਰੈਂਟ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ਕੋਰਮੋਰੈਂਟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਵੱਡੀ ਉੱਲੂ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ਵੱਡੀ ਉੱਲੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:32.016023684Z",
+  "model": "glm-5.2"
+}

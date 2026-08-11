@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 38,
+  "translation": "ਅਤੇ ਉਸ ਦੇ ਜਣੇ ਦੇ ਸਮੇਂ ਵਿੱਚ ਹੋਇਆ, ਅਤੇ ਇੱਥੇ ਜੁੜਵੇ ਉਸ ਦੇ ਢਿੱਡ ਵਿੱਚ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ਵਿੱਚ ਸਮੇਂ"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "ਉਸ ਦੇ ਜਣੇ ਦੇ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ਅਤੇ ਇੱਥੇ"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "ਜੁੜਵੇ"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "ਉਸ ਦੇ ਢਿੱਡ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:02:43.872697455Z",
+  "model": "glm-5.2"
+}

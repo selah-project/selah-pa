@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਹਾਇ! ⟨ਉਹ⟩ ਧਰਤੀ ਪਰਾਂ ਦੀ ਫੁਣਫੁਣਾਹਟ, ਜੋ ਕੂਸ਼ ਦੇ ਦਰਿਆਵਾਂ ਦੇ ਪਾਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ਹਾਇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ਫੁਣਫੁਣਾਹਟ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ਪਰਾਂ ਦੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ਪਾਰ"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ਦਰਿਆਵਾਂ ਦੇ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ਕੂਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T22:55:08.182450117Z",
+  "model": "glm-5.2"
+}

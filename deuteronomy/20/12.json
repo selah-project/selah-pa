@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਪਰ ਜੇ ਉਹ ਤੇਰੇ ਨਾਲ ਸ਼ਾਂਤੀ ਨਾ ਕਰੇ ਅਤੇ ਤੇਰੇ ਵਿਰੁੱਧ ਯੁੱਧ ਕਰੇ, ਤਾਂ ਤੂੰ ਉਸ ਦਾ ਘਿਰਾਓ ਕਰੇਂ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਪਰ ਜੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "ਸ਼ਾਂਤੀ ਕਰੇ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ਅਤੇ ਕਰੇ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਯੁੱਧ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ਤਾਂ ਤੂੰ ਘਿਰਾਓ ਕਰੇਂ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ਉਸ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:42.690354085Z",
+  "model": "glm-5.2"
+}

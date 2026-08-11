@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਦਸ ⟨ਸ਼ਕਲ⟩ ਸੋਨੇ ਦਾ ਇੱਕ ਕਟੋਰਾ, ਧੂਪ ਨਾਲ ਭਰਿਆ ਹੋਇਆ;",
+  "tokens": [
+    {
+      "surface": "כַּ֥ף",
+      "gloss": "ਕਟੋਰਾ"
+    },
+    {
+      "surface": "אַחַ֛ת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "עֲשָׂרָ֥ה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "זָהָ֖ב",
+      "gloss": "ਸੋਨੇ ਦਾ"
+    },
+    {
+      "surface": "מְלֵאָ֥ה",
+      "gloss": "ਭਰਿਆ ਹੋਇਆ"
+    },
+    {
+      "surface": "קְטֹֽרֶת",
+      "gloss": "ਧੂਪ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:11.567603479Z",
+  "model": "glm-5.2"
+}

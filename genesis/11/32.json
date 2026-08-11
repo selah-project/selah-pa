@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਤੇਰਾਖ ਦੇ ਦਿਨ ਪੰਜ ਸਾਲ ਅਤੇ ਦੋ ਸੌ ਸਾਲ ⟨ਹੋਏ⟩, ਅਤੇ ਤੇਰਾਖ ਦੀ ਹਾਰਾਨ ਵਿੱਚ ਮੌਤ ਹੋਈ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ⟨ਹੋਏ⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ਤੇਰਾਖ ਦੇ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ਅਤੇ ਦੋ ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਮੌਤ ਹੋਈ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ਤੇਰਾਖ ਦੀ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ਹਾਰਾਨ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:49:24.711755709Z",
+  "model": "glm-5.2"
+}

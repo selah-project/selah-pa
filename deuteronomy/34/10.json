@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਇਸਰਾਏਲ ਵਿੱਚ ਮੋਸ਼ੇ ਵਰਗਾ ਕੋਈ ਹੋਰ ਨਬੀ ਨਹੀਂ ਉੱਠਿਆ, ਜਿਸ ਨੂੰ ਯਾਹਵੇਹ ਮੂੰਹ ਨਾਲ ਮੂੰਹ ਜਾਣਦਾ ਸੀ,",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ਉੱਠਿਆ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ਨਬੀ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ਇਸਰਾਏਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "ਮੋਸ਼ੇ ਵਰਗਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਨੂੰ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ਜਾਣਦਾ ਸੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ਮੂੰਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:27:13.158820474Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਹੁਣ ਤੁਸੀਂ ਵੀ ਇਸ ਰਾਤ ਇੱਥੇ ਠਹਿਰੋ, ਤਾਂ ਜੋ ਮੈਂ ਜਾਣ ਸਕਾਂ ਕਿ ਯਾਹਵੇਹ ਮੇਰੇ ਨਾਲ ⟨ਹੋਰ⟩ ਕੀ ਗੱਲ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ਠਹਿਰੋ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਬੇਨਤੀ ਹੈ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ਇੱਥੇ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ਤੁਸੀਂ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ਇਸ ਰਾਤ"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ਤਾਂ ਜੋ ਮੈਂ ਜਾਣ ਸਕਾਂ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਗੱਲ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ਮੇਰੇ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:50.916143225Z",
+  "model": "glm-5.2"
+}

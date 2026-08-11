@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਸ਼ਾਲਬੀਨ, ਅਤੇ ਅਯਾਲੋਨ, ਅਤੇ ਯਿਤਲਾਹ।",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ਅਤੇ ਸ਼ਾਲਬੀਨ"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ਅਤੇ ਅਯਾਲੋਨ"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "ਅਤੇ ਯਿਤਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:04.879399915Z",
+  "model": "glm-5.2"
+}

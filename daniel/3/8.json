@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 3:8",
+  "book": "daniel",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਇਸ ਕਰਕੇ ਉਸੇ ਵੇਲੇ ਕਸਦੀ ਮਰਦ ਨੇੜੇ ਆਏ ਅਤੇ ਯਹੂਦੀਆਂ ਦੇ ਖਿਲਾਫ ਦੂਸ਼ਣ ਲਾਏ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਇਸ ਕਰਕੇ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "⟨ਇਸ ਕਰਕੇ⟩"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ਇਸੇ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਉਸੇ"
+    },
+    {
+      "surface": "זמנא",
+      "gloss": "ਵੇਲੇ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ਨੇੜੇ ਆਏ"
+    },
+    {
+      "surface": "גברין",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "כשדאין",
+      "gloss": "ਕਸਦੀ"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ਅਤੇ ਦੂਸ਼ਣ ਲਾਏ"
+    },
+    {
+      "surface": "קרציהון",
+      "gloss": "ਖਿਲਾਫ"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ਖਿਲਾਫ⟩"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "ਯਹੂਦੀਆਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:23:24.312886191Z",
+  "model": "glm-5.2"
+}

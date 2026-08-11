@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਇਹ ਗੱਲ ਯਾਕੋਬ ਦੇ ਘਰ ਵਿੱਚ ਦੱਸੋ, ਅਤੇ ਇਸਨੂੰ ਯਹੂਦਾਹ ਵਿੱਚ ਸੁਣਾਓ, ⟨ਕਹਿ ਕੇ⟩:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ਦੱਸੋ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ ਗੱਲ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ਘਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ ਦੇ"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "ਅਤੇ ਇਸਨੂੰ ਸੁਣਾਓ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ਯਹੂਦਾਹ ਵਿੱਚ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:16:56.244016620Z",
+  "model": "glm-5.2"
+}

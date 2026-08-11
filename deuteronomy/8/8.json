@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਕਣਕ ਅਤੇ ਜੌਂ, ਅਤੇ ਦਾਖ ਅਤੇ ਅੰਜੀਰ ਅਤੇ ਅਨਾਰ ਦੀ ਧਰਤੀ; ਜੈਤੂਨ ਦੇ ਤੇਲ ਅਤੇ ਸ਼ਹਿਦ ਦੀ ਧਰਤੀ।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ਕਣਕ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ਅਤੇ ਜੌਂ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ਅਤੇ ਦਾਖ"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ਅਤੇ ਅੰਜੀਰ"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ਅਤੇ ਅਨਾਰ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ਜੈਤੂਨ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ਤੇਲ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ਅਤੇ ਸ਼ਹਿਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:12:05.856356351Z",
+  "model": "glm-5.2"
+}

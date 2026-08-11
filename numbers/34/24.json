@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਏਫਰਾਯਿਮ ਦੇ ਪੁੱਤਰਾਂ ਦੇ ਗੋਤ ਲਈ — ਨਸੀਂ ⟨ਹੈ⟩ ਸ਼ਿਫ਼ਤਾਨ ਦਾ ਪੁੱਤਰ ਕਮੂਏਲ।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ਅਤੇ ਗੋਤ ਲਈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ਏਫਰਾਯਿਮ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਂ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ਕਮੂਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "ਸ਼ਿਫ਼ਤਾਨ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:58.375656577Z",
+  "model": "glm-5.2"
+}

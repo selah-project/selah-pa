@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਮੀਆਮੀਨ, ਮਾਅਦਯਾਹ, ਬਿਲਗਾਹ।",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "ਮੀਆਮੀਨ"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "ਮਾਅਦਯਾਹ"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "ਬਿਲਗਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:49:47.452648067Z",
+  "model": "glm-5.2"
+}

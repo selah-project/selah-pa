@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 30:6",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਸਿਆਹ ਨਦੀਆਂ ਵਿੱਚ ਵਸਣ ਲਈ, ਧੂੜ ਦੇ ਮੋਰੀਆਂ ਅਤੇ ਚਟਾਨਾਂ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "בערוץ",
+      "gloss": "ਸਿਆਹ"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "ਨਦੀਆਂ"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ਵਸਣ ਲਈ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ਮੋਰੀਆਂ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ਧੂੜ"
+    },
+    {
+      "surface": "וכפים",
+      "gloss": "ਅਤੇ ਚਟਾਨਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:41:04.890997109Z",
+  "model": "glm-5.2"
+}

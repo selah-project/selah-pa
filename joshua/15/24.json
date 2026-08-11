@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਜ਼ੀਫ ਅਤੇ ਤੇਲੇਮ ਅਤੇ ਬਿਰਆਲੋਤ।",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "ਜ਼ੀਫ"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "ਅਤੇ ਤੇਲੇਮ"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ਅਤੇ ਬਿਰਆਲੋਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:36.652494476Z",
+  "model": "glm-5.2"
+}

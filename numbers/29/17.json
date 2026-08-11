@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 29:17",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਦੂਜੇ ਦਿਨ ⟨ਤੁਸੀਂ ਭੇਟ ਕਰੋਗੇ⟩ ਬਲਦਾਂ ਦੇ ਬੱਚੇ ਬਾਰਾਂ, ਮੇਢੇ ਦੋ, ਮੇਮਣੇ ਇੱਕ ਸਾਲ ਦੇ ਚੌਦਾਂ, ਨਿਰਦੋਸ਼।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ਅਤੇ ਦੂਜੇ ਦਿਨ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜੇ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਬੱਚੇ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਬਾਰਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ਆਂ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ਮੇਢੇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਮੇਮਣੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਇੱਕ ਸਾਲ ਦੇ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚੌਦਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ਆਂ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ਨਿਰਦੋਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:50.861323897Z",
+  "model": "glm-5.2"
+}

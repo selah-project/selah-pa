@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਬਤਸਲੁਤ ਦੇ ਪੁੱਤਰ, ਮਖ਼ੀਦਾ ਦੇ ਪੁੱਤਰ, ਖ਼ਰਸ਼ਾ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "ਬਤਸਲੁਤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "ਮਖ਼ੀਦਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "ਖ਼ਰਸ਼ਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:34:03.108623506Z",
+  "model": "glm-5.2"
+}

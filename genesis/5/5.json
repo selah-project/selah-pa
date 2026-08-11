@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤਾਂ ਆਦਮ ਦੇ ਸਾਰੇ ਦਿਨ ਜੋ ਉਸਨੇ ਜਿਊਿਆ, ਨੌਂ ਸੌ ਸਾਲ ਅਤੇ ਤੀਹ ਸਾਲ ⟨ਹੋਏ⟩, ਅਤੇ ਉਹ ਮਰ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ⟨ਹੋਏ⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਆਦਮ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਉਸਨੇ ਜਿਊਿਆ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ਨੌਂ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ਅਤੇ ਤੀਹ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਉਹ ਮਰ ਗਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:21.364574277Z",
+  "model": "glm-5.2"
+}

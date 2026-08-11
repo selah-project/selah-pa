@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਧਰਮੀ ਲਈ ਥੋੜ੍ਹਾ ⟨ਚੰਗਾ ਹੈ⟩, ਵੱਡੇ ਭਾਰੀ ਦੁਸ਼ਟਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਤੋਂ ਵਧੇਰੇ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ਥੋੜ੍ਹਾ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ਧਰਮੀ ਲਈ"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦੇ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ਵੱਡੇ ਭਾਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:40:15.955642491Z",
+  "model": "glm-5.2"
+}

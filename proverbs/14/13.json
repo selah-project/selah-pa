@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਵੀ ਹਾਸੇ ਵਿੱਚ ਦਿਲ ਨੂੰ ਦੁੱਖ ਹੁੰਦਾ ⟨ਹੈ⟩, ਅਤੇ ਉਸ ਦਾ ਅੰਤ ਖ਼ੁਸ਼ੀ ਦਾ ਉਦਾਸੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "ਹਾਸੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "ਦੁੱਖ ਹੁੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ ਨੂੰ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਅੰਤ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ਖ਼ੁਸ਼ੀ ਦਾ"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "ਉਦਾਸੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:26:45.583607773Z",
+  "model": "glm-5.2"
+}

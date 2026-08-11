@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਨਿਆਂ ਕਮਾਉਣਾ ਧਰਮੀ ਲਈ ਖ਼ੁਸ਼ੀ ⟨ਹੈ⟩, ਪਰ ਅਨਰਥ ਕਰਨ ਵਾਲਿਆਂ ਲਈ ਸਹਿਮ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "ਖ਼ੁਸ਼ੀ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ਧਰਮੀ ਲਈ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ਕਮਾਉਣਾ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "ਪਰ ਸਹਿਮ"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "ਕਰਨ ਵਾਲਿਆਂ ਲਈ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ਅਨਰਥ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:30:16.605345439Z",
+  "model": "glm-5.2"
+}

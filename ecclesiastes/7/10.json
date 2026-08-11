@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਆਖ ਕਿ ਪਹਿਲੇ ਦਿਨ ਇਹਨਾਂ ਤੋਂ ਚੰਗੇ ਸਨ, ਇਹ ਮਤ ਕਹਿ; ਕਿਉਂਕਿ ਇਸ ਬਾਰੇ ਤੂੰ ਚਤੁਰਾਈ ਤੋਂ ਨਹੀਂ ਪੁੱਛਦਾ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ਕਹਿ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "ਕਿ ਦਿਨ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ਪਹਿਲੇ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ਚੰਗੇ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ਇਹਨਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "ਚਤੁਰਾਈ ਤੋਂ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ਤੂੰ ਪੁੱਛਦਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਬਾਰੇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:12:06.914845803Z",
+  "model": "glm-5.2"
+}

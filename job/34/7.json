@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਕੌਣ ⟨ਹੈ⟩ ਅਯੂਬ ਵਰਗਾ ਬੰਦਾ, ਜੋ ਮਜ਼ਾਕ ਨੂੰ ਪਾਣੀ ਵਾਂਗ ਪੀਂਦਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ਬੰਦਾ"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "ਅਯੂਬ ਵਰਗਾ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ਪੀਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ਮਜ਼ਾਕ ਨੂੰ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ਪਾਣੀ ਵਾਂਗ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:53:38.616312555Z",
+  "model": "glm-5.2"
+}

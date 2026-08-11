@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸੋਨੇ ਦਾ ਇੱਕ ਕੌਂਚ, ਦਸ ⟨ਸ਼ਕਲ⟩, ਧੂਣੀ ਨਾਲ ਭਰਿਆ ਹੋਇਆ।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ਕੌਂਚ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ ਦਾ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ਭਰਿਆ ਹੋਇਆ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ਧੂਣੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:29.866837276Z",
+  "model": "glm-5.2"
+}

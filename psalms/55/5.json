@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 55,
+  "translation": "ਮੇਰਾ ਮਨ ਮੇਰੇ ਅੰਦਰ ਕਲਪਦਾ ਹੈ, ਅਤੇ ਮੌਤ ਦੇ ਖੌਫ਼ ਮੇਰੇ ਉੱਤੇ ਡਿੱਗ ਪਏ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ਮੇਰਾ ਮਨ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ਕਲਪਦਾ ਹੈ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ਮੇਰੇ ਅੰਦਰ"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ਅਤੇ ਖੌਫ਼"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮੌਤ ਦੇ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ਡਿੱਗ ਪਏ ਹਨ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ਮੇਰੇ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:52:06.629088469Z",
+  "model": "glm-5.2"
+}

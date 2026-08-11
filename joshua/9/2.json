@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਤਾਂ ਉਹ ਯਹੋਸ਼ੁਆ ਅਤੇ ਇਸਰਾਏਲ ਦੇ ਵਿਰੁੱਧ ਲੜਨ ਲਈ ਇਕੱਠੇ ਹੋਏ — ਇੱਕ ਮੂੰਹ",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "ਤਾਂ ਇਕੱਠੇ ਹੋਏ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ਇਕੱਠੇ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ਲੜਨ ਲਈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ਯਹੋਸ਼ੁਆ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ਅਤੇ ਨਾਲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:30:50.232356628Z",
+  "model": "glm-5.2"
+}

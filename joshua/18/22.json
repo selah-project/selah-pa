@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਬੇਤ-ਹਾ-ਅਰਾਬਾਹ, ਅਤੇ ਤਸਮਰਾਇਮ, ਅਤੇ ਬੇਤ-ਏਲ,",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ਹਾ-ਅਰਾਬਾਹ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ਅਤੇ ਤਸਮਰਾਇਮ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ਅਤੇ ਬੇਤ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:34:02.716499219Z",
+  "model": "glm-5.2"
+}

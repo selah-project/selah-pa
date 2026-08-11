@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਅਜ਼ਰਯਾ ਨੇ ⟨את⟩ ਖੇਲੇਸ ਨੂੰ ਜੰਮਿਆ, ਅਤੇ ਖੇਲੇਸ ਨੇ ⟨את⟩ ਏਲਅਸਾ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ਅਤੇ ਅਜ਼ਰਯਾ ਨੇ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਖੇਲੇਸ ਨੂੰ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ਖੇਲੇਸ"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ਅਤੇ ਖੇਲੇਸ ਨੇ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਲਅਸਾ ਨੂੰ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ਏਲਅਸਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:37.380658902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 17:1",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਤੂੰ ਆਪਣੇ ਏਲੋਹੀਮ ਯਾਹਵੇਹ ਲਈ ਉਹ ਬਲਦ ਜਾਂ ਭੇਡ ਨਾ ਬਲਦ ਜਿਸ ਵਿੱਚ ਕੋਈ ਦਾਗ਼ ਹੋਵੇ, ਕੋਈ ਵੀ ਭੈੜੀ ਗੱਲ, ਕਿਉਂਕਿ ਇਹ ਤੇਰੇ ਏਲੋਹੀਮ ਯਾਹਵੇਹ ਲਈ ਘਿਣਾਉਣੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "ਤੂੰ ਬਲਦ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਤੇਰੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ਜਾਂ ਭੇਡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ਦਾਗ਼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਗੱਲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਭੈੜੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ਘਿਣਾਉਣੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਤੇਰੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਇਹ ⟨ਹੈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T00:37:59.802954995Z",
+  "model": "glm-5.2"
+}

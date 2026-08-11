@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਸੁਣੋ ⟨את⟩ ⟨ਇਹ⟩ ਕਥਨ ਜੋ ਮੈਂ ਤੁਹਾਡੇ ਉੱਤੇ ਚੁੱਕਦਾ ਹਾਂ — ਬੇਥ ਯਿਸਰਾਏਲ ਲਈ ਇੱਕ ਕ੍ਰਾਹ ਗੀਤ।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਹ ਕਥਨ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਕਥਨ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ਚੁੱਕਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ਤੁਹਾਡੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ਕ੍ਰਾਹ ਗੀਤ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:13:33.674062404Z",
+  "model": "glm-5.2"
+}

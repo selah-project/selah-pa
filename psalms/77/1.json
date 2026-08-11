@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 77,
+  "translation": "ਮੰਡਲੀ ਦੇ ਇਮਾਮ ਲਈ, ਯਦੂਥੂਨ ਉੱਤੇ, ਆਸਾਫ਼ ਦਾ ਮਜ਼ਮੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲੀ ਦੇ ਇਮਾਮ ਲਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "ਯਦੂਥੂਨ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ਆਸਾਫ਼ ਲਈ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਮਜ਼ਮੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:59:45.983215117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 49,
+  "translation": "ਖੇਤ ਅਤੇ ਉਸ ਵਿਚਲੀ ਗੁਫ਼ਾ ਦੀ ਖਰੀਦ ⟨את⟩ ਹੇਤ ਦੇ ਪੁੱਤਰਾਂ ਤੋਂ ⟨ਹੋਈ⟩।",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "ਖਰੀਦ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ਖੇਤ ਦੀ"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "ਅਤੇ ਗੁਫ਼ਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ਤੋਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ਹੇਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:09:20.023789401Z",
+  "model": "glm-5.2"
+}

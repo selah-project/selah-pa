@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਉੱਜ਼ੀਏਲ ਦੇ ਪੁੱਤਰ: ਮੀਕਾ; ਮੀਕਾ ਦੇ ਪੁੱਤਰਾਂ ਲਈ: ਸ਼ਾਮੂਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ਉੱਜ਼ੀਏਲ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ਮੀਕਾ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਲਈ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ਮੀਕਾ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ਸ਼ਾਮੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:35.576954485Z",
+  "model": "glm-5.2"
+}

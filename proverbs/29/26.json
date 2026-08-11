@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਬਹੁਤੇ ਹਾਕਮ ਦਾ ਚਿਹਰਾ ਲੱਭਦੇ ਹਨ, ਪਰ ਹਰ ਇੱਕ ਦਾ ਨਿਆਂ ਯਾਹਵੇਹ ਤੋਂ ਆਉਂਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ਬਹੁਤੇ"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ਲੱਭਦੇ ਹਨ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਦਾ ਚਿਹਰਾ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ਹਾਕਮ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ਪਰ ਯਾਹਵੇਹ ਤੋਂ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਦਾ ਨਿਆਂ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਹਰ ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:34:25.608365401Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਕਿ ਉਹ ਇਨਸਾਫ਼ ਦੇ ਰਾਹਾਂ ਦੀ ਰਾਖੀ ਕਰੇ, ਅਤੇ ਆਪਣੇ ਪਿਆਰਿਆਂ ਦਾ ਰਸਤਾ ਸੰਭਾਲੇ।",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "ਰਾਖੀ ਕਰੇ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ਰਾਹਾਂ ਦੀ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਇਨਸਾਫ਼ ਦੇ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ਅਤੇ ਰਸਤਾ"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "ਆਪਣੇ ਪਿਆਰਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ਸੰਭਾਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:58.387884324Z",
+  "model": "glm-5.2"
+}

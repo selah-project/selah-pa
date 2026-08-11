@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਉਸ ਦਿਨ ਯੇਰੂਸ਼ਾਲਾਯਿਮ ਨੂੰ ਕਿਹਾ ਜਾਵੇਗਾ: ਤੂੰ ਡਰ ਨਾਹ; ਹੇ ਤਸੀਯੋਨ, ਤੇਰੇ ਹੱਥ ਨਾ ਸੁੰਨ ਹੋਣ!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ਕਿਹਾ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ਯੇਰੂਸ਼ਾਲਾਯਿਮ ਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾਹ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ਤੂੰ ਡਰ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ਹੇ ਤਸੀਯੋਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ਸੁੰਨ ਹੋਣ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ਤੇਰੇ ਹੱਥ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:19:34.391683770Z",
+  "model": "glm-5.2"
+}

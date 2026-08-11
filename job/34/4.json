@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਸੀਂ ਆਪਣੇ ਲਈ ਨਿਆਂ ਚੁਣੀਏ; ਆਪੋ ਵਿਚ ਜਾਣੀਏ ਕਿ ਉੱਤਮ ਕੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "ਅਸੀਂ ਚੁਣੀਏ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "ਜਾਣੀਏ"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "ਆਪੋ ਵਿਚ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਉੱਤਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:53:36.896407012Z",
+  "model": "glm-5.2"
+}

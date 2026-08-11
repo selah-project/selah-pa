@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 2:43",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਨਤੀਨੀਮ: ਤਸੀਖਾ ਦੇ ਪੁੱਤਰ, ਖਸੂਫ਼ਾ ਦੇ ਪੁੱਤਰ, ਤੱਬਾਓਤ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "ਨਤੀਨੀਮ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ציחא",
+      "gloss": "ਤਸੀਖਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חשופא",
+      "gloss": "ਖਸੂਫ਼ਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ਤੱਬਾਓਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:40.095444829Z",
+  "model": "glm-5.2"
+}

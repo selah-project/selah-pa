@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਤੇਰਾ ਸਾਰਾ ⟨ਆਕੰਨ⟩ ਪਵਿੱਤਰ ਸ਼ੇਕਲ ਵਿੱਚ ਹੋਵੇ; ਵੀਹ ਗੇਰਾ ਇੱਕ ਸ਼ੇਕਲ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰਾ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ਤੇਰਾ ⟨ਆਕੰਨ⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ਸ਼ੇਕਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ਗੇਰਾ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "ਸ਼ੇਕਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:46:01.638369976Z",
+  "model": "glm-5.2"
+}

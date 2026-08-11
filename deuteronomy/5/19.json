@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਤੂੰ ਚੋਰੀ ਨਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ਤੂੰ ਚੋਰੀ ਕਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:25.239189151Z",
+  "model": "glm-5.2"
+}

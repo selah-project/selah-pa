@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਉਹਨਾਂ ਦੀ ਦਰਾਟਣਾਂ ਦਾ ਜ਼ਹਿਰ ਹੈ ਉਹਨਾਂ ਦਾ ਦਾਰੂ, ਅਤੇ ਅਣਛੋਹ ਸੱਪਾਂ ਦਾ ਡੰਗ ਭਿਆਨਕ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ਜ਼ਹਿਰ"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "ਦਰਾਟਣਾਂ ਦਾ"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "ਉਹਨਾਂ ਦਾ ਦਾਰੂ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ਅਤੇ ਡੰਗ"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "ਅਣਛੋਹ ਸੱਪਾਂ ਦਾ"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "ਭਿਆਨਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:07.689944682Z",
+  "model": "glm-5.2"
+}

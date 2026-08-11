@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਵੇਖੋ, ਮੈਂ ਤੈਨੂੰ ਰਾਸ਼ਟਰਾਂ ਵਿੱਚ ਛੋਟਾ ਕੀਤਾ ⟨ਹੈ⟩; ਤੂੰ ਬਹੁਤ ਨਿਰਾਦਰਿਆ ⟨ਹੈਂ⟩।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ਛੋਟਾ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ਮੈਂ ਤੈਨੂੰ ਕੀਤਾ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ਰਾਸ਼ਟਰਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "ਨਿਰਾਦਰਿਆ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:14:16.276526056Z",
+  "model": "glm-5.2"
+}

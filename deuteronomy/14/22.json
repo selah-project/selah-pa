@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਦਸਵਾਂ ਹਿੱਸ ਤੂੰ ਦੇਵੇਂਗਾ — ⟨ਤੂੰ⟩ ਆਪਣੇ ਬੀਜ ਦੀ ਸਾਰੀ ਪੈਦਾਵਾਰ ਦਾ, ਜੋ ਖੇਤ ਤੋਂ ਸਾਲ ਸਾਲ ਨਿਕਲਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸਵਾਂ ਹਿੱਸ ਦੇ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ਤੂੰ ਦੇਵੇਂਗਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੀ ਪੈਦਾਵਾਰ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ਪੈਦਾਵਾਰ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ਤੇਰੇ ਬੀਜ ਦੀ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ਨਿਕਲਦੀ ਹੈ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ਖੇਤ ਤੋਂ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:37:39.705451835Z",
+  "model": "glm-5.2"
+}

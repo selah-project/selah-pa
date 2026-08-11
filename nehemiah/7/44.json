@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਗਾਇਕ: ਆਸਾਫ ਦੇ ਪੁੱਤਰ: ਇੱਕ ਸੌ ਚਾਲੀ ਅਤੇ ਅੱਠ।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ਗਾਇਕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ਆਸਾਫ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ਚਾਲੀ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:32.801587261Z",
+  "model": "glm-5.2"
+}

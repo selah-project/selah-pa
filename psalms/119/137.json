@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਧਰਮੀ ⟨ਹੈਂ⟩ ਤੂੰ, ਹੇ ਯਾਹਵੇਹ, ਅਤੇ ਸਿੱਧੇ ⟨ਹਨ⟩ ਤੇਰੇ ਮਿਆਦ।",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ਅਤੇ ਸਿੱਧੇ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ਤੇਰੇ ਮਿਆਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:09.717337176Z",
+  "model": "glm-5.2"
+}

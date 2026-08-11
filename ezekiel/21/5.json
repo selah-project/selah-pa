@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਮੈਂ ਕਿਹਾ, ਹਾਏ! ਅਦੋਨਾਈ ਯਾਹਵੇਹ, ਉਹ ਮੇਰੇ ਲਈ ਆਖਦੇ ਹਨ, ਕੀ ⟨ਇਹ⟩ ਮਸਲਾਂ ਰਚਣ ਵਾਲਾ ਨਹੀਂ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਮੈਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ਹਾਏ!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ਆਖਦੇ ਹਨ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ਕੀ … ਨਹੀਂ"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "ਮਸਲਾਂ ਰਚਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ਮਸਲਾਂ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:49:57.791255021Z",
+  "model": "glm-5.2"
+}

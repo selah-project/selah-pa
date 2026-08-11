@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 49,
+  "translation": "ਤਾਂ ਜੋ ਓਹ ਹਮੇਸ਼ਾ ਲਈ ਹੋਰ ਜੀਊਂਦਾ ਰਹੇ, ਤਾਂ ਜੋ ਓਹ ਸ਼ਿਓਲ ਨੂੰ ਨਾ ਵੇਖੇ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਤਾਂ ਜੋ ਜੀਊਂਦਾ ਰਹੇ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ਹਮੇਸ਼ਾ ਲਈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ਵੇਖੇ"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ਸ਼ਿਓਲ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:48:31.095580214Z",
+  "model": "glm-5.2"
+}

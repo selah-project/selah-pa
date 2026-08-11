@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤਦ ਤੂੰ ਧਰਮ ਅਤੇ ਨਿਆਂ ਸਮਝੇਂਗਾ, ਅਤੇ ਮੇਖਲਾ, ਹਰ ਚੰਗਾ ਮਾਰਗ ⟨ਸਮਝੇਂਗਾ⟩।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ਤੂੰ ਸਮਝੇਂਗਾ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ਧਰਮ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ਅਤੇ ਨਿਆਂ"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ਅਤੇ ਮੇਖਲਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ਮਾਰਗ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:52.256233981Z",
+  "model": "glm-5.2"
+}

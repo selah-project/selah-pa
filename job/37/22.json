@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਉੱਤਰ ਤੋਂ ਸੋਨਾ ਆਉਂਦਾ ਹੈ; ਏਲੋਆਹ ਉੱਤੇ ⟨ਹੈ⟩ ਭਿਆਨਕ ਹੋਦ।",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "ਉੱਤਰ ਤੋਂ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨਾ"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "ਆਉਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ਏਲੋਆਹ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ਭਿਆਨਕ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ਹੋਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:54:37.684072016Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਏਲਤੋਲਦ ਅਤੇ ਕਸੀਲ ਅਤੇ ਖ਼ਰਮਾ",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ਅਤੇ ਏਲਤੋਲਦ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ਅਤੇ ਕਸੀਲ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ਅਤੇ ਖ਼ਰਮਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:40.820021244Z",
+  "model": "glm-5.2"
+}

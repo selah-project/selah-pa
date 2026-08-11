@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਪਰ ਜਿਸ ਦਿਨ ਉਸ ਵਿੱਚ ਜਿਊਂਦਾ ਮੁੜ੍ਹਾ ਦਿਸੇ, ⟨ਉਹ⟩ ਅਪਵਿੱਤਰ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ਪਰ ਜਿਸ ਦਿਨ"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ਦਿਸੇ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ਮੁੜ੍ਹਾ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜਿਊਂਦਾ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ਅਪਵਿੱਤਰ ਹੋਵੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:14.859279320Z",
+  "model": "glm-5.2"
+}

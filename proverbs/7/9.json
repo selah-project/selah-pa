@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਨਿਸ਼ਾਨ-ਵੇਲੇ, ਦਿਨ ਦੇ ਸ਼ਾਮ ਨੂੰ, ਰਾਤ ਦੇ ਹਨੇਰੇ ਅਤੇ ਘੁੱਪ ਹਨੇਰੇ ਵਿੱਚ,",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "ਨਿਸ਼ਾਨ-ਵੇਲੇ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ਸ਼ਾਮ ਨੂੰ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ ਦੇ"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "ਹਨੇਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ਰਾਤ ਦੇ"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ਅਤੇ ਘੁੱਪ ਹਨੇਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:29.942830260Z",
+  "model": "glm-5.2"
+}

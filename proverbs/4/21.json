@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਉਹ ਤੇਰੀਆਂ ਅੱਖਾਂ ਤੋਂ ਨਾ ਭਟਕਣ; ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਦਿਲ ਦੇ ਵਿਚਾਲੇ ਰੱਖ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "ਭਟਕਣ"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "ਤੇਰੀਆਂ ਅੱਖਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ ਰੱਖ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ਦੇ ਵਿਚਾਲੇ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ਆਪਣੇ ਦਿਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:41:54.127905841Z",
+  "model": "glm-5.2"
+}

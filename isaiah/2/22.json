@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਉਸ ਮਨੁੱਖ ਤੋਂ ⟨ਹੱਥ⟩ ਛੱਡ ਦਿਓ, ਜਿਸ ਦੇ ਨੱਕ ਵਿੱਚ ⟨ਸਿਰਫ਼⟩ ਇੱਕ ਸਾਹ ⟨ਹੈ⟩, ਕਿਉਂਕਿ ਉਸ ਦਾ ਕੀ ਦਰਜਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "ਹੱਥ ਛੱਡ ਦਿਓ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਸੀਂ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਉਸ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਦੇ"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ਇੱਕ ਸਾਹ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ਨੱਕ ਵਿੱਚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "ਦਰਜਾ ਹੈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਸ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:46:30.119939417Z",
+  "model": "glm-5.2"
+}

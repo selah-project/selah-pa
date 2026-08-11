@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਏਲੋਹੀਮ ਬਿਲਾਮ ਕੋਲ ਆਇਆ ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ, ਇਹ ⟨ਕੌਣ ਹਨ⟩ ਉਹ ਮਨੁੱਖ ਜੋ ਤੇਰੇ ਨਾਲ ਹਨ?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ਬਿਲਾਮ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ਉਹ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:25.161522749Z",
+  "model": "glm-5.2"
+}

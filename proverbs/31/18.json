@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਉਸ ਨੇ ਚਖਿਆ ਕਿ ⟨ਉਸ ਦਾ⟩ ਵਪਾਰ ਚੰਗਾ ਹੈ; ਰਾਤ ਨੂੰ ਉਸ ਦਾ ਦੀਵਾ ਬੁੱਝਦਾ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "טָ֭עֲמָה",
+      "gloss": "ਉਸ ਨੇ ਚਖਿਆ"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "סַחְרָ֑הּ",
+      "gloss": "ਵਪਾਰ"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יִכְבֶּ֖ה",
+      "gloss": "ਬੁੱਝਦਾ"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ਰਾਤ ਨੂੰ"
+    },
+    {
+      "surface": "נֵרָֽהּ",
+      "gloss": "ਉਸ ਦਾ ਦੀਵਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:51.121479370Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਏਸਾਵ ਨੇ ਯਾਕੋਬ ਨੂੰ ਕਿਹਾ, ਮੈਨੂੰ ਇਸ ਲਾਲ, ਲਾਲ ⟨ਪਕਵਾਨ⟩ ਦਾ ਹੜ੍ਹ ਲਾ ਦੇ, ਕਿਉਂਕਿ ਮੈਂ ਥੱਕਿਆ ਹੋਇਆ ਹਾਂ; ਇਸੇ ਲਈ ਉਸ ਦਾ ਨਾਂ ਏਦੋਮ ਪਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "ਮੈਨੂੰ ਹੜ੍ਹ ਲਾ ਦੇ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਬੇਨਤੀ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਦਾ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਲਾਲ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਲਾਲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ਥੱਕਿਆ ਹੋਇਆ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ ਹਾਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ਪਿਆ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ਉਸ ਦਾ ਨਾਂ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:03.172418353Z",
+  "model": "glm-5.2"
+}

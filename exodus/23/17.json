@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਸਾਲ ਵਿੱਚ ਤਿੰਨ ਵਾਰ ਤੇਰੇ ਸਾਰੇ ਨਰ ਯਾਹਵੇਹ ਦੇ ਮਾਲਕ ਦੇ ਚਿਹਰੇ ਸਾਹਮਣੇ ਪ੍ਰਤੱਖ ਹੋਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ਵਾਰ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ਸਾਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ਪ੍ਰਤੱਖ ਹੋਣਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ਤੇਰੇ ਨਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਚਿਹਰੇ"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ਮਾਲਕ ਦੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:20:54.162346071Z",
+  "model": "glm-5.2"
+}

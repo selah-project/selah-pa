@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਛੇ ਦਿਨ ਤੂੰ ਮਿਹਨਤ ਕਰੇਂ ਅਤੇ ਆਪਣਾ ਸਾਰਾ ਕੰਮ ਕਰੇਂ,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ਤੂੰ ਮਿਹਨਤ ਕਰੇਂ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ਅਤੇ ਕਰੇਂ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰਾ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ਆਪਣਾ ਕੰਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:19:15.737235076Z",
+  "model": "glm-5.2"
+}

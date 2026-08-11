@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਗਰਸ਼ੋਮ ਦੇ ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ: ਯੋਏਲ ⟨ਇਹ⟩ ਪ੍ਰਧਾਨ, ਅਤੇ ਉਸ ਦੇ ਭਰਾ ਇੱਕ ਸੌ ਤੀਹ।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ਗਰਸ਼ੋਮ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ਯੋਏਲ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ਪ੍ਰਧਾਨ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਭਰਾ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ਤੀਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T07:20:38.140977212Z",
+  "model": "glm-5.2"
+}

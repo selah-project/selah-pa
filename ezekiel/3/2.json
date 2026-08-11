@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਤਾਂ ਮੈਂ ⟨ਆਪਣਾ⟩ ਮੂੰਹ ਖੋਲ੍ਹਿਆ, ਅਤੇ ਉਸ ਨੇ ਮੈਨੂੰ ਇਹ ਮਗਜ਼ੀਨਾ ਖੁਆਇਆ।",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "ਤਾਂ ਮੈਂ ਖੋਲ੍ਹਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੂੰਹ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਮੈਨੂੰ ਖੁਆਇਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਹ ਮਗਜ਼ੀਨਾ"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "ਮਗਜ਼ੀਨਾ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:42:47.216278536Z",
+  "model": "glm-5.2"
+}

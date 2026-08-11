@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇਸ ਤਰ੍ਹਾਂ ਅਦੋਨਾਈ ਯਾਹਵੇਹ ਨੇ ਕਿਹਾ: ਇੱਕ ਬੁਰਾਈ, ਇੱਕ ਬੁਰਾਈ — ਵੇਖੋ, ਆ ਰਹੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ਇਸ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਿਹਾ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ਆ ਰਹੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:43:12.754607384Z",
+  "model": "glm-5.2"
+}

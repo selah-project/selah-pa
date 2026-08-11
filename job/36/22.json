@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਵੇਖ, ਏਲ ਆਪਣੇ ਬਲ ਨਾਲ ਉੱਚਾ ਹੈ; ਉਸ ਵਰਗਾ ਸਿੱਖਿਆ ਦੇਣ ਵਾਲਾ ਕੌਣ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ਵੇਖ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "ਉੱਚਾ ਹੈ"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "ਆਪਣੇ ਬਲ ਨਾਲ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ ਹੈ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ਉਸ ਵਰਗਾ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ਸਿੱਖਿਆ ਦੇਣ ਵਾਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:54:32.204862591Z",
+  "model": "glm-5.2"
+}

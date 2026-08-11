@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 55,
+  "translation": "ਵੇਖੋ, ਉਸ ਨੂੰ ਮੈਂ ਕੌਮਾਂ ਲਈ ਗਵਾਹ ਦਿੱਤਾ ਹੈ, ਕੌਮਾਂ ਲਈ ਨੇਤਾ ਅਤੇ ਹਾਕਮ।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਗਵਾਹ"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ਕੌਮਾਂ ਲਈ"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ਮੈਂ ਉਸ ਨੂੰ ਦਿੱਤਾ ਹੈ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ਨੇਤਾ"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ਅਤੇ ਹਾਕਮ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ਕੌਮਾਂ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:08:38.810159800Z",
+  "model": "glm-5.2"
+}

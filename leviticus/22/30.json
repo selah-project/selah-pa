@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਉਸ ਦਿਨ ⟨ਇਹ⟩ ਖਾਧਾ ਜਾਵੇਗਾ; ਤੁਸੀਂ ਉਸ ਵਿੱਚੋਂ ਬਾਕੀ ਕੁਝ ਸਵੇਰ ਤੱਕ ਨਾ ਛੱਡੋ; ਮੈਂ ਯਾਹਵੇਹ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ਖਾਧਾ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ਤੁਸੀਂ ਛੱਡੋ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ਉਸ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਸਵੇਰ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:41:40.854757614Z",
+  "model": "glm-5.2"
+}

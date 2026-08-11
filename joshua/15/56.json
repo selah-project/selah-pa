@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਯਿਜ਼ਰਏਲ, ਅਤੇ ਯੋਕਦਾਮ, ਅਤੇ ਜ਼ਾਨੋਖ;",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "ਅਤੇ ਯਿਜ਼ਰਏਲ"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "ਅਤੇ ਯੋਕਦਾਮ"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "ਅਤੇ ਜ਼ਾਨੋਖ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:46.067411920Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਤਦ ਸ਼ਲੋਮੋਹ ਨੇ ਏਤਸੀਯੋਨ ਗੇਬਰ ਵੱਲ ਅਤੇ ਏਇਲੋਤ ਵੱਲ, ਸਮੁੰਦਰ ਦੇ ਕੰਢੇ ਉੱਤੇ, ਏਦੋਮ ਦੇ ਦੇਸ਼ ਵਿੱਚ ⟨ਕੂਚ ਕੀਤਾ⟩।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ਕੂਚ ਕੀਤਾ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "ਏਤਸੀਯੋਨ ਵੱਲ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ਗੇਬਰ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ... ਵੱਲ"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ਏਇਲੋਤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ਕੰਢੇ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ਸਮੁੰਦਰ ਦੇ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:22:31.918300287Z",
+  "model": "glm-5.2"
+}

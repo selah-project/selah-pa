@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਬਹੁਤ ਦਿਨਾਂ ਤੱਕ ਯੇਹੋਸ਼ੁਆ ਨੇ ⟨ਇਹਨਾਂ⟩ ਸਾਰੇ ਰਾਜਿਆਂ ਨਾਲ ਜੰਗ ਕੀਤੀ।",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕੀਤੀ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ਯੇਹੋਸ਼ੁਆ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਰਾਜਿਆਂ ਨਾਲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ਰਾਜਿਆਂ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਇਹਨਾਂ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਜੰਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:06.915054617Z",
+  "model": "glm-5.2"
+}

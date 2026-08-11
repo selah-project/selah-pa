@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਤੁਸੀਂ ਜੋ ਯਾਹਵੇਹ ਤੁਹਾਡੇ ਏਲੋਹੀਮ ਨਾਲ ਚਿਪਕੇ ਹੋ, ਤੁਸੀਂ ਸਾਰੇ ਅੱਜ ਜੀਉਂਦੇ ਹੋ।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ਅਤੇ ਤੁਸੀਂ"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "ਜੋ ਚਿਪਕੇ ਹੋ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨਾਲ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ਤੁਹਾਡੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ਜੀਉਂਦੇ ਹੋ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ਤੁਸੀਂ ਸਾਰੇ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਅੱਜ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:10:30.752857403Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਚੰਗਾ ⟨ਹੈ⟩ ਸੋਗ ਦੇ ਘਰ ਵੱਲ ਜਾਣਾ, ਮਿਲਣੀ ਦੇ ਘਰ ਵੱਲ ਜਾਣ ਤੋਂ, ⟨ਕਿਉਂਕਿ⟩ ਇਹ ਸਾਰੇ ਮਨੁੱਖਾਂ ਦਾ ਅੰਤ ਹੈ, ਅਤੇ ਜੀਊਣ ਵਾਲਾ ⟨ਇਸ ਨੂੰ⟩ ਆਪਣੇ ਦਿਲ ਉੱਤੇ ਲਾਏਗਾ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ਜਾਣਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... ਵੱਲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ਸੋਗ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "... ਤੋਂ ਜਾਣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... ਵੱਲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ਮਿਲਣੀ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "⟨ਕਿਉਂਕਿ⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ਅੰਤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਮਨੁੱਖਾਂ ਦਾ"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "ਅਤੇ ਜੀਊਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ਲਾਏਗਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... ਉੱਤੇ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ਆਪਣੇ ਦਿਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:59.589581792Z",
+  "model": "glm-5.2"
+}

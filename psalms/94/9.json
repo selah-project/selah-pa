@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 94,
+  "translation": "ਜਿਸ ਨੇ ਕੰਨ ਬੀਜੀ, ਕੀ ਉਹ ⟨ਨਹੀਂ⟩ ਸੁਣੇਗਾ? ਜੋ ਅੱਖ ਨੂੰ ਘੜਦਾ ਹੈ, ਕੀ ਉਹ ⟨ਨਹੀਂ⟩ ਵੇਖੇਗਾ?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ਜਿਸ ਨੇ ਬੀਜੀ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ਕੰਨ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ਕੀ ਉਹ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ਸੁਣੇਗਾ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ਘੜਦਾ ਹੈ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਅੱਖ ਨੂੰ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ਕੀ ਉਹ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ਵੇਖੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:05:08.798244170Z",
+  "model": "glm-5.2"
+}

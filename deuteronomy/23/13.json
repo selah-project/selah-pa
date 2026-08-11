@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਤੇਰੇ ਲਈ ਇੱਕ ਥਾਂ ⟨ਹੋਵੇ⟩ ਛਾਉਣੀ ਤੋਂ ਬਾਹਰ, ਅਤੇ ਤੂੰ ਬਾਹਰ ਉੱਥੇ ਨਿਕਲੇਂ।",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "ਅਤੇ ਤੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਇੱਕ ਥਾਂ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ਹੋਵੇ⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ ਵਾਸਤੇ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ਤੋਂ ਬਾਹਰ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ਛਾਉਣੀ ਨੂੰ"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "ਅਤੇ ਤੂੰ ਨਿਕਲੇਂ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ਬਾਹਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:58.290941420Z",
+  "model": "glm-5.2"
+}

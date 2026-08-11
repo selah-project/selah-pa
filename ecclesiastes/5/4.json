@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਚੰਗਾ ਹੈ ਜੋ ਤੂੰ ਨੇਮ ਨਾ ਬੰਨ੍ਹੇਂ, ਇਸ ਤੋਂ ਕਿ ਤੂੰ ਬੰਨ੍ਹੇ ਅਤੇ ਪੂਰਾ ਨਾ ਕਰੇਂ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ਤੂੰ ਨੇਮ ਬੰਨ੍ਹੇ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ਇਸ ਤੋਂ ਕਿ ਤੂੰ ਬੰਨ੍ਹੇ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ਪੂਰਾ ਕਰੇਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:11:43.339859335Z",
+  "model": "glm-5.2"
+}

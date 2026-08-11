@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਇੱਕ ਤਖ਼ਤ-ਰੇਲਾ ਰਾਜਾ ਸ਼ਲੋਮੋਹ ਨੇ ਆਪਣੇ ਲਈ ਬਣਾਇਆ, ਲਿਬਾਨੋਨ ਦੇ ਦਰੱਖ਼ਤਾਂ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "ਇੱਕ ਤਖ਼ਤ-ਰੇਲਾ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਬਣਾਇਆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "ਦਰੱਖ਼ਤਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ਲਿਬਾਨੋਨ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:22.599473606Z",
+  "model": "glm-5.2"
+}

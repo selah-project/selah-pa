@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਸਮਝ ਪਾਓ, ਭੋਲੇ ਵਿਅਕਤੀਓ, ਚਤੁਰਾਈ; ਅਤੇ ਮੂਰਖੋ, ਹਿਰਦੇ ਦੀ ਸਮਝ ਪਾਓ।",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "ਸਮਝ ਪਾਓ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ਭੋਲੇ ਵਿਅਕਤੀਓ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ਚਤੁਰਾਈ"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ਅਤੇ ਮੂਰਖੋ"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "ਸਮਝ ਪਾਓ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਹਿਰਦੇ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:59.196952022Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ⟨ਪੇਲੀਕਨ⟩, ਅਤੇ ⟨את⟩ ਰਾਖਸ-ਗਿਰਝ, ਅਤੇ ⟨את⟩ ਸ਼ਾਲਕ,",
+  "tokens": [
+    {
+      "surface": "וְהַקָּאָת",
+      "gloss": "ਅਤੇ ਪੇਲੀਕਨ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਰਾਖਸ-ਗਿਰਝ"
+    },
+    {
+      "surface": "הָרָחָמָה",
+      "gloss": "ਰਾਖਸ-ਗਿਰਝ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸ਼ਾਲਕ"
+    },
+    {
+      "surface": "הַשָּׁלָךְ",
+      "gloss": "ਸ਼ਾਲਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:29.044798816Z",
+  "model": "glm-5.2"
+}

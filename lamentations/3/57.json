@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਤੂੰ ਨੇੜੇ ਆਇਆ ਉਸ ਦਿਨ ਜਦੋਂ ਮੈਂ ਤੈਨੂੰ ਪੁਕਾਰਿਆ; ਤੂੰ ਕਿਹਾ, „ਨਾ ਡਰ।“",
+  "tokens": [
+    {
+      "surface": "קָרַבְתָּ",
+      "gloss": "ਤੂੰ ਨੇੜੇ ਆਇਆ"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "אֶקְרָאֶךָּ",
+      "gloss": "ਮੈਂ ਤੈਨੂੰ ਪੁਕਾਰਿਆ"
+    },
+    {
+      "surface": "אָמַרְתָּ",
+      "gloss": "ਤੂੰ ਕਿਹਾ"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תִּירָא",
+      "gloss": "ਡਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:49.915438911Z",
+  "model": "glm-5.2"
+}

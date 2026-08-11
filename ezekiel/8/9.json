@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਮੈਨੂੰ ਕਿਹਾ: ਜਾ, ਅਤੇ ਵੇਖ ਉਹ ਭਿਆਨਕ ਘਿਣਾਉਣੀਆਂ ਜੋ ਉਹ ਇੱਥੇ ਕਰ ਰਹੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਜਾ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ਅਤੇ ਵੇਖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਭਿਆਨਕ ਘਿਣਾਉਣੀਆਂ"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "ਭਿਆਨਕ ਘਿਣਾਉਣੀਆਂ"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ਭਿਆਨਕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ਕਰ ਰਹੇ ਹਨ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ਇੱਥੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:43:56.643592452Z",
+  "model": "glm-5.2"
+}

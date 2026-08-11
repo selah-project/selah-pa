@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤਰ ਦੇ ਪੁੱਤਰ, ਜੋ ਖ਼ਿਜ਼ਕੀਯਾਹ ਦੇ ⟨ਹਨ⟩, ਅੱਸੀ ਅੱਠ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ਅਤਰ"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ਜੋ ਖ਼ਿਜ਼ਕੀਯਾਹ ਦੇ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ਅੱਸੀ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:43:02.665264797Z",
+  "model": "glm-5.2"
+}

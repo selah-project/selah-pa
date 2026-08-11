@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਉਹ ਮਕਹੇਲੋਤ ਤੋਂ ਚਲੇ, ਅਤੇ ਤਾਖ਼ਤ ਵਿਖੇ ਡੇਰੇ ਲਾਏ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ਅਤੇ ਉਹ ਚਲੇ"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "ਮਕਹੇਲੋਤ ਤੋਂ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ਅਤੇ ਡੇਰੇ ਲਾਏ"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "ਤਾਖ਼ਤ ਵਿਖੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:57.196559970Z",
+  "model": "glm-5.2"
+}

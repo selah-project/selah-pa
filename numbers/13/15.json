@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਗਾਦ ਕਬੀਲੇ ਲਈ — ਗਏਊਏਲ, ਮਾਕੀ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "ਗਏਊਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ਮਾਕੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:29.449143836Z",
+  "model": "glm-5.2"
+}

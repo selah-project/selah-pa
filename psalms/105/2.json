@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 105,
+  "translation": "ਉਸ ਲਈ ਗਾਓ, ਉਸ ਲਈ ਵਜਾਓ, ਉਸ ਦੇ ਸਾਰੇ ਅਚੰਭਿਆਂ ਬਾਰੇ ਚਿੰਤਨ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ਗਾਓ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ਵਜਾਓ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ਚਿੰਤਨ ਕਰੋ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ਉਸ ਦੇ ਅਚੰਭਿਆਂ ਬਾਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:08:11.026853276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਪੱਲੂ ਦੇ ਪੁੱਤਰ — ਏਲੀਆਬ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "ਪੱਲੂ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ਏਲੀਆਬ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:08.979094205Z",
+  "model": "glm-5.2"
+}

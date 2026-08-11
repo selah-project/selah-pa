@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਚਲਾਕ ਦੀ ਸਿਆਣਪ ⟨ਇਹ⟩ ਹੈ ਕਿ ਉਹ ਆਪਣਾ ਰਾਹ ਸਮਝੇ, ਪਰ ਮੂਰਖਾਂ ਦੀ ਬੇਵਕੂਫ਼ੀ ਧੋਖਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "ਸਿਆਣਪ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ਚਲਾਕ ਦੀ"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ਸਮਝੇ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ਆਪਣਾ ਰਾਹ"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ਪਰ ਬੇਵਕੂਫ਼ੀ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ਮੂਰਖਾਂ ਦੀ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ਧੋਖਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:26:48.933542005Z",
+  "model": "glm-5.2"
+}

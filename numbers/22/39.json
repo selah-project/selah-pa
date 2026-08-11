@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਬਿਲਾਮ ਬਾਲਾਕ ਦੇ ਨਾਲ ਤੁਰਿਆ, ਅਤੇ ਉਹ ਕਿਰਯਤ-ਖ਼ੁਤਸੋਥ ਵਿੱਚ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਤੁਰਿਆ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ਬਿਲਾਮ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ਬਾਲਾਕ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ਅਤੇ ਆਏ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ਕਿਰਯਤ"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ਖ਼ੁਤਸੋਥ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:55.572847155Z",
+  "model": "glm-5.2"
+}

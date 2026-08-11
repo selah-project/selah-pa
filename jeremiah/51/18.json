@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 51,
+  "translation": "ਵਿਅਰਥ ਹਨ ਉਹ, ਛਲ ਦਾ ਕੰਮ ਹਨ; ਉਹਨਾਂ ਦੇ ਦੌਰੇ ਦੇ ਸਮੇਂ ਉਹ ਨਾਸ ਹੋ ਜਾਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ਵਿਅਰਥ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "ਛਲ ਦਾ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ਦੇ ਸਮੇਂ"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਦੌਰੇ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ਉਹ ਨਾਸ ਹੋ ਜਾਣਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:40:17.820712701Z",
+  "model": "glm-5.2"
+}

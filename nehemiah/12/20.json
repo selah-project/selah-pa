@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਸਲਾਈ ਲਈ ਕੱਲਾਈ; ਅਮੋਕ ਲਈ ਏਵੇਰ;",
+  "tokens": [
+    {
+      "surface": "לְסַלַּ֥י",
+      "gloss": "ਸਲਾਈ ਲਈ"
+    },
+    {
+      "surface": "קַלָּ֖י",
+      "gloss": "ਕੱਲਾਈ"
+    },
+    {
+      "surface": "לְעָמ֥וֹק",
+      "gloss": "ਅਮੋਕ ਲਈ"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "gloss": "ਏਵੇਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:49:45.101387169Z",
+  "model": "glm-5.2"
+}

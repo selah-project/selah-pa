@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਰਲ਼ ਕੇ ਧੂੜ ਉੱਤੇ ਲੇਟਦੇ ਹਨ, ਅਤੇ ਕੀੜਾ ਉਹਨਾਂ ਉੱਤੇ ਢੱਕਦਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "ਰਲ਼ ਕੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ਧੂੜ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ਲੇਟਦੇ ਹਨ"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ਅਤੇ ਕੀੜਾ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ਢੱਕਦਾ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ਉਹਨਾਂ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:47:32.435596167Z",
+  "model": "glm-5.2"
+}

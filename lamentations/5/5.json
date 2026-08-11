@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਸਾਡੀ ਪਿੱਠ ਉੱਤੇ ⟨ਸਾਡੇ⟩ ਗਲ ਤੱਕ ਸਾਡਾ ਪਿੱਛਾ ਕੀਤਾ ਗਿਆ; ਹਾਰ ਗਏ ਹਾਂ, ਸਾਨੂੰ ਆਰਾਮ ਨਹੀਂ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "ਸਾਡੇ ਗਲ"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "ਸਾਡਾ ਪਿੱਛਾ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "ਹਾਰ ਗਏ ਹਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "ਦਿੱਤਾ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਨੂੰ ਆਰਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:27.768568403Z",
+  "model": "glm-5.2"
+}

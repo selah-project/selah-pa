@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਕਿਉਂਕਿ ਮੈਂ ਅਕਾਸ਼ ਵੱਲ ਆਪਣਾ ਹੱਥ ਚੁੱਕਾਂਗਾ ਅਤੇ ਕਹਾਂਗਾ: ਜਿਉਂਦਾ ਹਾਂ ਮੈਂ ਸਦਾ ਲਈ!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ਮੈਂ ਚੁੱਕਾਂਗਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ਅਕਾਸ਼"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ਆਪਣਾ ਹੱਥ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ਅਤੇ ਕਹਾਂਗਾ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜਿਉਂਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ਸਦਾ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:23:55.308354248Z",
+  "model": "glm-5.2"
+}

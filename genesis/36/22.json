@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਲੋਤਾਨ ਦੇ ਪੁੱਤਰ ਹੋਏ ਖੋਰੀ ਅਤੇ ਹੇਮਾਮ, ਅਤੇ ਲੋਤਾਨ ਦੀ ਭੈਣ ਤਿਮਨਾ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ਹੋਏ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ਲੋਤਾਨ ਦੇ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ਖੋਰੀ"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "ਅਤੇ ਹੇਮਾਮ"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ਅਤੇ ਭੈਣ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ਲੋਤਾਨ ਦੀ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ਤਿਮਨਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:43.582258082Z",
+  "model": "glm-5.2"
+}

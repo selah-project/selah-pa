@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਉਸ ਉੱਤੇ ⟨את⟩ ਛਾਤੀ-ਬਕਸਾ ਰੱਖਿਆ, ਅਤੇ ਛਾਤੀ-ਬਕਸੇ ਵਿੱਚ ⟨את⟩ ਊਰੀਮ ਅਤੇ ⟨את⟩ ਤੁੰਮੀਮ ਪਾਏ।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ਅਤੇ ਰੱਖਿਆ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਛਾਤੀ-ਬਕਸਾ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ਛਾਤੀ-ਬਕਸਾ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ਅਤੇ ਪਾਏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ਛਾਤੀ-ਬਕਸੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਊਰੀਮ"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ਊਰੀਮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਤੁੰਮੀਮ"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ਤੁੰਮੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:33:58.077028126Z",
+  "model": "glm-5.2"
+}

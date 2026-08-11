@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 66,
+  "translation": "ਉਸ ਵੱਲ ਮੇਰੇ ਮੂੰਹ ਨੇ ਪੁਕਾਰਿਆ, ਅਤੇ ⟨ਉਸ ਦੀ⟩ ਸਿਫ਼ਤਿ ਮੇਰੀ ਜੀਭ ਹੇਠ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਵੱਲ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੇਰੇ ਮੂੰਹ ਨੇ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ਪੁਕਾਰਿਆ"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "ਅਤੇ ਸਿਫ਼ਤਿ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ਮੇਰੀ ਜੀਭ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:55:53.162810527Z",
+  "model": "glm-5.2"
+}

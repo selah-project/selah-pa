@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਕੌਣ ਇਹਨਾਂ ਸਭ ਵਿੱਚ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਯਾਹਵੇਹ ਦੇ ਹੱਥ ਨੇ ਇਹ ⟨ਕੰਮ⟩ ਕੀਤਾ ⟨ਹੈ⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ਜਾਣਦਾ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਇਹਨਾਂ ਸਭ ਵਿੱਚ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ ਨੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ਕੀਤਾ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:41:29.156217575Z",
+  "model": "glm-5.2"
+}

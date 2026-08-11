@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਜੇ ਹਾਕਮ ਦਾ ਰੂਆਖ਼ ਤੇਰੇ ਉੱਤੇ ਚੜ੍ਹਦਾ ਹੈ, ਆਪਣੀ ਥਾਂ ਛੱਡੀ ਨਾ; ਕਿਉਂਕਿ ਨਰਮਾਈ ਵੱਡੇ ਪਾਪਾਂ ਨੂੰ ਮਿਟਾ ਦਿੰਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਰੂਆਖ਼"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "ਹਾਕਮ ਦਾ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ਚੜ੍ਹਦਾ ਹੈ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ਤੇਰੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ਆਪਣੀ ਥਾਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ਛੱਡੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ਨਰਮਾਈ"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ਮਿਟਾ ਦਿੰਦੀ ਹੈ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ਪਾਪਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "ਵੱਡੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:14:59.744826639Z",
+  "model": "glm-5.2"
+}

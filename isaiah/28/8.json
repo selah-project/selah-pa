@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਕਿਉਂਕਿ ਸਾਰੇ ਮੇਜ਼ ਉਲਟੀ ਨਾਲ ਭਰੇ ਹੋਏ ਹਨ, ਗੰਦਗੀ, ⟨ਜਿੱਥੇ⟩ ਕੋਈ ਥਾਂ ਨਹੀਂ ⟨ਬਾਕੀ⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "ਮੇਜ਼"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ਭਰੇ ਹੋਏ ਹਨ"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ਉਲਟੀ"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "ਗੰਦਗੀ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ਬਿਨਾਂ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ਥਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:57:26.821112880Z",
+  "model": "glm-5.2"
+}

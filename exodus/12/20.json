@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਕੋਈ ਵੀ ਖਮੀਰੀ ⟨ਚੀਜ਼⟩ ਨਾ ਖਾਓ; ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਵਸੋਂ ਵਿੱਚ ਤੁਸੀਂ ਮਾਣੇ ਖਾਓ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "ਖਮੀਰੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਖਾਓ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਆਪਣੀਆਂ ਸਾਰੀਆਂ"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "ਵਸੋਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਤੁਸੀਂ ਖਾਓ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ਮਾਣੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:16:12.738357891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਨੀਨਵੇ ਦਾ ਭਾਰ; ਨਾਹੂਮ ਹਏਲਕੋਸ਼ੀ ਦੇ ਦਰਸ਼ਨ ਦੀ ਕਿਤਾਬ।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ਭਾਰ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ਨੀਨਵੇ ਦਾ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ਕਿਤਾਬ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ਦਰਸ਼ਨ ਦੀ"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "ਨਾਹੂਮ"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ਹਏਲਕੋਸ਼ੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:18:53.773583500Z",
+  "model": "glm-5.2"
+}

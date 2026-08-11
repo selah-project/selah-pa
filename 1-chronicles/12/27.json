@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਲੇਵੀ ਦੇ ਪੁੱਤਰਾਂ ਵਿਲੋਂ, ਚਾਰ ਹਜ਼ਾਰ ਅਤੇ ਛੇ ਸੌ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ਵਿਲੋਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ਲੇਵੀ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ਅਤੇ ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:03:33.854125066Z",
+  "model": "glm-5.2"
+}

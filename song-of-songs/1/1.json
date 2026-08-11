@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਗੀਤਾਂ ਦਾ ਗੀਤ, ਜੋ ਸ਼ਲੋਮੋਹ ਦਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ਗੀਤਾਂ ਦਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:59:27.936421177Z",
+  "model": "glm-5.2"
+}

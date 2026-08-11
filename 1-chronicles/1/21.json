@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ⟨את⟩ ਹਦੋਰਾਮ, ਅਤੇ ⟨את⟩ ਊਜ਼ਾਲ, ਅਤੇ ⟨את⟩ ਦਿਕਲਾਹ ‖",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਹਦੋਰਾਮ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ਹਦੋਰਾਮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਊਜ਼ਾਲ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ਊਜ਼ਾਲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਦਿਕਲਾਹ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ਦਿਕਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:35.555365158Z",
+  "model": "glm-5.2"
+}

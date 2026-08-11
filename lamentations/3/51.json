@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਮੇਰੀ ਅੱਖ ਮੇਰੀ ਜਾਨ ਨੂੰ ਤਸੀਹੇ ਦੇਂਦੀ ਹੈ, ਮੇਰੇ ਸ਼ਹਿਰ ਦੀਆਂ ਧੀਆਂ ਸਦਕਾ।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ਮੇਰੀ ਅੱਖ"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "ਤਸੀਹੇ ਦੇਂਦੀ ਹੈ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ਮੇਰੀ ਜਾਨ ਨੂੰ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ਸਦਕਾ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "ਮੇਰੇ ਸ਼ਹਿਰ ਦੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:06:51.750609775Z",
+  "model": "glm-5.2"
+}

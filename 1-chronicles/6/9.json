@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਤਖ਼ਤ ਉਸਦਾ ਪੁੱਤਰ, ਊਰੀਏਲ ਉਸਦਾ ਪੁੱਤਰ, ਉੱਜ਼ੀਆਹ ਉਸਦਾ ਪੁੱਤਰ, ਅਤੇ ਸ਼ਾਊਲ ਉਸਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ਤਖ਼ਤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "ਊਰੀਏਲ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "ਉੱਜ਼ੀਆਹ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ਅਤੇ ਸ਼ਾਊਲ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:40.529541385Z",
+  "model": "glm-5.2"
+}

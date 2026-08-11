@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਤਾਂ ਬਾਦਸ਼ਾਹ ਅਤੇ ਹਾਮਨ ਏਸਤਰ ਰਾਣੀ ਦੇ ਨਾਲ ਮਿਲ ਕੇ ਪੀਣ ਲਈ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ਤਾਂ ਆਏ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਬਾਦਸ਼ਾਹ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ਅਤੇ ਹਾਮਨ"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ਪੀਣ ਲਈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ਏਸਤਰ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ਰਾਣੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:19:19.353097088Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਝੂਠੇ ਗਵਾਹ ਦਾ ਨਾਸ ਹੋਵੇਗਾ, ਪਰ ਸੁਣਨ ਵਾਲਾ ਮਨੁੱਖ ਸਦਾ ਬੋਲੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ਗਵਾਹ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ਝੂਠੇ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ਦਾ ਨਾਸ ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ਪਰ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ਸੁਣਨ ਵਾਲਾ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ਸਦਾ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ਬੋਲੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:30:41.407272254Z",
+  "model": "glm-5.2"
+}

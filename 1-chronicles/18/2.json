@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਮੋਆਬ ਨੂੰ ਮਾਰਿਆ, ਅਤੇ ਮੋਆਬੀ ਦਾਵਿਦ ਦੇ ਗੁਲਾਮ ਬਣ ਗਏ, ਭੇਟਾ ਚੁੱਕਣ ਵਾਲੇ।",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ਅਤੇ ਮਾਰਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੋਆਬ ਨੂੰ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ਬਣ ਗਏ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬੀ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ਗੁਲਾਮ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ਦਾਵਿਦ ਦੇ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ਚੁੱਕਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ਭੇਟਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:08:37.806126493Z",
+  "model": "glm-5.2"
+}

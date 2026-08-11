@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ, ਅਲਮੁਤ ਲਾਬੇਨ ਉੱਤੇ, ਦਾਵਿਦ ਦਾ ਜ਼ਬੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲੀ ਦੇ ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ਅਲਮੁਤ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ਲਾਬੇਨ ਉੱਤੇ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:29:58.234788606Z",
+  "model": "glm-5.2"
+}

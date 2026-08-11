@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਬਿਨ੍ਯਾਮੀਨ ⟨ਦੇ ਕਬੀਲੇ ਲਈ⟩ ਪਲਤੀ, ਰਾਫੂ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ਬਿਨ੍ਯਾਮੀਨ"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "ਪਲਤੀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "ਰਾਫੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:02.985774604Z",
+  "model": "glm-5.2"
+}

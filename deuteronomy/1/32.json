@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਇਸ ⟨ਗੱਲ⟩ ਵਿੱਚ ਤੁਸੀਂ ਯਾਹਵੇਹ ਆਪਣੇ ਏਲੋਹੀਮ ਉੱਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦੇ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "ਅਤੇ ਇਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ਤੁਸੀਂ ਨਹੀਂ"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "ਭਰੋਸਾ ਕਰਦੇ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ਯਾਹਵੇਹ ਉੱਤੇ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ਆਪਣੇ ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:31.418302334Z",
+  "model": "glm-5.2"
+}

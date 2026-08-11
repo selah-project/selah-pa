@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਧਰਮੀ ਦਾ ਮੂੰਹ ਗਿਆਨ ਉਚਾਰੇਗਾ, ਅਤੇ ਉਸ ਦੀ ਜੀਭ ਨਿਆਂ ਬੋਲੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ ਦਾ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ਉਚਾਰੇਗਾ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਗਿਆਨ"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ਅਤੇ ਉਸ ਦੀ ਜੀਭ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ਬੋਲੇਗੀ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:43:06.181178069Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਮੇਰਾ ਪਿਆਰਾ ਮੇਰਾ ⟨ਹੈ⟩ ਅਤੇ ਮੈਂ ਉਸ ਦੀ ⟨ਹਾਂ⟩, ਜੋ ਕਵਾਂਰੀਆਂ ਵਿੱਚ ਚਾਰਦਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ਮੇਰਾ ਪਿਆਰਾ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰਾ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ਅਤੇ ਮੈਂ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਦੀ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ਚਾਰਦਾ"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ਕਵਾਂਰੀਆਂ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:24.847534287Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 135,
+  "translation": "ਯਾਹ ਦੀ ਸਿਫ਼ਤ ਕਰੋ! ਯਾਹਵੇਹ ਦੇ ਨਾਮ ਦੀ ⟨את⟩ ਸਿਫ਼ਤ ਕਰੋ! ਯਾਹਵੇਹ ਦੇ ਦਾਸੋ, ਸਿਫ਼ਤ ਕਰੋ!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ਸਿਫ਼ਤ ਕਰੋ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ਯਾਹ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ਸਿਫ਼ਤ ਕਰੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨਾਮ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ਸਿਫ਼ਤ ਕਰੋ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ਦਾਸੋ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:16:40.466809989Z",
+  "model": "glm-5.2"
+}

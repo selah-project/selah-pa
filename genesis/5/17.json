@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤੇ ਮਹਲਲਏਲ ਦੇ ਸਾਰੇ ਦਿਨ ਪੰਜਾਨੱਜ ਨੂੰ ਨੱਬੇ ਸਾਲ ਅਤੇ ਅੱਠ ਸੌ ਸਾਲ ਹੋਏ, ਅਤੇ ਉਸ ਦੀ ਮੌਤ ਹੋਈ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਤੇ ... ਹੋਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ਮਹਲਲਏਲ ਦੇ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ਅਤੇ ਨੱਬੇ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅਤੇ ਅੱਠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਦੀ⟩ ਮੌਤ ਹੋਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:41.866135274Z",
+  "model": "glm-5.2"
+}

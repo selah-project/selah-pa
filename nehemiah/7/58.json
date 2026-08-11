@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਯਾਲਾ ਦੇ ਪੁੱਤਰ, ਦਰਕੋਨ ਦੇ ਪੁੱਤਰ, ਗਿੱਦੇਲ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "ਯਾਲਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "ਦਰਕੋਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ਗਿੱਦੇਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:46:08.336869418Z",
+  "model": "glm-5.2"
+}

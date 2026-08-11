@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਮੇਰੇ ਲਈ ਦਹਿਸ਼ਤ ਨਾ ਬਣ; ਤੂੰ ਮੇਰੀ ਪਨਾਹ ਹੈਂ ਮੁਸੀਬਤ ਦੇ ਦਿਨ ⟨ਵਿੱਚ⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਬਣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "ਦਹਿਸ਼ਤ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ਮੇਰੀ ਪਨਾਹ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਮੁਸੀਬਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:22:42.956834958Z",
+  "model": "glm-5.2"
+}

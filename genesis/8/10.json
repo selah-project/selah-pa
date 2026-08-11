@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਹੋਰ ਸੱਤ ਦਿਨ ਉਡੀਕ ਕੀਤੇ, ਅਤੇ ਉਸ ਨੇ ਫਿਰ ਤੋਂ ⟨את⟩ ਕਬੂਤਰ ਨੂੰ ਸਤਰ ਵਿੱਚੋਂ ਭੇਜਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਉਡੀਕ ਕੀਤੀ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ਅਤੇ ਫਿਰ ਤੋਂ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ਭੇਜਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਕਬੂਤਰ ਨੂੰ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ਕਬੂਤਰ ਨੂੰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ਸਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:28.696936815Z",
+  "model": "glm-5.2"
+}

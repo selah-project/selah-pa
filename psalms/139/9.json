@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 139,
+  "translation": "ਜੇ ਮੈਂ ਪਹਿਰ ਦੇ ਪਰਾਂ ਨੂੰ ਚੁੱਕਾਂ, ⟨ਤਾਂ⟩ ਸਮੁੰਦਰ ਦੇ ਪਾਸੇ ਟਿਕਾਣਾ ਕਰਾਂ,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ਚੁੱਕਾਂ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ਪਰਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ਪਹਿਰ ਦੇ"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ਟਿਕਾਣਾ ਕਰਾਂ"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ਪਾਸੇ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ਸਮੁੰਦਰ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:17:34.868896320Z",
+  "model": "glm-5.2"
+}

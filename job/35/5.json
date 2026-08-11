@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਅਕਾਸ਼ ਵੱਲ ਵੇਖ ਅਤੇ ਦੇਖ; ਅਤੇ ਬੱਦਲਾਂ ਨੂੰ ਵੇਖ ਜੋ ਤੈਥੋਂ ਉੱਚੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "ਵੇਖ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ਅਕਾਸ਼"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ਅਤੇ ਦੇਖ"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "ਅਤੇ ⟨ਨੂੰ⟩ ਵੇਖ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ਬੱਦਲਾਂ"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ਉੱਚੇ ਹਨ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ਤੈਥੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:54:26.535461079Z",
+  "model": "glm-5.2"
+}

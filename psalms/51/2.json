@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 51,
+  "translation": "ਜਦੋਂ ਨਾਤਨ ਨਬੀ ਉਸ ਕੋਲ ਆਇਆ, ਜਿਵੇਂ ਉਹ ਬਥ-ਸ਼ੇਬਾ ਕੋਲ ਗਿਆ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ਜਦੋਂ…ਆਇਆ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਕੋਲ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਨਾਤਨ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ਨਬੀ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਜਿਵੇਂ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਗਿਆ ਸੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਬਥ-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸ਼ੇਬਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:52:46.687468119Z",
+  "model": "glm-5.2"
+}

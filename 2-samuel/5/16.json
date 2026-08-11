@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਏਲੀਸ਼ਾਮਾ, ਅਤੇ ਏਲੀਆਦਾ, ਅਤੇ ਏਲੀਪਾਲਟ।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ਅਤੇ ਏਲੀਸ਼ਾਮਾ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ਅਤੇ ਏਲੀਆਦਾ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ਅਤੇ ਏਲੀਪਾਲਟ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:09:19.742696324Z",
+  "model": "glm-5.2"
+}

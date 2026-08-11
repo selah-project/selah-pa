@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਤੂੰ ਵਿਭਚਾਰ ਨਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ਤੂੰ ਵਿਭਚਾਰ ਕਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:17:58.700973067Z",
+  "model": "glm-5.2"
+}

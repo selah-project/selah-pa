@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਮਦਮੇਨਾ ਭੱਜ ਗਈ ⟨ਹੈ⟩; ਹੇਗੇਬੀਮ ਦੇ ਵਾਸੀ ਪਨਾਹ ਲੈ ਗਏ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "ਭੱਜ ਗਈ ਹੈ"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "ਮਦਮੇਨਾ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ਵਾਸੀ"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "ਹੇਗੇਬੀਮ ਦੇ"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "ਪਨਾਹ ਲੈ ਗਏ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:52:16.294791899Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਅਤੇ ਏਲਆਜ਼ਾਰ, ਅਹਰੋਨ ਦੇ ਪੁੱਤਰ ⟨ਸਰਦਾਰ⟩ ਜਜ੍ਹਾਰ ਨੂੰ ਕਿਹਾ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨੂੰ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ਏਲਆਜ਼ਾਰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਜਜ੍ਹਾਰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:35.385269343Z",
+  "model": "glm-5.2"
+}

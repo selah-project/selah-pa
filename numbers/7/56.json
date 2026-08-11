@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸੋਨੇ ਦਾ ਇੱਕ ਕਟੋਰਾ, ਦਸ, ਧੂਪ ਨਾਲ ਭਰਪੂਰ।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ਕਟੋਰਾ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ ਦਾ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ਭਰਪੂਰ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ਧੂਪ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:50:00.961908792Z",
+  "model": "glm-5.2"
+}

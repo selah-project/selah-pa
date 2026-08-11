@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਹਰ ਪਵਿੱਤਰ ਪੰਛੀ ਨੂੰ ਤੁਸੀਂ ਖਾ ਸਕਦੇ ਹੋ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ਪੰਛੀ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਤੁਸੀਂ ਖਾ ਸਕਦੇ ਹੋ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:02.318412122Z",
+  "model": "glm-5.2"
+}

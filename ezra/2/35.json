@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਸਨਾਹ ਦੇ ਪੁੱਤਰ, ਤਿੰਨ ਹਜ਼ਾਰ ਛੇ ਸੌ ਤੀਹ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "ਸਨਾਹ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ਅਤੇ ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ਅਤੇ ਤੀਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:15.740398862Z",
+  "model": "glm-5.2"
+}

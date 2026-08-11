@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 1:13",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਆਸ਼ੇਰ ਲਈ: ਪਗਿਏਲ, ਓਕਰਾਨ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "ਆਸ਼ੇਰ ਲਈ"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "ਪਗਿਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ਓਕਰਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:23.322965262Z",
+  "model": "glm-5.2"
+}

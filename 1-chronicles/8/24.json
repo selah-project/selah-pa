@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਖ਼ਾਨਨਯਾਹ, ਅਤੇ ਏਲਾਮ, ਅਤੇ ਅਨਤੋਤੀਯਾਹ।",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "ਅਤੇ ਖ਼ਾਨਨਯਾਹ"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "ਅਤੇ ਏਲਾਮ"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "ਅਤੇ ਅਨਤੋਤੀਯਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:44.583568224Z",
+  "model": "glm-5.2"
+}

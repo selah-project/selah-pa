@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਆਪਣੇ ਵਸੇ ਦੀ ਸਾਰੀ ਧਰਤੀ ਵਿੱਚ ਧਰਤੀ ਲਈ ਛੁਟਕਾਰਾ ਦਿਓ।",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ਅਤੇ ਸਾਰੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "ਤੁਹਾਡੇ ਵਸੇ ਦੀ"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "ਛੁਟਕਾਰਾ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ਤੁਸੀਂ ਦਿਓ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ਧਰਤੀ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:54.004566529Z",
+  "model": "glm-5.2"
+}

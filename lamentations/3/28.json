@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਇਕੱਲਾ ਬੈਠੇ ਅਤੇ ਚੁੱਪ ਰਹੇ, ਕਿਉਂਕਿ ⟨ਉਸ⟩ ਉੱਤੇ ਇਹ ⟨ਭਾਰ⟩ ਚੁੱਕਾਇਆ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ਬੈਠੇ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ਇਕੱਲਾ"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "ਅਤੇ ਚੁੱਪ ਰਹੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ਚੁੱਕਾਇਆ ਹੈ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:11.399758730Z",
+  "model": "glm-5.2"
+}

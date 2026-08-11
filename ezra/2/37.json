@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਇੱਮੇਰ ਦੇ ਪੁੱਤਰ: ਹਜ਼ਾਰ ਪਚਾਸ ਅਤੇ ਦੋ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਇੱਮੇਰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ਪਚਾਸ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:24.934669410Z",
+  "model": "glm-5.2"
+}

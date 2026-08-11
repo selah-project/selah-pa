@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਗੋਰਲ ਦੇ ਮੂੰਹ ਅਨੁਸਾਰ ਉਸ ਦੀ ਵਿਰਾਸਤ ਵੰਡੀ ਜਾਵੇਗੀ, ਵੱਡੇ ਅਤੇ ਛੋਟੇ ਵਿਚਕਾਰ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਅਨੁਸਾਰ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ਗੋਰਲ ਦੇ"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ਵੰਡੀ ਜਾਵੇਗੀ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ਉਸ ਦੀ ਵਿਰਾਸਤ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ਵੱਡੇ"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "ਅਤੇ ਛੋਟੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:53.029177348Z",
+  "model": "glm-5.2"
+}

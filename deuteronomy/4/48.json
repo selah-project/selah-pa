@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਰੋਏਰ ਤੋਂ, ਜੋ ਅਰਨੋਨ ਦੇ ਨਾਲੇ ਦੇ ਕੰਢੇ ਉੱਤੇ ⟨ਹੈ⟩, ਅਤੇ ਸਿਓਨ ਪਹਾੜ ਤੱਕ — ਉਹ ⟨ਹੈ⟩ ਖ਼ਰਮੋਨ।",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "ਅਰੋਏਰ ਤੋਂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ਕੰਢੇ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ਨਾਲੇ ਦੇ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ਅਰਨੋਨ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ਅਤੇ ਤੱਕ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "ਸਿਓਨ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ਖ਼ਰਮੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:11:12.006348808Z",
+  "model": "glm-5.2"
+}

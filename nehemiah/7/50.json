@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਰਆਯਾ ਦੇ ਪੁੱਤਰ, ਰਤਸੀਨ ਦੇ ਪੁੱਤਰ, ਨਕੋਦਾ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ਰਆਯਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ਰਤਸੀਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ਨਕੋਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:45:59.240740095Z",
+  "model": "glm-5.2"
+}

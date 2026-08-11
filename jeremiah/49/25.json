@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 49,
+  "translation": "ਕਿਸ ਤਰ੍ਹਾਂ ⟨ਇਹ⟩ ਛੱਡੀ ਨਹੀਂ ਗਈ — ਪ੍ਰਸ਼ੰਸਾ ਦਾ ਸ਼ਹਿਰ, ਮੇਰੇ ਅਨੰਦ ਦਾ ਸ਼ਹਿਰ!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ਕਿਸ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "ਛੱਡੀ ਗਈ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ਪ੍ਰਸ਼ੰਸਾ ਦਾ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "ਮੇਰੇ ਅਨੰਦ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:37:46.499460810Z",
+  "model": "glm-5.2"
+}

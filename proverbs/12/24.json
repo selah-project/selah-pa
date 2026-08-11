@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਹੌਸਲੇ ਵਾਲਿਆਂ ਦਾ ਹੱਥ ਰਾਜ ਕਰਦਾ ਹੈ, ਪਰ ਸੁਸਤੀ ਖ਼ਰਾਜ ਬਣ ਜਾਂਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ਹੌਸਲੇ ਵਾਲਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "ਰਾਜ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "ਪਰ ਸੁਸਤੀ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਬਣ ਜਾਂਦੀ ਹੈ"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ਖ਼ਰਾਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:25:38.537332049Z",
+  "model": "glm-5.2"
+}

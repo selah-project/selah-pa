@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਇਹ ਹੋਇਆ, ਜਦੋਂ ਇਸਰਾਏਲ ਦੇ ਪੁੱਤਰਾਂ ਨੇ ਯਾਹਵੇਹ ਨੂੰ ਮਿਦਯਾਨ ਦੇ ਕਾਰਨ ਪੁਕਾਰਿਆ,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਇਹ ਹੋਇਆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ਪੁਕਾਰਿਆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰਾਂ ਨੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਦੇ ਕਾਰਨ"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "ਕਾਰਨ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ਮਿਦਯਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:40:44.235749106Z",
+  "model": "glm-5.2"
+}

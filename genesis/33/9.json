@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਏਸਾਵ ਨੇ ਕਿਹਾ, ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਹੈ, ਮੇਰੇ ਭਰਾ; ਜੋ ਤੇਰਾ ਹੈ ਉਹ ਤੈਨੂੰ ਰਹੇ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ ਨੇ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ਹੈ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ਮੇਰੇ ਭਰਾ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ਰਹੇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:59:34.857585336Z",
+  "model": "glm-5.2"
+}

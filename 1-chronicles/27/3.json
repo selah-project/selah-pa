@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਉਹ ਪੇਰੇਸ ਦੇ ਪੁੱਤਰਾਂ ਵਿਚੋਂ ਸੀ, ਪਹਿਲੇ ਮਹੀਨੇ ਦੀਆਂ ਫ਼ੌਜਾਂ ਦੇ ਸਾਰਿਆਂ ਸਰਦਾਰਾਂ ਦਾ ਮੁਖੀ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ਵਿਚੋਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ਪੇਰੇਸ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ਮੁਖੀ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਸਾਰਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ਸਰਦਾਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "ਫ਼ੌਜਾਂ ਦੀਆਂ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ਮਹੀਨੇ ਦੇ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ਪਹਿਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:15:05.972805356Z",
+  "model": "glm-5.2"
+}

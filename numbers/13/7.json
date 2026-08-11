@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਯਿਸਾਸਕਰ ਦੇ ਕਬੀਲੇ ਲਈ ਯਿਗਾਲ, ਯੂਸਫ਼ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ਯਿਸਾਸਕਰ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ਯਿਗਾਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੂਸਫ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:06.701897820Z",
+  "model": "glm-5.2"
+}

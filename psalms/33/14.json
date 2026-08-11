@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਆਪਣੇ ਵਸੇਬੇ ਦੇ ਸਥਾਨ ਤੋਂ ਉਸ ਨੇ ਧਰਤੀ ਦੇ ਸਾਰੇ ਵਾਸੀਆਂ ਵੱਲ ਤੱਕਿਆ।",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "ਸਥਾਨ ਤੋਂ"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ਆਪਣੇ ਵਸੇਬੇ ਦੇ"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "ਉਸ ਨੇ ਤੱਕਿਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ਵਾਸੀਆਂ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:39:36.628078725Z",
+  "model": "glm-5.2"
+}

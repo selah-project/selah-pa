@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਮੇਰਾ ਦਿਲ ਆਪਣੀਆਂ ਗਵਾਹੀਆਂ ਵੱਲ ਝੁਕਾ, ਅਤੇ ਨਾ ਕਿ ਬੇ-ਇਨਸਾਫ਼ ਲਾਭ ਵੱਲ।",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "ਝੁਕਾ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ਮੇਰਾ ਦਿਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ਆਪਣੀਆਂ ਗਵਾਹੀਆਂ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ ਕਿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ਬੇ-ਇਨਸਾਫ਼ ਲਾਭ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:12:35.934765774Z",
+  "model": "glm-5.2"
+}

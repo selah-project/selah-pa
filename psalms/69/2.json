@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 69,
+  "translation": "ਮੈਨੂੰ ਬਚਾ, ਹੇ ਏਲੋਹੀਮ, ਕਿਉਂਕਿ ਪਾਣੀ ਮੇਰੀ ਜਾਨ ਤੱਕ ਆ ਪੁੱਜੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "ਮੈਨੂੰ ਬਚਾ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਹੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ਆ ਪੁੱਜੇ ਹਨ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:57:05.376679258Z",
+  "model": "glm-5.2"
+}

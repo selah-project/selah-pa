@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੈਨੂੰ ਕਿਹਾ, ਉੱਤਰ ਤੋਂ ਬੁਰਾਈ ਸਾਰੇ ਦੇਸ਼ ਦੇ ਵਾਸੀਆਂ ਉੱਤੇ ਖੁੱਲ੍ਹੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ਉੱਤਰ ਤੋਂ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ਖੁੱਲ੍ਹੇਗੀ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ਦੇਸ਼ ਦੇ ਵਾਸੀਆਂ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:13:15.072229393Z",
+  "model": "glm-5.2"
+}

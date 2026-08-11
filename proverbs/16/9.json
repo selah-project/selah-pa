@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਮਨੁੱਖ ਦਾ ਦਿਲ ਆਪਣਾ ਰਾਹ ਘੜਦਾ ਹੈ, ਪਰ ਯਾਹਵੇਹ ਉਸ ਦਾ ਕਦਮ ਤਿਆਰ ਕਰਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦਾ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ਘੜਦਾ ਹੈ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ਆਪਣਾ ਰਾਹ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ਪਰ ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ਤਿਆਰ ਕਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "ਉਸ ਦਾ ਕਦਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:00.867116517Z",
+  "model": "glm-5.2"
+}

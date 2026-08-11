@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਓਨਾਮ ਦੇ ਪੁੱਤਰ ਹੋਏ — ਸ਼ੱਮਈ ਅਤੇ ਯਾਦਾ। ਅਤੇ ਸ਼ੱਮਈ ਦੇ ਪੁੱਤਰ — ਨਾਦਾਬ ਅਤੇ ਅਬੀਸ਼ੂਰ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ... ਹੋਏ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ਓਨਾਮ ਦੇ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ਸ਼ੱਮਈ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ਅਤੇ ਯਾਦਾ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ਸ਼ੱਮਈ ਦੇ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ਨਾਦਾਬ"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "ਅਤੇ ਅਬੀਸ਼ੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:00.927354475Z",
+  "model": "glm-5.2"
+}

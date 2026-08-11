@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਹਫ਼ਰਾਇਮ, ਅਤੇ ਸ਼ਿਓਨ, ਅਤੇ ਅਨਾਹਰਾਤ।",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "ਅਤੇ ਹਫ਼ਰਾਇਮ"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "ਅਤੇ ਸ਼ਿਓਨ"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "ਅਤੇ ਅਨਾਹਰਾਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:11.198688959Z",
+  "model": "glm-5.2"
+}

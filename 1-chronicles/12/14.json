@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਯਿਰਮੇਯਾਹੂ ⟨ਦਸਵਾਂ⟩, ਮਕਬਨਾਈ ਗਿਆਰ੍ਹਵਾਂ।",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮੇਯਾਹੂ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ਦਸਵਾਂ"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "ਮਕਬਨਾਈ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ਗਿਆਰ੍ਹ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:03:44.698408615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਏਲਕਾਨਾਹ ਦੇ ਪੁੱਤਰ: ਅਮਾਸਾਈ ਅਤੇ ਅਖੀਮੋਤ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ⟨…⟩ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ਏਲਕਾਨਾਹ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ਅਮਾਸਾਈ"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ਅਤੇ ਅਖੀਮੋਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:40.529738413Z",
+  "model": "glm-5.2"
+}

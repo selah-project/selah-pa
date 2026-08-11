@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ⟨ਉਸ ਨੂੰ⟩ ⟨את⟩ ਨੇਗੇਬ, ਅਤੇ ⟨את⟩ ਮੈਦਾਨ, ਯ੍ਰਿਹੋ ਦੀ ਘਾਟੀ, ਖਜੂਰਾਂ ਦਾ ਸ਼ਹਿਰ, ਤਸੋਆਰ ਤੱਕ ⟨ਵਿਖਾਇਆ⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਨੇਗੇਬ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ਨੇਗੇਬ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਮੈਦਾਨ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ਮੈਦਾਨ"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ਘਾਟੀ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ਯ੍ਰਿਹੋ ਦੀ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ਖਜੂਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "צער",
+      "gloss": "ਤਸੋਆਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:26:25.888883032Z",
+  "model": "glm-5.2"
+}

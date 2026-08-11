@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਤੂੰ, ਉਸ ਦਾ ਪੁੱਤਰ ਬੇਲਸ਼ਾਤਸਰ, ਆਪਣਾ ਦਿਲ ਨਹੀਂ ਝੁਕਾਇਆ, ਇਸ ਲਈ ਕਿ ਤੂੰ ਇਹ ਸਭ ਜਾਣਦਾ ਸੈਂ।",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "ਅਤੇ ਤੂੰ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "ਬੇਲਸ਼ਾਤਸਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "ਝੁਕਾਇਆ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ਆਪਣਾ ਦਿਲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ਜਾਣਦਾ ਸੈਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:24:53.058766524Z",
+  "model": "glm-5.2"
+}

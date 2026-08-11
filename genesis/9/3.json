@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਹਰ ਰਮਸ਼ ਜੋ ਜੀਵਿਤ ⟨ਹੈ⟩, ਤੁਹਾਡੇ ਲਈ ਖਾਣ ਵਾਸਤੇ ⟨ਹੋਵੇ⟩; ਜਿਵੇਂ ਹਰੇ ਘਾਹ ⟨ਨੂੰ⟩, ਮੈਂ ਤੁਹਾਨੂੰ ⟨את⟩ ਸਭ ਕੁਝ ਦਿੱਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ਰਮਸ਼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜੀਵਿਤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ਹੋਵੇ⟩"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ਖਾਣ ਵਾਸਤੇ"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "ਜਿਵੇਂ ਹਰੇ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ਘਾਹ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ਦਿੱਤਾ ਹੈ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਭ ਕੁਝ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਭ ਕੁਝ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:47:00.810464910Z",
+  "model": "glm-5.2"
+}

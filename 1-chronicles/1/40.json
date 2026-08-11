@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸ਼ੋਬਾਲ ਦੇ ਪੁੱਤਰ: ਅਲਯਾਨ, ਮਨਾਖ਼ਤ, ਏਵਾਲ, ਸ਼ੇਫੀ ਅਤੇ ਓਨਾਮ; ਅਤੇ ਤਸਬਿਓਨ ਦੇ ਪੁੱਤਰ: ਅਯਾ ਅਤੇ ਅਨਾਹ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ਸ਼ੋਬਾਲ ਦੇ"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "ਅਲਯਾਨ"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "ਮਨਾਖ਼ਤ"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "ਏਵਾਲ"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "ਸ਼ੇਫੀ"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ਅਤੇ ਓਨਾਮ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "ਤਸਬਿਓਨ ਦੇ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ਅਯਾ"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ਅਤੇ ਅਨਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:43.282000460Z",
+  "model": "glm-5.2"
+}

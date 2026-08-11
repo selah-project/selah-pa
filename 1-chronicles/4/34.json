@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਮਸ਼ੋਬਾਬ, ਅਤੇ ਯਮਲੇਖ, ਅਤੇ ਯੋਸ਼ਾਹ, ਅਮਤਸਯਾਹ ਦਾ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "ਅਤੇ ਮਸ਼ੋਬਾਬ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ਅਤੇ ਯਮਲੇਖ"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "ਅਤੇ ਯੋਸ਼ਾਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ਅਮਤਸਯਾਹ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:44:37.668720091Z",
+  "model": "glm-5.2"
+}

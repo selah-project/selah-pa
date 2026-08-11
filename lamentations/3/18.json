@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਮੈਂ ਕਿਹਾ, ਮੇਰਾ ਸਥਾਈ ਅੰਤ ਅਤੇ ਮੇਰੀ ਆਸ ਯਾਹਵੇਹ ਤੋਂ ਨਸ਼ਟ ਹੋ ਗਈ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਮੈਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ਨਸ਼ਟ ਹੋ ਗਿਆ"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "ਮੇਰਾ ਸਥਾਈ ਅੰਤ"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "ਅਤੇ ਮੇਰੀ ਆਸ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ਯਾਹਵੇਹ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:17.898342223Z",
+  "model": "glm-5.2"
+}

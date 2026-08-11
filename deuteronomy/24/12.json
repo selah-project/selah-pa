@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਜੇ ਉਹ ਮਨੁੱਖ ਗਰੀਬ ⟨ਹੋਵੇ⟩, ⟨ਤਾਂ⟩ ਉਸ ਦੀ ਗਿਰਵੀ ਕੋਲ ਨਾ ਸੌਂਵੋ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਅਤੇ ਜੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ਗਰੀਬ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ⟨ਹੋਵੇ⟩"
+    },
+    {
+      "surface": "ਲא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ਤੁਸੀਂ ਸੌਂਵੋ"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ਉਸ ਦੀ ਗਿਰਵੀ ਕੋਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:45.772982640Z",
+  "model": "glm-5.2"
+}

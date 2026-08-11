@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਹੋਇਆ ਸਾਰੀ ⟨ਧਰਤੀ⟩ ਇੱਕ ਬੋਲੀ ਸੀ, ਅਤੇ ⟨ਉਹਨਾਂ ਦੇ⟩ ਬੋਲ ਇੱਕ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ਧਰਤੀ⟩"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ਬੋਲੀ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ਅਤੇ ਬੋਲ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:41.979041121Z",
+  "model": "glm-5.2"
+}

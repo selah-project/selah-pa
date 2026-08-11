@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਇੱਕ ਤੋਰਾਹ ਮੋਸ਼ੇ ਨੇ ਸਾਨੂੰ ਹੁਕਮ ਦਿੱਤੀ, ਯਾਕੋਬ ਦੀ ਕਹੇਲਤ ਦੀ ਇੱਕ ਵਿਰਾਸਤ।",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ਇੱਕ ਤੋਰਾਹ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ਹੁਕਮ ਦਿੱਤੀ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ਇੱਕ ਵਿਰਾਸਤ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ਕਹੇਲਤ ਦੀ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:47.175176109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਤਾਂ ਸਾਰੇ ਖ਼ਨੋਖ਼ ਦੇ ਦਿਨ ਪੈਂਤਾਲਵੀ ਸਾਲ ਅਤੇ ਤਿੰਨ ਸੌ ਸਾਲ ⟨ਹੋਏ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਤਾਂ ⟨ਹੋਏ⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ਖ਼ਨੋਖ਼ ਦੇ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੈਂਤਾਲਵੀ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ਅਤੇ ਸਠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ਅਤੇ ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:48.174096279Z",
+  "model": "glm-5.2"
+}

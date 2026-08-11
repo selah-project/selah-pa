@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਸਦੋਮ ਦੇ ਮਨੁੱਖ ਬੁਰੇ ਅਤੇ ਯਾਹਵੇਹ ਦੇ ਸਾਹਮਣੇ ਬਹੁਤ ਪਾਪੀ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ਅਤੇ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ਸਦੋਮ ਦੇ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ਬੁਰੇ"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ਅਤੇ ਪਾਪੀ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:57.096279170Z",
+  "model": "glm-5.2"
+}

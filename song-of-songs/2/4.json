@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਉਸ ਨੇ ਮੈਨੂੰ ਸ਼ਰਾਬ ਦੇ ਘਰ ਵਿੱਚ ਲਿਆਂਦਾ, ਤੇ ਉਸ ਦਾ ਝੰਡਾ ਮੇਰੇ ਉੱਤੇ ਪ੍ਰੇਮ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "ਉਸ ਨੇ ਮੈਨੂੰ ਲਿਆਂਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ਸ਼ਰਾਬ ਦੇ"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ਤੇ ਉਸ ਦਾ ਝੰਡਾ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ਮੇਰੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ਪ੍ਰੇਮ ⟨ਸੀ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:05.095015697Z",
+  "model": "glm-5.2"
+}

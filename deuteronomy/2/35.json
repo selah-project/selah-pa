@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਸਿਰਫ਼ ⟨ה⟩ ਪਸ਼ੂ ਨੂੰ ਅਸੀਂ ਆਪਣੇ ਲਈ ਲੁੱਟਿਆ, ਅਤੇ ਉਹਨਾਂ ਸ਼ਹਿਰਾਂ ਦਾ ਲੁੱਟ ਜੋ ਅਸੀਂ ਫੜ ਲਏ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ਪਸ਼ੂ ਨੂੰ"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "ਅਸੀਂ ਲੁੱਟਿਆ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ਅਤੇ ਲੁੱਟ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ਸ਼ਹਿਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "ਅਸੀਂ ਫੜ ਲਏ ਸਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:09.623575283Z",
+  "model": "glm-5.2"
+}

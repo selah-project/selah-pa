@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਸਾਧੂਆਂ ⟨ਦਾ ਕੁਲ⟩: ਯਸ਼ੂਆ ਦੇ ਘਰ ਦੇ ਯਦਾਯਾ ਦੇ ਪੁੱਤਰ, ਨੌ ਸੌ ਤਿਹਤਰੀ-ਤਿੰਨ।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "ਸਾਧੂਆਂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ਯਦਾਯਾ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ਦੇ ਘਰ ਦੇ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ਯਸ਼ੂਆ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ਨੌ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ਤਿਹਤਰ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ਅਤੇ ਤਿੰਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:15.740516852Z",
+  "model": "glm-5.2"
+}

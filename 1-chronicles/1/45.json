@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਯੋਬਾਬ ਦੀ ਮੌਤ ਹੋਈ, ਅਤੇ ਉਸ ਦੀ ਥਾਂ ਤੇ ਤੇਈਮਨੀ ਦੇਸ਼ ਦਾ ਖੁਸ਼ਾਮ ਰਾਜਾ ਬਣਿਆ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਦੀ ਮੌਤ ਹੋਈ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ਯੋਬਾਬ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ਅਤੇ ਰਾਜਾ ਬਣਿਆ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ਉਸ ਦੀ ਥਾਂ ਤੇ"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "ਖੁਸ਼ਾਮ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ਦੇਸ਼ ਦਾ"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ਤੇਈਮਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:06.785004818Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 100,
+  "translation": "ਧੰਨਵਾਦ ਲਈ ਜ਼ਬੂਰ। ਸਾਰੀ ਧਰਤੀ ਯਾਹਵੇਹ ਵੱਲ ਸ਼ੋਰ ਮਚਾਓ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "ਧੰਨਵਾਦ ਲਈ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ਸ਼ੋਰ ਮਚਾਓ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਵੱਲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:06:28.771041256Z",
+  "model": "glm-5.2"
+}

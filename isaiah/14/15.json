@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਬਸ਼ਰਤੀ ਤੂੰ ਸ਼ਿਓਲ ਵਿੱਚ ਲਿਆਂਦਾ ਜਾਵੇਂਗਾ, ਗੜਭੇ ਦੇ ਕੋਨਿਆਂ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ਬਸ਼ਰਤੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਿਓਲ"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ਤੂੰ ਲਿਆਂਦਾ ਜਾਵੇਂਗਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ਕੋਨਿਆਂ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ਗੜਭੇ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:52:51.312715300Z",
+  "model": "glm-5.2"
+}

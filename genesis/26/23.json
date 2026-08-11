@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਉਹ ਉੱਥੋਂ ਬੇਏਰ-ਸ਼ਾਬਾ ਨੂੰ ਚੜ੍ਹਿਆ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ਅਤੇ ਉਹ ਚੜ੍ਹਿਆ ਗਿਆ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ਉੱਥੋਂ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ਬੇਏਰ-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-ਸ਼ਾਬਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:27.015934951Z",
+  "model": "glm-5.2"
+}

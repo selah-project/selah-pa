@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 82,
+  "translation": "ਕਮਜ਼ੋਰ ਅਤੇ ਕੰਗਾਲ ਨੂੰ ਬਚਾਓ; ਦੁਸ਼ਟਾਂ ਦੇ ਹੱਥੋਂ ਛੁਡਾਓ।",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "ਬਚਾਓ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ਕਮਜ਼ੋਰ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ਅਤੇ ਕੰਗਾਲ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ਦੇ ਹੱਥੋਂ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ਛੁਡਾਓ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:01:23.017885110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਤੁਹਾਡੀਆਂ ਲੋਥਾਂ — ਤੁਸੀਂ ਆਪ — ਇਸ ਉਜਾੜ ਵਿੱਚ ਡਿੱਗ ਪਓਗੇ।",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "ਅਤੇ ਤੁਹਾਡੀਆਂ ਲੋਥਾਂ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ਤੁਸੀਂ ਆਪ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ਡਿੱਗ ਪਓਗੇ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ਉਜਾੜ ਵਿੱਚ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:54:28.394886824Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਦਦਾਨ ਤੇਰਾ ਵਪਾਰੀ ਸੀ — ਸਵਾਰੀ ਲਈ ਖੁੱਲ੍ਹੇ ਕੱਪੜਿਆਂ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "ਦਦਾਨ"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "ਤੇਰਾ ਵਪਾਰੀ"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "ਕੱਪੜਿਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ਖੁੱਲ੍ਹੇ"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "ਸਵਾਰੀ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:54:47.932987563Z",
+  "model": "glm-5.2"
+}

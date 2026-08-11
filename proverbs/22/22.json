@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਕਮਜ਼ੋਰ ਦੀ ਲੁੱਟ ਨਾ ਕਰ, ਕਿਉਂਕਿ ਉਹ ਕਮਜ਼ੋਰ ਹੈ, ਅਤੇ ਗਲੀ ਦੇ ਦਰਵਾਜ਼ੇ ਉੱਤੇ ਲੋੜਵੰਦ ਨੂੰ ਰੌਲਾ ਨਾ ਪਾ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ਲੁੱਟ ਕਰ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ਕਮਜ਼ੋਰ ਦੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ਕਮਜ਼ੋਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "ਰੌਲਾ ਪਾ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ਲੋੜਵੰਦ ਨੂੰ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ਗਲੀ ਦੇ ਦਰਵਾਜ਼ੇ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:22.725781311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਰੇਸਨ ਨੂੰ, ਨੀਨਵੇਹ ਅਤੇ ਕਲਹ ਦੇ ਵਿਚਕਾਰ; ਉਹ ⟨ਹੈ⟩ ਉਹ ਮਹਾਨ ਸ਼ਹਿਰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩",
+      "marks": "ਰੇਸਨ"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ਰੇਸਨ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ਦੇ ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ਨੀਨਵੇਹ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ਅਤੇ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ਕਲਹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ਮਹਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:10.528294731Z",
+  "model": "glm-5.2"
+}

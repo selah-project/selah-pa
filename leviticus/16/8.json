@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਅਤੇ ਅਹਰੋਨ ਦੋਵੇਂ ਬੋਤਿਆਂ ਉੱਤੇ ਗੋਰਲਾਂ ਪਾਵੇ — ਇੱਕ ਗੋਰਲ ਯਾਹਵੇਹ ਲਈ ਅਤੇ ਇੱਕ ਗੋਰਲ ਅਜ਼ਾਜ਼ੇਲ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ਅਤੇ ਪਾਵੇ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਦੋਵੇਂ"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ਬੋਤਿਆਂ"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ਗੋਰਲਾਂ"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ਗੋਰਲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "ਅਤੇ ਗੋਰਲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "ਅਜ਼ਾਜ਼ੇਲ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:39:07.002747089Z",
+  "model": "glm-5.2"
+}

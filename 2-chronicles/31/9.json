@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਯਹਿਜ਼ਕੀਯਾਹੂ ਨੇ ਕੋਹਨੀਮ ਅਤੇ ਲਵੀਯਮ ਪਾਸੋਂ ਢੇਰਾਂ ਬਾਰੇ ਪੁੱਛਿਆ।",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "ਅਤੇ ਪੁੱਛਿਆ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ਯਹਿਜ਼ਕੀਯਾਹੂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਪਾਸੋਂ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ਕੋਹਨੀਮ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ਅਤੇ ਲਵੀਯਮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਬਾਰੇ"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ਢੇਰਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:40:50.219670407Z",
+  "model": "glm-5.2"
+}

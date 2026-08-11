@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਗਿਬਓਨ ਵਿੱਚ ਰਹਿੰਦੇ ਸਨ ⟨ਗਿਬਓਨ ਦਾ ਪਿਤਾ⟩, ਅਤੇ ਉਸ ਦੀ ਪਤਨੀ ਦਾ ਨਾਮ ਮਾਅਕਾਹ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "ਅਤੇ ਗਿਬਓਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ਰਹਿੰਦੇ ਸਨ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਪਿਤਾ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ਗਿਬਓਨ ਦਾ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ਅਤੇ ਨਾਮ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ਉਸ ਦੀ ਪਤਨੀ ਦਾ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ਮਾਅਕਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:58:19.901886198Z",
+  "model": "glm-5.2"
+}

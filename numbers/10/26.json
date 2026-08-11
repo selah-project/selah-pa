@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਆਸ਼ੇਰ ਦੇ ਬੱਚਿਆਂ ਦੇ ਕਬੀਲੇ ਦੇ ਲਸ਼ਕਰ ਉੱਤੇ ⟨ਹੈ⟩ ਪਾਗੀਏਲ ਅਖਰਾਨ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ... ਉੱਤੇ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ਲਸ਼ਕਰ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ਕਬੀਲੇ ਦੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਆਸ਼ੇਰ"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "ਪਾਗੀਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ਅਖਰਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:35.455181698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਮਰਾਰੀ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ ਮਾਹਲੀ ਅਤੇ ਮੂਸ਼ੀ; ਯਾਅਜ਼ੀਯਾਹੂ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ ⟨ਉਸਦਾ⟩ ਬੇਨੋ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ਮਰਾਰੀ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ਮਾਹਲੀ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ਅਤੇ ਮੂਸ਼ੀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "ਯਾਅਜ਼ੀਯਾਹੂ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਬੇਨੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:11:51.248235346Z",
+  "model": "glm-5.2"
+}

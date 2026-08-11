@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਲੋਦ, ਅਤੇ ਓਨੋ, ਕਾਰੀਗਰਾਂ ਦਾ ਗ਼ਾਹ।",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "ਲੋਦ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ਅਤੇ ਓਨੋ"
+    },
+    {
+      "surface": "גי",
+      "gloss": "ਗ਼ਾਹ"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "ਕਾਰੀਗਰਾਂ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:21.377810862Z",
+  "model": "glm-5.2"
+}

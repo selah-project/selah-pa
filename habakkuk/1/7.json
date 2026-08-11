@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਹ ਡਰਾਉਣਾ ਅਤੇ ਭਿਆਨਕ ਹੈ; ਉਸ ਤੋਂ ਹੀ ਉਸਦਾ ਨਿਆਂ ਅਤੇ ਉਸਦੀ ਸ਼ਾਨ ਨਿਕਲਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "ਡਰਾਉਣਾ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ਅਤੇ ਭਿਆਨਕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ਉਸ ਤੋਂ ਹੀ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ਉਸਦਾ ਨਿਆਂ"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "ਅਤੇ ਉਸਦੀ ਸ਼ਾਨ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ਨਿਕਲਦੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:19:02.756035979Z",
+  "model": "glm-5.2"
+}

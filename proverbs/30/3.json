@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਮੈਂ ਨੇ ਚਾਤੁਰਤ ਨਹੀਂ ਸਿੱਖੀ, ਅਤੇ ਪਵਿੱਤਰਾਂ ਦਾ ਗਿਆਨ ⟨ਮੈਨੂੰ⟩ ਨਹੀਂ ਪਤਾ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "ਮੈਂ ਸਿੱਖੀ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਚਾਤੁਰਤ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ਅਤੇ ਗਿਆਨ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ਪਵਿੱਤਰਾਂ ਦਾ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "⟨ਮੈਨੂੰ⟩ ਪਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:36:47.250097097Z",
+  "model": "glm-5.2"
+}

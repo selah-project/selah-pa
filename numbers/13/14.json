@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਨਫ਼ਤਾਲੀ ਕਬੀਲੇ ਲਈ — ਨਖਬੀ, ਵੋਫ਼ਸੀ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ਨਫ਼ਤਾਲੀ"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "ਨਖਬੀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ਵੋਫ਼ਸੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:53:29.449013511Z",
+  "model": "glm-5.2"
+}

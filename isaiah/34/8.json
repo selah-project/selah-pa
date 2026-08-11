@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਦਾ ਬਦਲਾ ਦਾ ਇੱਕ ਦਿਨ ਹੈ, ਸਿਯੋਨ ਦੇ ਝਗੜੇ ਦੇ ਬਦਲੇ ਦਾ ਇੱਕ ਸਾਲ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ਬਦਲਾ ਦਾ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "ਬਦਲੇ ਦਾ"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "ਝਗੜੇ ਦੇ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ਸਿਯੋਨ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:00:43.220306467Z",
+  "model": "glm-5.2"
+}

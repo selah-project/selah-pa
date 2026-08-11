@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸ਼ਾਹਨਾਈ ਅਤੇ ਲਲਕਾਰੇ ਦਾ ਦਿਨ, ਕਿਲ੍ਹੇਦਾਰ ਸ਼ਹਿਰਾਂ ਅਤੇ ਉੱਚੀਆਂ ਕੰਨ੍ਹਾਂ ਉੱਤੇ।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ਸ਼ਾਹਨਾਈ"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ਅਤੇ ਲਲਕਾਰੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ਸ਼ਹਿਰਾਂ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ਕਿਲ੍ਹੇਦਾਰ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "ਕੰਨ੍ਹਾਂ"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "ਉੱਚੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:20:17.028643512Z",
+  "model": "glm-5.2"
+}

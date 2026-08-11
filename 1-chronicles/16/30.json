@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਉਸਦੇ ਸਾਹਮਣੇ ਕੰਬੋ, ਸਾਰੀ ਧਰਤੀ; ਅਤੇ ⟨ਇਹ ਵੀ ਕਿ⟩ ਪਰਤੀ ਟਿਕ ਗਈ ਹੈ, ⟨ਇਹ⟩ ਨਹੀਂ ਹਿੱਲੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "ਕੰਬੋ"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "ਉਸਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ਅਤੇ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ਟਿਕ ਗਈ ਹੈ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ਪਰਤੀ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ਹਿੱਲੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:06:06.123424692Z",
+  "model": "glm-5.2"
+}

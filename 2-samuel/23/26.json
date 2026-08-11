@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਖੇਲੇਤਸ ਪਲਤੀ, ਇਰਾ ਇਕੇਸ਼ ਦਾ ਪੁੱਤਰ ਤਕੋਈ,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "ਖੇਲੇਤਸ"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "ਪਲਤੀ"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ਇਰਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ਇਕੇਸ਼"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ਤਕੋਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.432608632Z",
+  "model": "glm-5.2"
+}

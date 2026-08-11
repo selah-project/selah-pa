@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਇਹ ⟨ਹੈ⟩ ਸ਼ਾਂਤੀ-ਭੇਟ ਦਾ ਨਿਯਮ ਜੋ ਉਹ ਯਾਹਵੇਹ ਨੂੰ ਅਰਪਦਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ਦਾ ਨਿਯਮ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ਭੇਟ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ਸ਼ਾਂਤੀ-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ਅਰਪਦਾ ਹੈ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:32:36.696062869Z",
+  "model": "glm-5.2"
+}

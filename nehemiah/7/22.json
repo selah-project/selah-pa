@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਖ਼ਸ਼ੁਮ ਦੇ ਪੁੱਤਰ, ਤਿੰਨ ਸੌ ਵੀਹ ਅੱਠ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ਖ਼ਸ਼ੁਮ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ਅੱਠ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:43:02.665506741Z",
+  "model": "glm-5.2"
+}

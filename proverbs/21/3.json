@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਧਾਰਮਿਕਤਾ ਅਤੇ ਨਿਆਂ ਕਰਨਾ ਯਾਹਵੇਹ ਲਈ ਬਲੀ ਤੋਂ ਚੁਣਿਆ ਹੋਇਆ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ਕਰਨਾ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ਧਾਰਮਿਕਤਾ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ਅਤੇ ਨਿਆਂ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ਚੁਣਿਆ ਹੋਇਆ ਹੈ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ਬਲੀ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:09.574650817Z",
+  "model": "glm-5.2"
+}

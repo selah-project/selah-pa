@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਦੂਜੇ ਮਹੀਨੇ ਵਿੱਚ, ਮਹੀਨੇ ਦੇ ਸਤਾਈਂਵੇਂ ਦਿਨ, ਧਰਤੀ ਸੁੱਕ ਗਈ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ਅਤੇ ਮਹੀਨੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜੇ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ਅਤੇ ਵੀਹ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ਮਹੀਨੇ ਦੇ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ਸੁੱਕ ਗਈ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:57.544212594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਤਦ ਯਸ਼ਾਯਾਹੂ ਨੇ ਖਿਜਕੀਯਾਹੂ ਨੂੰ ਕਿਹਾ: ਸੁਣ, ਯਾਹਵੇਹ ਸੈਬਾਓਤ ਦਾ ਬਚਨ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਤਦ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ਯਸ਼ਾਯਾਹੂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ਖਿਜਕੀਯਾਹੂ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ਸੈਬਾਓਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:02:10.546255055Z",
+  "model": "glm-5.2"
+}

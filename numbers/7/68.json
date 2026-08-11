@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸੋਨੇ ਦਾ ਇੱਕ ਕੌਲ, ਦਸ ⟨ਸ਼ੇਕੇਲ⟩, ਜਲਾਊ ਸੁਗੰਧੀ ਨਾਲ ਭਰਿਆ ਹੋਇਆ।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ਕੌਲ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ-ਦਾ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ਭਰਿਆ-ਹੋਇਆ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ਜਲਾਊ-ਸੁਗੰਧੀ-ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:32.952713828Z",
+  "model": "glm-5.2"
+}

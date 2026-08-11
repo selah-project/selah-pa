@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਮਿਲਾਵਟੀ ਕੱਪੜਾ ਨਾ ਪਾਓ — ਉੱਨ ਅਤੇ ਸਣ ਇਕੱਠੇ ⟨ਬਣਿਆ⟩।",
+  "tokens": [
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תִלְבַּשׁ֙",
+      "gloss": "ਪਾਓ"
+    },
+    {
+      "surface": "שַֽׁעַטְנֵ֔ז",
+      "gloss": "ਮਿਲਾਵਟੀ ਕੱਪੜਾ"
+    },
+    {
+      "surface": "צֶ֥מֶר",
+      "gloss": "ਉੱਨ"
+    },
+    {
+      "surface": "וּפִשְׁתִּ֖ים",
+      "gloss": "ਅਤੇ ਸਣ"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "ਇਕੱਠੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:51.905647543Z",
+  "model": "glm-5.2"
+}

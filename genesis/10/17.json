@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ⟨את⟩ ਹਵੀ, ਅਤੇ ⟨את⟩ ਅਰਕੀ, ਅਤੇ ⟨את⟩ ਸੀਨੀ ⟨ਨੂੰ⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਹਵੀ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ਹਵੀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਰਕੀ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ਅਰਕੀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸੀਨੀ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ਸੀਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:08.603021129Z",
+  "model": "glm-5.2"
+}

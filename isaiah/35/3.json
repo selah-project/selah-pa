@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਮਜ਼ਬੂਤ ਕਰੋ ਢੀਲੀਆਂ ਬਾਂਹਾਂ, ਅਤੇ ਡੋਲਦੇ ਗੋਡਿਆਂ ਨੂੰ ਪੱਕਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "ਮਜ਼ਬੂਤ ਕਰੋ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ਬਾਂਹਾਂ"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "ਢੀਲੀਆਂ"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "ਅਤੇ ਡੋਲਦੇ ਗੋਡਿਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": ""
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ਪੱਕਾ ਕਰੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:45:07.154851317Z",
+  "model": "glm-5.2"
+}

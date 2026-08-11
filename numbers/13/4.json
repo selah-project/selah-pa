@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਇਹ ਉਹਨਾਂ ਦੇ ਨਾਮ ਸਨ: ਰਊਬੇਨ ਦੇ ਕਬੀਲੇ ਲਈ ਸ਼ਮੂਆ, ਜ਼ੱਕੂਰ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਨਾਮ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬੇਨ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ਸ਼ਮੂਆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ਜ਼ੱਕੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:54:01.926807896Z",
+  "model": "glm-5.2"
+}

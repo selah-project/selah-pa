@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਹੁਣ ਤੁਹਾਡੇ ਲਈ ਇਹ ਹੁਕਮ ⟨ਹੈ⟩, ਹੇ ਯਾਜਕੋ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ਇਹ ਹੁਕਮ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ਹੇ ਯਾਜਕੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:26:31.603740137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਪਰ ਉਨ੍ਹਾਂ ਦਿਨਾਂ ਵਿੱਚ ਵੀ — ਯਾਹਵੇਹ ਦਾ ਕਥਨ — ਮੈਂ ⟨את⟩ ਤੁਹਾਡਾ ਪੂਰਾ ਨਾਸ ਨਹੀਂ ਕਰਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ਪਰ ਵੀ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ਦਿਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ਉਨ੍ਹਾਂ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ਕਥਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ਮੈਂ ਕਰਾਂਗਾ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ਤੁਹਾਡਾ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ਪੂਰਾ ਨਾਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:16:56.243579694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਖ਼ਿਜ਼ਕੀਯਾਹੁ ਰਾਜੇ ਦੇ ਨੌਕਰ ਯਸ਼ਾਯਾਹੂ ਕੋਲ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ਅਤੇ ਆਏ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ਨੌਕਰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ ਦੇ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ਖ਼ਿਜ਼ਕੀਯਾਹੁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ਯਸ਼ਾਯਾਹੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:43:52.001298707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਮੋਆਬ ਤੋੜਿਆ ਗਿਆ ਹੈ, ਉਸ ਦੇ ਨਿੱਕੇ ਬੱਚਿਆਂ ਨੇ ਚੀਕ ਸੁਣਾਈ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ਤੋੜਿਆ ਗਿਆ ਹੈ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "ਸੁਣਾਈ ਹੈ"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "ਚੀਕ"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "ਉਸ ਦੇ ਨਿੱਕੇ ਬੱਚਿਆਂ ਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:36:32.593187183Z",
+  "model": "glm-5.2"
+}

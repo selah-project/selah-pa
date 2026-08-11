@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਪਰ ਹੁਣ ਇਹ ਗੱਲ ਸੁਣ ਜੋ ਮੈਂ ਤੇਰੇ ਕੰਨਾਂ ਵਿੱਚ ਅਤੇ ਸਾਰੇ ਲੋਕਾਂ ਦੇ ਕੰਨਾਂ ਵਿੱਚ ਬੋਲ ਰਿਹਾ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ਪਰ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਗੱਲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬੋਲ ਰਿਹਾ ਹਾਂ"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "ਤੇਰੇ ਕੰਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "ਅਤੇ ਕੰਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕਾਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:29:02.664220038Z",
+  "model": "glm-5.2"
+}

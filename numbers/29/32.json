@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਸੱਤਵੇਂ ਦਿਨ ⟨ਹੋਵੇਗਾ⟩ ਸੱਤ ਬਲਦ, ਦੋ ਮੇਢੇ, ਚੌਦਾਂ ਇੱਕ-ਸਾਲ ਦੇ ਮੇਮਣੇ, ਨਿਰਦੋਸ਼।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ਅਤੇ-ਦਿਨ-ਵਿੱਚ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ਸੱਤਵੇਂ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ਮੇਢੇ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਮੇਮਣੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ ਦੇ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ਨਿਰਦੋਸ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:16.103497820Z",
+  "model": "glm-5.2"
+}

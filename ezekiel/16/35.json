@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਇਸ ਲਈ, ਹੇ ਵੇਸਵੀ, ਸੁਣ ਯਾਹਵੇਹ ਦਾ ਬਚਨ!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ਹੇ ਵੇਸਵੀ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:48:29.226357745Z",
+  "model": "glm-5.2"
+}

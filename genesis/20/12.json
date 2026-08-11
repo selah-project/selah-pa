@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਵੀ, ਸੱਚਮੁੱਚ ਉਹ ਮੇਰੀ ਭੈਣ ਹੈ; ਉਹ ਮੇਰੇ ਪਿਤਾ ਦੀ ਧੀ ਹੈ, ਪਰ ਮੇਰੀ ਮਾਂ ਦੀ ਧੀ ਨਹੀਂ; ਅਤੇ ਉਹ ਮੇਰੀ ਤੀਵੀਂ ਬਣੀ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ਅਤੇ ਵੀ"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "ਸੱਚਮੁੱਚ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ਮੇਰੀ ਭੈਣ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਮੇਰੇ ਪਿਤਾ ਦੀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ਪਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ਮੇਰੀ ਮਾਂ ਦੀ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ਅਤੇ ਉਹ ਬਣੀ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੀ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ਤੀਵੀਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:52:20.713038254Z",
+  "model": "glm-5.2"
+}

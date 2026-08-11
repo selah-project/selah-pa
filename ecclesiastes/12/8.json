@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਹੇਬਲ-ਹੇਬਲੀਮ, ਕਹਿੰਦਾ ਹੈ ਕੋਹੇਲੇਤ, ਸਭ ਹੇਬਲ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "הֲבֵ֧ל",
+      "gloss": "ਹੇਬਲ"
+    },
+    {
+      "surface": "הֲבָלִ֛ים",
+      "gloss": "ਹੇਬਲੀਮ"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "ਕਹਿੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "הַקּוֹהֶ֖לֶת",
+      "gloss": "ਕੋਹੇਲੇਤ"
+    },
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "ਸਭ"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "ਹੇਬਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:15:22.841829572Z",
+  "model": "glm-5.2"
+}

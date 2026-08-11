@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਆਪਣਾ ਝਗੜਾ ਆਪਣੇ ਗੁਆਂਢੀ ਨਾਲ ⟨ਲੜ⟩, ਅਤੇ ⟨ਕਿਸੇ⟩ ਹੋਰ ਦਾ ਭੇਦ ਨਾ ਖੋਲ੍ਹ।",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ਤੇਰਾ ਝਗੜਾ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ਲੜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਆਪਣੇ ਗੁਆਂਢੀ ਨੂੰ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ਤੇਰੇ ਗੁਆਂਢੀ"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ਅਤੇ ⟨ਕਿਸੇ⟩ ਦਾ ਭੇਦ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ਹੋਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ਖੋਲ੍ਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:32:08.395549581Z",
+  "model": "glm-5.2"
+}

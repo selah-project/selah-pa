@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਰਾਜੇ ਦਾ ਕ੍ਰੋਧ ਮੌਤ ਦੇ ਦੂਤ ਹਨ, ਪਰ ਇੱਕ ਸਿਆਣਾ ਮਨੁੱਖ ਉਸ ਨੂੰ ⟨ਸ਼ਾਂਤ⟩ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ਕ੍ਰੋਧ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ ਦਾ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ਦੂਤ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮੌਤ ਦੇ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ਪਰ ਇੱਕ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ਸਿਆਣਾ"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "ਪ੍ਰਾਯਸ਼ਚਿੱਤ ਕਰੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:27:52.989275522Z",
+  "model": "glm-5.2"
+}

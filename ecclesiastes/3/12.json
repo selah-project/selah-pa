@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਮੈਂ ਜਾਣਿਆ ਕਿ ਉਹਨਾਂ ਵਿੱਚ ਕੋਈ ਭਲਾਈ ਨਹੀਂ, ਸਗੋਂ ਇਹ ਕਿ ਖ਼ੁਸ਼ੀ ਮਨਾਉਣ ਅਤੇ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਵਿੱਚ ਭਲਾਈ ਕਰਨ।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ਮੈਂ ਜਾਣਿਆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਕੋਈ ਭਲਾਈ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ਉਹਨਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਸਗੋਂ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਇਹ ਕਿ"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ਖ਼ੁਸ਼ੀ ਮਨਾਉਣ"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ਅਤੇ ਕਰਨ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਭਲਾਈ"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:10:40.384975134Z",
+  "model": "glm-5.2"
+}

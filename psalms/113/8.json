@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 113,
+  "translation": "ਉਸ ਨੂੰ ਆਗੂਆਂ ਨਾਲ, ਉਸ ਦੇ ਲੋਕਾਂ ਦੇ ਆਗੂਆਂ ਨਾਲ ਬਿਠਾਉਣ ਲਈ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "ਬਿਠਾਉਣ ਲਈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "ਆਗੂਆਂ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ਆਗੂਆਂ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ਉਸ ਦੇ ਲੋਕਾਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:10:45.304339308Z",
+  "model": "glm-5.2"
+}

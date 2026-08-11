@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਉਹ ਜਾਣਨਗੇ ਕਿ ਮੈਂ ਯਾਹਵੇਹ ਹਾਂ; ਇਹ ਭੈੜ੾ ਕੰਮ ਉਨ੍ਹਾਂ ਨਾਲ ਕਰਨ ਲਈ ਮੈਂ ਵਿਅਰਥ ਨਹੀਂ ਬੋਲਿਆ।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ਅਤੇ ਉਹ ਜਾਣਨਗੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ਵਿਅਰਥ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ਬੋਲਿਆ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ਉਨ੍ਹਾਂ ਨਾਲ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ਭੈੜਾ ਕੰਮ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:42:50.886262737Z",
+  "model": "glm-5.2"
+}

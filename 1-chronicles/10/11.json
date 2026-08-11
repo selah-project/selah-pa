@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਸਾਰੇ ਯਾਬੇਸ਼ ਗਿਲਅਦ ਨੇ ਸੁਣਿਆ ⟨את⟩ ਸਭ ਕੁਝ ਜੋ ਪਲਿਸ਼ਤੀਮ ਨੇ ਸ਼ਾਊਲ ਲਈ ਕੀਤਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ਅਤੇ ਸੁਣਿਆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ਯਾਬੇਸ਼"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ਗਿਲਅਦ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਭ ਕੁਝ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਭ ਕੁਝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਕੀਤਾ ਸੀ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ਪਲਿਸ਼ਤੀਮ ਨੇ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ਸ਼ਾਊਲ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:54.353015766Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 86,
+  "translation": "ਕਿਉਂਕਿ ਤੂੰ ਮਹਾਨ ਹੈਂ ਅਤੇ ਅਚੰਭੇ ਦੇ ਕੰਮ ਕਰਦਾ ਹੈਂ; ਤੂੰ ਇਕੱਲਾ ਏਲੋਹੀਮ ਹੈਂ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ਮਹਾਨ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ਅਤੇ ਕਰਦਾ ਹੈਂ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ਅਚੰਭੇ ਦੇ ਕੰਮ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ਇਕੱਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:02:42.733131269Z",
+  "model": "glm-5.2"
+}

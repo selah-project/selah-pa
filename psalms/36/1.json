@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਮਹਿਫ਼ਿਲ ਦੇ ਮਨਾਉਣ ਵਾਲੇ ਲਈ, ਯਾਹਵੇਹ ਦੇ ਸੇਵਕ ਦਾਵਿਦ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮਹਿਫ਼ਿਲ ਦੇ ਮਨਾਉਣ ਵਾਲੇ ਲਈ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ਸੇਵਕ ⟨ਦਾ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:40:09.259366503Z",
+  "model": "glm-5.2"
+}

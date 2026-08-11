@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 85,
+  "translation": "ਤੂੰ ਚੁੱਕਿਆ ਆਪਣੇ ਲੋਕਾਂ ਦਾ ਅਪਰਾਧ; ਤੂੰ ਢਕਿਆ ਸਾਰੇ ਉਹਨਾਂ ਦੇ ਪਾਪ। ਸੇਲਾਹ।",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "ਤੂੰ ਚੁੱਕਿਆ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ਅਪਰਾਧ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਆਪਣੇ ਲੋਕਾਂ ਦਾ"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "ਤੂੰ ਢਕਿਆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਪਾਪ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ਸੇਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:02:23.357648888Z",
+  "model": "glm-5.2"
+}

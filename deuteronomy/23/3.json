@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਕੋਈ ਮਮਜ਼ੇਰ ਯਾਹਵੇਹ ਦੀ ਸਭਾ ਵਿੱਚ ਨਾ ਦਾਖ਼ਲ ਹੋਵੇ; ਉਸ ਦਾ ਦਸਵਾਂ ਦੌਰ ਵੀ ਉਸ ਲਈ ਯਾਹਵੇਹ ਦੀ ਸਭਾ ਵਿੱਚ ਨਾ ਦਾਖ਼ਲ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ਦਾਖ਼ਲ ਹੋਵੇ"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "ਕੋਈ ਮਮਜ਼ੇਰ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ਸਭਾ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ਦੌਰ"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ਦਸਵਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ਦਾਖ਼ਲ ਹੋਵੇ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ਸਭਾ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:26.025505285Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਫਿਟਕਾਰਿਆ ⟨ਹੈ⟩ ⟨ਉਹ⟩ ਜੋ ਰਸਤੇ ਵਿੱਚ ਅੰਨ੍ਹੇ ਨੂੰ ਭਟਕਾਉਂਦਾ ⟨ਹੈ⟩, ਅਤੇ ਸਾਰੇ ਲੋਕ ਕਹਿਣਗੇ: ਆਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਫਿਟਕਾਰਿਆ"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "ਭਟਕਾਉਂਦਾ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ਅੰਨ੍ਹੇ ਨੂੰ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ਰਸਤੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ਆਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:35.119175189Z",
+  "model": "glm-5.2"
+}

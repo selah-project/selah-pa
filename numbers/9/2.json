@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਇਸਰਾਏਲ ਦੇ ਬੱਚੇ ਆਪਣੇ ਨਿਯਤ ਸਮੇਂ ਉੱਤੇ ਪਸਾਹ ਨੂੰ ਕਰਨ:",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਕਰਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪਸਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ਪਸਾਹ"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "ਆਪਣੇ ਨਿਯਤ ਸਮੇਂ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:37:28.146260577Z",
+  "model": "glm-5.2"
+}

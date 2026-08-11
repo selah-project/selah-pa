@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਕਦੇਸ਼ ਦਾ ਰਾਜਾ ਇੱਕ; ਕਾਰਮੇਲ ਦੇ ਯੋਕਨਿਆਮ ਦਾ ਰਾਜਾ ਇੱਕ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਕਦੇਸ਼"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "ਯੋਕਨਿਆਮ"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ਕਾਰਮੇਲ ਦੇ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:35.094896553Z",
+  "model": "glm-5.2"
+}

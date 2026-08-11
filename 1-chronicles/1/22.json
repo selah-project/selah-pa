@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ⟨את⟩ ਏਵਾਲ, ਅਤੇ ⟨את⟩ ਅਬੀਮਾਏਲ, ਅਤੇ ⟨את⟩ ਸ਼ਬਾ ‖",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਏਵਾਲ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ਏਵਾਲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਅਬੀਮਾਏਲ"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ਅਬੀਮਾਏਲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸ਼ਬਾ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ਸ਼ਬਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:35.555609957Z",
+  "model": "glm-5.2"
+}

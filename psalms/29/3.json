@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਯਾਹਵੇਹ ਦੀ ਆਵਾਜ਼ ਪਾਣੀਆਂ ਉੱਤੇ ⟨ਹੈ⟩; ਮਹਿਮਾ ਦਾ ਏਲ ਗਰਜਦਾ ਹੈ, ਯਾਹਵੇਹ ਬਹੁਤ ਪਾਣੀਆਂ ਉੱਤੇ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ਆਵਾਜ਼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ਪਾਣੀਆਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ਮਹਿਮਾ ਦਾ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ਗਰਜਦਾ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀਆਂ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ਬਹੁਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:35:49.861890917Z",
+  "model": "glm-5.2"
+}

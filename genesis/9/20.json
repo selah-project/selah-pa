@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਨੋਆਖ਼ ਧਰਤੀ ਦਾ ਮਨੁੱਖ ⟨ਬਣਿਆ⟩, ⟨ਅਤੇ⟩ ਬਾਗ਼ ਲਗਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ਅਤੇ ⟨ਬਣਿਆ⟩"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੋਆਖ਼"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਦਾ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "⟨ਅਤੇ⟩ ਲਗਾਇਆ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ਬਾਗ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:42.484824498Z",
+  "model": "glm-5.2"
+}

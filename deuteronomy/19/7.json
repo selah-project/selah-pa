@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਇਸ ਲਈ ਮੈਂ ਤੈਨੂੰ ਹੁਕਮ ਦਿੰਦਾ ਹਾਂ, ਕਹਿੰਦਾ ਹੋਇਆ: ਤੂੰ ਆਪਣੇ ਲਈ ਤਿੰਨ ਸ਼ਹਿਰ ਵੱਖ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ਤੈਨੂੰ ਹੁਕਮ ਦਿੰਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦਾ ਹੋਇਆ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "ਵੱਖ ਕਰ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:57.838679610Z",
+  "model": "glm-5.2"
+}

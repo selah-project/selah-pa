@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਯਾਹਵੇਹ ਦੀ ਆਵਾਜ਼ ਸ਼ਕਤੀ ਵਿੱਚ ⟨ਹੈ⟩; ਯਾਹਵੇਹ ਦੀ ਆਵਾਜ਼ ਸ਼ੋਭਾ ਵਿੱਚ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ਆਵਾਜ਼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ਸ਼ਕਤੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ਆਵਾਜ਼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ਸ਼ੋਭਾ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:35:49.862059216Z",
+  "model": "glm-5.2"
+}

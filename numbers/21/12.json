@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਉੱਥੋਂ ਯਾਤਰਾ ਕੀਤੀ ਅਤੇ ਜ਼ਾਰੇਦ ਦੇ ਨਦੀ-ਬਿਰਤੇ ਵਿੱਚ ਪੜਾਅ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ਉੱਥੋਂ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ਯਾਤਰਾ ਕੀਤੀ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ਅਤੇ ਪੜਾਅ ਕੀਤਾ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ਨਦੀ-ਬਿਰਤੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ਜ਼ਾਰੇਦ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:57:58.155022374Z",
+  "model": "glm-5.2"
+}

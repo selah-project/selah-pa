@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਆਰਾਖ ਦੇ ਪੁੱਤਰ, ਸੱਤ ਸੌ ਪੈਂਤੀ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ਆਰਾਖ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੈਂਤੀ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ਅਤੇ ਸੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:32:43.029931574Z",
+  "model": "glm-5.2"
+}

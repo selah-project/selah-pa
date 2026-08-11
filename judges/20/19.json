@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਇਸਰਾਏਲ ਦੇ ਪੁੱਤਰ ਸਵੇਰ ਨੂੰ ਉੱਠੇ, ਅਤੇ ਗਿਬਆ ਦੇ ਨੇੜੇ ਪੜਾਅ ਪਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ਅਤੇ ਉੱਠੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ਸਵੇਰ ਨੂੰ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ਅਤੇ ਪੜਾਅ ਪਾਇਆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਦੇ ਨੇੜੇ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ਗਿਬਆ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:50:06.357029467Z",
+  "model": "glm-5.2"
+}

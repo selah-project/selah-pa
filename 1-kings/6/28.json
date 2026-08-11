@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਕਰੂਬਾਂ ਨੂੰ ਸੋਨੇ ਨਾਲ ਮੜ੍ਹਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਮੜ੍ਹਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਕਰੂਬਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ਕਰੂਬਾਂ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੋਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:23:36.723284266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਮੇਰੀ ਜਾਨ ਨੂੰ ਖੂਹ ਵਿੱਚ ਮਿਟਾ ਦਿੱਤਾ, ਅਤੇ ਮੇਰੇ ਉੱਤੇ ਪੱਥਰ ਸੁੱਟਿਆ।",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "ਮਿਟਾ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ਖੂਹ ਵਿੱਚ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ਮੇਰੀ ਜਾਨ"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ਅਤੇ ਸੁੱਟਿਆ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ਪੱਥਰ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ਮੇਰੇ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:44.910116182Z",
+  "model": "glm-5.2"
+}

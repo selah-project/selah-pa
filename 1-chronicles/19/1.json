@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਇਹ ਹੋਇਆ, ਇਸ ਤੋਂ ਬਾਅਦ ਕਿ ਨਾਖਸ਼, ਬਨੀ-ਅਮੋਨ ਦਾ ਰਾਜਾ, ਮਰ ਗਿਆ, ਅਤੇ ਉਸ ਦਾ ਪੁੱਤਰ ਉਸ ਦੀ ਥਾਂ ਰਾਜਾ ਬਣਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਇਹ ਹੋਇਆ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ਬਾਅਦ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ਮਰ ਗਿਆ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ਨਾਖਸ਼"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬਨੀ-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ਅਮੋਨ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ਰਾਜਾ ਬਣਿਆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ਉਸ ਦੀ ਥਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:09:39.298135829Z",
+  "model": "glm-5.2"
+}

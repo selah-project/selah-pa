@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਤੂੰ ਉਸ ਨਾਲ ਕੁਝ ਦਿਨ ਰਹੇਂ, ਜਦ ਤੱਕ ਕਿ ਤੇਰੇ ਭਰਾ ਦਾ ਗ਼ੁੱਸਾ ਮੁੜੇ,",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "ਅਤੇ ਤੂੰ ਰਹੇਂ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ਉਸ ਨਾਲ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ਕੁਝ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਜਦ ਤੱਕ ਕਿ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ਮੁੜੇ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ਗ਼ੁੱਸਾ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ਤੇਰੇ ਭਰਾ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:56:17.683528020Z",
+  "model": "glm-5.2"
+}

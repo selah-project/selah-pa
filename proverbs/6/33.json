@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਜ਼ਖ਼ਮ ਅਤੇ ਕਲੰਕ ਉਸ ਨੂੰ ਮਿਲੇਗਾ, ਅਤੇ ਉਸ ਦੀ ਬਦਨਾਮੀ ਮਿਟਾਈ ਨਹੀਂ ਜਾਵੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ਜ਼ਖ਼ਮ"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ਅਤੇ ਕਲੰਕ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ਮਿਲੇਗਾ"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "ਅਤੇ ਉਸ ਦੀ ਬਦਨਾਮੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "ਮਿਟਾਈ ਜਾਵੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:39.877502271Z",
+  "model": "glm-5.2"
+}

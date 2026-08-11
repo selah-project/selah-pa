@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਉੱਥੇ ਮੋਸ਼ੇ ਮਰ ਗਿਆ, ਯਾਹਵੇਹ ਦਾ ਦਾਸ, ਮੋਆਬ ਦੇ ਦੇਸ਼ ਵਿੱਚ, ਯਾਹਵੇਹ ਦੇ ਮੂੰਹ ਦੇ ਅਨੁਸਾਰ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਮਰ ਗਿਆ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ਦਾਸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਦੇ ਅਨੁਸਾਰ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:26:04.231840798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਕਿਉਂਕਿ ਅਦੋਨਾਈ ਨੇ ਮੇਰੇ ਨਾਲ ਇਉਂ ਕਿਹਾ: ਜਾ, ਨਿਗਰਾਨ ਨੂੰ ਖੜ੍ਹਾ ਕਰ; ਜੋ ਉਹ ਵੇਖੇ ਉਹ ਦੱਸੇ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਿਹਾ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ ਨੇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਜਾ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ਖੜ੍ਹਾ ਕਰ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ਨਿਗਰਾਨ ਨੂੰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ਉਹ ਵੇਖੇ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ਉਹ ਦੱਸੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:54:38.608866577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਸੁਨਹਿਰੀ ਨੱਥ ਅਤੇ ਜ਼ਫ਼ਰੀ ਦਾ ਗਹਿਣਾ ਹੈ ਇੱਕ ਸਿਆਣਾ ਗੁਨਾਹਗਾਰ ਉਸ ਕੰਨ ਉੱਤੇ ਜੋ ਸੁਣਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "ਨੱਥ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ਸੁਨਹਿਰੀ"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "ਅਤੇ ਗਹਿਣਾ"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "ਜ਼ਫ਼ਰੀ ਦਾ"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ਗੁਨਾਹਗਾਰ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ਸਿਆਣਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ਕੰਨ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ਜੋ ਸੁਣਦੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:32:08.396110348Z",
+  "model": "glm-5.2"
+}

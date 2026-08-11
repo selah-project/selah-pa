@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਪਰ ਜਿਉਂਦਾ ਹਾਂ ਮੈਂ, ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਕਾਵੋਦ ⟨את⟩ ਸਾਰੀ ਧਰਤੀ ਨੂੰ ਭਰ ਦੇਵੇਗਾ,",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ਪਰ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜਿਉਂਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਭਰ ਦੇਵੇਗਾ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ਕਾਵੋਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੀ ਧਰਤੀ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:55:12.870218669Z",
+  "model": "glm-5.2"
+}

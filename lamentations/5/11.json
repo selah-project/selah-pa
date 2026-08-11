@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਨਾਰੀਆਂ ਨੂੰ ਤਸੀਯੋਨ ਵਿੱਚ ਵਿਭਤਸਿਆ ਗਿਆ, ਕੁਆਰੀਆਂ ਨੂੰ ਯਹੂਦਾਹ ਦੇ ਨਗਰਾਂ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "ਠਿ",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ਨਾਰੀਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ਤਸੀਯੋਨ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ਵਿਭਤਸਿਆ ਗਿਆ"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "ਕੁਆਰੀਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ਨਗਰਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾਹ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:09.371442633Z",
+  "model": "glm-5.2"
+}

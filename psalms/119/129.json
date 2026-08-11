@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਅਦਭੁਤ ⟨ਹਨ⟩ ਤੇਰੀਆਂ ਗਵਾਹੀਆਂ; ਇਸ ਲਈ ਮੇਰੀ ਜਾਨ ਉਹਨਾਂ ਨੂੰ ਰੱਖਦੀ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "ਅਦਭੁਤ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ਤੇਰੀਆਂ ਗਵਾਹੀਆਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "ਰੱਖਦੀ ⟨ਹੈ⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ਮੇਰੀ ਜਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:00.701399161Z",
+  "model": "glm-5.2"
+}

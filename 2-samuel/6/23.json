@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਮੀਖਲ ਨੂੰ, ਸ਼ਾਊਲ ਦੀ ਧੀ ਨੂੰ, ਉਸ ਦੇ ਮਰਨ ਦੇ ਦਿਨ ਤੱਕ ਕੋਈ ਬੱਚਾ ਨਹੀਂ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "ਅਤੇ ਮੀਖਲ ਨੂੰ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਾਊਲ ਦੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ਬੱਚਾ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "ਉਸ ਦੇ ਮਰਨ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:08:42.805028661Z",
+  "model": "glm-5.2"
+}

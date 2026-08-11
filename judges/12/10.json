@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਇਬਤਸਾਨ ਮਰ ਗਿਆ ਅਤੇ ਬੇਤ-ਲਹਿਮ ਵਿੱਚ ਦਫ਼ਨ ਕੀਤਾ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਮਰ ਗਿਆ"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ਇਬਤਸਾਨ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ਅਤੇ ਦਫ਼ਨ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ਵਿੱਚ ←ਬੇਤ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "←ਲਹਿਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:44:46.351014157Z",
+  "model": "glm-5.2"
+}

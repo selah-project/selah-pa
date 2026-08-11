@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਉੱਠ, ਉਸ ਵੱਡੇ ਸ਼ਹਿਰ ਨੀਨਵੇਹ ਕੋਲ ਜਾ, ਅਤੇ ਉਸ ਨੂੰ ਉਹ ਪੁਕਾਰ ਪੁਕਾਰ ਜੋ ਮੈਂ ਤੈਨੂੰ ਦੱਸਦਾ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ਉੱਠ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਜਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ਨੀਨਵੇਹ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਉਸ ਸ਼ਹਿਰ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ਵੱਡੇ"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ਅਤੇ ਪੁਕਾਰ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹ ਪੁਕਾਰ"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ਉਹ ਪੁਕਾਰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਦੱਸਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੈਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:14:45.374775525Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਯਿਫ਼ਤਾਹ ਨੇ ਫਿਰ ⟨ਕੁਝ⟩ ਵਧਾ ਕੇ ਬੱਨੀ ਅੰਮੋਨ ਦੇ ਰਾਜੇ ਕੋਲ ਦੂਤ ਭੇਜੇ।",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ਅਤੇ ਵਧਾ ਕੇ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਫਿਰ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ਯਿਫ਼ਤਾਹ ਨੇ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ਅਤੇ ਭੇਜੇ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ਦੂਤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਨੀ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ਅੰਮੋਨ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:46:10.778718705Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 57,
+  "translation": "ਜਾਗ, ਮੇਰੀ ਮਹਿਮਾ; ਜਾਗ, ਨੇਬਲ ਅਤੇ ਕਿੰਨੋਰ! ਮੈਂ ਸਵੇਰ ਨੂੰ ਜਗਾਵਾਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ਜਾਗ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ਮੇਰੀ ਮਹਿਮਾ"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ਜਾਗ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ਨੇਬਲ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ਅਤੇ ਕਿੰਨੋਰ"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ਮੈਂ ਜਗਾਵਾਂਗਾ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ਸਵੇਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:52:19.734751451Z",
+  "model": "glm-5.2"
+}

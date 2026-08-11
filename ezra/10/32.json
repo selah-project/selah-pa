@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਬਿਨਯਾਮੀਨ, ਮੱਲੂਖ, ਸ਼ਿਮਰਯਾਹ।",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ਬਿਨਯਾਮੀਨ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ਮੱਲੂਖ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ਸ਼ਿਮਰਯਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:39:24.720918421Z",
+  "model": "glm-5.2"
+}

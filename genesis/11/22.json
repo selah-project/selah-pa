@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਸ਼ਰੂਗ ਤੀਹ ਸਾਲ ਜ਼ਿੰਦਾ ਰਿਹਾ, ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਨਾਹੋਰ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਵਿਆ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ਸ਼ਰੂਗ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ਤੀਹ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨਾਹੋਰ ਨੂੰ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ਨਾਹੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:21.016302889Z",
+  "model": "glm-5.2"
+}

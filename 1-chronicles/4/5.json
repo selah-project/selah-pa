@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਅਸ਼ਹੂਰ, ਤਕੋਆ ਦੇ ਪਿਤਾ, ਦੀਆਂ ਦੋ ਇਸਤਰੀਆਂ ਸਨ — ਖ਼ੇਲਾ ਅਤੇ ਨਾਰਾ।",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "ਅਤੇ ਅਸ਼ਹੂਰ ਨੂੰ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਪਿਤਾ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ਤਕੋਆ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ਇਸਤਰੀਆਂ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ਖ਼ੇਲਾ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "ਅਤੇ ਨਾਰਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:55:03.138288217Z",
+  "model": "glm-5.2"
+}

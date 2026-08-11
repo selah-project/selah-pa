@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਚਾਲੀ ਹਥੇਰੂ ਦਾ ਸੀ ⟨הָיָה⟩ ਘਰ — ਉਹੀ ⟨ਹੈ⟩ ਹੇਖਲ ਉਸ ਦੇ ਸਾਹਮਣੇ।",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ਅਤੇ ਚਾਲੀ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ਹਥੇਰੂ ਵਿੱਚ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹੀ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ਹੇਖਲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਸਾਹਮਣੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:22:41.042576834Z",
+  "model": "glm-5.2"
+}

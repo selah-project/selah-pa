@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਸ਼ਿਮੀ ਏਲਾ ਦਾ ਪੁੱਤਰ ਬਿਨਯਾਮੀਨ ਵਿੱਚ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "ਸ਼ਿਮੀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "ਏਲਾ"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "ਬਿਨਯਾਮੀਨ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:21:43.655893900Z",
+  "model": "glm-5.2"
+}

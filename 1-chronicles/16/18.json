@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਕਿ ਤੈਨੂੰ ਅਰਜ਼-ਏ-ਕਨਾਨ ਦੇਵਾਂਗਾ, ਤੁਹਾਡੀ ਵਿਰਾਸਤ ਦੀ ਡੋਰ ਵਜੋਂ।",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ਅਰਜ਼-ਏ-ਕਨਾਨ ਦੇਵਾਂਗਾ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ਕਨਾਨ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ਡੋਰ ਵਜੋਂ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ਤੁਹਾਡੀ ਵਿਰਾਸਤ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:05:27.198045388Z",
+  "model": "glm-5.2"
+}

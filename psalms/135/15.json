@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 135,
+  "translation": "ਪ੍ਰਤੀਮਾਨ ਦੇ ਲੋਕਾਂ ਦੇ ⟨ਹਨ⟩ — ਚਾਂਦੀ ਅਤੇ ਸੋਨਾ, ਮਨੁੱਖੀ ਹੱਥਾਂ ਦਾ ਕੰਮ।",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "ਪ੍ਰਤੀਮਾਨ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ਦੇ ਲੋਕਾਂ ਦੇ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ਚਾਂਦੀ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ਅਤੇ ਸੋਨਾ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ਹੱਥਾਂ ਦਾ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:16:22.910001841Z",
+  "model": "glm-5.2"
+}

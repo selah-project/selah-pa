@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 27:23",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਹਾਰਾਨ ਅਤੇ ਕਨੇਹ ਅਤੇ ਅਦੇਨ, ਸ਼ੇਬਾ ਦੇ ਵਪਾਰੀ; ਅਸ਼ੂਰ, ਕਿਲਮਦ — ਉਹ ਤੇਰੇ ਵਪਾਰੀ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "ਹਾਰਾਨ"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "ਅਤੇ ਕਨੇਹ"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "ਅਤੇ ਅਦੇਨ"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "ਵਪਾਰੀ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ਸ਼ੇਬਾ ਦੇ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ਅਸ਼ੂਰ"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "ਕਿਲਮਦ"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "ਤੇਰੇ ਵਪਾਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:54:07.354664264Z",
+  "model": "glm-5.2"
+}

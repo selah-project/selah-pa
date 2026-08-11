@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਮੁਢਲੀ ਹੱਦ ਨਾ ਹਟਾ, ਜੋ ਤੇਰੇ ਬਜ਼ੁਰਗਾਂ ਨੇ ਬਣਾਈ।",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תַּ׭סֵּג",
+      "gloss": "ਤੂੰ ਹਟਾ"
+    },
+    {
+      "surface": "גְּב֣וּל",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "ਮੁਢਲੀ"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עָשׂ֣וּ",
+      "gloss": "ਨੇ ਬਣਾਈ"
+    },
+    {
+      "surface": "אֲבוֹתֶֽיךָ",
+      "gloss": "ਤੇਰੇ ਬਜ਼ੁਰਗਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:23.298608308Z",
+  "model": "glm-5.2"
+}

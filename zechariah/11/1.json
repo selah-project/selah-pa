@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਖੋਲ੍ਹ, ਹੇ ਲਵਾਨੋਂ, ⟨ਆਪਣੀਆਂ⟩ ਦਰਵਾਜ਼ੇ, ਤਾਂ ਜੋ ਅੱਗ ਤੇਰੇ ਦਿਓਦਾਰਾਂ ਨੂੰ ਖਾ ਜਾਏ।",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ਖੋਲ੍ਹ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ਹੇ ਲਵਾਨੋਂ"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ਦਰਵਾਜ਼ੇ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ਅਤੇ ਖਾ ਜਾਏ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "ਤੇਰੇ ਦਿਓਦਾਰਾਂ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:24:44.965652696Z",
+  "model": "glm-5.2"
+}

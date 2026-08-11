@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ⟨את⟩ ਇੱਕ ਸਮੁੰਦਰ, ਅਤੇ ⟨את⟩ ਬਲਦ ਬਾਰਾਂ, ਸਮੁੰਦਰ ਦੇ ਹੇਠਾਂ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਬਲਦ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠਾਂ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ਸਮੁੰਦਰ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:21:49.920958006Z",
+  "model": "glm-5.2"
+}

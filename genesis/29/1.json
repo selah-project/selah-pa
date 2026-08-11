@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਤਾਂ ਯਾਕੋਬ ਨੇ ਆਪਣੇ ਪੈਰ ਚੁੱਕੇ ਅਤੇ ਚੱਲਿਆ ਪੂਰਬ ਦੇ ਪੁੱਤਰਾਂ ਦੇ ਦੇਸ਼ ⟨ਵੱਲ⟩।",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ਚੁੱਕੇ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ ਨੇ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ਆਪਣੇ ਪੈਰ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਚੱਲਿਆ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ਦੇਸ਼"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ਪੂਰਬ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:57:14.534226494Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਸ਼ੇਖਮ ਦੇ ਪਿਤਾ ਖਮੋਰ ਯਾਕੋਬ ਕੋਲ ਉਸ ਨਾਲ ਗੱਲ ਕਰਨ ਲਈ ਨਿਕਲਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ਅਤੇ ਨਿਕਲਿਆ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ਖਮੋਰ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ਪਿਤਾ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ਸ਼ੇਖਮ ਦੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ਗੱਲ ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ਉਸ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:16.856557535Z",
+  "model": "glm-5.2"
+}

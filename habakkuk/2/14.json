@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਕਿਉਂਕਿ ਧਰਤੀ ਯਾਹਵੇਹ ਦੇ ਕਾਵੋਦ ਦੇ ਗਿਆਨ ਨਾਲ ⟨את⟩ ਭਰ ਜਾਏਗੀ, ਜਿਵੇਂ ਪਾਣੀ ਸਮੁੰਦਰ ਨੂੰ ਢਕ ਲੈਂਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ਭਰ ਜਾਏਗੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ਗਿਆਨ ਨਾਲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਕਾਵੋਦ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ਕਾਵੋਦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ਜਿਵੇਂ ਪਾਣੀ"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ਢਕ ਲੈਂਦੇ ਹਨ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ਸਮੁੰਦਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:19:03.313870182Z",
+  "model": "glm-5.2"
+}

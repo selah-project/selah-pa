@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਨਾਫ਼ਤ-ਦੋਰ ਦੇ ਦੋਰ ਦਾ ਰਾਜਾ ਇੱਕ; ਗਿਲਗਾਲ ਦੇ ਗੋਇਮ ਦਾ ਰਾਜਾ ਇੱਕ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ਦੋਰ"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "ਨਾਫ਼ਤ-ਦੇ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ਦੋਰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ਗੋਇਮ"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "ਗਿਲਗਾਲ ਦੇ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:35.095085483Z",
+  "model": "glm-5.2"
+}

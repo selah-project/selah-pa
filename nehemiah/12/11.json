@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਯੋਯਾਦਾ ਨੇ ⟨את⟩ ਯੋਨਾਤਨ ਨੂੰ ਜੰਮਿਆ, ਅਤੇ ਯੋਨਾਤਨ ਨੇ ⟨את⟩ ਯਦੂਆ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "ਅਤੇ ਯੋਯਾਦਾ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯੋਨਾਤਨ ਨੂੰ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ਯੋਨਾਤਨ"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ਅਤੇ ਯੋਨਾਤਨ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਦੂਆ ਨੂੰ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ਯਦੂਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:49:47.922017096Z",
+  "model": "glm-5.2"
+}

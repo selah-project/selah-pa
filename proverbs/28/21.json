@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਮੂੰਹ-ਪਛਾਣਨਾ ਚੰਗਾ ਨਹੀਂ, ਅਤੇ ਰੋਟੀ ਦੇ ਇੱਕ ਟੁਕੜੇ ਲਈ ਇੱਕ ਮਨੁੱਖ ਅਪਰਾਧ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "ਪਛਾਣਨਾ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਲਈ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ਟੁਕੜੇ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "ਅਪਰਾਧ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ਇੱਕ ਮਨੁੱਖ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:34:57.809151923Z",
+  "model": "glm-5.2"
+}

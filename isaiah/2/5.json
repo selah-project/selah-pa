@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਹੇ ਯਾਕੁਬ ਦੇ ਘਰਾਣੇ, ਆਓ ਅਤੇ ਅਸੀਂ ਯਾਹਵੇਹ ਦੇ ਪ੍ਰਕਾਸ਼ ਵਿੱਚ ਚੱਲੀਏ।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ਹੇ ਘਰਾਣੇ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੁਬ ਦੇ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ਆਓ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ਅਤੇ ਅਸੀਂ ਚੱਲੀਏ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ਪ੍ਰਕਾਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:47:06.808824737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਅਜ਼ਰਯਾਹ ਨੇ ⟨אਖ਼ਤੋਬ⟩ ਤੋਂ ਪੈਦਾ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਪੈਦਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ਅਜ਼ਰਯਾਹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅਮਰਯਾਹ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ਅਮਰਯਾਹ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ਅਤੇ ਅਮਰਯਾਹ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਪੈਦਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅਖ਼ੀਤੂਬ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ਅਖ਼ੀਤੂਬ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:55:07.500962578Z",
+  "model": "glm-5.2"
+}

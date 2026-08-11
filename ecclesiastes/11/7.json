@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਮਿੱਠਾ ⟨ਹੈ⟩ ਪ੍ਰਕਾਸ਼, ਅਤੇ ਅੱਖਾਂ ਲਈ ਚੰਗਾ ⟨ਹੈ⟩ ⟨ਕੇ⟩ ⟨את⟩ ਸੂਰਜ ਵੇਖਣਾ।",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ਅਤੇ ਮਿੱਠਾ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ਪ੍ਰਕਾਸ਼"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ਅਤੇ ਚੰਗਾ"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ਅੱਖਾਂ ਲਈ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ਵੇਖਣਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸੂਰਜ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ਸੂਰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:15:46.512087366Z",
+  "model": "glm-5.2"
+}

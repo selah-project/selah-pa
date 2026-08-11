@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 45,
+  "translation": "ਮੇਰੇ ਵੱਲ ਮੁੜੋ ਅਤੇ ਬਚਾਏ ਜਾਓ, ਧਰਤੀ ਦੇ ਸਾਰੇ ਕੋਨੇ, ਕਿਉਂਕਿ ਮੈਂ ਏਲ ਹਾਂ ਅਤੇ ਹੋਰ ਕੋਈ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "ਮੁੜੋ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਵੱਲ"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "ਅਤੇ ਬਚਾਏ ਜਾਓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ਕੋਨੇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਏਲ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ਹਾਂ ਅਤੇ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ ਕੋਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:05:42.832570630Z",
+  "model": "glm-5.2"
+}

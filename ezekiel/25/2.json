@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਹੇ ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ, ਆਪਣਾ ਮੂੰਹ ਅੰਮੋਨ ਦੇ ਪੁੱਤਰਾਂ ਵੱਲ ਕਰ ਅਤੇ ਉਹਨਾਂ ਵਿਰੁੱਧ ਨਬੀ ਬਣ:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ਕਰ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ਆਪਣਾ ਮੂੰਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ਅੰਮੋਨ ਦੇ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ਅਤੇ ਨਬੀ ਬਣ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ਉਹਨਾਂ ਵਿਰੁੱਧ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:52:43.576467494Z",
+  "model": "glm-5.2"
+}

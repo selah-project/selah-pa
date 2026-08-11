@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 121,
+  "translation": "ਆਪਣਾ ਪੈਰ ਡਿੱਗਣ ਨਾ ਦੇਵੇ, ਤੇਰਾ ਰਾਖਾ ਨੀਂਦ ਨਾ ਕਰੇ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ਦੇਵੇ"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ਡਿੱਗਣ ਨੂੰ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ਤੇਰਾ ਪੈਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ਨੀਂਦ ਕਰੇ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ਤੇਰਾ ਰਾਖਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:17.930492419Z",
+  "model": "glm-5.2"
+}

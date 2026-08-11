@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਕੂਸ਼ ਨੇ ⟨את⟩ ਨਿਮਰੋਦ ਨੂੰ ਜੰਮਿਆ; ਉਹ ਧਰਤੀ ਵਿੱਚ ਸੂਰਮਾ ਬਣਨਾ ਸ਼ੁਰੂ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ਅਤੇ ਕੂਸ਼"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨਿਮਰੋਦ ਨੂੰ"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "ਨਿਮਰੋਦ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ਸ਼ੁਰੂ ਕੀਤਾ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ਬਣਨਾ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ਸੂਰਮਾ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਧਰਤੀ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:51:53.751476837Z",
+  "model": "glm-5.2"
+}

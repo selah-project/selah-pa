@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਅਤੇ ਲੇਵੀ ਦੇ ਪੁੱਤਰ: ਗੇਰਸ਼ੋਨ, ਕਹਾਤ, ਅਤੇ ਮਰਾਰੀ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ਲੇਵੀ ਦੇ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ਗੇਰਸ਼ੋਨ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ਕਹਾਤ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ਅਤੇ ਮਰਾਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:06:36.558251793Z",
+  "model": "glm-5.2"
+}

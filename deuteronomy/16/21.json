@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਆਪਣੇ ਲਈ ਕੋਈ ਅਸ਼ੇਰਾਹ ਨਾ ਬੀਜੋ, ਕੋਈ ਵੀ ਰੁੱਖ, ਯਾਹਵੇਹ ਤੇਰੇ ਏਲੋਹੀਮ ਦੇ ਮਿਜ਼ਬਹ ਦੇ ਨੇੜੇ ਜਿਹੜਾ ਤੂੰ ਆਪਣੇ ਲਈ ਬਣਾਏਂ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "ਬੀਜੋ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "ਅਸ਼ੇਰਾਹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ ਵੀ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ਰੁੱਖ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ਨੇੜੇ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ਮਿਜ਼ਬਹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਤੇਰੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਹੜਾ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ਬਣਾਏਂ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:16:51.237480932Z",
+  "model": "glm-5.2"
+}

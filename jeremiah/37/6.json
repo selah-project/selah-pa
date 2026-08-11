@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਦਬਰ ਯਿਰਮਿਯਾਹੂ ਨਬੀ ਕੋਲ ਆਇਆ, ⟨ਕੇ ਕਹਿਣ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਦਬਰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ਨਬੀ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕੇ ਕਹਿਣ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T23:32:23.865702246Z",
+  "model": "glm-5.2"
+}

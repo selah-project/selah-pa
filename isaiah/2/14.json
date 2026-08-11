@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਸਾਰੇ ਉੱਚੇ ਪਹਾੜਾਂ ਉੱਤੇ, ਅਤੇ ਸਾਰੇ ਬੁਲੰਦ ਟੀਬਿਆਂ ਉੱਤੇ —",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ... ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ਪਹਾੜਾਂ"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ਉੱਚੇ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ... ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ਟੀਬਿਆਂ"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "ਬੁਲੰਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:47:11.876614954Z",
+  "model": "glm-5.2"
+}

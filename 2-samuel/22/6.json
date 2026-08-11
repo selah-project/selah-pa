@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਸ਼ਿਓਲ ਦੇ ਰੱਸੇ ਮੈਨੂੰ ਘੇਰ ਗਏ, ਮੌਤ ਦੇ ਫਾਹੇ ਮੇਰੇ ਅੱਗੇ ਆ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "ਰੱਸੇ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ਸ਼ਿਓਲ ਦੇ"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "ਮੈਨੂੰ ਘੇਰ ਗਏ"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "ਮੇਰੇ ਅੱਗੇ ਆ ਗਏ"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "ਫਾਹੇ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮੌਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:16:44.047902452Z",
+  "model": "glm-5.2"
+}

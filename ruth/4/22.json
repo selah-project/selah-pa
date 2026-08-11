@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਓਬੇਦ ਨੇ ⟨את⟩ ਯਿਸ਼ਯ ਨੂੰ ਜੰਮਿਆ, ਅਤੇ ਯਿਸ਼ਯ ਨੇ ⟨את⟩ ਦਾਵਿਦ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ਅਤੇ ਓਬੇਦ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਿਸ਼ਯ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ਯਿਸ਼ਯ"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ਅਤੇ ਯਿਸ਼ਯ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਦਾਵਿਦ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਵਿਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:02:15.582031985Z",
+  "model": "glm-5.2"
+}

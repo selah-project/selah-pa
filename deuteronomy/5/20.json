@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਤੂੰ ਆਪਣੇ ਗੁਆਂਢੀ ਦੇ ਵਿਰੁੱਧ ਝੂਠੀ ਗਵਾਹੀ ਨਾ ਦੇ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ਤੂੰ ਗਵਾਹੀ ਦੇ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ਆਪਣੇ ਗੁਆਂਢੀ ਦੇ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਗਵਾਹੀ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ਝੂਠੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:25.239302843Z",
+  "model": "glm-5.2"
+}

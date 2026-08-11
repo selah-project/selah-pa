@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਅਵਰਾਹਾਮ ਨੇ ⟨ਹੋਰ⟩ ਇਸਤਰੀ ਲਈ, ਅਤੇ ਉਸ ਦਾ ਨਾਮ ਕਤੂਰਾਹ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ਅਤੇ ⟨ਹੋਰ⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ ਨੇ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ਅਤੇ ਲਈ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇਸਤਰੀ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ਅਤੇ ਉਸ ਦਾ ਨਾਮ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ਕਤੂਰਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:21.963212421Z",
+  "model": "glm-5.2"
+}

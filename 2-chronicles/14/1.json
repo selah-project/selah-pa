@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਆਸਾ ਨੇ ਉਹ ਕੀਤਾ ਜੋ ਯਾਹਵੇਹ ਉਸਦੇ ਏਲੋਹੀਮ ਦੀਆਂ ਅੱਖਾਂ ਵਿੱਚ ਚੰਗਾ ਅਤੇ ਸਿੱਧਾ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਕੀਤਾ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ਆਸਾ ਨੇ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "ਅਤੇ ਸਿੱਧਾ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ਅੱਖਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ਉਸਦੇ ਏਲੋਹੀਮ ਦੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T06:44:46.170570046Z",
+  "model": "glm-5.2"
+}

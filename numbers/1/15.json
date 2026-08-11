@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਨਫ਼ਤਾਲੀ ਲਈ: ਅਖੀਰਾ, ਏਨਾਨ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ਨਫ਼ਤਾਲੀ ਲਈ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ਅਖੀਰਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ਏਨਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:23.323519165Z",
+  "model": "glm-5.2"
+}

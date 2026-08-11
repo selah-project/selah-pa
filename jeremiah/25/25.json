@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ⟨את⟩ ਸਾਰੇ ਜ਼ਿਮਰੀ ਦੇ ਰਾਜੇ, ਅਤੇ ⟨את⟩ ਸਾਰੇ ਏਲਾਮ ਦੇ ਰਾਜੇ, ਅਤੇ ⟨את⟩ ਸਾਰੇ ਮਾਦੀ ਦੇ ਰਾਜੇ,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸਾਰੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ਦੇ ਰਾਜੇ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ਜ਼ਿਮਰੀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸਾਰੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ਦੇ ਰਾਜੇ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ਏਲਾਮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸਾਰੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ਦੇ ਰਾਜੇ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ਮਾਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:26:06.219876258Z",
+  "model": "glm-5.2"
+}

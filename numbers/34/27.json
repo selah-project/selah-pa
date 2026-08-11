@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਆਸ਼ੇਰ ਦੇ ਬੱਚਿਆਂ ਦੇ ਕਬੀਲੇ ਲਈ ⟨ਇੱਕ⟩ ਨਸੀਅ — ਅਖੀਹੁਦ, ਸ਼ਲੋਮੀ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ਅਤੇ ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਆਸ਼ੇਰ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀਅ"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "ਅਖੀਹੁਦ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ਸ਼ਲੋਮੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:44.727830249Z",
+  "model": "glm-5.2"
+}

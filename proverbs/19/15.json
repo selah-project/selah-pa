@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਆਲਸ ਗਹਿਰੀ ਨੀਂਦ ਵਿੱਚ ਡਿਗਾਉਂਦਾ ⟨ਹੈ⟩, ਅਤੇ ਸੁਸਤ ਜਾਨ ਭੁੱਖੀ ਰਹੇਗੀ।",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "ਆਲਸ"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "ਡਿਗਾਉਂਦਾ ⟨ਹੈ⟩"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ਗਹਿਰੀ ਨੀਂਦ ਵਿੱਚ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ਅਤੇ ਜਾਨ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ਸੁਸਤ"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "ਭੁੱਖੀ ਰਹੇਗੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:29:15.228570311Z",
+  "model": "glm-5.2"
+}

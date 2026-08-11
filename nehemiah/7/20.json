@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਦੀਨ ਦੇ ਪੁੱਤਰ, ਛੇ ਸੌ ਪੰਜਾਹ ⟨ਅਤੇ⟩ ਪੰਜ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ਅਦੀਨ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ਪੰਜਾਹ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:08.114761Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, ਤੇਰਾ ਨਾਂ ਕੀ ਹੈ? ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ, ਯਾਕੋਬ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ਤੇਰਾ ਨਾਂ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:58:29.243454185Z",
+  "model": "glm-5.2"
+}

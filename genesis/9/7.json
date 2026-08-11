@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਤੁਸੀਂ ਫਲਦੇ ਅਤੇ ਵਧੋ, ਧਰਤੀ ਉੱਤੇ ਭਰਪੂਰ ਫੈਲੋ ਅਤੇ ਉਸ ਵਿੱਚ ਵਧੋ।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ਅਤੇ ਤੁਸੀਂ"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ਫਲਦੇ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ਅਤੇ ਵਧੋ"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ਭਰਪੂਰ ਫੈਲੋ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਧਰਤੀ ਉੱਤੇ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ਅਤੇ ਵਧੋ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:18.333978651Z",
+  "model": "glm-5.2"
+}

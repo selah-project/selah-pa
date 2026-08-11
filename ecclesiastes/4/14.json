@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਕਿਉਂਕਿ ਕੈਦ-ਘਰ ਤੋਂ ਉਹ ਰਾਜ ਕਰਨ ਲਈ ਨਿਕਲਿਆ, ਕਿਉਂਕਿ ਵੀ ਉਸ ਦੇ ਰਾਜ ਵਿੱਚ ਗਰੀਬ ਪੈਦਾ ਹੋਇਆ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ਘਰ ਤੋਂ"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "ਕੈਦ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ਉਹ ਨਿਕਲਿਆ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ਰਾਜ ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "ਉਸ ਦੇ ਰਾਜ ਵਿੱਚ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ਪੈਦਾ ਹੋਇਆ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ਗਰੀਬ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:10:07.343757057Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 36:16",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਦੇ ⟨את⟩ ਸਾਰੇ ⟨the⟩ ਕਾਰਜ ਸੁਣਨ ਵੇਲੇ ⟨it happened⟩, ਉਹ ਇੱਕ ਦੂਜੇ ਵੱਲ ਡਰ ਨਾਲ ਮੁੜੇ ਅਤੇ ਬਾਰੂਕ ਨੂੰ ਕਿਹਾ: ਅਸੀਂ ਬਾਦਸ਼ਾਹ ਨੂੰ ⟨את⟩ ਸਾਰੇ ⟨the⟩ ਇਹ ਕਾਰਜ ਜ਼ਰੂਰ ਦੱਸਾਂਗੇ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ਸੁਣਨ ਵੇਲੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ਕਾਰਜ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ਉਹ ਡਰੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ਦੂਜੇ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ਬਾਰੂਕ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ਅਸੀਂ ਦੱਸਾਂਗੇ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ਜ਼ਰੂਰ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ਬਾਦਸ਼ਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ਕਾਰਜ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:31:59.018732742Z",
+  "model": "glm-5.2"
+}

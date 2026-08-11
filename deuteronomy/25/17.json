@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਯਾਦ ਕਰ ਜੋ ਅਮਾਲੇਕ ਨੇ ਤੇਰੇ ਨਾਲ ਰਸਤੇ ਵਿੱਚ ਕੀਤਾ, ਜਦੋਂ ਤੁਸੀਂ ਮਿਤਸਰਾਯਿਮ ਤੋਂ ਨਿਕਲ ਰਹੇ ਸੀ —",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ਯਾਦ ਕਰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜੋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕੀਤਾ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ਅਮਾਲੇਕ ਨੇ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ਰਸਤੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ਤੁਸੀਂ ਨਿਕਲ ਰਹੇ ਸੀ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ਮਿਤਸਰਾਯਿਮ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:29.878191639Z",
+  "model": "glm-5.2"
+}

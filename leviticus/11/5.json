@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ⟨את⟩ ਸ਼ਪਾਨ, ਕਿਉਂਕਿ ਉਹ ਗਰਾਹ ਚਬਾਉਂਦਾ ⟨ਹੈ⟩ ਪਰ ਫਰਸਾਹ ਨਹੀਂ ਪਾਸਦਾ — ਉਹ ਤੁਹਾਡੇ ਲਈ ਅਪਵਿੱਤਰ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਸ਼ਪਾਨ"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "ਸ਼ਪਾਨ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ਚਬਾਉਂਦਾ ⟨ਹੈ⟩"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ਗਰਾਹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ਪਰ ਫਰਸਾਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "ਪਾਸਦਾ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ਅਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:06.953182106Z",
+  "model": "glm-5.2"
+}

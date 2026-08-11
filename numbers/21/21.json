@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਯਿਸਰਾਏਲ ਨੇ ਸੀਹੋਨ, ਏਮੋਰੀ ਦੇ ਰਾਜੇ ਕੋਲ ਦੂਤ ਭੇਜੇ, ⟨ਕਹਿੰਦੇ⟩:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ਅਤੇ ਭੇਜੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਨੇ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ਦੂਤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "ਸੀਹੋਨ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ਏਮੋਰੀ ਦੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਹਿੰਦੇ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:25.247249712Z",
+  "model": "glm-5.2"
+}

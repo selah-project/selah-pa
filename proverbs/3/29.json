@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਆਪਣੇ ਰੇਹ ਵਿਰੁੱਧ ਬੁਰਾਈ ਘੜੀਂ ਨਾ, ਅਤੇ ਉਹ ⟨ਉਹ⟩ ਤੇਰੇ ਨਾਲ ਸੁਰੱਖਿਅਤ ਵਸਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ਘੜੀਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ਆਪਣੇ ਰੇਹ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ਅਤੇ ਉਹ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ਵਸਦਾ ਹੈ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ਸੁਰੱਖਿਅਤ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨אִתָּךְ⟩ ਤੇਰੇ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:35.736776225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਬਦਕਾਰ ਦੁਸ਼ਟ ਬੁਲ੍ਹਾਂ ਵੱਲ ਕੰਨ ਲਾਉਂਦਾ ਹੈ, ਅਤੇ ਝੂਠਾ ਤਬਾਹੀ ਦੀ ਜੀਭ ਵੱਲ ਧਿਆਨ ਦਿੰਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "ਬਦਕਾਰ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "ਕੰਨ ਲਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ਬੁਲ੍ਹਾਂ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ਦੁਸ਼ਟ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ਝੂਠਾ"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "ਧਿਆਨ ਦਿੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ਜੀਭ"
+    },
+    {
+      "surface": "הות",
+      "gloss": "ਤਬਾਹੀ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:37.852256189Z",
+  "model": "glm-5.2"
+}

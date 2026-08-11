@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਸ਼ਾਮ ਹੋਈ, ਅਤੇ ਸਵੇਰ ਹੋਇਆ — ਪੰਜਵਾਂ ਦਿਨ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਈ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਸ਼ਾਮ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਸਵੇਰ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ਪੰਜਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:44:16.918167916Z",
+  "model": "glm-5.2"
+}

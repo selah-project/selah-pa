@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਜਿਸ ਦੇ ਹੱਥ ਵਿੱਚ ਹਰ ਜੀਵ ਦੀ ਜਾਨ ⟨ਹੈ ਅਤੇ⟩ ਹਰ ਮਨੁੱਖ ਦੇ ਮਾਸ ਦੀ ਰੂਆਖ਼ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ਉਸ ਦੇ ਹੱਥ ਵਿੱਚ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ਜੀਵ ਦੀ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ਅਤੇ ਰੂਆਖ਼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ਮਾਸ ਦੀ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:41:29.156454148Z",
+  "model": "glm-5.2"
+}

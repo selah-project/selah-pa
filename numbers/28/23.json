@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਇਹ ਸਭ ਤੁਸੀਂ ਬਣਾਓ, ਸਵੇਰ ਦੀ ਸਾਂਝੀ ਭੇਟ ਵਾਸਤੇ ਹੋਣ ਵਾਲੀ ਹੋਮ-ਭੇਟ ਤੋਂ ਵੱਖ।",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "ਵੱਖ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ਹੋਮ-ਭੇਟ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ਸਵੇਰ ਦੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ਹੋਮ-ਭੇਟ ਵਾਸਤੇ ਹੈ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ਸਾਂਝੀ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ਤੁਸੀਂ ਬਣਾਓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਹ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:22.771007499Z",
+  "model": "glm-5.2"
+}

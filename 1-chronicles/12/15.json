@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਇਹ ਗਾਦ ਦੇ ਪੁੱਤਰਾਂ ਵਿੰਚੋਂ ⟨ਹਨ⟩, ਲਸ਼ਕਰ ਦੇ ਮੁਖੀ: ਛੋਟਾ ⟨ਇੱਕ⟩ ਸੌ ਲਈ, ਅਤੇ ਵੱਡਾ ਇੱਕ ਹਜ਼ਾਰ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਵਿੰਚੋਂ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ਮੁਖੀ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ਲਸ਼ਕਰ ਦੇ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "ਸੌ ਲਈ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ਛੋਟਾ"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "ਅਤੇ ਵੱਡਾ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ਇੱਕ ਹਜ਼ਾਰ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:03:44.698559301Z",
+  "model": "glm-5.2"
+}

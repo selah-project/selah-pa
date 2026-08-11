@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਪਹਿਰੇਦਾਰ ਨੇ ਕਿਹਾ, “ਆ ਰਿਹਾ ਹੈ ਬੀਨਾਂ, ਅਤੇ ਵੀ ਰਾਤ। ਜੇ ਤੁਸੀਂ ਪੁੱਛੋ, ਪੁੱਛੋ; ਵਾਪਸ ਆਓ, ਆਓ।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ਪਹਿਰੇਦਾਰ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਆ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਬੀਨਾਂ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ਅਤੇ ਵੀ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ਰਾਤ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "ਤੁਸੀਂ ਪੁੱਛੋ"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "ਪੁੱਛੋ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ਵਾਪਸ ਆਓ"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ਆਓ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:53:55.797036837Z",
+  "model": "glm-5.2"
+}

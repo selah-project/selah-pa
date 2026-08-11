@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਕੀ ਇਸਰਾਏਲ ਦਾਸ ਹੈ, ਕੀ ਉਹ ਘਰ ਦਾ ਜੰਮਿਆ ਹੋਇਆ ਹੈ? ਉਹ ਲੁੱਟ ਲਈ ਕਿਉਂ ਬਣ ਗਿਆ?",
+  "tokens": [
+    {
+      "surface": "הַעֶ֨בֶד֙",
+      "gloss": "ਕੀ ਦਾਸ"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "יְלִ֥יד",
+      "gloss": "ਜੰਮਿਆ ਹੋਇਆ"
+    },
+    {
+      "surface": "בַּ֖יִת",
+      "gloss": "ਘਰ ਦਾ"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מַדּ֖וּעַ",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "הָיָ֥ה",
+      "gloss": "ਬਣ ਗਿਆ"
+    },
+    {
+      "surface": "לָבַֽז",
+      "gloss": "ਲੁੱਟ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:13:37.262306719Z",
+  "model": "glm-5.2"
+}

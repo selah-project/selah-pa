@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਯਿਸਾਸਕਰ ਲਈ — ਨਤਨਏਲ, ਤਸੂਆਰ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "ਯਿਸਾਸਕਰ ਲਈ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ਨਤਨਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ਤਸੂਆਰ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:40.353284824Z",
+  "model": "glm-5.2"
+}

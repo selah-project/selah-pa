@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ, ਸੁਹਿਰਦ ਹੈ ਯਾਹਵੇਹ, ਸ਼ੇਮ ਦਾ ਏਲੋਹੀਮ; ਅਤੇ ਕਨਾਨ ਉਨ੍ਹਾਂ ਦਾ ਦਾਸ ਬਣੇ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ਸੁਹਿਰਦ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ਦਾ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਸ਼ੇਮ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਬਣੇ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ਕਨਾਨ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ਦਾਸ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ਉਨ੍ਹਾਂ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:40.305422101Z",
+  "model": "glm-5.2"
+}

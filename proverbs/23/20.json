@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਸ਼ਰਾਬ ਪੀਣ ਵਾਲਿਆਂ ਵਿੱਚ ਮਤ ਰਹੁ, ਮਾਸ ਦੇ ਖਾਊਆਂ ਵਿੱਚ ਨਹੀਂ, ਉਹਨਾਂ ਵਿੱਚ ⟨ਨਹੀਂ⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ਰਹੁ"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "ਪੀਣ ਵਾਲਿਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ਸ਼ਰਾਬ"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "ਖਾਊਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ਮਾਸ ਦੇ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ਉਹਨਾਂ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:45.186185756Z",
+  "model": "glm-5.2"
+}

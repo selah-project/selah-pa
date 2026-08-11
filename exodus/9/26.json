@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਸਿਰਫ਼ ਗੋਸ਼ਨ ਦੇ ਦੇਸ਼ ਵਿੱਚ, ਜਿੱਥੇ ਇਸਰਾਏਲ ਦੇ ਪੁੱਤਰ ਸਨ, ਓਲੇ ਨਹੀਂ ਪਏ।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ਗੋਸ਼ਨ ਦੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿੱਥੇ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ਓਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:14:01.531616128Z",
+  "model": "glm-5.2"
+}

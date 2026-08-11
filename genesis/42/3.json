@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਅਤੇ ਯੂਸਫ਼ ਦੇ ਦਸ ਭਰਾ ਮਿਤਸਰਾਯਿਮ ਤੋਂ ਅਨਾਜ ਖ਼ਰੀਦਣ ਲਈ ਥੱਲੇ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ਅਤੇ ਗਏ ਥੱਲੇ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ਦੇ ਭਰਾ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ਯੂਸਫ਼"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ਖ਼ਰੀਦਣ ਲਈ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ਅਨਾਜ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ਮਿਤਸਰਾਯਿਮ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:05:22.783525654Z",
+  "model": "glm-5.2"
+}

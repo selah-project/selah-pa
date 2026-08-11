@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਦਿਲ ਉੱਤੇ ਸਦਾ ਬੰਨ੍ਹ, ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਗਲੇ ਉੱਤੇ ਲਪੇਟ।",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ ਬੰਨ੍ਹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ਆਪਣੇ ਦਿਲ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ਸਦਾ"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ ਲਪੇਟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "ਆਪਣੇ ਗਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:06.895592987Z",
+  "model": "glm-5.2"
+}

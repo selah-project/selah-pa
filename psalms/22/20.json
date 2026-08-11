@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਪਰ ਤੂੰ, ਹੇ ਯਾਹਵੇਹ, ਦੂਰ ਨਾ ਹੋ; ਹੇ ਮੇਰੀ ਤਾਕਤ, ਮੇਰੀ ਮਦਦ ਲਈ ਛੇਤੀ ਆ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ਪਰ ਤੂੰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ਦੂਰ ਹੋ"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "ਮੇਰੀ ਤਾਕਤ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ਮੇਰੀ ਮਦਦ ਲਈ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ਛੇਤੀ ਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:32:00.063644130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬਲਦ, ਪਸ਼ੂਆਂ ਦਾ ਇੱਕ ਬੱਚਾ; ਇੱਕ ਮੇਢਾ; ਇੱਕ ਭੇਡ ਦਾ ਬੱਚਾ, ਇੱਕ ਸਾਲ ਦਾ, ਸੜਾਊ ਭੇਟ ਵਾਸਤੇ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੱਚਾ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ਪਸ਼ੂਆਂ ਦਾ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ਮੇਢਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ਭੇਡ ਦਾ ਬੱਚਾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੱਚਾ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ਇੱਕ ਸਾਲ ਦਾ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ਸੜਾਊ ਭੇਟ ਵਾਸਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:15.233795436Z",
+  "model": "glm-5.2"
+}

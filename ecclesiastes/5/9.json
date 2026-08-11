@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਪਿਆਰ ਕਰਦਾ ਧਨ ਨੂੰ ਨਹੀਂ ਰੱਜੇਗਾ ਧਨ ਤੋਂ, ਅਤੇ ਜੋ ਪਿਆਰ ਕਰਦਾ ਬਹੁਤਾਤ ਨੂੰ — ⟨ਉਸ ਲਈ⟩ ਪੈਦਾਵਾਰ ਨਹੀਂ ਹੈ। ਵੀ ਇਹ ਹਬਲ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ਪਿਆਰ ਕਰਦਾ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ਧਨ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ਰੱਜੇਗਾ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ਧਨ ਤੋਂ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ਅਤੇ ਜੋ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ਪਿਆਰ ਕਰਦਾ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ਬਹੁਤਾਤ ਨੂੰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "ਪੈਦਾਵਾਰ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ਹਬਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:38.065458212Z",
+  "model": "glm-5.2"
+}

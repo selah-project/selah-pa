@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਏਲਕਾਨਾਹ, ਉਸਦਾ ਪੁੱਤਰ; ਏਲਕਾਨਾਹ, ਤਸੋਫ਼ੀ ਉਸਦਾ ਪੁੱਤਰ, ਅਤੇ ਨਾਖ਼ਤ ਉਸਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ਏਲਕਾਨਾਹ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ਏਲਕਾਨਾਹ"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "ਤਸੋਫ਼ੀ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "ਅਤੇ ਨਾਖ਼ਤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸਦਾ ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:40.529856345Z",
+  "model": "glm-5.2"
+}

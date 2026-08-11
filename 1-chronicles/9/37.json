@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਗਦੋਰ, ਅਤੇ ਅਖਯੋ, ਅਤੇ ਜ਼ਕਰਯਾਹ, ਅਤੇ ਮਿਕਲੋਤ।",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ਅਤੇ ਗਦੋਰ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ਅਤੇ ਅਖਯੋ"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "ਅਤੇ ਜ਼ਕਰਯਾਹ"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "ਅਤੇ ਮਿਕਲੋਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:08.416462038Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਅਸੀਂ ਸਭ ਇੱਕ ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ ਹਾਂ; ਅਸੀਂ ਇਮਾਨਦਾਰ ਮਰਦ ਹਾਂ, ਤੇਰੇ ਦਾਸ ਜਾਸੂਸ ਨਹੀਂ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "ਅਸੀਂ ਸਭ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "ਹਾਂ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ਇਮਾਨਦਾਰ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ਅਸੀਂ ਹਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਹਨ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ਤੇਰੇ ਦਾਸ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ਜਾਸੂਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:04:48.669615697Z",
+  "model": "glm-5.2"
+}

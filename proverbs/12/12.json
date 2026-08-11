@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਦੁਸ਼ਟ ਬੁਰੇ ਲੋਕਾਂ ਦੇ ਜਾਲ ਨੂੰ ਚਾਹੁੰਦਾ ਹੈ, ਪਰ ਧਰਮੀਆਂ ਦੀ ਜੜ੍ਹ ⟨ਫਲ⟩ ਦਿੰਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "ਚਾਹੁੰਦਾ ਹੈ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ਦੁਸ਼ਟ"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "ਜਾਲ ਨੂੰ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ਬੁਰੇ ਲੋਕਾਂ ਦੇ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ਪਰ ਜੜ੍ਹ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ਧਰਮੀਆਂ ਦੀ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ਦਿੰਦੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:25:57.434683274Z",
+  "model": "glm-5.2"
+}

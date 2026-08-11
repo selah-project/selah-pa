@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਤੇਰੇ ਬਚਨ ਦਾ ਸਾਰ ਸਚ ਹੈ, ਅਤੇ ਤੇਰੀ ਧਰਮ-ਕਮਾਈ ਦਾ ਹਰ ਮਿਆਦ ਸਦਾ ਲਈ ⟨ਕਾਇਮ ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ਸਾਰ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ਤੇਰੇ ਬਚਨ ਦਾ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ਸਚ ਹੈ"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ਅਤੇ ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਮਿਆਦ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ਤੇਰੀ ਧਰਮ-ਕਮਾਈ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:14.068504867Z",
+  "model": "glm-5.2"
+}

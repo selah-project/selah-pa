@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਜੂੜ੍ਹੇ ਦੀਆਂ ਦੋ ਧੀਆਂ ⟨ਹਨ⟩: ਦੇ, ਦੇ! ਤਿੰਨ ਗੱਲਾਂ ਹਨ ਜੋ ਰੱਜ ਨਹੀਂ ਸਕਦੀਆਂ, ਚਾਰ ⟨ਗੱਲਾਂ⟩ ਜੋ ਇਹ ਨਹੀਂ ਆਖਦੀਆਂ: ਬਸ!",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "ਜੂੜ੍ਹੇ ਦੀਆਂ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ਧੀਆਂ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ਦੇ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ਦੇ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ਤਿੰਨ ਗੱਲਾਂ ਹਨ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ਰੱਜ ਸਕਦੀਆਂ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ਚਾਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ਆਖਦੀਆਂ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ਬਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:32.464332385Z",
+  "model": "glm-5.2"
+}

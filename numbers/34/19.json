@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਇਹ ਕਬੀਲੇ ਯਹੂਦਾ ਲਈ ਮਰਦਾਂ ਦੇ ਨਾਂ ਹਨ: ਕਾਲੇਵ ਬਿਨ ਯਫੁੰਨੇਹ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ਨਾਂ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ਮਰਦਾਂ ਦੇ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ਕਾਲੇਵ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ਯਫੁੰਨੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:06:20.774178202Z",
+  "model": "glm-5.2"
+}

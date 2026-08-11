@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅੱਖਾਂ ਦੀ ਉੱਚਤਾ ਅਤੇ ਦਿਲ ਦਾ ਫੈਲਾਅ — ਦੁਸ਼ਟਾਂ ਦਾ ਹਲ ਵਾਹੁਣਾ — ਪਾਪ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ਉੱਚਤਾ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ਅੱਖਾਂ ਦੀ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ਅਤੇ ਫੈਲਾਅ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ ਦਾ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ਹਲ ਵਾਹੁਣਾ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦਾ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ਪਾਪ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:09.574784819Z",
+  "model": "glm-5.2"
+}

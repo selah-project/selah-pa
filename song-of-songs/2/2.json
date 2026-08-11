@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਜਿਵੇਂ ਕੰਡਿਆਂ ਵਿੱਚ ⟨ਇੱਕ⟩ ਕਮਲ, ਉਵੇਂ ਮੇਰੀ ਪ੍ਰੇਮਿਕਾ ਧੀਆਂ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "ਜਿਵੇਂ ⟨ਇੱਕ⟩ ਕਮਲ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "ਕੰਡਿਆਂ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਉਵੇਂ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ਮੇਰੀ ਪ੍ਰੇਮਿਕਾ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ਧੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:05.094737072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਤੈਨੂੰ ਬੁਰੀ ਇਸਤਰੀ ਤੋਂ ਅਤੇ ਬੇਗਾਨੀ ਜ਼ਬਾਨ ਦੀ ਮਿੱਠੀ ਗੱਲ ਤੋਂ ਬਚਾਉਣ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "ਤੈਨੂੰ ਬਚਾਉਣ ਲਈ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ਇਸਤਰੀ ਤੋਂ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਬੁਰੀ"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "ਮਿੱਠੀ ਗੱਲ ਤੋਂ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ਜ਼ਬਾਨ ਦੀ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ਬੇਗਾਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:23:06.896099818Z",
+  "model": "glm-5.2"
+}

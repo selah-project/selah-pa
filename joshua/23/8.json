@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਸਗੋਂ ਯਾਹਵੇਹ ਤੁਹਾਡੇ ਏਲੋਹੀਮ ਨਾਲ ਚਿਪਕੇ ਰਹੋ, ਜਿਵੇਂ ਤੁਸੀਂ ਅੱਜ ਦੇ ਦਿਨ ਤੱਕ ਕੀਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨਾਲ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ਤੁਹਾਡੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "ਚਿਪਕੇ ਰਹੋ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਜਿਵੇਂ"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ਤੁਸੀਂ ਕੀਤਾ ਹੈ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:38:00.723284017Z",
+  "model": "glm-5.2"
+}

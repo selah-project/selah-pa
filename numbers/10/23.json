@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਮਨੱਸ਼ੇ ਦੇ ਬੱਚਿਆਂ ਦੇ ਕਬੀਲੇ ਦੀ ਫ਼ੌਜ ਉੱਤੇ ਪਦਾਹ ਜ਼ੂਰ ਦਾ ਪੁੱਤਰ ਗ਼ਮਲੀਏਲ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ਫ਼ੌਜ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ਕਬੀਲੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ਮਨੱਸ਼ੇ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ਗ਼ਮਲੀਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ਪਦਾਹ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ਜ਼ੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:59.871836050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਉਜ਼ੀਯਾਹ ਅਸ਼ਤਰਾਤੀ, ਸ਼ਾਮਾ ਅਤੇ ਯਾਏਲ ਖੋਤਾਮ ਅਰੋਏਰੀ ਦੇ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "ਉਜ਼ੀਯਾਹ"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "ਅਸ਼ਤਰਾਤੀ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ਸ਼ਾਮਾ"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "ਅਤੇ ਯਾਏਲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ਖੋਤਾਮ"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "ਅਰੋਏਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:15.834113477Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਬਰਕਤਾਂ ਧਰਮੀ ਦੇ ਸਿਰ ਉੱਤੇ ⟨ਹਨ⟩, ਪਰ ਦੁਸ਼ਟਾਂ ਦਾ ਮੂੰਹ ਹਿੰਸਾ ਨੂੰ ਢਕ ਲੈਂਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "ਬਰਕਤਾਂ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ਸਿਰ ਉੱਤੇ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ ਦੇ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ਪਰ ਮੂੰਹ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦਾ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ਢਕ ਲੈਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ਹਿੰਸਾ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:24:35.836603611Z",
+  "model": "glm-5.2"
+}

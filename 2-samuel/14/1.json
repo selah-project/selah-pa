@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਯੋਆਬ ਨੇ, ਤਸਰੂਯਾਹ ਦੇ ਪੁੱਤਰ ਨੇ, ਜਾਣ ਲਿਆ ਕਿ ਰਾਜੇ ਦਾ ਮਨ ⟨ਤੱਕ⟩ ਅਬਸ਼ਾਲੋਮ ਉੱਤੇ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ਅਤੇ ਜਾਣ ਲਿਆ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ਯੋਆਬ ਨੇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ ਨੇ"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ਤਸਰੂਯਾਹ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਮਨ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ ਦਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ਅਬਸ਼ਾਲੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:12:54.214583754Z",
+  "model": "glm-5.2"
+}

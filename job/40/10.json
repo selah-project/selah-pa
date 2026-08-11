@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 40,
+  "translation": "ਸਜਾ ਨੇ ਹੁਣ ਗਰਵ ਅਤੇ ਉਚਾਈ, ਅਤੇ ਹੋਰ ਅਤੇ ਸ਼ਾਨ ਪਹਿਨੋ।",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "ਸਜਾ ਨੇ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ਗਰਵ"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ਅਤੇ ਉਚਾਈ"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ਅਤੇ ਹੋਰ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ਅਤੇ ਸ਼ਾਨ"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "ਪਹਿਨੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:57:35.190191552Z",
+  "model": "glm-5.2"
+}

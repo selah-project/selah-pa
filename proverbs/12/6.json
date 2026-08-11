@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਦੁਸ਼ਟਾਂ ਦੇ ਬਚਨ ਲਹੂ ਲਈ ਘਾਤ ਹਨ, ਪਰ ਸਿੱਧੇ ਦਾ ਮੂੰਹ ਉਹਨਾਂ ਨੂੰ ਛਡਾਏਗਾ।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟਾਂ ਦੇ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ਘਾਤ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ਲਹੂ ਲਈ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ਪਰ ਦਾ ਮੂੰਹ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ਸਿੱਧੇ"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ ਛਡਾਏਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:25:53.832499047Z",
+  "model": "glm-5.2"
+}

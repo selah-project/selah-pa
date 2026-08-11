@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਕਬੀਲੇ ਸ਼ਿਮੋਨ ਦੇ ਬੱਚਿਆਂ ਲਈ: ਸ਼ਮੂਏਲ ਬਿਨ ਅੱਮੀਹੂਦ।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ਅਤੇ ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ਸ਼ਿਮੋਨ ਦੇ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ਸ਼ਮੂਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬਿਨ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ਅੱਮੀਹੂਦ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:06:20.774303908Z",
+  "model": "glm-5.2"
+}

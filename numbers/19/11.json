@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "⟨ਜੋ⟩ ਕੋਈ ਮਨੁੱਖ ਦੀ ਹਰੇਕ ਜਾਨ ਦੇ ਮੋਏ ਨੂੰ ਛੂਹਦਾ ਹੈ, ਉਹ ਸੱਤ ਦਿਨ ਤੱਕ ਅਪਵਿੱਤਰ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "ਛੂਹਦਾ ਹੈ"
+    },
+    {
+      "surface": "במת",
+      "gloss": "ਮੋਏ ਨੂੰ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਹਰੇਕ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੀ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ਅਤੇ ਅਪਵਿੱਤਰ ਹੋਵੇ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:58:45.399017618Z",
+  "model": "glm-5.2"
+}

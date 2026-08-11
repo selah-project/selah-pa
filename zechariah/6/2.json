@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਪਹਿਲੇ ਰਥ ਵਿੱਚ ਲਾਲ ਘੋੜੇ ⟨ਸਨ⟩, ਤੇ ਦੂਜੇ ਰਥ ਵਿੱਚ ਕਾਲੇ ਘੋੜੇ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "ਰਥ ਵਿੱਚ"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "ਪਹਿਲੇ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ਘੋੜੇ"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ਲਾਲ"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ਤੇ ਰਥ ਵਿੱਚ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ਦੂਜੇ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ਘੋੜੇ"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "ਕਾਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:23:11.256376079Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਮੀਖਾ ਦੇ ਪੁੱਤਰ ਸਨ ਪੀਥੋਨ, ਅਤੇ ਮੇਲੇਖ, ਅਤੇ ਤਖ਼ਰਿਆ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ … ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ਮੀਖਾ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ਪੀਥੋਨ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ਅਤੇ ਮੇਲੇਖ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "ਅਤੇ ਤਖ਼ਰਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:00:52.246592565Z",
+  "model": "glm-5.2"
+}

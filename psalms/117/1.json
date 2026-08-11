@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 117,
+  "translation": "ਸਾਰੇ ਰਾਸ਼ਟਰ ਯਾਹਵੇਹ ਦੀ ਸਿਫ਼ਤ ਕਰੋ, ਸਾਰੇ ਲੋਕ ਉਸ ਦੀ ਵਡਿਆਈ ਕਰੋ!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ਸਿਫ਼ਤ ਕਰੋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ਰਾਸ਼ਟਰ"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "ਉਸ ਦੀ ਵਡਿਆਈ ਕਰੋ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ਲੋਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:10:07.744691551Z",
+  "model": "glm-5.2"
+}

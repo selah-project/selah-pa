@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਯਰੋਬਆਮ ਅਤੇ ਸਾਰੇ ਲੋਕ ਤੀਜੇ ਦਿਨ ਰਹਾਬਆਮ ਕੋਲ ਆਏ, ਜਿਵੇਂ ਕਿ ਰਾਜੇ ਨੇ ਆਖਿਆ ਸੀ: ਤੀਜੇ ਦਿਨ ਮੇਰੇ ਕੋਲ ਵਾਪਸ ਆਓ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਏ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ਯਰੋਬਆਮ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ਰਹਾਬਆਮ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ਤੀਜੇ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਜਿਵੇਂ ਕਿ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਆਖਿਆ ਸੀ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ ਨੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿ ਕੇ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ਵਾਪਸ ਆਓ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ਤੀਜੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:24:32.173332888Z",
+  "model": "glm-5.2"
+}

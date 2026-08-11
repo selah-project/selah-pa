@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਅਤੇ ਯਿਤਸਖ਼ਕ ਦੇ ਦਿਨ ਸੌ ਸਾਲ ਅਤੇ ਅੱਸੀ ਸਾਲ ⟨ਹੋਏ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ਹੋਏ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ਯਿਤਸਖ਼ਕ ਦੇ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ਅਤੇ ਅੱਸੀ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:04.356830846Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 121,
+  "translation": "ਮੇਰੀ ਮਦਦ ਯਾਹਵੇਹ ਦੇ ਕੋਲੋਂ ⟨ਆਉਂਦੀ ਹੈ⟩ — ਅਕਾਸ਼ ਅਤੇ ਧਰਤੀ ਦੇ ਰਚਨਹਾਰ।",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "ਮੇਰੀ ਮਦਦ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ਦੇ ਕੋਲੋਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਰਚਨਹਾਰ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ਅਕਾਸ਼"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ਅਤੇ ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:17.930363888Z",
+  "model": "glm-5.2"
+}

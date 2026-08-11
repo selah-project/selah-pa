@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਇਹ ਹਨ ਅਨਾਹ ਦੇ ਪੁੱਤਰ: ਦਿਸ਼ੋਨ ਅਤੇ ਅਹੋਲੀਬਾਮਾਹ, ਅਨਾਹ ਦੀ ਧੀ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ਅਨਾਹ"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ਦਿਸ਼ੋਨ"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "ਅਤੇ ਅਹੋਲੀਬਾਮਾਹ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ਅਨਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:02.004325114Z",
+  "model": "glm-5.2"
+}

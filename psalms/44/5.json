@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 44,
+  "translation": "ਤੂੰ ਹੀ ⟨ਹੈਂ⟩ ਮੇਰਾ ਰਾਜਾ, ਹੇ ਏਲੋਹੀਮ; ਯਾਕੋਬ ਦੇ ਮੁਕਤੀਆਂ ਦਾ ਹੁਕਮ ਦੇ।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੀ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ਮੇਰਾ ਰਾਜਾ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ਹੁਕਮ ਦੇ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ਮੁਕਤੀਆਂ ਦਾ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:44:32.862599560Z",
+  "model": "glm-5.2"
+}

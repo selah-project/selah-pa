@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਉਸ ਦੀ ਯਾਦ ਧਰਤੀ ਤੋਂ ਨਸ਼ਟ ਹੋ ਗਈ, ਅਤੇ ਉਸ ਦਾ ਨਾਮ ਗਲੀ ਉੱਤੇ ਨਹੀਂ ⟨ਰਿਹਾ⟩।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ਉਸ ਦੀ ਯਾਦ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ਨਸ਼ਟ ਹੋ ਗਈ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਦਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ਗਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:45:16.469704879Z",
+  "model": "glm-5.2"
+}

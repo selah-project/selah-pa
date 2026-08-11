@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਬਿਲਹਾ ਨੇ ਫਿਰ ਗਰਭ ਧਾਰਿਆ ਅਤੇ ਰਾਹੇਲ ਦੀ ਦਾਸੀ ਨੇ ਯਾਕੋਬ ਲਈ ਦੂਜਾ ਪੁੱਤਰ ਜਨਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ਅਤੇ ਗਰਭ ਧਾਰਿਆ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਫਿਰ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ਅਤੇ ਜਨਮਿਆ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ਬਿਲਹਾ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ਦਾਸੀ ਨੇ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ਰਾਹੇਲ ਦੀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਦੂਜਾ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ਯਾਕੋਬ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:57:25.199588211Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਏਤਸਰ ਦੇ ਪੁੱਤਰ ਬਿਲਹਾਨ ਅਤੇ ਜ਼ਾਵਾਨ, ਯਾਕਾਨ; ਡਿਸ਼ੋਨ ਦੇ ਪੁੱਤਰ ਉਤਸ ਅਤੇ ਅਰਾਨ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ਏਤਸਰ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ਬਿਲਹਾਨ"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ਅਤੇ ਜ਼ਾਵਾਨ"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "ਯਾਕਾਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ਡਿਸ਼ੋਨ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ਉਤਸ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ਅਤੇ ਅਰਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:55.379378792Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਘੋੜਾ ਯੁੱਧ ਦੇ ਦਿਨ ਲਈ ਤਿਆਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਪਰ ਮੁਕਤੀ ਤਾਂ ਯਾਹਵੇਹ ਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "ਘੋੜਾ"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "ਤਿਆਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ਦਿਨ ਲਈ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਯੁੱਧ ਦੇ"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "ਪਰ ਯਾਹਵੇਹ ਦੀ"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "ਮੁਕਤੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:08.966730935Z",
+  "model": "glm-5.2"
+}

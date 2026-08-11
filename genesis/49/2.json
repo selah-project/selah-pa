@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 49,
+  "translation": "ਇਕੱਠੇ ਹੋ ਜਾਓ ਅਤੇ ਸੁਣੋ, ਯਾਕੋਬ ਦੇ ਪੁੱਤਰੋ, ਅਤੇ ਆਪਣੇ ਪਿਤਾ ਇਸਰਾਏਲ ਵੱਲ ਸੁਣੋ।",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "ਇਕੱਠੇ ਹੋ ਜਾਓ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ਅਤੇ ਸੁਣੋ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰੋ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ ਦੇ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ਅਤੇ ਸੁਣੋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ਆਪਣੇ ਪਿਤਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:09:16.634041151Z",
+  "model": "glm-5.2"
+}

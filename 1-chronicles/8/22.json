@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਯਿਸ਼ਪਾਨ, ਅਤੇ ਏਵੇਰ, ਅਤੇ ਏਲੀਏਲ।",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "ਅਤੇ ਯਿਸ਼ਪਾਨ"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ਅਤੇ ਏਵੇਰ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ਅਤੇ ਏਲੀਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:44.583351477Z",
+  "model": "glm-5.2"
+}

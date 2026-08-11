@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 88,
+  "translation": "ਤੇਰੇ ਸਾਹਮਣੇ ਆਵੇ ਮੇਰੀ ਬੇਨਤੀ, ਝੁਕਾ ਆਪਣਾ ਕੰਨ ਮੇਰੀ ਗਾਥਾ ਵੱਲ।",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ਆਵੇ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ਤੇਰੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ਮੇਰੀ ਬੇਨਤੀ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ਝੁਕਾ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ਆਪਣਾ ਕੰਨ"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ਮੇਰੀ ਗਾਥਾ ਵੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:03:49.764194665Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਇਸ ਲਈ ਸਾਰੇ ਹੱਥ ਢਿੱਲੇ ਹੋਣਗੇ, ਅਤੇ ਹਰ ਇੱਕ ਮਨੁੱਖ ਦਾ ਦਿਲ ਪਿਘਲ ਜਾਏਗਾ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ਢਿੱਲੇ ਹੋਣਗੇ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਹਰ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਇੱਕ ਮਨੁੱਖ ਦਾ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ਪਿਘਲ ਜਾਏਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:51:42.819758062Z",
+  "model": "glm-5.2"
+}

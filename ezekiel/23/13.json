@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਮੈਂ ਵੇਖਿਆ ਕਿ ⟨ਉਹ⟩ ਮਲੀਨ ਹੋ ਗਈ ⟨ਸੀ⟩; ਦੋਹਾਂ ਦਾ ਇੱਕ ਹੀ ਰਾਹ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ਅਤੇ ਮੈਂ ਵੇਖਿਆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "ਮਲੀਨ ਹੋ ਗਈ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ਰਾਹ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ ਹੀ"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "ਦੋਹਾਂ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:51:53.440642743Z",
+  "model": "glm-5.2"
+}

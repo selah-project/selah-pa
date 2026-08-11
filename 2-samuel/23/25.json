@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਸ਼ਮਾਹ ਹਰੋਦੀ, ਏਲੀਕਾ ਹਰੋਦੀ,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ਸ਼ਮਾਹ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ਹਰੋਦੀ"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "ਏਲੀਕਾ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ਹਰੋਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.432345276Z",
+  "model": "glm-5.2"
+}

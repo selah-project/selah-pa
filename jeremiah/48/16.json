@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਮੋਆਬ ਦਾ ਕਲੰਕ ਆਉਣ ਲਈ ਨੇੜੇ ਹੈ, ਅਤੇ ਉਸ ਦੀ ਬਿਪਤਾ ਬਹੁਤ ਹੀ ਛੇਤੀ ਆ ਰਹੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ਨੇੜੇ ਹੈ"
+    },
+    {
+      "surface": "איד",
+      "gloss": "ਕਲੰਕ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ ਦਾ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ਆਉਣ ਲਈ"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "ਅਤੇ ਉਸ ਦੀ ਬਿਪਤਾ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ਛੇਤੀ ਆ ਰਹੀ ਹੈ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ਬਹੁਤ ਹੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:36:33.461564823Z",
+  "model": "glm-5.2"
+}

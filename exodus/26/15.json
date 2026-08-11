@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਤੇ ਤੂੰ ⟨את⟩ ਮਿਸ਼ਕਾਨ ਲਈ ਬੋਹੜੀ ਦੀ ਲੱਕੜ ਦੇ ਖੜ੍ਹੇ ਬੋਰਡ ਬਣਾਏਂ।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ਅਤੇ ਤੂੰ ਬਣਾਏਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਬੋਰਡਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ਬੋਰਡ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ਮਿਸ਼ਕਾਨ ਲਈ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ਲੱਕੜ ਦੇ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ਬੋਹੜੀ"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ਖੜ੍ਹੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:22:54.988772212Z",
+  "model": "glm-5.2"
+}

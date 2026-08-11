@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਅਬਸ਼ਾਲੋਮ ਭੱਜ ਗਿਆ ਅਤੇ ਗਸ਼ੂਰ ਗਿਆ, ਅਤੇ ਉਥੇ ਤਿੰਨ ਸਾਲ ⟨ਰਿਹਾ⟩।",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ਅਤੇ ਅਬਸ਼ਾਲੋਮ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ਭੱਜ ਗਿਆ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਗਿਆ"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ਗਸ਼ੂਰ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਰਿਹਾ⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉਥੇ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:11:23.638511546Z",
+  "model": "glm-5.2"
+}

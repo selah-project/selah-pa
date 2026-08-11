@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਛੋਟਾ ⟨ਹਾਂ⟩ ਮੈਂ ਅਤੇ ਨਿਰਾਦਰਿਆ ⟨ਹਾਂ⟩; ਤੇਰੇ ਹੁਕਮ ਮੈਂ ਨਹੀਂ ਭੁੱਲੇ।",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "ਛੋਟਾ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "ਅਤੇ ਨਿਰਾਦਰਿਆ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ਤੇਰੇ ਹੁਕਮ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ਭੁੱਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:08.180075081Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਜਦੋਂ ਤੂੰ ਕਿਸੇ ਨਗਰ ਕੋਲ ਉਸ ਉੱਤੇ ਯੁੱਧ ਕਰਨ ਲਈ ਆਏਂ, ਤਾਂ ਤੂੰ ਉਸ ਨੂੰ ਸ਼ਾਂਤੀ ਦਾ ਸੱਦਾ ਦੇਵੇਂ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ਤੂੰ ਆਏਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ਕਿਸੇ ਨਗਰ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ਯੁੱਧ ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ਤਾਂ ਤੂੰ ਸੱਦਾ ਦੇਵੇਂ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ਸ਼ਾਂਤੀ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:42.690056840Z",
+  "model": "glm-5.2"
+}

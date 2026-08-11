@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਮੇਰੇ ਪਿਆਰੇ ਦੀ ਆਵਾਜ਼! ਵੇਖੋ, ਇਹ ਆ ਰਿਹਾ ਹੈ, ਪਹਾੜਾਂ ਉੱਤੇ ਛਾਲਾਂ ਮਾਰਦਾ, ਟੀਬਿਆਂ ਉੱਤੇ ਕੂਦਦਾ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ਆਵਾਜ਼"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ਮੇਰੇ ਪਿਆਰੇ ਦੀ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "ਛਾਲਾਂ ਮਾਰਦਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ਪਹਾੜਾਂ"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "ਕੂਦਦਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ਟੀਬਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:00:21.089490239Z",
+  "model": "glm-5.2"
+}

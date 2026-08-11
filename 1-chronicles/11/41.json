@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਊਰੀਯਾਹ ਹਿੱਤੀ, ਜ਼ਾਬਾਦ ਅਖਲਾਈ ਦਾ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ਊਰੀਯਾਹ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ਹਿੱਤੀ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ਜ਼ਾਬਾਦ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ਅਖਲਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:15.833654325Z",
+  "model": "glm-5.2"
+}

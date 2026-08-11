@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਤੂੰ ਵਿਭਚਾਰ ਨਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ਤੂੰ ਵਿਭਚਾਰ ਕਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:25.239082522Z",
+  "model": "glm-5.2"
+}

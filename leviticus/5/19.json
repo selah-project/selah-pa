@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਸ਼ਾਮ ਹੈ ਉਹ; ਉਹ ਯਾਹਵੇਹ ਦੇ ਸਾਹਮਣੇ ਨਿਸ਼ਚਿਤ ਤੌਰ 'ਤੇ ਦੋਸ਼ੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "ਅਸ਼ਾਮ ਹੈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ਦੋਸ਼ੀ ਹੈ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ਨਿਸ਼ਚਿਤ ਤੌਰ 'ਤੇ ਦੋਸ਼ੀ ਹੈ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ ਸਾਹਮਣੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:32:03.222780658Z",
+  "model": "glm-5.2"
+}

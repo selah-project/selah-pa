@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 76,
+  "translation": "ਮੰਡਲ ਦੇ ਮੁਖੀ ਲਈ, ਸਾਜ਼ਾਂ ਦੇ ਨਾਲ; ਅਸਾਫ਼ ਦਾ ਜ਼ਬੂਰ, ਇੱਕ ਗੀਤ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲ ਦੇ ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ਸਾਜ਼ਾਂ ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ਅਸਾਫ਼ ਦਾ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ਇੱਕ ਗੀਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:59:05.333553574Z",
+  "model": "glm-5.2"
+}

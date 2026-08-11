@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਅਤੇ ਬਿੰਯਾਮੀਨ ਦੇ ਹੱਦ ਉੱਤੇ, ਪੂਰਬੀ ਪਾਸੇ ਤੋਂ ਪੱਛਮੀ ਪਾਸੇ ਤੱਕ, ਸ਼ਿਮੋਨ ⟨ਦਾ ਇੱਕ ਹਿੱਸਾ ਹੋਵੇਗਾ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ਬਿੰਯਾਮੀਨ ਦੇ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ਪਾਸੇ ਤੋਂ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ਪੂਰਬੀ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ਪਾਸੇ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ਪੱਛਮੀ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ਸ਼ਿਮੋਨ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:05:48.764090715Z",
+  "model": "glm-5.2"
+}

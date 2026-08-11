@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਸਾਡੀ ਵਿਰਾਸਤ ਅਣਜਾਣਾਂ ਦੇ ਹੱਥ ਉਲਟਾ ਗਈ ⟨ਹੈ⟩, ⟨ਅਤੇ⟩ ਸਾਡੇ ਘਰ ਪਰਦੇਸੀਆਂ ਦੇ ਹੋ ਗਏ ⟨ਹਨ⟩।",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "ਸਾਡੀ ਵਿਰਾਸਤ"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "ਉਲਟਾ ਗਈ"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ਅਣਜਾਣਾਂ ਦੇ ਹੱਥ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ਸਾਡੇ ਘਰ"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "ਪਰਦੇਸੀਆਂ ਦੇ ਹੋ ਗਏ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:38.539731079Z",
+  "model": "glm-5.2"
+}

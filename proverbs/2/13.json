@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਜੋ ਸਿੱਧੇ ਰਾਹ ਛੱਡ ਕੇ ਹਨੇਰੇ ਦੇ ਰਾਹਾਂ ਵਿੱਚ ਤੁਰਨ ਲਈ ⟨ਜਾਂਦੇ ਹਨ⟩,",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "ਜੋ … ਛੱਡ ਕੇ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ਰਾਹ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ਸਿੱਧੇ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ਤੁਰਨ ਲਈ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "… ਦੇ ਰਾਹਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ਹਨੇਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:21:00.460514788Z",
+  "model": "glm-5.2"
+}

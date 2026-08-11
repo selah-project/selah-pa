@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਇਨ੍ਹਾਂ ਵੱਲੋਂ ਇੱਕ ਪੂਰੀ ਹਵਾ ਮੇਰੇ ਲਈ ਆਵੇਗੀ; ਹੁਣ ਮੈਂ ਵੀ ⟨ਉਹਨਾਂ ਨਾਲ⟩ ਨਿਆਂ ਗੱਲ ਕਰਾਂਗਾ ⟨את⟩ ⟨ਉਹਨਾਂ ਨੂੰ⟩।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ਹਵਾ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ਪੂਰੀ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ਇਨ੍ਹਾਂ ਵੱਲੋਂ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ਆਵੇਗੀ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ਗੱਲ ਕਰਾਂਗਾ"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "ਨਿਆਂ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹਨਾਂ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:15:23.980204617Z",
+  "model": "glm-5.2"
+}

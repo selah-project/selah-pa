@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਬੱਕਰੀਆਂ ਦੋ ਸੌ, ਅਤੇ ਬੋਤੇ ਵੀਹ; ਭੇਡਾਂ ਦੋ ਸੌ, ਅਤੇ ਮੇਢੇ ਵੀਹ;",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "ਬੱਕਰੀਆਂ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ਦੋ ਸੌ"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "ਅਤੇ ਬੋਤੇ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ਭੇਡਾਂ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ਦੋ ਸੌ"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "ਅਤੇ ਮੇਢੇ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:58:38.147144069Z",
+  "model": "glm-5.2"
+}

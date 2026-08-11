@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਏਲੀਸ਼ਾਮਾ, ਅਤੇ ਬੇਲੀਆਦਾ, ਅਤੇ ਏਲੀਫਾਲੇਤ।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ਅਤੇ ਏਲੀਸ਼ਾਮਾ"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "ਅਤੇ ਬੇਲੀਆਦਾ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ਅਤੇ ਏਲੀਫਾਲੇਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:04:21.430899740Z",
+  "model": "glm-5.2"
+}

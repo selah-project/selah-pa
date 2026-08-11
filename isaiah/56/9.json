@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 56,
+  "translation": "ਸਾਰੇ ਖੇਤ ਦੇ ਜਾਨਵਰ, ਆਓ ਖਾਣ ਲਈ, ਜੰਗਲ ਦੇ ਸਾਰੇ ਜਾਨਵਰ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ਜਾਨਵਰ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ਖੇਤ ਦੇ"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ਆਓ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ਖਾਣ ਲਈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ਜਾਨਵਰ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ਜੰਗਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:08:27.186133130Z",
+  "model": "glm-5.2"
+}

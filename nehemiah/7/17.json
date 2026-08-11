@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅੱਜ਼ਗਾਦ ਦੇ ਪੁੱਤਰ, ਦੋ ਹਜ਼ਾਰ ਤਿੰਨ ਸੌ ਵੀਹ ⟨ਅਤੇ⟩ ਦੋ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ਅੱਜ਼ਗਾਦ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਦੋ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:44:08.114245581Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ⟨ਇਹ⟩ ਕੱਪੜਾ ਜਦੋਂ ਉਸ ਵਿੱਚ ਚਰਮਰੋਗ ਦਾ ਮਾਰ ਹੋਵੇ — ਊਨ ਦੇ ਕੱਪੜੇ ਵਿੱਚ ਜਾਂ ਸਣ ਦੇ ਕੱਪੜੇ ਵਿੱਚ —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਕੱਪੜਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ਮਾਰ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ਚਰਮਰੋਗ ਦਾ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ਕੱਪੜੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ਊਨ ਦੇ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ਕੱਪੜੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "ਸਣ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:54.623326874Z",
+  "model": "glm-5.2"
+}

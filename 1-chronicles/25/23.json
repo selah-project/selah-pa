@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਸੋਲ੍ਹਵੇਂ ਲਈ ਖਨਨਯਾਹੂ, ਉਸ ਦੇ ਪੁੱਤਰ ਅਤੇ ਉਸ ਦੇ ਭਰਾ, ਬਾਰਾਂ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "ਸੋਲ੍ਹਵੇਂ ਲਈ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "ਖਨਨਯਾਹੂ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ਉਸ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਭਰਾ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਬਾਰਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T03:12:14.927901773Z",
+  "model": "glm-5.2"
+}

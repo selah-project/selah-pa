@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਵਧਣ ਉੱਤੇ ⟨ਉਸ⟩ ਭਲਾਈ ਦੇ ਵੱਧ ਗਏ ਖਾਣ ਵਾਲੇ ਉਸ ਦੇ, ਅਤੇ ਕੀ ਲਾਭ ⟨ਉਸ ਦੇ⟩ ਮਾਲਕਾਂ ਨੂੰ? ਸਿਰਫ਼ ⟨ਉਸ ਦੀਆਂ⟩ ਅੱਖਾਂ ਦਾ ਦੇਖਣਾ।",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "ਵਧਣ ਉੱਤੇ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ਭਲਾਈ ਦੇ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ਵੱਧ ਗਏ"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "ਖਾਣ ਵਾਲੇ ਉਸ ਦੇ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ਅਤੇ ਕੀ"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ਲਾਭ"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "ਮਾਲਕਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ਦੇਖਣਾ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ਅੱਖਾਂ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:38.065672602Z",
+  "model": "glm-5.2"
+}

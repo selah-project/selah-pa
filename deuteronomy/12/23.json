@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਬੱਸ ਇਸ ਗੱਲ ਉੱਤੇ ਦ੍ਰਿੜ੍ਹ ਰਹਿ ਕਿ ਲਹੂ ਨਾ ਖਾਵੀਂ, ਕਿਉਂਕਿ ਲਹੂ ਹੀ ⟨ਆਤਮਾ⟩ ਹੈ, ਅਤੇ ਤੂੰ ਆਤਮਾ ਨੂੰ ਮਾਸ ਨਾਲ ਨਾ ਖਾਵੀਂ।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ਬੱਸ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ਦ੍ਰਿੜ੍ਹ ਰਹਿ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ਕਿ ਨਾ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ਖਾਵੀਂ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ਲਹੂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ਲਹੂ ਹੀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਹੈ⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ਆਤਮਾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ਤੂੰ ਖਾਵੀਂ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ਆਤਮਾ ਨੂੰ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ਮਾਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:13.355213024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਇਹ ਕਰੋ: ਤੁਸੀਂ ਆਪਣੇ ਲਈ ਅੱਗ-ਦਾਣੀਆਂ ਲਵੋ — ਕੋਰਹ ਅਤੇ ਤੇਰੀ ਸਾਰੀ ਕੌਮ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਕਰੋ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ਲਵੋ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਸੀਂ ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "ਅੱਗ-ਦਾਣੀਆਂ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ਕੋਰਹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੀ"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "ਤੇਰੀ ਕੌਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:56:00.575790458Z",
+  "model": "glm-5.2"
+}

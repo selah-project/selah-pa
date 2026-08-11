@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਹੁਣ ਕਣਕ ਅਤੇ ਜੌਂ, ਤੇਲ ਅਤੇ ਦਾਖਰਸ, ਜੋ ਮੇਰੇ ਮਾਲਕ ਨੇ ਕਿਹਾ ਹੈ, ਉਹ ਆਪਣੇ ਦਾਸਾਂ ਕੋਲ ਭੇਜੇ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "ਕਣਕ"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "ਅਤੇ ਜੌਂ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ਤੇਲ"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "ਅਤੇ ਦਾਖਰਸ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਿਹਾ ਹੈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਮੇਰੇ ਮਾਲਕ ਨੇ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ਭੇਜੇ"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "ਆਪਣੇ ਦਾਸਾਂ ਕੋਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:18:27.747501136Z",
+  "model": "glm-5.2"
+}

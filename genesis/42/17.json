@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਉਹਨਾਂ ਨੂੰ ਕੈਦ ਵਿੱਚ ਇਕੱਠਾ ਕੀਤਾ ਤਿੰਨ ਦਿਨਾਂ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਇਕੱਠਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ਕੈਦ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨਾਂ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:05:10.606240354Z",
+  "model": "glm-5.2"
+}

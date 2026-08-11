@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਅਵਰਾਹਾਮ ਨੇ ਦੇਸ਼ ਦੇ ਲੋਕਾਂ ਦੇ ਸਾਹਮਣੇ ਡਿੰਗ ਮਾਰੀ।",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ਅਤੇ ... ਡਿੰਗ ਮਾਰੀ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ਅਵਰਾਹਾਮ ਨੇ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "...ਦੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਲੋਕਾਂ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਦੇਸ਼ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:52:38.750680825Z",
+  "model": "glm-5.2"
+}

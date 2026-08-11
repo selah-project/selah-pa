@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਬਿਨਯਾਮੀਨ ਲਈ — ਅਬੀਦਾਨ, ਗਿਦਓਨੀ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "ਬਿਨਯਾਮੀਨ ਲਈ"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ਅਬੀਦਾਨ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ਗਿਦਓਨੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:47.673433371Z",
+  "model": "glm-5.2"
+}

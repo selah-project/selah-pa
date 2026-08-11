@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਇਸ ਲਈ ਉਹਨਾਂ ਵਿਰੁੱਧ ਭਵਿੱਖਬਾਣੀ ਕਰ, ਭਵਿੱਖਬਾਣੀ ਕਰ, ਹੇ ਮਨੁੱਖ ਦੇ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ਭਵਿੱਖਬਾਣੀ ਕਰ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ਉਹਨਾਂ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ਭਵਿੱਖਬਾਣੀ ਕਰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:45:40.337430314Z",
+  "model": "glm-5.2"
+}

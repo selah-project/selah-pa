@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਕੀ ⟨ਉਹ⟩ ਮੇਰੇ ਰਸਤੇ ਨਹੀਂ ਵੇਖਦਾ, ਅਤੇ ਮੇਰੇ ਸਾਰੇ ਕਦਮ ਗਿਣਦਾ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ਕੀ ਨਹੀਂ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ਵੇਖਦਾ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ਮੇਰੇ ਰਸਤੇ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੇ"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "ਕਦਮ"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "ਗਿਣਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:52:10.173706691Z",
+  "model": "glm-5.2"
+}

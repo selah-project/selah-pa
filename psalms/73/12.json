@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 73,
+  "translation": "ਵੇਖੋ, ਇਹ ਦੁਸ਼ਟ ਹਨ, ਅਤੇ ਸਦਾ ਆਰਾਮ ਵਿੱਚ ਰਹਿੰਦੇ ਹਨ, ⟨ਉਹ⟩ ਧਨ ਵਧਾਉਂਦੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਦੁਸ਼ਟ ਹਨ"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ਅਤੇ ਆਰਾਮ ਵਿੱਚ ਰਹਿੰਦੇ ਹਨ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ਸਦਾ"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ਵਧਾਉਂਦੇ ਹਨ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਧਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:58:24.062430067Z",
+  "model": "glm-5.2"
+}

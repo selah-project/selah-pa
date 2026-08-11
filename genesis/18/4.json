@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਥੋੜ੍ਹੇ ਜਿਹੇ ਪਾਣੀ ਲਿਆਏ ਜਾਣ, ਅਤੇ ਤੁਸੀਂ ਆਪਣੇ ਪੈਰ ਧੋਵੋ, ਅਤੇ ਰੁੱਖ ਹੇਠ ਟਿਕੋ।",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "ਲਿਆਏ ਜਾਣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਜੀ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ਥੋੜ੍ਹੇ ਜਿਹੇ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "ਅਤੇ ਧੋਵੋ"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "ਆਪਣੇ ਪੈਰ"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "ਅਤੇ ਟਿਕੋ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਹੇਠ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ਰੁੱਖ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:50:38.655908196Z",
+  "model": "glm-5.2"
+}

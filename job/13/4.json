@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਪਰ ਤੁਸੀਂ ਝੂਠ ਦੇ ਟੋਪੀ-ਸਾਜ਼ ਹੋ, ਤੁਸੀਂ ਸਭ ਨਿਕੰਮੇ ਹੱਕੀਮ ਹੋ।",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ਪਰ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ਤੁਸੀਂ"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "ਟੋਪੀ-ਸਾਜ਼"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ਝੂਠ ਦੇ"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "ਹੱਕੀਮ"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "ਨਿਕੰਮੇ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ਤੁਸੀਂ ਸਭ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:42:30.723349716Z",
+  "model": "glm-5.2"
+}

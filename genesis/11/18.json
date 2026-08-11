@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਪੇਲੇਗ ਨੇ ਜੀਵਿਆ ਤੀਹ ਸਾਲ, ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਰਉ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਵਿਆ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ਪੇਲੇਗ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ਤੀਹ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਰਉ ਨੂੰ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ਰਉ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:26.671129385Z",
+  "model": "glm-5.2"
+}

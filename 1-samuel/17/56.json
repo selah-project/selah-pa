@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਰਾਜੇ ਨੇ ਕਿਹਾ: ਤੂੰ ਪੁੱਛ, ਇਹ ਨੌਜਵਾਨ ਕਿਸ ਦਾ ਪੁੱਤਰ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ਪੁੱਛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕਿਸ ਦਾ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ਨੌਜਵਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:59:24.895337885Z",
+  "model": "glm-5.2"
+}

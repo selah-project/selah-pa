@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ⟨את⟩ ਬਸ਼ਮਤ ਯਿਸ਼ਮਾਏਲ ਦੀ ਧੀ, ਨਬਾਯੋਤ ਦੀ ਭੈਣ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਬਸ਼ਮਤ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "ਬਸ਼ਮਤ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ਯਿਸ਼ਮਾਏਲ ਦੀ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ਭੈਣ"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "ਨਬਾਯੋਤ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:03.101752544Z",
+  "model": "glm-5.2"
+}

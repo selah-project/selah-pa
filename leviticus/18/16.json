@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤੇਰੇ ਭਰਾ ਦੀ ਪਤਨੀ ਦੀ ਨੰਗਤਾ ਨੂੰ ਤੂੰ ਨਾ ਖੋਲ੍ਹ; ਉਹ ਤੇਰੇ ਭਰਾ ਦੀ ਨੰਗਤਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ਨੰਗਤਾ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ਪਤਨੀ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ਤੇਰੇ ਭਰਾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ਤੂੰ ਖੋਲ੍ਹ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ਨੰਗਤਾ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ਤੇਰੇ ਭਰਾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:38:14.403570295Z",
+  "model": "glm-5.2"
+}

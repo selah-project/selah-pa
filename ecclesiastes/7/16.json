@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਬਹੁਤ ਧਰਮੀ ਨਾ ਬਣੋ, ਅਤੇ ਆਪਣੇ ਆਪ ਨੂੰ ਬਹੁਤ ਸਿਆਣਾ ਨਾ ਬਣਾਓ; ਤੁਸੀਂ ਕਿਉਂ ਹੈਰਾਨ ਹੋਵੋਗੇ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ਬਣੋ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ਆਪਣੇ ਆਪ ਨੂੰ ਸਿਆਣਾ ਬਣਾਓ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ਬਹੁਤ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ਹੈਰਾਨ ਹੋਵੋਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:12:38.328715847Z",
+  "model": "glm-5.2"
+}

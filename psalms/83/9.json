@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 83,
+  "translation": "ਅੱਸ਼ੂਰ ਵੀ ਉਹਨਾਂ ਨਾਲ ਜੁੜਿਆ; ਉਹ ਲੋਤ ਦੇ ਪੁੱਤਰਾਂ ਲਈ ਬਾਂਹ ਬਣੇ। ਸੇਲਾ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ਅੱਸ਼ੂਰ"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "ਜੁੜਿਆ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ਉਹਨਾਂ ਨਾਲ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਉਹ ਬਣੇ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ਬਾਂਹ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਲਈ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ਲੋਤ ਦੇ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ਸੇਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:01:11.471495942Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਆਪੋ ਵਿੱਚ ਇੱਕ ਦੂਜੇ ਨੂੰ ਕਿਹਾ, “ਵੇਖੋ, ਸੁਪਨਿਆਂ ਦਾ ਮਾਲਕ ਇਹ ਆ ਰਿਹਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ਆਪਣੇ ਭਰਾ ਦੇ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ਮਾਲਕ"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "ਸੁਪਨਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆ ਰਿਹਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:02:05.218979363Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤਾਂ ਬੱਤ ਸ਼ੇਬਾ ਨੇ ਕਿਹਾ, ਚੰਗਾ, ਮੈਂ ਤੇਰੇ ਲਈ ਰਾਜੇ ਕੋਲ ਗੱਲ ਕਰਾਂਗੀ।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ਤਾਂ ਕਿਹਾ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਬੱਤ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸ਼ੇਬਾ ਨੇ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ਗੱਲ ਕਰਾਂਗੀ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ਤੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ਰਾਜੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:21:22.485010626Z",
+  "model": "glm-5.2"
+}

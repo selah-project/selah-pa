@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਅਤੇ ਇੱਕ ਮਨੁੱਖ ਜਾਂ ਇੱਕ ਇਸਤਰੀ, ਜਦੋਂ ਉਨ੍ਹਾਂ ਦੇ ਮਾਸ ਦੀ ਚਮੜੀ ਉੱਤੇ ਧੱਬੇ ਹੋਣ — ਧੱਬੇ, ਚਿੱਟੇ ਧੱਬੇ,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ਅਤੇ ਇੱਕ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਇੱਕ ਇਸਤਰੀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਣ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ਚਮੜੀ ਉੱਤੇ"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "ਉਨ੍ਹਾਂ ਦੇ ਮਾਸ ਦੀ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ਧੱਬੇ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ਧੱਬੇ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ਚਿੱਟੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:59.360875521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਇਸ ਮਹੀਨੇ ਦੇ ਪੰਦ੍ਹਵੇਂ ਦਿਨ ਮੱਜੇ ਦਾ ਤਿਉਹਾਰ ਯਾਹਵੇਹ ਲਈ ⟨ਹੈ⟩; ਸੱਤ ਦਿਨ ਤੱਕ ਤੁਸੀਂ ਮੱਜਾ ਖਾਓ।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "ਅਤੇ ਪੰਦ੍ਹਵੇਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ਪੰਦ੍ਹਵੇਂ⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ਮਹੀਨੇ ਦੇ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ਤਿਉਹਾਰ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ਮੱਜੇ ਦਾ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ਮੱਜਾ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਤੁਸੀਂ ਖਾਓ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:15.925090447Z",
+  "model": "glm-5.2"
+}

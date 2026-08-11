@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਧਰਮੀ ਦੀ ਕਮਾਈ ਜੀਵਨ ਲਈ ਹੈ; ਦੁਸ਼ਟ ਦੀ ਆਮਦਨੀ ਪਾਪ ਲਈ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "ਕਮਾਈ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ਧਰਮੀ ਦੀ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ਜੀਵਨ ਲਈ ਹੈ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ਆਮਦਨੀ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ਦੁਸ਼ਟ ਦੀ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ਪਾਪ ਲਈ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:25:10.822011431Z",
+  "model": "glm-5.2"
+}

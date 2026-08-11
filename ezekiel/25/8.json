@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 25:8",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਇਉਂ ਆਖਦਾ ਹੈ ਅਦੋਨਾਈ ਯਾਹਵੇਹ: ਇਸ ਲਈ ਕਿ ਮੋਆਬ ਅਤੇ ਸੇਈਰ ਕਹਿੰਦੇ ਹਨ: ਵੇਖੋ, ਯਹੂਦਾ ਦਾ ਘਰ ਸਾਰੇ ਗੋਈਆਂ ਵਾਂਗ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਦਾ ਹੈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ਇਸ ਲਈ ਕਿ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਹਿੰਦੇ ਹਨ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "ਅਤੇ ਸੇਈਰ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ਵਾਂਗ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ਗੋਈਆਂ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ਯਹੂਦਾ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:53:38.039158671Z",
+  "model": "glm-5.2"
+}

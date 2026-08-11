@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਉਹ ਤੇਰੇ ਨਾਲ ਇੱਕ ਨੌਕਰ ਵਾਂਗ, ਇੱਕ ਪਰਦੇਸੀ ਵਾਂਗ ਰਹੇ; ਯੋਬੇਲ ਦੇ ਸਾਲ ਤੱਕ ਉਹ ਤੇਰੇ ਨਾਲ ਕੰਮ ਕਰੇ।",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "ਇੱਕ ਨੌਕਰ ਵਾਂਗ"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "ਇੱਕ ਪਰਦੇਸੀ ਵਾਂਗ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਰਹੇ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "ਯੋਬੇਲ ਦੇ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ਕੰਮ ਕਰੇ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ਤੇਰੇ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:43:19.423066727Z",
+  "model": "glm-5.2"
+}

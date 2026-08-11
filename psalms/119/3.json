@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਉੱਤੇ ਜੀ ਅਤੇ ਨਹੀਂ ਕੀਤਾ ਬਦੀ, ਉਸ ਦੇ ਰਾਹਾਂ ਵਿੱਚ ਚੱਲੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ਉੱਤੇ ਜੀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ਕੀਤਾ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ਬਦੀ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ਉਸ ਦੇ ਰਾਹਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ਚੱਲੇ ਹਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:12:50.706681404Z",
+  "model": "glm-5.2"
+}

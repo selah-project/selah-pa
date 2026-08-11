@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਬਿਲਾਮ ਨੇ ਏਲੋਹੀਮ ਨੂੰ ਕਿਹਾ, ਬਾਲਾਕ ਸੀਪੋਰ ਦਾ ਪੁੱਤਰ ਮੋਆਬ ਦਾ ਰਾਜਾ, ਮੇਰੇ ਕੋਲ ਭੇਜਿਆ ਹੈ,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ਬਿਲਾਮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ਬਾਲਾਕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ਸੀਪੋਰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ਭੇਜਿਆ ਹੈ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਕੋਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:25.161803227Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਭਾਰ ਯਾਹਵੇਹ ਦੇ ਬਚਨ ਦਾ ਇਸਰਾਏਲ ਵੱਲ, ਮਲਾਖੀ ਦੇ ਹੱਥ ਰਾਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ਭਾਰ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ਹੱਥ ਰਾਹੀਂ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ਮਲਾਖੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:26:04.793886840Z",
+  "model": "glm-5.2"
+}

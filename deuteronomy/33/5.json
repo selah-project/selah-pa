@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਯਸ਼ੁਰੂਨ ਵਿੱਚ ⟨ਉਹ⟩ ਰਾਜਾ ਸੀ, ਜਦੋਂ ਲੋਕਾਂ ਦੇ ਮੁਖੀ ਇਕੱਠੇ ਹੋਏ — ਇਸਰਾਏਲ ਦੇ ਕਬੀਲਿਆਂ ਦੇ ਸਾਥ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਸੀ"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "ਯਸ਼ੁਰੂਨ ਵਿੱਚ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "ਜਦੋਂ ਇਕੱਠੇ ਹੋਏ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ਮੁਖੀ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਲੋਕਾਂ ਦੇ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ਸਾਥ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ਕਬੀਲਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:47.400908061Z",
+  "model": "glm-5.2"
+}

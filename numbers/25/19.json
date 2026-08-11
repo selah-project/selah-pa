@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਮਹਾਮਾਰੀ ਤੋਂ ਬਾਅਦ ਹੋਇਆ,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ਤੋਂ ਬਾਅਦ"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ਮਹਾਮਾਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:00:08.411774963Z",
+  "model": "glm-5.2"
+}

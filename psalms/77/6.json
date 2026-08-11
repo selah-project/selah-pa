@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 77,
+  "translation": "ਮੈਂ ਪੁਰਾਣੇ ਦਿਨਾਂ ਨੂੰ ਸੋਚਿਆ, ਮੁੱਢਲੇ ਸਾਲਾਂ ਨੂੰ।",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ਮੈਂ ਸੋਚਿਆ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ਪੁਰਾਣੇ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ਸਾਲਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ਮੁੱਢਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:58:59.565654772Z",
+  "model": "glm-5.2"
+}

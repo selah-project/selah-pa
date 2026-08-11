@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 30:23",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਵੇਖੋ, ਯਾਹਵੇਹ ਦਾ ਚੱਕਰ — ਕ੍ਰੋਧ ਨਿਕਲਿਆ ਹੈ — ਇੱਕ ਘੁੰਮਦਾ ਚੱਕਰ, ਬੁਰਿਆਂ ਦੇ ਸਿਰ ਉੱਤੇ ਘੁੰਮੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "ਚੱਕਰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ਕ੍ਰੋਧ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ਨਿਕਲਿਆ ਹੈ"
+    },
+    {
+      "surface": "סער",
+      "gloss": "ਚੱਕਰ"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "ਘੁੰਮਦਾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ਸਿਰ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ਬੁਰਿਆਂ ਦੇ"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "ਘੁੰਮੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:27:59.121944279Z",
+  "model": "glm-5.2"
+}

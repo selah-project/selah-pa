@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਫਿਟਕਾਰਿਆ ਹੋਇਆ ⟨ਹੈ⟩ ਜੋ ਆਪਣੀ ਭੈਣ ਨਾਲ ਸੌਂਦਾ ਹੈ — ਆਪਣੇ ਪਿਤਾ ਦੀ ਧੀ ਜਾਂ ਆਪਣੀ ਮਾਂ ਦੀ ਧੀ — ਅਤੇ ਸਾਰੇ ਲੋਕ ਕਹਿਣਗੇ: ਆਮੀਨ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ਫਿਟਕਾਰਿਆ ਹੋਇਆ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ਸੌਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਨਾਲ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ਆਪਣੀ ਭੈਣ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ਆਪਣੇ ਪਿਤਾ ਦੀ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ਧੀ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ਆਪਣੀ ਮਾਂ ਦੀ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ਆਮੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:33.044120895Z",
+  "model": "glm-5.2"
+}

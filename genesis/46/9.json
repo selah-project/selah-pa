@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਅਤੇ ਰਊਬੇਨ ਦੇ ਪੁੱਤਰ: ਖ਼ਨੋਖ਼, ਅਤੇ ਪੱਲੂ, ਅਤੇ ਖ਼ਤਸਰੋਨ, ਅਤੇ ਕਰਮੀ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬੇਨ ਦੇ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ਖ਼ਨੋਖ਼"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ਅਤੇ ਪੱਲੂ"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "ਅਤੇ ਖ਼ਤਸਰੋਨ"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ਅਤੇ ਕਰਮੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:06:36.557862290Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਲੋਕਾਂ ਨੂੰ ਕਿਹਾ: ਤਿੰਨ ਦਿਨਾਂ ਲਈ ਤਿਆਰ ਰਹੋ; ਕਿਸੇ ਇਸਤਰੀ ਕੋਲ ਨਾ ਜਾਓ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸ ਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕਾਂ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਰਹੋ"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "ਤਿਆਰ"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ਤਿੰਨ ਦਿਨਾਂ ਲਈ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨਾਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "ਜਾਓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਕਿਸੇ ਇਸਤਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:19:19.086205760Z",
+  "model": "glm-5.2"
+}

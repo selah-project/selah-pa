@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਧਨੀ ਅਤੇ ਗਰੀਬ ਮਿਲਦੇ ਹਨ; ਸਾਰਿਆਂ ਦਾ ਬਣਾਉਣਹਾਰ ਯਾਹਵੇਹ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ਧਨੀ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ਅਤੇ ਗਰੀਬ"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ਮਿਲਦੇ ਹਨ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਬਣਾਉਣਹਾਰ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ਸਾਰਿਆਂ ਦਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:13.426068823Z",
+  "model": "glm-5.2"
+}

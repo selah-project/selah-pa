@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਇਹ ⟨ਹੈ⟩ ⟨ਉਹ⟩ ਪਸ਼ੂ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਖਾ ਸਕਦੇ ਹੋ: ਬਲਦ, ਭੇਡਾਂ ਦਾ ਬੱਕਰਾ, ਅਤੇ ਬਕਰੀਆਂ ਦਾ ਬੱਕਰਾ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ਪਸ਼ੂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਨ੍ਹਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਤੁਸੀਂ ਖਾ ਸਕਦੇ ਹੋ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ਬਲਦ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ਬੱਕਰਾ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ਭੇਡਾਂ ਦਾ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ਅਤੇ ਬੱਕਰਾ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ਬਕਰੀਆਂ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:41.167463417Z",
+  "model": "glm-5.2"
+}

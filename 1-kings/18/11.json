@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਹੁਣ ਤੂੰ ਆਖਦਾ ਹੈਂ, ਜਾ, ਆਪਣੇ ਮਾਲਕ ਨੂੰ ਦੱਸ, ਵੇਖ, ਏਲਿਯਾਹੂ ਇੱਥੇ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ਅਤੇ ਹੁਣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਦਾ ਹੈਂ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਜਾ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਦੱਸ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ਆਪਣੇ ਮਾਲਕ ਨੂੰ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ਏਲਿਯਾਹੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:30:14.497318680Z",
+  "model": "glm-5.2"
+}

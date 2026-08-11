@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਵੇਖੋ, ਸੀਸੇ ਦਾ ਇੱਕ ਗੋਲ ਟੁਕੜਾ ਚੁੱਕਿਆ ਗਿਆ, ਅਤੇ ⟨ਉੱਥੇ⟩ ਈਫਾ ਦੇ ਵਿਚਕਾਰ ਬੈਠੀ ਹੋਈ ਇੱਕ ਔਰਤ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ਅਤੇ ਵੇਖੋ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ਗੋਲ ਟੁਕੜਾ"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "ਸੀਸੇ ਦਾ"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ਚੁੱਕਿਆ ਗਿਆ"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ਔਰਤ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ਬੈਠੀ ਹੋਈ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ਈਫਾ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:22:58.285875617Z",
+  "model": "glm-5.2"
+}

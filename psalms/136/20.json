@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 136,
+  "translation": "ਅਤੇ ਓਗ ਨੂੰ, ਬਾਸ਼ਾਨ ਦੇ ਰਾਜੇ ਨੂੰ, ਕਿਉਂਕਿ ਸਦਾ ਲਈ ਉਸ ਦਾ ਖ਼ੇਸੇਦ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "ਅਤੇ ਓਗ ਨੂੰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ਬਾਸ਼ਾਨ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ਉਸ ਦਾ ਖ਼ੇਸੇਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:16:53.489487542Z",
+  "model": "glm-5.2"
+}

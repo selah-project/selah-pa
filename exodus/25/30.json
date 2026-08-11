@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਅਤੇ ਤੂੰ ਮੇਜ਼ ਉੱਤੇ ਮੇਰੇ ਸਾਹਮਣੇ ਸਦਾ ਪਨਾਹ ਦੀ ਰੋਟੀ ਰੱਖੀਂ।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ਅਤੇ ਤੂੰ ਰੱਖੀਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ਮੇਜ਼"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ਪਨਾਹ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ਮੇਰੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ਸਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:22:28.877742642Z",
+  "model": "glm-5.2"
+}

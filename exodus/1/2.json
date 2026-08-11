@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਰੂਬੇਨ, ਸ਼ਿਮਓਨ, ਲੇਵੀ, ਅਤੇ ਯਹੂਦਾਹ।",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ਰੂਬੇਨ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ਸ਼ਿਮਓਨ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ਲੇਵੀ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ਅਤੇ ਯਹੂਦਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:09:53.238331207Z",
+  "model": "glm-5.2"
+}

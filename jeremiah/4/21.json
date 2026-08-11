@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਕਦੋਂ ਤੱਕ ਮੈਂ ਨਿਸ਼ਾਨ ਵੇਖਾਂ, ਸ਼ਿਓਫ਼ਾਰ ਦੀ ਆਵਾਜ਼ ਸੁਣਾਂ?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "ਕਦੋਂ ਤੱਕ"
+    },
+    {
+      "surface": "מָתַ֖י",
+      "gloss": "ਕਦੋਂ ਤੱਕ"
+    },
+    {
+      "surface": "אֶרְאֶה",
+      "gloss": "ਮੈਂ ਵੇਖਾਂ"
+    },
+    {
+      "surface": "נֵּ֑ס",
+      "gloss": "ਨਿਸ਼ਾਨ"
+    },
+    {
+      "surface": "אֶשְׁמְעָ֖ה",
+      "gloss": "ਸੁਣਾਂ"
+    },
+    {
+      "surface": "ק֥וֹל",
+      "gloss": "ਆਵਾਜ਼"
+    },
+    {
+      "surface": "שׁוֹפָֽר",
+      "gloss": "ਸ਼ਿਓਫ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:15:11.932474703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 15:17",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ⟨ਉੱਚੇ ਅਸਥਾਨ⟩ ਯਿਸਰਾਏਲ ਤੋਂ ਹਟਾਏ ਨਹੀਂ ਗਏ; ਸਿਰਫ਼ ਆਸਾ ਦਾ ਦਿਲ ਉਸ ਦੇ ਸਾਰੇ ਦਿਨਾਂ ਵਿੱਚ ਪੂਰਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "ਅਤੇ ⟨ਉੱਚੇ ਅਸਥਾਨ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ਹਟਾਏ ਗਏ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਤੋਂ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ਦਿਲ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ਆਸਾ ਦਾ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਸੀ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ਪੂਰਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ਉਸ ਦੇ ਦਿਨਾਂ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:26:42.427418016Z",
+  "model": "glm-5.2"
+}

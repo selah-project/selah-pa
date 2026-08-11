@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਇਹ ਬਿਰਤੀ ਪਹਾੜ ਉੱਤੇ ਧਿਕਾਰ ਲਈ ਖੜ੍ਹੇ ਹੋਣਗੇ: ਰਊਬਨ, ਗਾਦ, ਅਸ਼ੇਰ, ਜ਼ਬੂਲੂਨ, ਦਾਨ ਅਤੇ ਨਪਤਾਲੀ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ਖੜ੍ਹੇ ਹੋਣਗੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "ਧਿਕਾਰ ਲਈ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ਬਿਰਤੀ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬਨ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ਗਾਦ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ਅਸ਼ੇਰ"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "ਜ਼ਬੂਲੂਨ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ"
+    },
+    {
+      "surface": "ויפתלי",
+      "gloss": "ਅਤੇ ਨਪਤਾਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:22.086642144Z",
+  "model": "glm-5.2"
+}

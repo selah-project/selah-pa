@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ਉਸ ਸ਼ਹਿਰ ਦੇ ਬਜ਼ੁਰਗਾਂ ਨੇ ⟨את⟩ ਉਸ ਮਨੁੱਖ ਨੂੰ ਫੜ ਕੇ ⟨את⟩ ਉਸ ਨੂੰ ਤਾੜਨਾ ਕਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ਅਤੇ ਲੈ ਜਾਣਗੇ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ਬਜ਼ੁਰਗ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਉਸ ਸ਼ਹਿਰ ਦੇ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਸ ਮਨੁੱਖ ਨੂੰ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ਉਸ ਮਨੁੱਖ ਨੂੰ"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ਅਤੇ ਤਾੜਨਾ ਕਰੇਗਾ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ਉਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:29.300225588Z",
+  "model": "glm-5.2"
+}

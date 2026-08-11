@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਲਵੀਯ ਲਈ — ਖ਼ਸ਼ਬਯਾਹ ਕਮੁਏਲ ਦਾ ਪੁੱਤਰ; ਅਹਰੋਨ ਲਈ — ਜ਼ਾਦੋਕ।",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "ਲਵੀਯ ਲਈ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ਖ਼ਸ਼ਬਯਾਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ਕਮੁਏਲ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ਅਹਰੋਨ ਲਈ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ਜ਼ਾਦੋਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:14:16.267893412Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 30,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਯਹਿਜ਼ਕੀਯਾਹੂ ਦੀ ਸੁਣੀ, ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਲੋਕਾਂ ਨੂੰ ਚੰਗਾ ਕੀਤਾ।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ਅਤੇ ਸੁਣੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਦੀ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ਯਹਿਜ਼ਕੀਯਾਹੂ"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ਅਤੇ ਚੰਗਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਲੋਕਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕਾਂ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:39:27.375687468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਵਿਹੜੇ ਦੀ ਚੌੜਾਈ ਪੂਰਬ ਪਾਸੇ, ਸੂਰਜ ਚੜ੍ਹਨ ਵੱਲ, ਪੰਜਾਹ ਮੁਰੀ ⟨ਹੋਵੇਗੀ⟩।",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "ਅਤੇ ਚੌੜਾਈ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ਵਿਹੜੇ ਦੀ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ਪਾਸੇ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ਪੂਰਬ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ਸੂਰਜ ਚੜ੍ਹਨ ਵੱਲ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ਪੰਜਾਹ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ਮੁਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:22:29.183758501Z",
+  "model": "glm-5.2"
+}

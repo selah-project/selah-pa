@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਜੰਮਣ ਦਾ ਵੇਲਾ, ਅਤੇ ਮਰਨ ਦਾ ਵੇਲਾ; ਬੀਜਣ ਦਾ ਵੇਲਾ, ਅਤੇ ਬੀਜੀ ਹੋਈ ⟨ਫ਼ਸਲ⟩ ਨੂੰ ਪੁੱਟਣ ਦਾ ਵੇਲਾ।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ਵੇਲਾ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ਜੰਮਣ ਦਾ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ਅਤੇ ਵੇਲਾ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ਮਰਨ ਦਾ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ਵੇਲਾ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ਬੀਜਣ ਦਾ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ਅਤੇ ਵੇਲਾ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ਪੁੱਟਣ ਦਾ"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ਬੀਜੀ ਹੋਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:10:46.567237452Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 69,
+  "translation": "⟨ਮੰਗਣ ਵਾਲੇ ਮੁਖੀ ਲਈ⟩, ਸ਼ੋਸ਼ੰਨੀਮ ⟨ਨਾਮ ਤਰਜ਼ ਉੱਤੇ⟩, ਦਾਵਿਦ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਗਣ ਵਾਲੇ ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "ਸ਼ੋਸ਼ੰਨੀਮ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:57:05.376484026Z",
+  "model": "glm-5.2"
+}

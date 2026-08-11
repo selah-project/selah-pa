@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਯੇਹੋਸ਼ੁਆ ਨੇ ⟨את⟩ ਕਹਾਨੀਆਂ ਨੂੰ ਆਖਿਆ ⟨ਕਿ⟩, „ਯਰਦਨ ਤੋਂ ਚੜ੍ਹ ਜਾਓ।”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ਅਤੇ ਆਖਿਆ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ਯੇਹੋਸ਼ੁਆ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਕਹਾਨੀਆਂ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ਕਹਾਨੀਆਂ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ਕਿ⟩"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ਚੜ੍ਹ ਜਾਓ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ਯਰਦਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:26:53.424334118Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਮਹਿਸੂਲ ⟨ਸੀ⟩ ਭੇਡਾਂ ਵਿਚੋਂ ਛੇ ਸੌ ਪੈਹਠਾਹ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "ਮਹਿਸੂਲ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਵਿਚੋਂ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ਭੇਡਾਂ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੈਂਤੀ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ਹਠਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:43.381565666Z",
+  "model": "glm-5.2"
+}

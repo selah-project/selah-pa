@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇਸ ਉੱਤੇ ਯਾਹਵੇਹ ਨੇ ਰਿਆਇਤ ਕੀਤੀ; ਇਹ ਵੀ ਨਹੀਂ ਹੋਵੇਗੀ, ਅਦੋਨਾਈ ਯਾਹਵੇਹ ਨੇ ਕਿਹਾ।",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ਰਿਆਇਤ ਕੀਤੀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਹੋਵੇਗੀ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਕਿਹਾ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:53:41.573340778Z",
+  "model": "glm-5.2"
+}

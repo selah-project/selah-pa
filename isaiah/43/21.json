@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 43,
+  "translation": "ਇਹ ਲੋਕ ਮੈਂ ਆਪਣੇ ਲਈ ਘੜਿਆ ਹੈ, ⟨ਕਿ ਉਹ⟩ ਮੇਰੀ ਸਤਿਕਾਰਤਾ ਨੂੰ ਪ੍ਰਗਟ ਕਰਨ।",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "ਮੈਂ ਘੜਿਆ ਹੈ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ਮੇਰੀ ਸਤਿਕਾਰਤਾ"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ਪ੍ਰਗਟ ਕਰਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:03:48.262146073Z",
+  "model": "glm-5.2"
+}

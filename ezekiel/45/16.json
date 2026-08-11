@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 45,
+  "translation": "ਦੇਸ਼ ਦਾ ਸਾਰਾ ਲੋਕ ਇਸ ਤਰਾਹ ਵੱਲ ਹੋਵੇ, ਯਿਸਰਾਏਲ ਵਿੱਚ ਨਸੀਲ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰਾ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਦੇਸ਼ ਦਾ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ਤਰਾਹ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "ਨਸੀਲ ਲਈ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:03:14.371193186Z",
+  "model": "glm-5.2"
+}

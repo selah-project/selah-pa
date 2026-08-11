@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਜਦ ਤੱਕ ਯਾਹਵੇਹ ਝਾਤ ਮਾਰੇ ਅਤੇ ਵੇਖੇ ਅਕਾਸ਼ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ਜਦ ਤੱਕ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ਝਾਤ ਮਾਰੇ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ਅਤੇ ਵੇਖੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ਅਕਾਸ਼ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:06:51.750474711Z",
+  "model": "glm-5.2"
+}

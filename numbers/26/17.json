@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਅਰੋਦ ਦੀ ਕੁਲ, ਅਰੋਦੀ; ਅਰਏਲੀ ਦੀ ਕੁਲ, ਅਰਏਲੀ।",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "ਅਰੋਦ ਦੀ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਲ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ਅਰੋਦੀ"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "ਅਰਏਲੀ ਦੀ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕੁਲ"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "ਅਰਏਲੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:12.553581431Z",
+  "model": "glm-5.2"
+}

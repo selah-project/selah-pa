@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਵਾਹਿਨੂੰ, ਦਾਵਿਦ ਦਾ ਜ਼ਬੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਵਾਹਿਨੂੰ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ⟨ਦਾ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T00:32:01.921788449Z",
+  "model": "glm-5.2"
+}

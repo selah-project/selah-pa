@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਮੈਂ ਤੈਨੂੰ ਮਾਰੂਥਲ ਵਿੱਚ ਜਾਣਿਆ, ਸੁੱਕੇ ਦੇਸ਼ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ਤੈਨੂੰ ਜਾਣਿਆ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ਮਾਰੂਥਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "ਸੁੱਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:09:19.985382382Z",
+  "model": "glm-5.2"
+}

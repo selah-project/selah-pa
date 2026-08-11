@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਤਿਕਲਗ ਅਤੇ ਮਦਮੰਨਾ ਅਤੇ ਸਨਸੰਨਾ",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ਅਤੇ ਤਿਕਲਗ"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "ਅਤੇ ਮਦਮੰਨਾ"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "ਅਤੇ ਸਨਸੰਨਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:40.820160997Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਆਦਿ ਵਿੱਚ ਏਲੋਹੀਮ ਨੇ ⟨את⟩ ਅਕਾਸ਼ ਅਤੇ ⟨את⟩ ਧਰਤੀ ਨੂੰ ਸਿਰਜਿਆ।",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ਆਦਿ ਵਿੱਚ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ਸਿਰਜਿਆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅਕਾਸ਼"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ਅਕਾਸ਼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਧਰਤੀ ਨੂੰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:43:27.827795051Z",
+  "model": "glm-5.2"
+}

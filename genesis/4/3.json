@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਤੇ ਦਿਨਾਂ ਦੇ ਅੰਤ ਉੱਤੇ, ਕੈਨ ਧਰਤੀ ਦੇ ਫਲ ਵਿੱਚੋਂ ਯਾਹਵੇਹ ਲਈ ਇੱਕ ਭੇਟਾ ਲਿਆਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ਦੇ ਅੰਤ ਉੱਤੇ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨਾਂ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਕੈਨ ਲਿਆਇਆ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ਕੈਨ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ਫਲ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ਭੇਟਾ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:17.850518242Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਤੇ ਅਹਰੋਨ ਦੇ ਪੁੱਤਰ, ⟨ਇਕੱਲਾ⟩ ਕਾਹਨ, ਮਿਜ਼ਬਹ ਉੱਤੇ ਅੱਗ ਰੱਖਣਗੇ, ਅਤੇ ਅੱਗ ਉੱਤੇ ਲੱਕੜੀਆਂ ਤਿਆਰ ਕਰਨਗੇ।",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ਅਤੇ ਰੱਖਣਗੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ਅਹਰੋਨ ਦੇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕਾਹਨ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ਅੱਗ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ਮਿਜ਼ਬਹ"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ਅਤੇ ਤਿਆਰ ਕਰਨਗੇ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ਲੱਕੜੀਆਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ਅੱਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:30:47.075497554Z",
+  "model": "glm-5.2"
+}

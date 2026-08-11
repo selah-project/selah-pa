@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 47,
+  "translation": "ਅਤੇ ਇਹ ਦੇਸ਼ ਦਾ ਹੱਦ ਹੈ, ਉੱਤਰ ਪਾਸੇ ਵੱਲ: ਵੱਡੇ ਸਮੁੰਦਰ ਤੋਂ, ਖ਼ਤਲੋਨ ਦਾ ਰਸਤਾ, ਤਸਦਾਦ ਵੱਲ ਆਉਣ ਤੱਕ।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ਹੱਦ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਦੇਸ਼ ਦਾ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ਪਾਸੇ ਵੱਲ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ਉੱਤਰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ਵੱਡੇ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ਰਸਤਾ"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "ਖ਼ਤਲੋਨ ਦਾ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ਆਉਣ ਤੱਕ"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "ਤਸਦਾਦ ਵੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:04:27.449241450Z",
+  "model": "glm-5.2"
+}

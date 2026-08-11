@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਸ਼ਖਨਯਾ, ਰਹੂਮ, ਮਰੇਮੋਤ।",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "ਸ਼ਖਨਯਾ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ਰਹੂਮ"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "ਮਰੇਮੋਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:12.141364289Z",
+  "model": "glm-5.2"
+}

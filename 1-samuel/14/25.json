@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਸਾਰੀ ⟨ਧਰਤੀ ਦੇ ਲੋਕ⟩ ਜੰਗਲ ਵਿੱਚ ਆਏ, ਅਤੇ ਖੇਤ ਦੇ ਮੂੰਹ ਉੱਤੇ ਸ਼ਹਿਦ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ ਲੋਕ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ਆਏ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ਜੰਗਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ਸ਼ਹਿਦ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਮੂੰਹ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ਖੇਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:58:18.526107520Z",
+  "model": "glm-5.2"
+}

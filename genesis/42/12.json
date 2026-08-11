@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ, ਨਹੀਂ, ਸਗੋਂ ⟨ਤੁਸੀਂ⟩ ਦੇਸ਼ ਦੀ ਨੰਗੀਅਤ ਵੇਖਣ ਲਈ ਆਏ ਹੋ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ਉਹਨਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਸਗੋਂ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ਨੰਗੀਅਤ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਦੇਸ਼ ਦੀ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ਤੁਸੀਂ ਆਏ ਹੋ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ਵੇਖਣ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:04:48.669734320Z",
+  "model": "glm-5.2"
+}

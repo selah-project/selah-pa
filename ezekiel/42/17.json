@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਉਸ ਨੇ ਉੱਤਰ ਦੀ ਪੌਣ ਨੂੰ ਮਾਪਿਆ, ਪੰਜ ਸੌ ਕੰਨ੍ਹਾਂ ⟨ਦੀ ਮਾਪ⟩, ਮਾਪ ਦੇ ਕੰਨੇ ਨਾਲ, ਚਾਰੇ ਪਾਸੇ।",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "ਉਸ ਨੇ ਮਾਪਿਆ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਪੌਣ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ਉੱਤਰ ਦੀ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ਕੰਨ੍ਹਾਂ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ਕੰਨੇ ਨਾਲ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ਮਾਪ ਦੀ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ਚਾਰੇ ਪਾਸੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:01:56.606598359Z",
+  "model": "glm-5.2"
+}

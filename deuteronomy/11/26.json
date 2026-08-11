@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਵੇਖੋ, ਮੈਂ ਅੱਜ ਤੁਹਾਡੇ ਸਾਹਮਣੇ ਬਰਕਤ ਅਤੇ ਕਲਪ ਰੱਖਦਾ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ਵੇਖੋ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਰੱਖਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ਤੁਹਾਡੇ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਅੱਜ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ਬਰਕਤ"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ਅਤੇ ਕਲਪ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:13:52.671766371Z",
+  "model": "glm-5.2"
+}

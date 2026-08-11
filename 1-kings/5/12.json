@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਤਿੰਨ ਹਜ਼ਾਰ ਮਸਲਾ ਬੋਲੇ, ਅਤੇ ਉਸ ਦੇ ਗੀਤ ਪੰਜ ਹਜ਼ਾਰ ਸਨ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਬੋਲੇ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ਮਸਲਾ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਸਨ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ਉਸ ਦੇ ਗੀਤ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:21:51.575679226Z",
+  "model": "glm-5.2"
+}

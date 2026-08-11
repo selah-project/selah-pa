@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਜਦੋਂ ਤੂੰ ਆਪਣੇ ਦੁਸ਼ਮਣਾਂ ਉੱਤੇ ਪਾਂਧੀ ਮਾਰੇਂ ਤਾਂ ਹਰ ਭੈੜੀ ਗੱਲ ਤੋਂ ਆਪਣੀ ਰੱਖਿਆ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ਤੂੰ ਮਾਰੇਂ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ਪਾਂਧੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ਆਪਣੇ ਦੁਸ਼ਮਣਾਂ"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ਅਤੇ ਆਪਣੀ ਰੱਖਿਆ ਕਰ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਗੱਲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਭੈੜੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:32.349402886Z",
+  "model": "glm-5.2"
+}

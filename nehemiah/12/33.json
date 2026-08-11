@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਅਜ਼ਰਯਾਹ, ਏਜ਼ਰਾ, ਅਤੇ ਮਸ਼ੁੱਲਾਮ,",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ਅਤੇ ਅਜ਼ਰਯਾਹ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ਏਜ਼ਰਾ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ਅਤੇ ਮਸ਼ੁੱਲਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:49:14.060027909Z",
+  "model": "glm-5.2"
+}

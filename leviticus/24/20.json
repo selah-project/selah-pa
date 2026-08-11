@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਟੁੱਟੀ ਬਦਲੇ ਟੁੱਟੀ, ਅੱਖ ਬਦਲੇ ਅੱਖ, ਦੰਦ ਬਦਲੇ ਦੰਦ; ਜਿਵੇਂ ਉਹ ਮਨੁੱਖ ਨੂੰ ਨੁਕਸ ਦੇਵੇ ਇੰਝ ਉਸ ਵਿੱਚ ਦਿੱਤਾ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ਟੁੱਟੀ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ਟੁੱਟੀ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਅੱਖ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਅੱਖ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ਦੰਦ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ਦੰਦ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਜਿਵੇਂ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ਉਹ ਦੇਵੇ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ਨੁਕਸ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ਮਨੁੱਖ ਨੂੰ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇੰਝ"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ਦਿੱਤਾ ਜਾਵੇ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:50.748383474Z",
+  "model": "glm-5.2"
+}

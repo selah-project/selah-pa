@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸਾਰੇ ਨਦੀਆਂ ਸਮੁੰਦਰ ਵੱਲ ਦੌੜਦੀਆਂ ਹਨ, ਅਤੇ ਸਮੁੰਦਰ ⟨ਭਰਦਾ⟩ ਨਹੀਂ; ਉਸ ਥਾਂ ਵੱਲ ਜਿੱਥੇ ਨਦੀਆਂ ਦੌੜਦੀਆਂ ਹਨ, ਉੱਥੇ ਉਹ ਮੁੜਦੀਆਂ ਹਨ ਦੌੜਨ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "ਨਦੀਆਂ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ਦੌੜਦੀਆਂ ਹਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ਅਤੇ ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "⟨ਭਰਦਾ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ਥਾਂ"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "ਜਿੱਥੇ ਨਦੀਆਂ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ਦੌੜਦੀਆਂ ਹਨ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "ਮੁੜਦੀਆਂ ਹਨ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ਦੌੜਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:10:31.100574503Z",
+  "model": "glm-5.2"
+}

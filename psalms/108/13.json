@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 108,
+  "translation": "ਸਾਨੂੰ ਦਬਾਓ ਤੋਂ ਮਦਦ ਦੇ, ਕਿਉਂਕਿ ਨਿਰਰਥਕ ਹੈ ਮਨੁੱਖ ਦੀ ਮੁਕਤੀ।",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ਦੇ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਨੂੰ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ਮਦਦ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ਦਬਾਓ ਤੋਂ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ਕਿਉਂਕਿ ਨਿਰਰਥਕ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ਮੁਕਤੀ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:09:47.061819840Z",
+  "model": "glm-5.2"
+}

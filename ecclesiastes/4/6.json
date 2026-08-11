@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਚੰਗਾ ਹੈ ਇੱਕ ਹੱਥ ਭਰ ਸ਼ਾਂਤੀ, ਦੋ ਹੱਥ ਭਰ ਮਿਹਨਤ ਅਤੇ ਪੌਣ ਪਿੱਛੇ ਭੱਜਣ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ ਹੈ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ਭਰ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ਸ਼ਾਂਤੀ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ਦੋ ਹੱਥ ਭਰ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ਮਿਹਨਤ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ਅਤੇ ਪੌਣ ਪਿੱਛੇ ਭੱਜਣ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ਪੌਣ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:11:38.603446172Z",
+  "model": "glm-5.2"
+}

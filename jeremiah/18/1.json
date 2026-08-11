@@ -1,0 +1,46 @@
+{
+  "tier": "hand",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਉਹ ਬਚਨ ਜੋ ਯਿਰਮਿਯਾਹੂ ਕੋਲ ⟨את⟩ ਯਾਹਵੇਹ ਵੱਲੋਂ ਆਇਆ, ਆਖਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ਉਹ ਬਚਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ਵੱਲੋਂ",
+      "marks": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਆਖਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:23:10.198261672Z",
+  "model": "claude-fable-5"
+}

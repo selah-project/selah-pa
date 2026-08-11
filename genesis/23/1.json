@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਸਾਰਾਹ ਦੇ ਜੀਵਨ ਦੇ ਸਾਲ ⟨ਸਨ⟩ ਸੌ ਸਾਲ ਅਤੇ ਵੀਹ ਸਾਲ ਅਤੇ ਸੱਤ ਸਾਲ — ਸਾਰਾਹ ਦੇ ਜੀਵਨ ਦੇ ਸਾਲ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ ⟨ਸਨ⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ਜੀਵਨ ਦੇ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ਸਾਰਾਹ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ਅਤੇ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ਵੀਹ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ਅਤੇ ਸੱਤ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ਜੀਵਨ ਦੇ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ਸਾਰਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:53:08.910412694Z",
+  "model": "glm-5.2"
+}

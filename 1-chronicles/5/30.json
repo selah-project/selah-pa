@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਏਲਆਜ਼ਰ ਨੇ ⟨את⟩ ਪਿਨਹਸ ਨੂੰ ਜਨਮ ਦਿੱਤਾ; ਪਿਨਹਸ ਨੇ ⟨את⟩ ਅਬੀਸ਼ੂਆ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "ਏਲਆਜ਼ਰ ਨੇ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਪਿਨਹਸ ਨੂੰ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ਪਿਨਹਸ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ਪਿਨਹਸ ਨੇ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਅਬੀਸ਼ੂਆ ਨੂੰ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ਅਬੀਸ਼ੂਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:55:41.990891002Z",
+  "model": "glm-5.2"
+}

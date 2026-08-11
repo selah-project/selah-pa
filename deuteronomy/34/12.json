@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 34,
+  "translation": "ਅਤੇ ਉਸ ਸ਼ਕਤੀਸ਼ਾਲੀ ਹੱਥ ਅਤੇ ਉਸ ਮਹਾਨ ਡਰ ਵਿੱਚ, ਜੋ ਮੋਸ਼ੇ ਨੇ ਸਾਰੇ ਇਸਰਾਏਲ ਦੀਆਂ ਅੱਖਾਂ ਸਾਹਮਣੇ ਕੀਤੇ।",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "ਅਤੇ ਉਸ"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ਸ਼ਕਤੀਸ਼ਾਲੀ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ਅਤੇ ਉਸ"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "ਡਰ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ਮਹਾਨ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕੀਤੇ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ਅੱਖਾਂ ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੀਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:27:13.159143819Z",
+  "model": "glm-5.2"
+}

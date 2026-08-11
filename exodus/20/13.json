@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਤੂੰ ਕਤਲ ਨਾ ਕਰ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "ਤੂੰ ਕਤਲ ਕਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:17:58.700718149Z",
+  "model": "glm-5.2"
+}

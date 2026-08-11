@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਛਾਉਣੀ ਵੱਲ ਵਾਪਸ ਆਇਆ, ਉਹ ਅਤੇ ਯਿਸਰਾਏਲ ਦੇ ਸਿਆਣੇ ਬੰਦੇ।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ਅਤੇ ⟨ਉਹ⟩ ਵਾਪਸ ਆਇਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ਛਾਉਣੀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ਅਤੇ ਸਿਆਣੇ ਬੰਦੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:54:29.929152900Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਹ ⟨ਮੈਨੂੰ⟩ ਆਪਣੇ ਮੂੰਹ ਦੇ ਚੁੰਮਣਾਂ ਨਾਲ ਚੁੰਮੇ, ਕਿਉਂਕਿ ਤੇਰੇ ਪ੍ਰੇਮ ਦਾਰੂ ਤੋਂ ਚੰਗੇ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "ਉਹ ਚੁੰਮੇ"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "ਚੁੰਮਣਾਂ ਨਾਲ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ਆਪਣੇ ਮੂੰਹ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ਚੰਗੇ ਹਨ"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ਤੇਰੇ ਪ੍ਰੇਮ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ਦਾਰੂ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:59:27.936623363Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਇਉਂ ਆਖਿਆ ਯਾਹਵੇਹ ਨੇ: ਯਹੂਦਾਹ ਦੇ ਰਾਜੇ ਦੇ ਘਰ ਜਾਹ, ਅਤੇ ਉੱਥੇ ਇਹ ⟨את⟩ ਗੱਲ ਕਹੋ,",
+  "tokens": [
+    {
+      "surface": "כֹּ֚ה",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "ਆਖਿਆ"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "רֵ֖ד",
+      "gloss": "ਜਾਹ"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "ਘਰ"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "ਰਾਜੇ ਦੇ"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "ਯਹੂਦਾਹ ਦੇ"
+    },
+    {
+      "surface": "וְדִבַּרְתָּ֣",
+      "gloss": "ਅਤੇ ਕਹੋ"
+    },
+    {
+      "surface": "שָׁ֔ם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ਗੱਲ"
+    },
+    {
+      "surface": "הַדָּבָ֖ר",
+      "gloss": "ਗੱਲ"
+    },
+    {
+      "surface": "הַזֶּֽה",
+      "gloss": "ਇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:24:23.661215871Z",
+  "model": "glm-5.2"
+}

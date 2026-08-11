@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "⟨את⟩ ਮੈਨੂੰ ⟨ਉਸ ਨੇ⟩ ਅਗਵਾ ਕੀਤਾ ਅਤੇ ਹਨੇਰੇ ਵਿੱਚ ਮੋੜਿਆ, ਅਤੇ ਨਹੀਂ ⟨ਕਿਸੇ⟩ ਜੋਤ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ਮੈਨੂੰ",
+      "marks": "ਮੈਨੂੰ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ਅਗਵਾ ਕੀਤਾ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ਅਤੇ ਮੋੜਿਆ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ਹਨੇਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ਜੋਤ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:02.037198587Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਸੋਫਖ ਦੇ ਪੁੱਤਰ ਸੂਖ, ਅਤੇ ਖਰਨੇਫੇਰ, ਅਤੇ ਸ਼ੂਅਲ, ਅਤੇ ਬੇਰੀ, ਅਤੇ ਯਿਮਰਾ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "... ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ਸੋਫਖ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "ਸੂਖ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "ਅਤੇ ਖਰਨੇਫੇਰ"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "ਅਤੇ ਸ਼ੂਅਲ"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "ਅਤੇ ਬੇਰੀ"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "ਅਤੇ ਯਿਮਰਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:58:23.511487751Z",
+  "model": "glm-5.2"
+}

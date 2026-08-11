@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 124,
+  "translation": "ਜੇ ਯਾਹਵੇਹ ਸਾਡੇ ਲਈ ਨਾ ਹੁੰਦਾ, ਜਦੋਂ ਮਨੁੱਖ ਸਾਡੇ ਵਿਰੁੱਧ ਉੱਠੇ,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ਜੇ ਨਾ ਹੁੰਦਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ਜੋ ਸੀ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "ਜਦੋਂ ਉੱਠੇ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ਸਾਡੇ ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:56.101262940Z",
+  "model": "glm-5.2"
+}

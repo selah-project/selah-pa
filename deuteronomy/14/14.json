@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ⟨ਹਰ ਇੱਕ⟩ ਕਾਂ ਨੂੰ ਆਪਣੀ ਪ੍ਰਜਾਤੀ ਅਨੁਸਾਰ,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਕਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਇੱਕ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ਕਾਂ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ਆਪਣੀ ਪ੍ਰਜਾਤੀ ਅਨੁਸਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:14:00.863570538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਯਹੋਨਾਤਨ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ ਮਰੀਬ-ਬਾਲ, ਅਤੇ ਮਰੀਬ-ਬਾਲ ਨੇ ⟨את⟩ ਮੀਕਾ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ਯਹੋਨਾਤਨ ਦੇ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ਮਰੀਬ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ਬਾਲ"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "ਅਤੇ ਮਰੀਬ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ਬਾਲ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੀਕਾ ਨੂੰ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ਮੀਕਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:59:09.831408947Z",
+  "model": "glm-5.2"
+}

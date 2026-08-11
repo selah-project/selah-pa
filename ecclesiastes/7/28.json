@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਜੋ ਮੇਰੀ ਜਾਨ ਹਾਲੇ ਲੱਭ ਰਹੀ ਹੈ ਪਰ ਮੈਂ ਨਹੀਂ ਲੱਭਿਆ: ਹਜ਼ਾਰ ਵਿੱਚੋਂ ਇੱਕ ਮਨੁੱਖ ਮੈਂ ਲੱਭਿਆ, ਪਰ ਇਹਨਾਂ ਸਭ ਵਿੱਚ ਇੱਕ ਔਰਤ ਮੈਂ ਨਹੀਂ ਲੱਭੀ।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹਾਲੇ"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "ਲੱਭ ਰਹੀ ਹੈ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ਮੇਰੀ ਜਾਨ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਪਰ ਨਹੀਂ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ਮੈਂ ਲੱਭਿਆ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "ਹਜ਼ਾਰ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ਮੈਂ ਲੱਭਿਆ"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ਪਰ ਔਰਤ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਸਭ ਵਿੱਚ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹਨਾਂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ਮੈਂ ਲੱਭੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:27.267064865Z",
+  "model": "glm-5.2"
+}

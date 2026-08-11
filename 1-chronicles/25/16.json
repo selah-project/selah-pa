@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 25:16",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਨੌਵਾਂ ਮਤਨਯਾਹੂ, ਉਸ ਦੇ ਪੁੱਤਰ ਅਤੇ ਉਸ ਦੇ ਭਰਾ, ਬਾਰਾਂ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "התשיעי",
+      "gloss": "ਨੌਵਾਂ"
+    },
+    {
+      "surface": "מתניהו",
+      "gloss": "ਮਤਨਯਾਹੂ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ਉਸ ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ਅਤੇ ਉਸ ਦੇ ਭਰਾ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਬਾਰਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-11T03:12:50.208703257Z",
+  "model": "glm-5.2"
+}

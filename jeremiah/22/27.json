@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਅਤੇ ⟨ਉਸ⟩ ਧਰਤੀ ਵੱਲ, ਜਿਸ ਲਈ ਉਹ ⟨ਆਪਣੀ⟩ ਜਾਨ ਚੁੱਕੀ ਫਿਰਨ ਦੀ ਇੱਛਾ ਕਰਦੇ ਹਨ, ਉੱਥੇ ਉਹ ਵਾਪਸ ਨਹੀਂ ਆਉਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਵੱਲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਲਈ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "ਚੁੱਕੀ ਫਿਰਦੇ ਹਨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਆਪਣੀ ਜਾਨ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ਆਪਣੀ ਜਾਨ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ਵਾਪਸ ਆਉਣ ਦੀ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ਆਉਣਗੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:23:34.909322441Z",
+  "model": "glm-5.2"
+}

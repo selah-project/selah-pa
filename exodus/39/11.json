@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਅਤੇ ⟨ਇਹ⟩ ਕਤਾਰ ⟨ਇਹ⟩ ਦੂਜੀ: ਨੋਫ਼ੇਖ, ਸਪੀਰ ਅਤੇ ਯਹਲੋਮ।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ਅਤੇ ਕਤਾਰ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜੀ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ਨੋਫ਼ੇਖ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ਸਪੀਰ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ਅਤੇ ਯਹਲੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:28:18.421122267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਦਰਿਆਵਾਂ ਦੇ ਦਰਵਾਜ਼ੇ ਖੋਲ੍ਹੇ ਗਏ, ਅਤੇ ⟨ਉਹ⟩ ਮਹਿਲ ਪਿਘਲ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "ਦਰਵਾਜ਼ੇ"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "ਦਰਿਆਵਾਂ ਦੇ"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "ਖੋਲ੍ਹੇ ਗਏ"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "ਅਤੇ ਮਹਿਲ"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "ਪਿਘਲ ਗਿਆ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:18:05.470047102Z",
+  "model": "glm-5.2"
+}

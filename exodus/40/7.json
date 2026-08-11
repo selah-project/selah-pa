@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 40,
+  "translation": "ਅਤੇ ਤੂੰ ਹੌਜ਼ ਨੂੰ ਮੁਲਾਕਾਤ ਦੇ ਤੰਬੂ ਅਤੇ ਵੇਦੀ ਦੇ ਵਿਚਕਾਰ ਰੱਖ ⟨את⟩, ਅਤੇ ਤੂੰ ਉੱਥੇ ਪਾਣੀ ਪਾ।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ਅਤੇ ਤੂੰ ਰੱਖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਹੌਜ਼"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ਹੌਜ਼"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ਵਿਚਕਾਰ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ਤੰਬੂ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ਮੁਲਾਕਾਤ ਦੇ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ਅਤੇ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ਵੇਦੀ ਦੇ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ਅਤੇ ਤੂੰ ਪਾ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:29:42.595207194Z",
+  "model": "glm-5.2"
+}

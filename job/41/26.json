@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 41,
+  "translation": "⟨ਉਹ⟩ ⟨את⟩ ਹਰ ਉੱਚੇ ਨੂੰ ਵੇਖਦਾ ਹੈ; ਉਹ ਸਾਰੇ ਘਮੰਡੀਆਂ ਉੱਤੇ ਰਾਜਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਹਰ ਉੱਚੇ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ਉੱਚੇ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ਵੇਖਦਾ ਹੈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ ਹੈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "ਘਮੰਡ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:58:21.704123579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 52:2",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 52,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਯਾਹਵੇਹ ਦੀਆਂ ਅੱਖਾਂ ਵਿੱਚ ਉਹ ਬੁਰਾਈ ਕੀਤੀ ਜੋ ਯਹੋਯਾਕੀਮ ਨੇ ਕੀਤੀ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕੀਤੀ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ਅੱਖਾਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀਆਂ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ਜਿਵੇਂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕੀਤੀ ਸੀ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "ਯਹੋਯਾਕੀਮ ਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:40:48.726480403Z",
+  "model": "glm-5.2"
+}

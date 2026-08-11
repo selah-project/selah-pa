@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਅਹਰੋਨ ਦੇ ਮਰਨ ਵੇਲੇ ਹੋਰ ਪਹਾੜ ਉੱਤੇ ⟨ਉਸ ਦੀ ਉਮਰ⟩ ਸੌ ਅਤੇ ਤੇਰ੍ਹਾਂ ਅਤੇ ਵੀਹ ਸਾਲ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "ਅਤੇ ਅਹਰੋਨ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ਤਿੰਨ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ਅਤੇ ਵੀਹ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ਅਤੇ ਸੌ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "ਉਸ ਦੇ ਮਰਨ ਵੇਲੇ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ਪਹਾੜ ਉੱਤੇ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ਹੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:52.276244420Z",
+  "model": "glm-5.2"
+}

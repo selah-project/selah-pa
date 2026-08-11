@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਵੱਢੇ-ਕੁਚਾਏ ਜਾਂ ਕੱਟੇ-ਢੁਕਾਏ ਨਾ ਦਾਖ਼ਲ ਹੋਣ ਯਾਹਵੇਹ ਦੀ ਸਭਾ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ਦਾਖ਼ਲ ਹੋਣ"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ਵੱਢੇ-ਕੁਚਾਏ"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ਕੁਚਾਏ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ਜਾਂ ਕੱਟੇ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ਢੁਕਾਏ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ਸਭਾ ਵਿੱਚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:26.025371672Z",
+  "model": "glm-5.2"
+}

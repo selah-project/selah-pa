@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਸਾਰਾ ਨੇ ਕਿਹਾ, “ਹਾਸਾ ਮੇਰੇ ਲਈ ਬਣਾਇਆ ਹੈ ਏਲੋਹੀਮ ਨੇ; ਹਰ ਉਹ ਜੋ ਸੁਣੇਗਾ ਮੇਰੇ ਲਈ ਹੱਸੇਗਾ।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ਸਾਰਾ ਨੇ"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "ਹਾਸਾ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਬਣਾਇਆ ਹੈ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ ਨੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਉਹ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ਜੋ ਸੁਣੇਗਾ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ਹੱਸੇਗਾ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਮੇਰੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:52:01.951065471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਯਾਹਵੇਹ ਆਪਣਾ ਚਿਹਰਾ ਤੇਰੇ ਵੱਲ ਚਮਕਾਏ, ਅਤੇ ਤੈਨੂੰ ਖ਼ੇਸੇਦ ਕਰੇ।",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "ਚਮਕਾਏ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ਆਪਣਾ ਚਿਹਰਾ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੇਰੇ ਵੱਲ"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "ਅਤੇ ਤੈਨੂੰ ਖ਼ੇਸੇਦ ਕਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:48:57.272467587Z",
+  "model": "glm-5.2"
+}

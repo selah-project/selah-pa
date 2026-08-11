@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਖ਼ਾਮ ਦੇ ਪੁੱਤਰ: ਕੂਸ਼, ਮਿਤਸਰਾਯਿਮ, ਪੂਤ ਅਤੇ ਕਨਾਨ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ਖ਼ਾਮ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ਕੂਸ਼"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ਅਤੇ ਮਿਤਸਰਾਯਿਮ"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "ਪੂਤ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ਅਤੇ ਕਨਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:09.758909514Z",
+  "model": "glm-5.2"
+}

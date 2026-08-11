@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤਾਂ ਜਦੋਂ ਜੰਗ ਦੇ ਸਾਰੇ ਆਦਮੀ ਕੌਮ ਦੇ ਵਿਚਕਾਰੋਂ ਮਰ ਮੁੱਕੇ, ⟨ਇਉਂ ਹੋਇਆ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਉਂ ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਜਦੋਂ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ਮੁੱਕ ਗਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ਆਦਮੀ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ਜੰਗ ਦੇ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ਮਰਨ ਲਈ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ਵਿਚਕਾਰੋਂ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਕੌਮ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:07:51.231351945Z",
+  "model": "glm-5.2"
+}

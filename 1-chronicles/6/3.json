@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਕਹਾਤ ਦੇ ਪੁੱਤਰ: ਅਮਰਾਮ, ਯਿਤਸਹਾਰ, ਖੇਵਰੋਨ, ਅਤੇ ਊਜ਼ੀਏਲ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ਕਹਾਤ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ਅਮਰਾਮ"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ਅਤੇ ਯਿਤਸਹਾਰ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ਅਤੇ ਖੇਵਰੋਨ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ਅਤੇ ਊਜ਼ੀਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:56:49.731762778Z",
+  "model": "glm-5.2"
+}

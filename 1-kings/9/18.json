@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ⟨את⟩ ਬਾਲਤ ਅਤੇ ⟨את⟩ ਤਾਮਾਰ ਨੂੰ, ਉਜਾੜ ਵਿਚ, ਦੇਸ਼ ਵਿਚ ⟨।⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਬਾਲਤ"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "ਬਾਲਤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਤਾਮਾਰ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ਤਾਮਾਰ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ਉਜਾੜ ਵਿਚ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:24:55.551006990Z",
+  "model": "glm-5.2"
+}

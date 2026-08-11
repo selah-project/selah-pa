@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 55,
+  "translation": "ਮੈਂ ਏਲੋਹੀਮ ਨੂੰ ਪੁਕਾਰਾਂਗਾ, ਅਤੇ ਯਾਹਵੇਹ ਮੈਨੂੰ ਬਚਾਏਗਾ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ਪੁਕਾਰਾਂਗਾ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ਅਤੇ ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ਮੈਨੂੰ ਬਚਾਏਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:52:27.392343216Z",
+  "model": "glm-5.2"
+}

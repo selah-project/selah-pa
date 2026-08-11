@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਇਸਰਾਏਲ ਅਮੋਰੀ ਦੇ ਦੇਸ਼ ਵਿੱਚ ਵਸ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ਅਤੇ ਵਸ ਗਿਆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ਅਮੋਰੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:04.216363624Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਤਦ ਯਿੱਸਰਾਏਲ ਨੇ ⟨את⟩ ⟨ਇਹ⟩ ਗੀਤ ਗਾਇਆ: ਹੇ ਬੂਹੜ, ਚੜ੍ਹ ਆ; ⟨ਉਸ ਨੂੰ⟩ ਗਾਓ।",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "יָשִׁיר",
+      "gloss": "ਗਾਇਆ"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "ਯਿੱਸਰਾਏਲ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ਗੀਤ"
+    },
+    {
+      "surface": "הַשִּׁירָה",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "עֲלִי",
+      "gloss": "ਚੜ੍ਹ ਆ"
+    },
+    {
+      "surface": "בְאֵר",
+      "gloss": "ਬੂਹੜ"
+    },
+    {
+      "surface": "עֱנוּ",
+      "gloss": "ਗਾਓ"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "ਉਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:59:10.557103521Z",
+  "model": "glm-5.2"
+}

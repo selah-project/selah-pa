@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਬਰਕੋਸ ਦੇ ਪੁੱਤਰ, ਸੀਸਰਾ ਦੇ ਪੁੱਤਰ, ਤਮਾਖ ਦੇ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "ਬਰਕੋਸ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "ਸੀਸਰਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ਤਮਾਖ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:48.627851959Z",
+  "model": "glm-5.2"
+}

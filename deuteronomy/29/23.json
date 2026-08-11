@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਕਹਿਣਗੇ ਸਾਰੇ ਰਾਸ਼ਟਰ, ਕਿਉਂ ਯਾਹਵੇਹ ਨੇ ਇਸ ਧਰਤੀ ਨਾਲ ਅਜਿਹਾ ਕੀਤਾ? ਇਸ ਵੱਡੇ ਕ੍ਰੋਧ ਦੀ ਕੀ ਤਪਸ ਹੈ?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ਅਤੇ ਕਹਿਣਗੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ਰਾਸ਼ਟਰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕੀਤਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ਅਜਿਹਾ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ਧਰਤੀ ਨਾਲ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ਤਪਸ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ਕ੍ਰੋਧ ਦੀ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ਵੱਡੇ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:23:11.532485479Z",
+  "model": "glm-5.2"
+}

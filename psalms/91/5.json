@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 91,
+  "translation": "ਤੂੰ ਰਾਤ ਦੇ ਡਰ ਤੋਂ ਨਹੀਂ ਤ੍ਰਸੇਂਗਾ, ਦਿਨ ਵੇਲੇ ਉੱਡਣ ਵਾਲੇ ਤੀਰ ਤੋਂ ⟨ਵੀ ਨਹੀਂ⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ਤੂੰ ਤ੍ਰਸੇਂਗਾ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ਡਰ ਤੋਂ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ਰਾਤ ਦੇ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ਤੀਰ ਤੋਂ"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ਉੱਡਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ਦਿਨ ਵੇਲੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:04:36.438867435Z",
+  "model": "glm-5.2"
+}

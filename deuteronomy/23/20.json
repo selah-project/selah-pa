@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਆਪਣੇ ਭਰਾ ਨੂੰ ਬਿਆਜ ਨਾ ਲਗਾਉਣਾ — ਚਾਂਦੀ ਦਾ ਬਿਆਜ, ਭੋਜਨ ਦਾ ਬਿਆਜ, ਹਰ ਉਸ ਚੀਜ਼ ਦਾ ਬਿਆਜ ਜੋ ਬਿਆਜ ਉੱਤੇ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ਬਿਆਜ ਲਗਾਉਣਾ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ਆਪਣੇ ਭਰਾ ਨੂੰ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ਬਿਆਜ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ਚਾਂਦੀ ਦਾ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ਬਿਆਜ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ਭੋਜਨ ਦਾ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ਬਿਆਜ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਉਸ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਚੀਜ਼ ਦਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ਬਿਆਜ ਉੱਤੇ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:20:29.540868971Z",
+  "model": "glm-5.2"
+}

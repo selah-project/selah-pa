@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਭਾਵੇਂ ਮੈਂ ਚੀਕਾਂ ਅਤੇ ਫ਼ਰਿਆਦ ਕਰਾਂ, ⟨ਉਸ ਨੇ⟩ ਮੇਰੀ ਅਰਦਾਸ ਬੰਦ ਕਰ ਦਿੱਤੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਭਾਵੇਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਵੀ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ਮੈਂ ਚੀਕਾਂ"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ਅਤੇ ਫ਼ਰਿਆਦ ਕਰਾਂ"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "⟨ਉਸ ਨੇ⟩ ਬੰਦ ਕਰ ਦਿੱਤੀ ਹੈ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ਮੇਰੀ ਅਰਦਾਸ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:27.972745714Z",
+  "model": "glm-5.2"
+}

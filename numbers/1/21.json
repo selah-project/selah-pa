@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ ਰਊਬੇਨ ਦੇ ਕਬੀਲੇ ਲਈ ਛਿਆਲਵੀਂ ਹਜ਼ਾਰ ਅਤੇ ਪੰਜ ਸੌ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ਕਬੀਲੇ ਲਈ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ਰਊਬੇਨ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ਛੇ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ਅਤੇ ਚਾਲੀ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:54.473949120Z",
+  "model": "glm-5.2"
+}

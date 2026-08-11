@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਜਲਦੀ ਕਰ, ਉੱਥੇ ਬਚ ਕੇ ਭੱਜ; ਕਿਉਂਕਿ ਤੇਰੇ ਉੱਥੇ ਪਹੁੰਚਣ ਤੱਕ ਮੈਂ ਕੋਈ ਗੱਲ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਇਸੇ ਲਈ ਉਸ ਸ਼ਹਿਰ ਦਾ ਨਾਮ ਤਸੋਅਰ ਪਿਆ।",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "ਜਲਦੀ ਕਰ"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "ਬਚ ਕੇ ਭੱਜ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ਮੈਂ ਸਕਦਾ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ਕਰਨ ਲਈ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕੋਈ ਗੱਲ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ਤੇਰੇ ਪਹੁੰਚਣ ਦੇ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ਉੱਥੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਸੇ ਲਈ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ਪਿਆ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਨਾਮ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ਉਸ ਸ਼ਹਿਰ ਦਾ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ਤਸੋਅਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:51:28.706135841Z",
+  "model": "glm-5.2"
+}

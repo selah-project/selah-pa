@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 42,
+  "translation": "ਅਤੇ ਦਸ ਦਿਨਾਂ ਦੇ ਅੰਤ ਵਿੱਚ ਯਾਹਵੇਹ ਦਾ ਯਿਰਮਿਯਾਹੂ ਕੋਲ ਆਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ਦੇ ਅੰਤ ਵਿੱਚ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ਦਸ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨਾਂ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਦਾ ਬਚਨ\/ਗੱਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ਯਿਰਮਿਯਾਹੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:34:42.734948154Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਰਤਸੀਨ ਦੇ ਪੁੱਤਰ, ਨਕੋਦਾ ਦੇ ਪੁੱਤਰ, ਗਜ਼ਾਮ ਦੇ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ਰਤਸੀਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ਨਕੋਦਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ਗਜ਼ਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:32.594847281Z",
+  "model": "glm-5.2"
+}

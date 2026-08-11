@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਅਤੇ ਅੱਠਵੇਂ ਦਿਨ ⟨ਉਸਦੇ⟩ ਖਤਨੇ ਦੇ ਮਾਸ ਦਾ ਖਤਨਾ ਕੀਤਾ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ਅਤੇ ⟨ਉਸ⟩ ਦਿਨ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ਅੱਠਵੇਂ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ਖਤਨਾ ਕੀਤਾ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ਦੇ ਮਾਸ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ਖਤਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:50.882470162Z",
+  "model": "glm-5.2"
+}

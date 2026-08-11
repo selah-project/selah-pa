@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਉਸ ਦੀ ਭੈਣ ਦੂਰ ਖੜ੍ਹੀ ਰਹੀ, ਇਹ ਜਾਣਨ ਲਈ ਕਿ ਉਸ ਦੇ ਨਾਲ ਕੀ ਕੀਤਾ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ਅਤੇ ਖੜ੍ਹੀ ਰਹੀ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ਉਸ ਦੀ ਭੈਣ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ਦੂਰ"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ਜਾਣਨ ਲਈ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕਿ ਕੀ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ਕੀਤਾ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਦੇ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:10:25.394346863Z",
+  "model": "glm-5.2"
+}

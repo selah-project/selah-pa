@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 28:26",
+  "book": "job",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਮੀਂਹ ਲਈ ਹੁਕਮ ਕਾਇਮ ਕਰਨ ਵੇਲੇ, ਅਤੇ ਗਰਜ ਦੀ ਆਵਾਜ਼ ਲਈ ਰਾਹ।",
+  "tokens": [
+    {
+      "surface": "בעשתו",
+      "gloss": "ਉਸ ਦੇ ਕਰਨ ਵੇਲੇ"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ਮੀਂਹ ਲਈ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ਹੁਕਮ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ਅਤੇ ਰਾਹ"
+    },
+    {
+      "surface": "לחזיז",
+      "gloss": "ਗਰਜ ਲਈ"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "ਆਵਾਜ਼"
+    }
+  ],
+  "timestamp": "2026-08-11T01:51:05.121338490Z",
+  "model": "glm-5.2"
+}

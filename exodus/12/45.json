@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਟਾਕੀਆ ਵਸਨੀਕ ਅਤੇ ਮਜ਼ਦੂਰ ⟨ਇਸ⟩ ਵਿੱਚੋਂ ਨਹੀਂ ਖਾਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "ਟਾਕੀਆ ਵਸਨੀਕ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ਅਤੇ ਮਜ਼ਦੂਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ਖਾਣਗੇ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ਇਸ⟩ ਵਿੱਚੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:15:31.134265062Z",
+  "model": "glm-5.2"
+}

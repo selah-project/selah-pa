@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 36,
+  "translation": "ਅਤੇ ਇਹ ਸ਼ੋਬਾਲ ਦੇ ਪੁੱਤਰ ਸਨ: ਅਲਵਾਨ, ਅਤੇ ਮਨਾਹਤ, ਅਤੇ ਏਵਾਲ, ਸ਼ੇਫੋ ਅਤੇ ਓਨਾਮ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ਅਤੇ ਇਹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ਸ਼ੋਬਾਲ ਦੇ"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "ਅਲਵਾਨ"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "ਅਤੇ ਮਨਾਹਤ"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "ਅਤੇ ਏਵਾਲ"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "ਸ਼ੇਫੋ"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ਅਤੇ ਓਨਾਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:01:43.582451370Z",
+  "model": "glm-5.2"
+}

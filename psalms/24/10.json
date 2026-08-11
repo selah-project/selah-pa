@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਕੌਣ ਹੈ ⟨ਇਹ⟩ ⟨ਕਿ⟩ ਪ੍ਰਤਾਪ ਦਾ ਰਾਜਾ? ਯਾਹਵੇਹ ਸੈਨਾਵਾਂ ਦਾ — ⟨ਉਹੀ⟩ ਪ੍ਰਤਾਪ ਦਾ ਰਾਜਾ ਹੈ। ਸੇਲਾਹ।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਇਹ⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ਕਿ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ਪ੍ਰਤਾਪ ਦਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ਸੈਨਾਵਾਂ ਦਾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਉਹੀ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ਪ੍ਰਤਾਪ ਦਾ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ਸੇਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:34:33.856720134Z",
+  "model": "glm-5.2"
+}

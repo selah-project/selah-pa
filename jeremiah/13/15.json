@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਸੁਣੋ ਅਤੇ ਕੰਨ ਧਰੋ, ਘਮੰਡ ਨਾ ਕਰੋ, ਕਿਉਂਕਿ ਯਾਹਵੇਹ ਨੇ ਬੋਲਿਆ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ਸੁਣੋ"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ਅਤੇ ਕੰਨ ਧਰੋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ਘਮੰਡ ਕਰੋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬੋਲਿਆ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:20:19.451178332Z",
+  "model": "glm-5.2"
+}

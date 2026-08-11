@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 51,
+  "translation": "ਬਾਬਿਲ ਉੱਤੇ ਸਮੁੰਦਰ ਚੜ੍ਹ ਆਇਆ ਹੈ; ਆਪਣੇ ਲਹਿਰਾਂ ਦੇ ਹੰਭੇ ਨਾਲ ਉਹ ਢੱਕੀ ਗਈ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ਚੜ੍ਹ ਆਇਆ ਹੈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ਬਾਬਿਲ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ਹੰਭੇ ਨਾਲ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ਆਪਣੇ ਲਹਿਰਾਂ ਦੇ"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ਢੱਕੀ ਗਈ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:39:37.672716473Z",
+  "model": "glm-5.2"
+}

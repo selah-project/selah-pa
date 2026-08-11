@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਦੋ ਦੋ, ਨੋਹਾਹ ਕੋਲ, ਤੇਬਾ ਵਿੱਚ ਆਏ, ਨਰ ਅਤੇ ਮਾਦਾ, ਜਿਵੇਂ ਏਲੋਹੀਮ ਨੇ ⟨את⟩ ਨੋਹਾਹ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ਆਏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੋਹਾਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵਿੱਚ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ਤੇਬਾ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ਨਰ"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ਅਤੇ ਮਾਦਾ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ਜਿਵੇਂ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ਹੁਕਮ ਦਿੱਤਾ ਸੀ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨੋਹਾਹ ਨੂੰ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ਨੋਹਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:46:24.724815270Z",
+  "model": "glm-5.2"
+}

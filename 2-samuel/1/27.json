@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਅਕਾਂ ਗਿਰੇ ਬਹਾਦਰ ਅਤੇ ਲੜਾਈ ਦੇ ਹਥਿਆਰ ਨਸ਼ਟ ਹੋ ਗਏ!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ਅਕਾਂ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ਗਿਰੇ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "ਬਹਾਦਰ"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ਅਤੇ ਨਸ਼ਟ ਹੋ ਗਏ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ਹਥਿਆਰ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ਲੜਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:06:26.029797784Z",
+  "model": "glm-5.2"
+}

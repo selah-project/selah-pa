@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 40,
+  "translation": "ਮੰਡਲ-ਮੁਖੀ ਲਈ, ਦਾਵਿਦ ਦਾ, ⟨ਇੱਕ⟩ ਜ਼ਬੂਰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ਮੰਡਲ-ਮੁਖੀ ਲਈ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ਦਾਵਿਦ ਦਾ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:43:39.359970662Z",
+  "model": "glm-5.2"
+}

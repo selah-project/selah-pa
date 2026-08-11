@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 71,
+  "translation": "ਮੈਨੂੰ ਬੁਢਾਪੇ ਦੇ ਸਮੇਂ ਨਾ ਸੁੱਟ; ਜਦੋਂ ਮੇਰਾ ਬਲ ਮੁੱਕ ਜਾਵੇ ਤਾਂ ਮੈਨੂੰ ਨਾ ਛੱਡ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ਮੈਨੂੰ ਸੁੱਟ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ਸਮੇਂ"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ਬੁਢਾਪੇ ਦੇ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ਜਦੋਂ ਮੁੱਕ ਜਾਵੇ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ਮੇਰਾ ਬਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ਮੈਨੂੰ ਛੱਡ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:56:47.809492221Z",
+  "model": "glm-5.2"
+}

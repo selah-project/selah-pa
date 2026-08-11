@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਫ਼ਰਓਸ਼ ਦੇ ਪੁੱਤਰ, ਦੋ ਹਜ਼ਾਰ ਇੱਕ ਸੌ ਅਤੇ ਸੱਤਰ ਅਤੇ ਦੋ;",
+  "tokens": [
+    {
+      "surface": "ਬני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ਫ਼ਰਓਸ਼ ਦੇ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਦੋ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ਅਤੇ ਸੱਤਰ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:45:02.796331945Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਤੇਰੇ ਮਲ੍ਹਾਂ ਵਾਲਿਆਂ ਦੀ ਚੀਕ ਦੀ ਆਵਾਜ਼ ਨਾਲ ਮੈਦਾਨ ਹਿੱਲਣਗੇ।",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "ਦੀ ਆਵਾਜ਼ ਨਾਲ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "ਚੀਕ"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "ਤੇਰੇ ਮਲ੍ਹਾਂ ਵਾਲਿਆਂ ਦੀ"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ਹਿੱਲਣਗੇ"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "ਮੈਦਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:54:58.839169838Z",
+  "model": "glm-5.2"
+}

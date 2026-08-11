@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ⟨את⟩ ਖਿੱਤੀ, ਅਤੇ ⟨את⟩ ਪਰਿਜ਼ੀ, ਅਤੇ ⟨את⟩ ਰਫ਼ਾਈਮ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਖਿੱਤੀ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ਖਿੱਤੀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਪਰਿਜ਼ੀ"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ਪਰਿਜ਼ੀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਰਫ਼ਾਈਮ"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ਰਫ਼ਾਈਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:49:53.319584723Z",
+  "model": "glm-5.2"
+}

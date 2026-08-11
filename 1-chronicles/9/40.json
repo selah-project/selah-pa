@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਯਹੋਨਾਤਨ ਦੇ ਪੁੱਤਰ ⟨ਸਨ⟩ ਮਰੀਬ-ਬਾਲ, ਅਤੇ ਮਰੀ-ਬਾਲ ਨੇ ⟨את⟩ ਮੀਕਾ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ਯਹੋਨਾਤਨ ਦੇ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ਮਰੀਬ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ਬਾਲ"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ਅਤੇ ਮਰੀ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ਬਾਲ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੀਕਾ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ਮੀਕਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:01:08.417048170Z",
+  "model": "glm-5.2"
+}

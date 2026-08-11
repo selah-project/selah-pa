@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਅਤੇ ਤੋਉ ਨੇ, ਚਮਤ ਦੇ ਰਾਜੇ ਨੇ, ਸੁਣਿਆ ਕਿ ਦਾਵਿਦ ਨੇ ਹਦਦਏਜ਼ਰ, ਤਸੋਬਾ ਦੇ ਰਾਜੇ ਦੇ ਸਾਰੇ ਲਸ਼ਕਰ ਨੂੰ ਮਾਰਿਆ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ਅਤੇ ਸੁਣਿਆ"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ਤੋਉ ਨੇ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ ਨੇ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ਚਮਤ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ਮਾਰਿਆ ਸੀ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ਦਾਵਿਦ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ ਲਸ਼ਕਰ ਨੂੰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਲਸ਼ਕਰ ਨੂੰ"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ਹਦਦਏਜ਼ਰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ ਦੇ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ਤਸੋਬਾ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:08:21.505139280Z",
+  "model": "glm-5.2"
+}

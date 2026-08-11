@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਯਹੂਆ ਹਨਾਨੀ ਦੇ ਪੁੱਤਰ ਵੱਲ ਬਾਸ਼ਾ ਵਿਰੁੱਧ ⟨ਆਇਆ⟩, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਹੋਇਆ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ਯਹੂਆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ਹਨਾਨੀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵਿਰੁੱਧ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ਬਾਸ਼ਾ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:29:32.351878048Z",
+  "model": "glm-5.2"
+}

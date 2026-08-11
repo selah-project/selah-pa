@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਰਉ ਨੇ ਜੀਵਿਆ ਦੋ ਅਤੇ ਤੀਹ ਸਾਲ, ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਸਰੂਗ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਵਿਆ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ਰਉ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ਅਤੇ ਤੀਹ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਰੂਗ ਨੂੰ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ਸਰੂਗ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:26.671442899Z",
+  "model": "glm-5.2"
+}

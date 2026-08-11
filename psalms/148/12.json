@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 148,
+  "translation": "ਨੌਜਵਾਨ ਅਤੇ ਨਾਲ ਹੀ ਕੁਆਰੀਆਂ, ਬਜ਼ੁਰਗ ਨੌਜਵਾਨਾਂ ਸਣੇ,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ਨੌਜਵਾਨ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ਅਤੇ ਨਾਲ ਹੀ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ਕੁਆਰੀਆਂ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ਬਜ਼ੁਰਗ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਸਣੇ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ਨੌਜਵਾਨਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:19:20.416739965Z",
+  "model": "glm-5.2"
+}

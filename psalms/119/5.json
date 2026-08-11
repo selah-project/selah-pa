@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਕਾਸ਼ ਕਿ ਮੇਰੇ ਮਾਰਗ ਟਿਕ ਜਾਣ ⟨ਕਿ⟩ ਮੈਂ ਤੇਰੇ ਨਿਯਮ ਰੱਖਾਂ!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ਕਾਸ਼ ਕਿ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ਟਿਕ ਜਾਣ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ਮੇਰੇ ਮਾਰਗ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "⟨ਕਿ⟩ ਮੈਂ ਰੱਖਾਂ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ਤੇਰੇ ਨਿਯਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:12:10.503198378Z",
+  "model": "glm-5.2"
+}

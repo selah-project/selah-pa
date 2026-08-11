@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਅਖੀਨਾਦਾਬ ਇਦੋ ਦਾ ਪੁੱਤਰ, ਮਖਾਨਾਯਿਮ ਵਿੱਚ ⟨ਸੀ⟩।",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "ਅਖੀਨਾਦਾਬ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "ਇਦੋ ਦਾ"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "ਮਖਾਨਾਯਿਮ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:20:24.827145719Z",
+  "model": "glm-5.2"
+}

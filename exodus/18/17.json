@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤਾਂ ਮੋਸ਼ੇ ਦੇ ਸਹੁਰੇ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, \"ਜੋ ਕੰਮ ਤੂੰ ਕਰ ਰਿਹਾ ਹੈਂ ਉਹ ਚੰਗਾ ਨਹੀਂ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਹਿਆ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ਸਹੁਰੇ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਦੇ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ਕਰ ਰਿਹਾ ਹੈਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:18:35.542018126Z",
+  "model": "glm-5.2"
+}

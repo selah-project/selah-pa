@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 49,
+  "translation": "ਤੇਰੇ ਮੁਕਤੀ ਲਈ ਮੈਂ ਉਡੀਕ ਕਰਦਾ ਹਾਂ, ਯਾਹਵੇਹ!",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "ਤੇਰੇ ਮੁਕਤੀ ਲਈ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ਮੈਂ ਉਡੀਕ ਕਰਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:08:48.093252744Z",
+  "model": "glm-5.2"
+}

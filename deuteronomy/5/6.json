@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਮੈਂ ਯਾਹਵੇਹ ਤੇਰਾ ਏਲੋਹੀਮ ਹਾਂ, ਜਿਸ ਨੇ ਤੈਨੂੰ ਮਿਤਸਰਾਯਿਮ ਦੇਸ਼ ਤੋਂ, ਗੁਲਾਮੀ ਦੇ ਘਰ ਤੋਂ ਕੱਢਿਆ।",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਤੇਰਾ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਨੇ"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ਤੈਨੂੰ ਕੱਢਿਆ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ਦੇਸ਼ ਤੋਂ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ਮਿਤਸਰਾਯਿਮ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ਘਰ ਤੋਂ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ਗੁਲਾਮੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:45.205687306Z",
+  "model": "glm-5.2"
+}

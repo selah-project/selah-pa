@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਖੋਤੇ ਤੀਹ ਹਜ਼ਾਰ ਅਤੇ ਪੰਜ ਸੌ,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ਅਤੇ ਖੋਤੇ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ਤੀਹ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:03:51.490442928Z",
+  "model": "glm-5.2"
+}

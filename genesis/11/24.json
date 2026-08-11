@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਨਾਹੋਰ ਨੇ ਉਨੀ ਸਾਲ ਅਤੇ ਨੌਂ ਜ਼ਿੰਦਾ ਰਿਹਾ, ਅਤੇ ⟨ਉਸ ਨੇ⟩ ⟨את⟩ ਤੇਰਹ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ ਜੀਵਿਆ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ਨਾਹੋਰ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ਨੌਂ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ਅਤੇ ਉਨੀ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਤੇਰਹ ਨੂੰ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ਤੇਰਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:48:21.016683355Z",
+  "model": "glm-5.2"
+}

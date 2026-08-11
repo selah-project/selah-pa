@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 75,
+  "translation": "ਆਪਣਾ ਸਿੰਗ ਬੁਲੰਦੀ ਵੱਲ ਨਾ ਚੁੱਕੋ; ਧਿਕਾਰ ਨਾਲ ਤੁਰੀ ਵਾਲੀ ਗੱਲ ਨਾ ਕਰੋ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ਪרימו",
+      "gloss": "ਚੁੱਕੋ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ਬੁਲੰਦੀ ਵੱਲ"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ਆਪਣਾ ਸਿੰਗ"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ਗੱਲ ਕਰੋ"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ਤੁਰੀ ਨਾਲ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ਧਿਕਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:59:27.054546140Z",
+  "model": "glm-5.2"
+}

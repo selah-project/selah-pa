@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 35,
+  "translation": "ਅਤੇ ਯਾਕੋਬ ਲੂਜ਼ ਵਿਖੇ ਆਇਆ ਜੋ ਕਨਾਨ ਦੇ ਦੇਸ਼ ਵਿੱਚ ਹੈ, ⟨ਉਹੀ⟩ ਬੇਇਤ-ਏਲ ਹੈ, ਉਹ ਅਤੇ ਸਾਰਾ ਲੋਕ ਜੋ ਉਸ ਦੇ ਨਾਲ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਇਆ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ਯਾਕੋਬ"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "ਲੂਜ਼ ਵਿਖੇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ਦੇ ਦੇਸ਼ ਵਿੱਚ"
+    },
+    {
+      "surface": "ਛנען",
+      "gloss": "ਕਨਾਨ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਉਹੀ⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ਬੇਇਤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ਏਲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟹ ਹੈ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਉਹ ਅਤੇ ਸਾਰਾ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ਉਸ ਦੇ ਨਾਲ ਸੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:00:41.738148500Z",
+  "model": "glm-5.2"
+}

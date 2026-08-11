@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ⟨ਉਸ⟩ ਨੌਜਵਾਨ ਨੂੰ ਕੁਝ ਵੀ ਨਹੀਂ ਪਤਾ ਸੀ, ਸਿਰਫ਼ ਯਹੋਨਤਨ ਅਤੇ ਦਾਊਦ ਨੂੰ ⟨את⟩ ਗੱਲ ਪਤਾ ਸੀ।",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "ਅਤੇ ਨੌਜਵਾਨ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ਪਤਾ ਸੀ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ਕੁਝ ਵੀ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ਸਿਰਫ਼"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ਯਹੋਨਤਨ"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ਅਤੇ ਦਾਊਦ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ਪਤਾ ਸੀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਗੱਲ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ਗੱਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:01:22.926570273Z",
+  "model": "glm-5.2"
+}

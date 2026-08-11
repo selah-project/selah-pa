@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਤੇਰੀ ਧਰਮੀਤਾ ਧਰਮ ⟨ਹੈ⟩ ਸਦਾ ਲਈ, ਅਤੇ ਤੇਰੀ ਤੋਰਾਹ ਸੱਚ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ਤੇਰੀ ਧਰਮੀਤਾ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ਧਰਮ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ਸਦਾ ਲਈ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ਅਤੇ ਤੇਰੀ ਤੋਰਾਹ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ਸੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:14:08.180259832Z",
+  "model": "glm-5.2"
+}

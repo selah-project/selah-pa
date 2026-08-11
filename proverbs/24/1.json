@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਬੁਰੇ ਲੋਕਾਂ ਤੋਂ ਈਰਖਾ ਨਾ ਕਰ, ਅਤੇ ⟨את⟩ ਉਹਨਾਂ ਨਾਲ ਹੋਣਾ ਨਾ ਚਾਹ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ਈਰਖਾ ਕਰ"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ਲੋਕਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ਬੁਰੇ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ਚਾਹ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ਹੋਣਾ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ਉਹਨਾਂ ਨਾਲ",
+      "marks": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T01:33:08.077328414Z",
+  "model": "glm-5.2"
+}

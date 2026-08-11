@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਊਰੀਯਾਹ ⟨ਜਾਂਦਾ ਹੈ⟩ ਹਿੱਤੀ; ਸਾਰੇ ਤੀਹ ਅਤੇ ਸੱਤ।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ਊਰੀਯਾਹ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ਹਿੱਤੀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ਤੀਹ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ਅਤੇ ਸੱਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:17:59.481104161Z",
+  "model": "glm-5.2"
+}

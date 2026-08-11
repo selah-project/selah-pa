@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "haggai 2:20",
+  "book": "haggai",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਬਚਨ ਦੂਜੀ ਵਾਰ ਚਗਈ ਨੂੰ ਮਹੀਨੇ ਦੇ ਚੌਵੀਂ ਦਿਨ ਆਇਆ, ਕਹਿੰਦੇ ਹੋਏ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਇਹ⟩ ਹੋਇਆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ਦੂਜੀ ਵਾਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ਚਗਈ"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "ਚੌਵੀਂ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ਅਤੇ ਚਾਰ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ਮਹੀਨੇ ਦੇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:21:13.427002031Z",
+  "model": "glm-5.2"
+}

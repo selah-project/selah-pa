@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਜਾਂ ਤਾਣੇ ਵਿੱਚ ਜਾਂ ਪੇਟੇ ਵਿੱਚ, ਸਣ ਲਈ ਜਾਂ ਊਨ ਲਈ, ਜਾਂ ਚਮੜੇ ਵਿੱਚ ਜਾਂ ਚਮੜੇ ਦੀ ਕਿਸੇ ਵੀ ਬਣਤਰ ਵਿੱਚ —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ਤਾਣੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ਪੇਟੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "ਸਣ ਲਈ"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "ਜਾਂ ਊਨ ਲਈ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ਚਮੜੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ਜਾਂ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਕਿਸੇ ਵੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ਬਣਤਰ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ਚਮੜੇ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:54.623478280Z",
+  "model": "glm-5.2"
+}

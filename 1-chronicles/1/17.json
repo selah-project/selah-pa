@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸ਼ੇਮ ਦੇ ਪੁੱਤਰ — ਏਲਾਮ, ਅਸ਼ੂਰ, ਅਰਪਖਸ਼ਦ, ਲੂਦ ਅਤੇ ਅਰਾਮ; ਅਤੇ ਊਤਸ, ਖੂਲ, ਗਤੇਰ ਅਤੇ ਮਸ਼ੇਖ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ਸ਼ੇਮ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ਏਲਾਮ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ਅਤੇ ਅਸ਼ੂਰ"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ਅਤੇ ਅਰਪਖਸ਼ਦ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ਅਤੇ ਲੂਦ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ਅਤੇ ਅਰਾਮ"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "ਅਤੇ ਊਤਸ"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ਅਤੇ ਖੂਲ"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ਅਤੇ ਗਤੇਰ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ਅਤੇ ਮਸ਼ੇਖ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:26.945150510Z",
+  "model": "glm-5.2"
+}

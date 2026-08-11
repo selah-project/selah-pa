@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਕੋਹਨੀਆਂ ਵਿੱਚੋਂ ਹਰ ਇੱਕ ਨਰ ਉਸ ਨੂੰ ਖਾਵੇ; ਉਹ ਪਵਿੱਤਰ-ਪਵਿੱਤਰਾਂ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਇੱਕ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ਨਰ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ਕੋਹਨੀਆਂ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ਖਾਵੇ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ਪਵਿੱਤਰਾਂ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ ⟨ਹੈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T20:31:48.697098733Z",
+  "model": "glm-5.2"
+}

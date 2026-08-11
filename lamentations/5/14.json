@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਬਜ਼ੁਰਗਾਂ ਨੇ ਗੁਆਚ ਤੋਂ ਵਿਰਾਮ ਕੀਤਾ, ਜੁਆਨਾਂ ਨੇ ⟨ਆਪਣੀ⟩ ਸੰਗੀਤ-ਵਾਦਨ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "ਬਜ਼ੁਰਗਾਂ ਨੇ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ਗੁਆਚ ਤੋਂ"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ਵਿਰਾਮ ਕੀਤਾ"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ਜੁਆਨਾਂ ਨੇ"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "⟨ਆਪਣੀ⟩ ਸੰਗੀਤ-ਵਾਦਨ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:22.705984098Z",
+  "model": "glm-5.2"
+}

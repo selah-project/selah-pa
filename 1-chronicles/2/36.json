@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਅੱਤਾਈ ਨੇ ⟨את⟩ ਨਾਤਨ ਨੂੰ ਜਨਮ ਦਿੱਤਾ, ਅਤੇ ਨਾਤਨ ਨੇ ⟨את⟩ ਜ਼ਾਬਾਦ ਨੂੰ ਜਨਮ ਦਿੱਤਾ।",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "ਅਤੇ ਅੱਤਾਈ ਨੇ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨਾਤਨ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਨਾਤਨ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ਅਤੇ ਨਾਤਨ ਨੇ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜਨਮ ਦਿੱਤਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜ਼ਾਬਾਦ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ਜ਼ਾਬਾਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:04.923716096Z",
+  "model": "glm-5.2"
+}

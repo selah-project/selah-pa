@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਇੱਕ ਨਿਕੰਮਾ ਮਨੁੱਖ, ਦੁਸ਼ਟ ਮਰਦ, ਟੇਢੇ ਮੂੰਹ ਨਾਲ ਤੁਰਦਾ ਹੈ;",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ਨਿਕੰਮਾ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਰਦ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ਦੁਸ਼ਟ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ਤੁਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ਟੇਢੇ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ਮੂੰਹ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:22:29.422085539Z",
+  "model": "glm-5.2"
+}

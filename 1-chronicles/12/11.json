@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਮਿਸ਼ਮੰਨਾਹ ਚੌਥਾ, ਯਿਰਮਯਾਹ ਪੰਜਵਾਂ।",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "ਮਿਸ਼ਮੰਨਾਹ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ਚੌਥਾ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ਯਿਰਮਯਾਹ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ਪੰਜਵਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:02:07.367198096Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਸੱਤ ਦਿਨ ਪੂਰੇ ਹੋਏ, ਯਾਹਵੇਹ ਦੇ ⟨את⟩ ਨਦੀ ਨੂੰ ਮਾਰਨ ਦੇ ਬਾਅਦ।",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ਅਤੇ ਪੂਰੇ ਹੋਏ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ਦੇ ਬਾਅਦ"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ਮਾਰਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਨਦੀ ਨੂੰ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ਨਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:13:24.260426728Z",
+  "model": "glm-5.2"
+}

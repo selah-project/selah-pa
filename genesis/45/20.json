@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 45,
+  "translation": "ਅਤੇ ਤੁਹਾਡੀ ਅੱਖ ਆਪਣੇ ਸਾਮਾਨ ਉੱਤੇ ਨਾ ਤਰਸੇ, ਕਿਉਂਕਿ ਮਿਤਸਰਾਯਿਮ ਦੇ ਸਾਰੇ ਦੇਸ਼ ਦਾ ਚੰਗਾ ਤੁਹਾਡਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "ਅਤੇ ਤੁਹਾਡੀ ਅੱਖ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "ਤਰਸੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "ਆਪਣੇ ਸਾਮਾਨ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਦੇਸ਼ ਦਾ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ਮਿਤਸਰਾਯਿਮ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡਾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:07:19.580470140Z",
+  "model": "glm-5.2"
+}

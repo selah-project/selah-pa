@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 83,
+  "translation": "ਏਦੋਮ ਦੇ ਖੰਭੇ ਅਤੇ ਯਿਸ਼ਮਾਏਲੀ, ਮੋਆਬ ਅਤੇ ਹਾਗਰੀ,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "ਖੰਭੇ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ ਦੇ"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ਅਤੇ ਯਿਸ਼ਮਾਏਲੀ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ਅਤੇ ਹਾਗਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:01:45.818578325Z",
+  "model": "glm-5.2"
+}

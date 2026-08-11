@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਹਨਾਂ ਤੋਂ ਨਾ ਡਰ, ਕਿਉਂਕਿ ⟨את⟩ ਮੈਂ ਤੇਰੇ ਨਾਲ ਹਾਂ ਤੈਨੂੰ ਬਚਾਉਣ ਲਈ, ਯਾਹਵੇਹ ਦਾ ਕਥਨ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ਤੂੰ ਡਰ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ਉਹਨਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ਤੇਰੇ ਨਾਲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "ਤੈਨੂੰ ਬਚਾਉਣ ਲਈ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ਕਥਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:13:44.782693265Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਤੂੰ ਉਸ ਨੂੰ ਡੰਡੇ ਨਾਲ ਮਾਰੇਂਗਾ, ਅਤੇ ਉਸ ਦੀ ਜਾਨ ਨੂੰ ਸ਼ਿਓਲ ਤੋਂ ਛਡਾਏਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ਡੰਡੇ ਨਾਲ"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ਉਸ ਨੂੰ ਮਾਰੇਂਗਾ"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ਅਤੇ ਉਸ ਦੀ ਜਾਨ"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "ਸ਼ਿਓਲ ਤੋਂ"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ਛਡਾਏਂਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:42.701469242Z",
+  "model": "glm-5.2"
+}

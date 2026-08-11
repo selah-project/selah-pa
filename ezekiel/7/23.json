@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਜ਼ੰਜੀਰ ਬਣਾਓ, ਕਿਉਂਕਿ ਧਰਤੀ ਖੂਨ ਦੇ ਨਿਆਂ ਨਾਲ ਭਰੀ ਹੋਈ ਹੈ, ਅਤੇ ਨਗਰ ਹਿੰਸਾ ਨਾਲ ਭਰੀ ਹੋਈ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ਬਣਾਓ"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "ਜ਼ੰਜੀਰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ਭਰੀ ਹੋਈ ਹੈ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ਨਿਆਂ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ਖੂਨ ਦੇ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ਅਤੇ ਨਗਰ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ਭਰੀ ਹੋਈ ਹੈ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ਹਿੰਸਾ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:42:04.392001138Z",
+  "model": "glm-5.2"
+}

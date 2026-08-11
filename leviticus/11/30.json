@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਅਤੇ ਗਿਰਗਿਟ, ਅਤੇ ਗਿਰਗਿਟ-ਗੋਹ, ਅਤੇ ਛਿਪਕਲੀ, ਅਤੇ ਘੋਗ, ਅਤੇ ਮੋਲ;",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ਅਤੇ ਗਿਰਗਿਟ"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ਅਤੇ ਗਿਰਗਿਟ-ਗੋਹ"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ਅਤੇ ਛਿਪਕਲੀ"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ਅਤੇ ਘੋਗ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ਅਤੇ ਮੋਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:21.915694587Z",
+  "model": "glm-5.2"
+}

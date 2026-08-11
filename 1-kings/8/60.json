@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਤਾਂ ਜੋ ਧਰਤੀ ਦੇ ਸਾਰੇ ਲੋਕ ਜਾਣਣ ਕਿ ਯਾਹਵੇਹ ⟨ਹੀ⟩ ਏਲੋਹੀਮ ਹੈ, ⟨ਉਸ ਤੋਂ ਬਿਨਾਂ⟩ ਹੋਰ ਕੋਈ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ਤਾਂ ਜੋ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ਜਾਣਣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ਲੋਕ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ਹੀ⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ ਹੈ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ਹੋਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:24:28.017199018Z",
+  "model": "glm-5.2"
+}

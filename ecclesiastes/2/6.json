@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਮੈਂ ਆਪਣੇ ਲਈ ਪਾਣੀ ਦੇ ਤਲਾਬ ਬਣਾਏ, ਉਹਨਾਂ ਤੋਂ ਰੁੱਖਾਂ ਨੂੰ ਉਗਾਉਂਦੇ ਜੰਗਲ ਨੂੰ ਸਿੰਜਣ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ਮੈਂ ਬਣਾਏ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ਤਲਾਬ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ਪਾਣੀ ਦੇ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ਸਿੰਜਣ ਲਈ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ਉਹਨਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ਜੰਗਲ ਨੂੰ"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ਉਗਾਉਂਦੇ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ਰੁੱਖਾਂ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:11:25.776725297Z",
+  "model": "glm-5.2"
+}

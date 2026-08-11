@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਉਸ ਨੇ ਆਪਣੇ ਲਈ ਬਿਛਾਊ ਬਣਾਏ; ਸ਼ੇਸ਼ ਅਤੇ ਅਰਗਮਾਨ ਉਸ ਦਾ ਪਹਿਰਾਵਾ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "ਬਿਛਾਊ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ਉਸ ਨੇ ਬਣਾਏ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ਸ਼ੇਸ਼"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ਅਤੇ ਅਰਗਮਾਨ"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "ਉਸ ਦਾ ਪਹਿਰਾਵਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:35:47.715436037Z",
+  "model": "glm-5.2"
+}

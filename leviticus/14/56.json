@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਸੋਜ ਲਈ ਅਤੇ ਖਰੋਂਚ ਲਈ ਅਤੇ ਚਮਕਦੇ ਦਾਗ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "ਅਤੇ ਸੋਜ ਲਈ"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "ਅਤੇ ਖਰੋਂਚ ਲਈ"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "ਅਤੇ ਚਮਕਦੇ ਦਾਗ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:36:32.008785888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 26,
+  "translation": "ਲਈ ਸ਼ਫੂਫ਼ਾਮ, ਸ਼ੂਫ਼ਾਮੀ ਕਬੀਲਾ; ਲਈ ਖੂਫ਼ਾਮ, ਖੂਫ਼ਾਮੀ ਕਬੀਲਾ।",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "ਲਈ ਸ਼ਫੂਫ਼ਾਮ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕਬੀਲਾ"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "ਸ਼ੂਫ਼ਾਮੀ"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "ਲਈ ਖੂਫ਼ਾਮ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ਕਬੀਲਾ"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "ਖੂਫ਼ਾਮੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:01:50.623315563Z",
+  "model": "glm-5.2"
+}

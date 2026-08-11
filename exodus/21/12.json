@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਜੋ ਕੋਈ ਮਨੁੱਖ ਨੂੰ ਮਾਰੇ ਅਤੇ ਉਹ ਮਰ ਜਾਏ, ਤਾਂ ਮੌਤ ਉਸ ਨੂੰ ਮਾਰੇ ਜਾਏ।",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ਜੋ ਕੋਈ ਮਾਰੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਮਨੁੱਖ ਨੂੰ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ਅਤੇ ਉਹ ਮਰ ਜਾਏ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮੌਤ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ਉਸ ਨੂੰ ਮਾਰੇ ਜਾਏ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:19:41.555669405Z",
+  "model": "glm-5.2"
+}

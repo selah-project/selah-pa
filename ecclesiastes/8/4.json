@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਜਿੱਥੇ ਮੇਲ੍ਹਕ ਦਾ ਬਚਨ ਹੈ, ⟨ਉੱਥੇ⟩ ਹਕੂਮਤ ਹੈ; ਅਤੇ ਕੌਣ ਉਸਨੂੰ ਆਖ ਸਕਦਾ ਹੈ: ਤੂੰ ਕੀ ਕਰਦਾ ਹੈਂ?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ਜਿੱਥੇ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਮੇਲ੍ਹਕ ਦਾ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ਹਕੂਮਤ ਹੈ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ਅਤੇ ਕੌਣ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ਆਖ ਸਕਦਾ ਹੈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸਨੂੰ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ਕੀ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ਤੂੰ ਕਰਦਾ ਹੈਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:14:53.843256679Z",
+  "model": "glm-5.2"
+}

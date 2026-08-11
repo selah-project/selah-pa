@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸ਼ਲੋਮੋਹ ਦੇ ਮਿਸਾਲੀ ਕਥਨ — ਦਾਵਿਦ ਦਾ ਪੁੱਤਰ, ਯਿਸ੍ਰਾਏਲ ਦਾ ਰਾਜਾ।",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "ਮਿਸਾਲੀ ਕਥਨ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ਦਾਵਿਦ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸ੍ਰਾਏਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:33.501030406Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਅਤੇ ਕਿਸੇ ਮ੍ਰਿਤਕ ਜਾਨ ਪਾਸੇ ਉਹ ਨਾ ਆਵੇ; ਆਪਣੇ ਪਿਤਾ ਲਈ ਤੇ ਆਪਣੀ ਮਾਂ ਲਈ ਉਹ ਅਪਵਿੱਤਰ ਨਾ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ... ਪਾਸੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕਿਸੇ"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ਮ੍ਰਿਤਕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ਉਹ ਆਵੇ"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ਆਪਣੇ ਪਿਤਾ ਲਈ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ਅਤੇ ਆਪਣੀ ਮਾਂ ਲਈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ਉਹ ਅਪਵਿੱਤਰ ਹੋਵੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:41:50.602305154Z",
+  "model": "glm-5.2"
+}

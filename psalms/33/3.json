@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਉਸ ਲਈ ਨਵਾਂ ਗੀਤ ਗਾਓ; ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਜਾਓ, ਜੋਸ਼ ਨਾਲ।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ਗਾਓ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਉਸ ਲਈ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ਨਵਾਂ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਜਾਓ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ਵਜਾਉਣਾ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ਜੋਸ਼ ਨਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:39:42.174366321Z",
+  "model": "glm-5.2"
+}

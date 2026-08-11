@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਦੂਜੇ ਦਿਨ ਜ਼ੁਆਰ ਦੇ ਪੁੱਤਰ ਨਤਨਾਏਲ ਨੇ, ਯਿਸਸਕਰ ਦੇ ਨਸੀ ਨੇ, ਭੇਟ ਕੀਤੀ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜੇ"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ਭੇਟ ਕੀਤੀ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ਨਤਨਾਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ਜ਼ੁਆਰ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ਨਸੀ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ਯਿਸਸਕਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:48.684431260Z",
+  "model": "glm-5.2"
+}

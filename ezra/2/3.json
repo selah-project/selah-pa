@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਪਰਓਸ਼ ਦੇ ਪੁੱਤਰ — ਦੋ ਹਜ਼ਾਰ, ਇੱਕ ਸੌ, ਹਠਾਹ ਅਤੇ ਦੋ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ਪਰਓਸ਼ ਦੇ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ਦੋ ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ਇੱਕ ਸੌ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ਹਠਾਹ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ਅਤੇ ਦੋ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:45.273762851Z",
+  "model": "glm-5.2"
+}

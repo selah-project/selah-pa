@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਤੱਪੂਆਖ਼ ਦਾ ਰਾਜਾ ਇੱਕ; ਖ਼ੇਫ਼ਰ ਦਾ ਰਾਜਾ ਇੱਕ —",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ਤੱਪੂਆਖ਼"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ਖ਼ੇਫ਼ਰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:30.166623Z",
+  "model": "glm-5.2"
+}

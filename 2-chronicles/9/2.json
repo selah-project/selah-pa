@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਸ਼ਲੋਮੋਹ ਨੇ ਉਸ ਨੂੰ ਉਸ ਦੇ ਸਾਰੇ ਕਥਨ ਦੱਸੇ, ਅਤੇ ਸ਼ਲੋਮੋਹ ਤੋਂ ਕੋਈ ਗੱਲ ਛੁਪੀ ਨਹੀਂ ਸੀ ਜੋ ਉਸ ਨੇ ਉਸ ਨੂੰ ਨਾ ਦੱਸੀ ਹੋਵੇ।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ਅਤੇ ਦੱਸੇ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਾਰੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ਉਸ ਦੇ ਕਥਨ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ਛੁਪੀ ਸੀ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕੋਈ ਗੱਲ"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "ਸ਼ਲੋਮੋਹ ਤੋਂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ਦੱਸੀ ਹੋਵੇ"
+    },
+    {
+      "surface": "ਲה",
+      "gloss": "ਉਸ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:24:42.117600395Z",
+  "model": "glm-5.2"
+}

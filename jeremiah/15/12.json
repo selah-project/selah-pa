@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਕੀ ਉੱਤਰ ਦਾ ਲੋਹਾ, ਲੋਹੇ ਨੂੰ ਤੋੜ ਸਕਦਾ ਹੈ — ਅਤੇ ਪਿੱਤਲ ਨੂੰ?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ਕੀ ਤੋੜ ਸਕਦਾ ਹੈ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ਲੋਹਾ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ਲੋਹੇ ਨੂੰ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ਉੱਤਰ ਦਾ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ਅਤੇ ਪਿੱਤਲ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:20:24.471536864Z",
+  "model": "glm-5.2"
+}

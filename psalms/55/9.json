@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 55,
+  "translation": "ਮੈਂ ਆਪਣੇ ਲਈ ਬਚਾਅ ਨੂੰ ਜਲਦੀ ਕਰਾਂ, ਦੌੜਦੀ ਪੌਣ ਤੋਂ, ਤੂਫ਼ਾਨ ਤੋਂ।",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ਮੈਂ ਜਲਦੀ ਕਰਾਂ"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "ਬਚਾਅ ਨੂੰ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ਆਪਣੇ ਲਈ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ਪੌਣ ਤੋਂ"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ਦੌੜਦੀ"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "ਤੂਫ਼ਾਨ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:52:26.640593902Z",
+  "model": "glm-5.2"
+}

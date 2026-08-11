@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਚੰਗਾ ⟨ਹੈ⟩ ਇੱਕ ਮਰਦ ਲਈ ਕਿ ਜੁਆਨੀ ਵਿੱਚ ਜ਼ੂਲ ਚੁੱਕੇ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ਚੰਗਾ ⟨ਹੈ⟩"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "ਇੱਕ ਮਰਦ ਲਈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ਚੁੱਕੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਜ਼ੂਲ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "ਜੁਆਨੀ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:08:11.399594689Z",
+  "model": "glm-5.2"
+}

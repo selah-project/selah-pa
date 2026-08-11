@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਇਹ ਕਿ ਤੁਸੀਂ ਸਾਰੇ ਯਿਸਰਾਏਲ ਦੇ ਪੁੱਤਰ ਹੋ — ਇੱਥੇ ਆਪਣਾ ਕਥਨ ਅਤੇ ਸਲਾਹ ਦਿਓ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਇਹ ਕਿ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ਤੁਸੀਂ ਸਾਰੇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ਦਿਓ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਆਪਣਾ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਕਥਨ"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "ਅਤੇ ਸਲਾਹ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ਇੱਥੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:49:38.035376065Z",
+  "model": "glm-5.2"
+}

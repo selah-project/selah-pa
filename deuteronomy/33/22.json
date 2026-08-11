@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਦਾਨ ਬਾਰੇ ਉਸ ਨੇ ਕਿਹਾ: ਦਾਨ ਇੱਕ ਸ਼ੇਰ ਦਾ ਬੱਚਾ ਹੈ, ਬਾਸ਼ਾਨ ਤੋਂ ਛਾਲ ਮਾਰੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "ਅਤੇ ਦਾਨ ਬਾਰੇ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ਦਾਨ"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ਬੱਚਾ ਹੈ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ਸ਼ੇਰ ਦਾ"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ਛਾਲ ਮਾਰੇਗਾ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ਬਾਸ਼ਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:01.381969306Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਤਾਨਾਕ ਦਾ ਰਾਜਾ ਇੱਕ; ਮਗੀਦੋ ਦਾ ਰਾਜਾ ਇੱਕ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ਤਾਨਾਕ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "ਮਗੀਦੋ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:35.094641773Z",
+  "model": "glm-5.2"
+}

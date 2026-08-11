@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸਰਦਾਰ ਮਗਦੀਏਲ, ਸਰਦਾਰ ਇਰਾਮ; ਇਹ ਹਨ ਏਦੋਮ ਦੇ ਸਰਦਾਰ।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "ਮਗਦੀਏਲ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ਇਰਾਮ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ਸਰਦਾਰ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ਏਦੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:52:31.037287375Z",
+  "model": "glm-5.2"
+}

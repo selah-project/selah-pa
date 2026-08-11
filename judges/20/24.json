@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 20:24",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 20,
+  "translation": "ਅਤੇ ਇਸਰਾਏਲ ਦੇ ਪੁੱਤਰ ਦੂਜੇ ਦਿਨ ਬਿਨ੍ਯਾਮੀਨ ਦੇ ਪੁੱਤਰਾਂ ਕੋਲ ਨੇੜੇ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ਅਤੇ ਨੇੜੇ ਆਏ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਕੋਲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਦੇ ਪੁੱਤਰਾਂ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ਬਿਨ੍ਯਾਮੀਨ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:49:57.094399264Z",
+  "model": "glm-5.2"
+}

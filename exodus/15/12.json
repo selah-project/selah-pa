@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਤੂੰ ਆਪਣਾ ਸੱਜਾ ਹੱਥ ਵਧਾਇਆ, ਧਰਤੀ ਨੇ ⟨ਉਹਨਾਂ ਨੂੰ⟩ ਨਿਗਲ ਲਿਆ।",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "ਤੂੰ ਵਧਾਇਆ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ਆਪਣਾ ਸੱਜਾ ਹੱਥ"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "ਨਿਗਲ ਲਿਆ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ ਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:15:47.061730931Z",
+  "model": "glm-5.2"
+}

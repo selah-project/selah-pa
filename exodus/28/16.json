@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਚੌਰਸ ⟨ਹੋਵੇ⟩, ਦੋਹਰਾ; ਇੱਕ ਬਾਂਹ ਇਸ ਦੀ ਲੰਬਾਈ ਅਤੇ ਇੱਕ ਬਾਂਹ ਇਸ ਦੀ ਚੌੜਾਈ।",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ਚੌਰਸ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ਹੋਵੇ⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ਦੋਹਰਾ"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ਬਾਂਹ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ਲੰਬਾਈ"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ਅਤੇ ਬਾਂਹ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ਚੌੜਾਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:23:19.907210463Z",
+  "model": "glm-5.2"
+}

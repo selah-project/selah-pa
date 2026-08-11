@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਅਤੇ ਇੱਕ ਮਨੁੱਖ, ਜੇ ਕੋਈ ਮਨੁੱਖ ਦੀ ਜਾਨ ਮਾਰੇ, ਤਾਂ ਮੌਤ ਮਾਰਿਆ ਜਾਵੇ।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ਅਤੇ ਇੱਕ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ਮਾਰੇ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕੋਈ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਮਨੁੱਖ ਦੀ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ਮੌਤ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ਮਾਰਿਆ ਜਾਵੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:42:50.747809742Z",
+  "model": "glm-5.2"
+}

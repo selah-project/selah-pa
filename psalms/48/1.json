@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਗੀਤ, ਜ਼ਬੂਰ ਕੋਰਹ ਦੇ ਪੁੱਤਰਾਂ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ਜ਼ਬੂਰ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ਪੁੱਤਰਾਂ ਲਈ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ਕੋਰਹ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:48:23.311894741Z",
+  "model": "glm-5.2"
+}

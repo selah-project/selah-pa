@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਤੇਰੇ ਸਾਰੇ ਰੁੱਖ ਅਤੇ ਤੇਰੀ ਧਰਤੀ ਦਾ ਫ਼ਲ ਡੰਗੋਰਾ ਖਾ ਜਾਏਗਾ।",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "עֵצְךָ֖",
+      "gloss": "ਤੇਰੇ ਰੁੱਖ"
+    },
+    {
+      "surface": "וּפְרִ֣י",
+      "gloss": "ਅਤੇ ਫ਼ਲ"
+    },
+    {
+      "surface": "אַדְמָתֶ֑ךָ",
+      "gloss": "ਤੇਰੀ ਧਰਤੀ ਦਾ"
+    },
+    {
+      "surface": "יְיָרֵ֖שׁ",
+      "gloss": "ਖਾ ਜਾਏਗਾ"
+    },
+    {
+      "surface": "הַצְּלָצַֽל",
+      "gloss": "ਡੰਗੋਰਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:41.850012381Z",
+  "model": "glm-5.2"
+}

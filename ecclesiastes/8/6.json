@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਕਿਉਂਜੁ ਹਰੇਕ ਇੱਛਾ ਲਈ ਇੱਕ ਸਮਾਂ ਅਤੇ ਨਿਆਂ ਹੈ, ਕਿਉਂਜੁ ਮਨੁੱਖ ਦੀ ਬੁਰਾਈ ਉਸ ਉੱਤੇ ਬਹੁਤ ਭਾਰੀ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਜੁ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ਹਰੇਕ ਲਈ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ਇੱਛਾ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ਹੈ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ਸਮਾਂ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ਅਤੇ ਨਿਆਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਜੁ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ਬੁਰਾਈ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ਮਨੁੱਖ ਦੀ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ਬਹੁਤ ਭਾਰੀ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:13:33.366735179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ, ਤੇਰਾ ਭਰਾ ਧੋਖੇ ਨਾਲ ਆਇਆ, ਅਤੇ ਤੇਰੀ ਬਰਕਤ ਲੈ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ਆਇਆ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ਤੇਰਾ ਭਰਾ"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ਧੋਖੇ ਨਾਲ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ਅਤੇ ਲੈ ਲਈ"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ਤੇਰੀ ਬਰਕਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:56:46.338775155Z",
+  "model": "glm-5.2"
+}

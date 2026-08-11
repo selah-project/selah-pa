@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਜਿਸ ਵਿੱਚ ਵੀ ਕੋਈ ਦਾਗ਼ ਹੋਵੇ, ਉਸ ਨੂੰ ਨਾ ਭੇਟਨਾ, ਕਿਉਂਕਿ ਉਹ ਤੁਹਾਡੇ ਲਈ ਗ੍ਰਹਿਣਯੋਗ ਨਹੀਂ ਹੋਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਜਿਸ ਵੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਵਿੱਚ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ਕੋਈ ਦਾਗ਼ ਹੋਵੇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ਭੇਟਨਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "ਗ੍ਰਹਿਣਯੋਗ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇਗਾ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:40:49.592091430Z",
+  "model": "glm-5.2"
+}

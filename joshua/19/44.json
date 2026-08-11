@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਏਲਤਕੇ, ਅਤੇ ਗਿਬਤੋਨ, ਅਤੇ ਬਾਲਤ,",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "ਅਤੇ ਏਲਤਕੇ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "ਅਤੇ ਗਿਬਤੋਨ"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "ਅਤੇ ਬਾਲਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:04.879656458Z",
+  "model": "glm-5.2"
+}

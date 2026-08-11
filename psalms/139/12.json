@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 139,
+  "translation": "ਪਰ ਹਨੇਰ ਵੀ ਤੈਥੋਂ ਨਹੀਂ ਛਿਪਦਾ; ਅਤੇ ਰਾਤ ਦਿਨ ਵਾਂਗ ਚਮਕੇਗੀ; ਹਨੇਰ ਚਾਨਣ ਵਾਂਗ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ਪਰ ਵੀ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ਹਨੇਰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "ਛਿਪਦਾ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ਤੈਥੋਂ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ਅਤੇ ਰਾਤ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ਦਿਨ ਵਾਂਗ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ਚਮਕੇਗੀ"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ਹਨੇਰ ਵਾਂਗ"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ਚਾਨਣ ਵਾਂਗ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:17:34.869402559Z",
+  "model": "glm-5.2"
+}

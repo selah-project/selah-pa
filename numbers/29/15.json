@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 29,
+  "translation": "ਅਤੇ ਹਰੇਕ ਬੱਕਰੇ ਲਈ ਇੱਕ ਦਸਵੰਡ, ਚੌਦਾਂ ਬੱਕਰਿਆਂ ਲਈ;",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ਅਤੇ ⟨ਇੱਕ⟩ ਦਸਵੰਡ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ਦਸਵੰਡ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ਬੱਕਰੇ ਲਈ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ਹਰੇਕ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ਚੌਦਾਂ ਲਈ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ਦਸ)"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ਬੱਕਰਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:02:50.799015257Z",
+  "model": "glm-5.2"
+}

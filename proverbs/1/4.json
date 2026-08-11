@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਭੋਲਿਆਂ ਨੂੰ ਚਤੁਰਾਈ ਦੇਣ ਲਈ, ਨੌਜਵਾਨ ਨੂੰ ਗਿਆਨ ਅਤੇ ਸੋਚ-ਵਿਚਾਰ —",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "ਦੇਣ ਲਈ"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "ਭੋਲਿਆਂ ਨੂੰ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ਚਤੁਰਾਈ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ਨੌਜਵਾਨ ਨੂੰ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ਗਿਆਨ"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "ਅਤੇ ਸੋਚ-ਵਿਚਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:33.501774690Z",
+  "model": "glm-5.2"
+}

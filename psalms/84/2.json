@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 84,
+  "translation": "ਕਿੰਨੇ ਪਿਆਰੇ ਹਨ ਤੇਰੇ ਨਿਵਾਸ-ਸਥਾਨ, ਹੇ ਯਾਹਵੇਹ ਸੈਨਾਵਾਂ ਦੇ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ਕਿੰਨੇ"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "ਪਿਆਰੇ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ਤੇਰੇ ਨਿਵਾਸ-ਸਥਾਨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ਸੈਨਾਵਾਂ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:03:34.245450742Z",
+  "model": "glm-5.2"
+}

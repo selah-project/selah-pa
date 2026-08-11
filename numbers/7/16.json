@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬੱਕਰਾ, ਬੱਕਰੀਆਂ ਵਿੱਚੋਂ, ਪਾਪ-ਭੇਟਾ ਵਜੋਂ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ਬੱਕਰਾ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ਬੱਕਰੀਆਂ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ਪਾਪ-ਭੇਟਾ ਵਜੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:49:47.614224067Z",
+  "model": "glm-5.2"
+}

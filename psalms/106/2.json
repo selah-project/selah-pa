@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 106,
+  "translation": "ਕੌਣ ਯਾਹਵੇਹ ਦੇ ਸ਼ੂਰਵੀਰ ਕੰਮ ਬਿਆਣ ਕਰੇ? ⟨ਕੌਣ⟩ ਉਸ ਦੀ ਸਾਰੀ ਸਿਫ਼ਤ ਸੁਣਾਏ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ਬਿਆਣ ਕਰੇ"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "ਸ਼ੂਰਵੀਰ ਕੰਮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦੇ"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ਸੁਣਾਏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ਉਸ ਦੀ ਸਿਫ਼ਤ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:09:21.005731720Z",
+  "model": "glm-5.2"
+}

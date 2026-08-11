@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੋਸ਼ੇ ਨੂੰ ਕਿਹਾ: ਮੈਂ ⟨את⟩ ਇਸ ਲਾਓਕ ਨੂੰ ਵੇਖਿਆ ਹੈ, ਅਤੇ ਇੱਥੇ ਇਹ ਗਰਦਨ-ਸਖ਼ਤ ਲਾਓਕ ⟨ਹੈ⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨੂੰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ਮੈਂ ਵੇਖਿਆ ਹੈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਸ ਲਾਓਕ ਨੂੰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਲਾਓਕ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ਅਤੇ ਇੱਥੇ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਲਾਓਕ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ਸਖ਼ਤ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ਗਰਦਨ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:26:01.929730815Z",
+  "model": "glm-5.2"
+}

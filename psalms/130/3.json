@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 130,
+  "translation": "ਜੇ ਤੂੰ, ਹੇ ਯਾਹ, ਅਵਗੁਣਾਂ ⟨ਨੂੰ⟩ ਸਾਂਭਦਾ ⟨ਹੈਂ⟩ — ਹੇ ਅਦੋਨਾਈ, ਕੌਣ ਖੜ੍ਹਾ ਰਹੇਗਾ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ਅਵਗੁਣਾਂ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ਤੂੰ ... ਸਾਂਭਦਾ ਹੈਂ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ਯਾਹ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ਖੜ੍ਹਾ ਰਹੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:33.223930195Z",
+  "model": "glm-5.2"
+}

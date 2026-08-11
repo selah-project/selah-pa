@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਕੋਹਨੀਮ ਵਿੱਚੋਂ: ਯਦਾਯਾ ਯੋਯਾਰੀਬ ਦਾ ਪੁੱਤਰ, ਯਾਖੀਨ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ਕੋਹਨੀਮ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ਯਦਾਯਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "ਯੋਯਾਰੀਬ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ਯਾਖੀਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:50:50.914196220Z",
+  "model": "glm-5.2"
+}

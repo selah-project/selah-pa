@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਦੂਜੀ ਕਤਾਰ ⟨ਵਿੱਚ⟩ ਨੋਫੇਖ, ਸਪੀਰ ਅਤੇ ਯਹਾਲੋਮ ⟨ਹੋਣ⟩।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ਅਤੇ ਕਤਾਰ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ਦੂਜੀ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ਨੋਫੇਖ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ਸਪੀਰ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ਅਤੇ ਯਹਾਲੋਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:23:19.178913933Z",
+  "model": "glm-5.2"
+}

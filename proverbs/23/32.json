@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਉਸ ਦਾ ਅੰਤ ਸੱਪ ਵਾਂਗ ਡੰਗਦਾ ਹੈ ਅਤੇ ਵਾਈਪਰ ਵਾਂਗ ਜ਼ਹਿਰ ਕੱਢਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "ਉਸ ਦਾ ਅੰਤ"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "ਸੱਪ ਵਾਂਗ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ਡੰਗਦਾ ਹੈ"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "ਅਤੇ ਵਾਈਪਰ ਵਾਂਗ"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ਜ਼ਹਿਰ ਕੱਢਦਾ ਹੈ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:32:00.609929047Z",
+  "model": "glm-5.2"
+}

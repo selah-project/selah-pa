@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਏਫੋਦ ਦਾ ਚੋਗਾ ਬਣਾਇਆ, ਬੁਣਤੀ ਦਾ ਕੰਮ, ਸਾਰਾ ਨੀਲਾ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਬਣਾਇਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਚੋਗਾ"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ਚੋਗਾ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ਏਫੋਦ ਦਾ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ਕੰਮ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ਬੁਣਤੀ ਦਾ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ਸਾਰਾ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ਨੀਲਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:30:20.327019098Z",
+  "model": "glm-5.2"
+}

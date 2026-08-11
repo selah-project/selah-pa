@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 14,
+  "translation": "ਅਤੇ ਕੋਹੇਨ ਆਪਣੇ ਖੱਬੇ ਹੱਥ ਦੀ ਹਥੇਲੀ ਉੱਤੇ ਤੇਲ ਵਿਚੋਂ ਡੋਲ੍ਹੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ਅਤੇ ਵਿਚੋਂ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ਤੇਲ"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "⟨ਉਹ⟩ ਡੋਲ੍ਹੇਗਾ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕੋਹੇਨ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ਹਥੇਲੀ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ਕੋਹੇਨ ਦੀ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ਖੱਬੇ ਹੱਥ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:37:37.232466822Z",
+  "model": "glm-5.2"
+}

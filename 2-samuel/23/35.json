@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਖ਼ੇਤਸਰੋ ⟨ਕਰਮੇਲੀ⟩, ਪਾਅਰਾਈ ⟨ਅਰਬੀ⟩,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ਖ਼ੇਤਸਰੋ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ਕਰਮੇਲੀ"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "ਪਾਅਰਾਈ"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ਅਰਬੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:18:10.403369627Z",
+  "model": "glm-5.2"
+}

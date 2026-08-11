@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 12,
+  "translation": "ਤਿਰਤਸਾਹ ਦਾ ਰਾਜਾ ਇੱਕ; ਸਾਰੇ ਰਾਜੇ ਇੱਕ ਤੀਹ ⟨ਸਨ⟩।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ਤਿਰਤਸਾਹ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ਤੀਹ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ਇੱਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:31:35.095254554Z",
+  "model": "glm-5.2"
+}

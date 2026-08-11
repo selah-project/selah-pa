@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਦਾ ਆਰਾਪੀਆ ਪਲਿਸ਼ਤੀਆਂ ਦੇ ਖੇਤ ਵਿੱਚ ਸੱਤ ਮਹੀਨੇ ਰਿਹਾ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ਅਤੇ ⟨ਸੀ⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ਆਰਾਪੀਆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਦਾ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ਖੇਤ ਵਿੱਚ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ਪਲਿਸ਼ਤੀਆਂ ਦੇ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ਮਹੀਨੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:54:00.572299219Z",
+  "model": "glm-5.2"
+}

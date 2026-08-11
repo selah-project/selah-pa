@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "⟨את⟩ ਮੇਜ਼, ⟨את⟩ ਇਸ ਦੇ ਸਾਰੇ ਬਰਤਨ, ਅਤੇ ⟨את⟩ ਪਨ੍ਹੇ੍ਹਾਂ ਦੀ ਰੋਟੀ;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਮੇਜ਼"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ਮੇਜ਼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਸ ਦੇ ਸਾਰੇ ਬਰਤਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ਇਸ ਦੇ ਬਰਤਨ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ਅਤੇ ⟨את⟩",
+      "marks": "ਪਨ੍ਹੇ੍ਹਾਂ ਦੀ ਰੋਟੀ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ਰੋਟੀ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ਪਨ੍ਹੇ੍ਹਾਂ ਦੀ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:33:20.671459386Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 6,
+  "translation": "ਸ਼ਿਮਾ ਉਸ ਦਾ ਪੁੱਤਰ, ਹੱਗੀਯਾਹ ਉਸ ਦਾ ਪੁੱਤਰ, ਅਸਾਯਾਹ ਉਸ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "ਸ਼ਿਮਾ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "ਹੱਗੀਯਾਹ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ਅਸਾਯਾਹ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ਉਸ ਦਾ ਪੁੱਤਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:57:04.519936506Z",
+  "model": "glm-5.2"
+}

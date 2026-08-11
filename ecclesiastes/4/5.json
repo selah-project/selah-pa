@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਮੂਰਖ ⟨ਆਪਣੀਆਂ⟩ ਹੱਥੀਂ ਗਲੇ ਲਾਂਦਾ ਹੈ ⟨את⟩ ⟨ਆਪਣੇ⟩ ਹੱਥਾਂ ਨੂੰ, ਅਤੇ ਖਾਂਦਾ ਹੈ ⟨את⟩ ⟨ਆਪਣਾ⟩ ਸਰੀਰ।",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ਮੂਰਖ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ਗਲੇ ਲਾਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਹੱਥਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ਹੱਥਾਂ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ਅਤੇ ਖਾਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਸਰੀਰ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ਸਰੀਰ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:11:38.603223416Z",
+  "model": "glm-5.2"
+}

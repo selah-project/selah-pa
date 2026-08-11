@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ਤੂੰ ⟨ਉੱਕਰੇਂ⟩ ਪੱਥਰਾਂ ਉੱਤੇ ⟨את⟩ ਇਸ ਤੋਰਾਹ ਦੇ ਸਾਰੇ ਬਚਨ, ਬਹੁਤ ਸਪਸ਼ਟ ਤਰ੍ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ਅਤੇ ਤੂੰ ਲਿਖੇਂ\/ਉੱਕਰੇਂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ਪੱਥਰਾਂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਸ ਤੋਰਾਹ ਦੇ ਸਾਰੇ ਬਚਨ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ਬਚਨ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ਇਸ ਤੋਰਾਹ ਦੇ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ਸਪਸ਼ਟ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ਬਹੁਤ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:21:10.952737399Z",
+  "model": "glm-5.2"
+}

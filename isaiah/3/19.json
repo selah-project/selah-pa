@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "⟨ਅਤੇ⟩ ਲਟਕਣ ਵਾਲੇ ਗਹਿਣੇ, ਅਤੇ ਬਾਂਗਾਂ, ਅਤੇ ਪਰਦੇ।",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "ਲਟਕਣ ਵਾਲੇ ਗਹਿਣੇ"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "ਅਤੇ ਬਾਂਗਾਂ"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "ਅਤੇ ਪਰਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:49:10.068519261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 69,
+  "translation": "ਮਿਟ ਜਾਣ ਜੀਵਤਿਆਂ ਦੀ ਕਿਤਾਬ ਵਿਲੋਂ, ਅਤੇ ਧਰਮੀਆਂ ਨਾਲ ਨਾ ਲਿਖੇ ਜਾਣ।",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "ਮਿਟ ਜਾਣ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ਕਿਤਾਬ ਵਿਲੋਂ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ਜੀਵਤਿਆਂ ਦੀ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ਅਤੇ ਨਾਲ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ਧਰਮੀਆਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ਲਿਖੇ ਜਾਣ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:57:02.093973644Z",
+  "model": "glm-5.2"
+}

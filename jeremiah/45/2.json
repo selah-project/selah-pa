@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 45,
+  "translation": "ਇਉਂ ਆਖਿਆ ਹੈ ਯਾਹਵੇਹ, ਯਿਸਰਾਏਲ ਦੇ ਏਲੋਹੀਮ ਨੇ, ਤੇਰੇ ਵਾਸਤੇ, ਹੇ ਬਾਰੂਕ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ਇਉਂ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ਆਖਿਆ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "...ਦੇ ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ਤੇਰੇ ਵਾਸਤੇ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ਹੇ ਬਾਰੂਕ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:35:59.498756438Z",
+  "model": "glm-5.2"
+}

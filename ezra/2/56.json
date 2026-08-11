@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਯਾਲਾ ਦੇ ਪੁੱਤਰ, ਦਰਕੋਨ ਦੇ ਪੁੱਤਰ, ਗਿੱਦੇਲ ਦੇ ਪੁੱਤਰ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ਯਾਲਾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "ਦਰਕੋਨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ਗਿੱਦੇਲ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:33:48.628338842Z",
+  "model": "glm-5.2"
+}

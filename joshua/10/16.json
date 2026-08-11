@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 10,
+  "translation": "ਅਤੇ ਇਹ ਪੰਜ ਰਾਜੇ ਭੱਜ ਗਏ ਅਤੇ ਮੱਕੇਦਾ ਵਿਖੇ ਇੱਕ ਗੁਫਾ ਵਿੱਚ ਲੁਕ ਗਏ।",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ਅਤੇ ਭੱਜ ਗਏ"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "ਪੰਜ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "ਅਤੇ ਲੁਕ ਗਏ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ਇੱਕ ਗੁਫਾ ਵਿੱਚ"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "ਮੱਕੇਦਾ ਵਿਖੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:30:53.598663492Z",
+  "model": "glm-5.2"
+}

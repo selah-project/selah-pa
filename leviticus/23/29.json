@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਕਿਉਂਕਿ ਹਰ ਉਹ ਨਫ਼ੇਸ਼ ਜੋ ਇਸੇ ਦਿਨ ਨੂੰ ਪੀੜਿਆ ਨਹੀਂ ਜਾਵੇਗਾ, ਉਹ ਆਪਣੇ ਲੋਕਾਂ ਵਿੱਚੋਂ ਕਟਿਆ ਜਾਵੇਗਾ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ ਉਹ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ਨਫ਼ੇਸ਼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ਪੀੜਿਆ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ਇਸੇ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ਦਿਨ ਨੂੰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ਕਟਿਆ ਜਾਵੇਗਾ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ਆਪਣੇ ਲੋਕਾਂ ਵਿੱਚੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:43:32.416279998Z",
+  "model": "glm-5.2"
+}

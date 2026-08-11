@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 76,
+  "translation": "ਅਕਾਸ਼ ਤੋਂ ਤੂੰ ਮਿਆਦ ਸੁਣਾਈ; ਧਰਤੀ ਨੇ ਡਰਿਆ ਅਤੇ ਸ਼ਾਂਤ ਹੋ ਗਈ।",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ਅਕਾਸ਼ ਤੋਂ"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "ਤੂੰ ਸੁਣਾਈ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ਮਿਆਦ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ਧਰਤੀ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ਨੇ ਡਰਿਆ"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ਅਤੇ ਸ਼ਾਂਤ ਹੋ ਗਈ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:58:54.352659807Z",
+  "model": "glm-5.2"
+}

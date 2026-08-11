@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਯਾਹਵੇਹ ਨੇ ਮੇਰੇ ਨੂੰ ਕਿਹਾ, ਕਹਿੰਦੇ ਹੋਏ: ਮੈਂ ⟨את⟩ ਇਸ ਕੌਮ ਨੂੰ ਵੇਖਿਆ ਹੈ, ਅਤੇ ਦੇਖੋ, ਇਹ ਗਰਦਨ ਸਖ਼ਤ ਕੌਮ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ਮੇਰੇ ਨੂੰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ਕਹਿੰਦੇ ਹੋਏ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ਮੈਂ ਵੇਖਿਆ ਹੈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਸ ਕੌਮ ਨੂੰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ਕੌਮ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ਇਸ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ਅਤੇ ਦੇਖੋ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਕੌਮ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ਸਖ਼ਤ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ਗਰਦਨ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਇਹ ⟨ਹੈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T21:12:43.226723146Z",
+  "model": "glm-5.2"
+}

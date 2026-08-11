@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ ਲਈ ਗੋਤ ਅਸ਼ੇਰ ਦੇ ⟨ਸਨ⟩ ਇੱਕ ਅਤੇ ਚਾਲ੍ਹੀ ਹਜ਼ਾਰ ਪੰਜ ਸੌ।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ਉਹਨਾਂ ਦੇ ਗਿਣੇ ਹੋਏ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ਲਈ ਗੋਤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਅਸ਼ੇਰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ਅਤੇ ਚਾਲ੍ਹੀ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ਹਜ਼ਾਰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ਅਤੇ ਪੰਜ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:45:12.999344940Z",
+  "model": "glm-5.2"
+}

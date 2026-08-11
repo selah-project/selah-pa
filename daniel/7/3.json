@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਅਤੇ ਚਾਰ ਵੱਡੇ ਜਾਨਵਰ ਸਮੁੰਦਰ ਵਿੱਚੋਂ ਚੜ੍ਹੇ, ਇੱਕ ਦੂਜੇ ਤੋਂ ਵੱਖਰੇ।",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ਅਤੇ ਚਾਰ"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "ਜਾਨਵਰ"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ਵੱਡੇ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ਚੜ੍ਹੇ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ਵੱਖਰੇ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ਤੋਂ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ਦੂਜੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:27:45.623888332Z",
+  "model": "glm-5.2"
+}

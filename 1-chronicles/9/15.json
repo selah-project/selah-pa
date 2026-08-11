@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 9,
+  "translation": "ਅਤੇ ਬਕਬੱਕਰ, ਖ਼ੇਰੇਸ਼ ਅਤੇ ਗਲਾਲ, ਅਤੇ ਮਤਨਯਾਹ ਬੇਟਾ ਮੀਕਾ ਦਾ, ਬੇਟਾ ਜ਼ਿਕਰੀ ਦਾ, ਬੇਟਾ ਅਸਾਪ ਦਾ।",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ਅਤੇ ਬਕਬੱਕਰ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ਖ਼ੇਰੇਸ਼"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ਅਤੇ ਗਲਾਲ"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ਅਤੇ ਮਤਨਯਾਹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੇਟਾ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "ਮੀਕਾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੇਟਾ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ਜ਼ਿਕਰੀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਬੇਟਾ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ਅਸਾਪ"
+    }
+  ],
+  "timestamp": "2026-08-11T03:00:46.205266779Z",
+  "model": "glm-5.2"
+}

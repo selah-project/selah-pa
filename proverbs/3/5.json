@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਯਾਹਵੇਹ ਉੱਤੇ ਆਪਣੇ ਸਾਰੇ ਦਿਲ ਨਾਲ ਭਰੋਸਾ ਕਰ, ਅਤੇ ਆਪਣੀ ਸਮਝ ਉੱਤੇ ⟨ਨਾ⟩ ਟੇਕ।",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ਭਰੋਸਾ ਕਰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ਆਪਣੇ ਦਿਲ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ਅਤੇ"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ਆਪਣੀ ਸਮਝ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ਟੇਕ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:21:16.505432725Z",
+  "model": "glm-5.2"
+}

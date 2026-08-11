@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਅਤੇ ਗਰੀਬ ⟨ਮਨੁੱਖ⟩ ਨੂੰ ਆਪਣੇ ਝਗੜੇ ਵਿੱਚ ਮਾਣ ਨਾ ਦੇਵੀਂ।",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ਅਤੇ ਗਰੀਬ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ਤੂੰ ਮਾਣ ਦੇਵੀਂ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ਆਪਣੇ ਝਗੜੇ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:20:54.293239028Z",
+  "model": "glm-5.2"
+}

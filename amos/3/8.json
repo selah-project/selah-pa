@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਇੱਕ ਸ਼ੇਰ ਦਹਾੜਿਆ — ਕੌਣ ਨਾ ਡਰੇ? ਅਦੋਨਾਈ ਯਾਹਵੇਹ ਨੇ ਬੋਲਿਆ — ਕੌਣ ਨਾ ਨਬੂਅਤ ਕਰੇ?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "ਇੱਕ ਸ਼ੇਰ"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "ਦਹਾੜਿਆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "ਲא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ਡਰੇ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਨੇ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ਬੋਲਿਆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ਕੌਣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "ਨਬੂਅਤ ਕਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:53:56.635667129Z",
+  "model": "glm-5.2"
+}

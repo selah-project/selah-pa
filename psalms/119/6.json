@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 119,
+  "translation": "ਤਦ ਮੈਂ ਸ਼ਰਮਸਾਰ ਨਾ ਹੋਵਾਂ, ਜਦ ਮੈਂ ਤੇਰੀਆਂ ਸਾਰੀਆਂ ਆਗਿਆਂ ਵੱਲ ਵੇਖਾਂ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ਤਦ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ਸ਼ਰਮਸਾਰ ਹੋਵਾਂ"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ਜਦ ਮੈਂ ਵੇਖਾਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੀਆਂ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ਤੇਰੀਆਂ ਆਗਿਆਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:12:10.504120895Z",
+  "model": "glm-5.2"
+}

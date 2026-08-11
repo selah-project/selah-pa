@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਏਲਤੋਲਾਦ ਅਤੇ ਬਤੂਲ ਅਤੇ ਖ਼ੋਰਮਾਹ।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ਅਤੇ ਏਲਤੋਲਾਦ"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "ਅਤੇ ਬਤੂਲ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ਅਤੇ ਖ਼ੋਰਮਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:01.251986683Z",
+  "model": "glm-5.2"
+}

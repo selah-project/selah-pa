@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 22,
+  "translation": "ਵੇਖ, ਯਿਸਰਾਏਲ ਦੇ ਨਸੀਬ, ਹਰ ਇੱਕ ਆਪਣੀ ਬਾਂਹ ਦੇ ਅਨੁਸਾਰ, ਤੇਰੇ ਵਿੱਚ ਸਨ ਲਹੂ ਵਹਾਉਣ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖ"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ਨਸੀਬ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਦੇ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਹਰ ਇੱਕ"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "ਆਪਣੀ ਬਾਂਹ ਦੇ ਅਨੁਸਾਰ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ਸਨ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ਤੇਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ਲਈ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ਵਹਾਉਣ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ਲਹੂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:50:41.480259662Z",
+  "model": "glm-5.2"
+}

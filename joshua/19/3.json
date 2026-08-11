@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਖ਼ਤਸਰ-ਸ਼ੂਅਲ ਅਤੇ ਬਾਲਾ ਅਤੇ ਅਤਸਮ।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ਅਤੇ ਖ਼ਤਸਰ"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ਸ਼ੂਅਲ"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "ਅਤੇ ਬਾਲਾ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ਅਤੇ ਅਤਸਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:35:01.251871657Z",
+  "model": "glm-5.2"
+}

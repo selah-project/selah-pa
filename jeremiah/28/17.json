@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 28,
+  "translation": "ਅਤੇ ਨਬੀ ਖ਼ਨਨਯਾਹ ਉਸੇ ਸਾਲ ਵਿੱਚ, ਸੱਤਵੇਂ ਮਹੀਨੇ ਵਿੱਚ ਮਰ ਗਿਆ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ਅਤੇ ਮਰ ਗਿਆ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ਖ਼ਨਨਯਾਹ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ਨਬੀ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ਸਾਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ਉਸੇ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ਮਹੀਨੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ਸੱਤਵੇਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:26:30.064981872Z",
+  "model": "glm-5.2"
+}

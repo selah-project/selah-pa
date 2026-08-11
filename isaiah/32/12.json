@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 32,
+  "translation": "ਛਾਤੀਆਂ ਵਾਸਤੇ ਸੋਗ ਕਰੋ, ਪਿਆਰੇ ਖੇਤਾਂ ਵਾਸਤੇ, ਫ਼ਲਦਾਰ ਵੇਲ ਵਾਸਤੇ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਵਾਸਤੇ"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ਛਾਤੀਆਂ"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "ਸੋਗ ਕਰੋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵਾਸਤੇ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ਖੇਤਾਂ"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ਪਿਆਰੇ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਵਾਸਤੇ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ਵੇਲ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ਫ਼ਲਦਾਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:58:03.353890537Z",
+  "model": "glm-5.2"
+}

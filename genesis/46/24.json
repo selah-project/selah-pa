@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 46,
+  "translation": "ਅਤੇ ਨਫ਼ਤਾਲੀ ਦੇ ਪੁੱਤਰ: ਯਾਖਤਸ਼ੇਲ, ਗੂਨੀ, ਯੇਤਸੇਰ ਅਤੇ ਸ਼ਿੱਲੇਮ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ਅਤੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ਨਫ਼ਤਾਲੀ ਦੇ"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "ਯਾਖਤਸ਼ੇਲ"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "ਗੂਨੀ"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ਯੇਤਸੇਰ"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ਸ਼ਿੱਲੇਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:06:22.187201482Z",
+  "model": "glm-5.2"
+}

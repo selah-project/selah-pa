@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 51,
+  "translation": "ਇਸ ਲਈ ਹੁਣ ਸੁਣ, ਹੇ ਦੁਖੀ ⟨ਅਤੇ⟩ ਮਸਤ, ਪਰ ਦਾਖ ਤੋਂ ਨਹੀਂ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ਇਸ ਲਈ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ਹੁਣ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "ਹੇ ਦੁਖੀ"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "ਅਤੇ ਮਸਤ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਪਰ ਨਹੀਂ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ਦਾਖ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:07:43.418103493Z",
+  "model": "glm-5.2"
+}

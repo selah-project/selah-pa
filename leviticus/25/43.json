@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਜ਼ੋਰ-ਜ਼ੁਲਮ ਨਾਲ ਉਸ ਉੱਤੇ ਰਾਜ ਨਾ ਕਰੀਂ, ਅਤੇ ਆਪਣੇ ਏਲੋਹੀਮ ਤੋਂ ਡਰੀਂ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "ਰਾਜ ਕਰੀਂ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਉੱਤੇ"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ਜ਼ੋਰ-ਜ਼ੁਲਮ ਨਾਲ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ਅਤੇ ਡਰੀਂ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ਆਪਣੇ ਏਲੋਹੀਮ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:18.236462991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਤਾਂ ਸੀਖੋਨ ਸਾਡੇ ਵੱਲ ਲੜਨ ਲਈ ਨਿਕਲਿਆ — ਉਹ ਅਤੇ ਉਸ ਦਾ ਸਾਰਾ ਲੋਕ — ਯਾਹਸਾਹ ਵਿਖੇ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ਤਾਂ ਨਿਕਲਿਆ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "ਸੀਖੋਨ"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ਸਾਡੇ ਵੱਲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ਅਤੇ ਸਾਰਾ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ਉਸ ਦਾ ਲੋਕ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ਲੜਨ ਲਈ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ਯਾਹਸਾਹ ਵਿਖੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:09:05.509450084Z",
+  "model": "glm-5.2"
+}

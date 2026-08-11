@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 21,
+  "translation": "ਪਰ ਜੇ ਨੁਕਸਾਨ ਹੋਵੇ, ਤਾਂ ਤੂੰ ਜਾਨ ਬਦਲੇ ਜਾਨ ਦੇਵੇਂਗਾ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ਪਰ ਜੇ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ਨੁਕਸਾਨ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ਤਾਂ ਤੂੰ ਦੇਵੇਂਗਾ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ਬਦਲੇ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:20:07.506201500Z",
+  "model": "glm-5.2"
+}

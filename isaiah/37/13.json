@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 37,
+  "translation": "ਖ਼ਾਮੋਸ਼! ਖ਼ਾਮੋਸ਼!",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "ਕਿੱਥੇ ਹੈ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜਾ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ਖ਼ਮਾਤ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ਅਤੇ ਰਾਜਾ"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "ਅਰਪਾਦ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ਅਤੇ ਰਾਜਾ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ਸ਼ਹਿਰ ਦਾ"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "ਸਫ਼ਰਵਾਯਿਮ"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "ਹੇਨਾ"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ਅਤੇ ਇੱਵਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:01:45.290004480Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸਾਰੇ ਗੱਲਾਂ ਥਕਾਊ ਹਨ; ਕੋਈ ਮਨੁੱਖ ਬੋਲ ਨਹੀਂ ਸਕਦਾ; ਅੱਖ ਵੇਖ ਕੇ ਨਹੀਂ ਰਜਦੀ, ਅਤੇ ਕੰਨ ਸੁਣ ਕੇ ਨਹੀਂ ਭਰਦਾ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਸਾਰੇ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ਗੱਲਾਂ"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ਥਕਾਊ ਹਨ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ਸਕਦਾ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਕੋਈ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ਬੋਲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਹੀਂ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ਰਜਦੀ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਅੱਖ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ਵੇਖ ਕੇ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਹੀਂ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ਭਰਦਾ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ਕੰਨ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ਸੁਣ ਕੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:10:31.100734606Z",
+  "model": "glm-5.2"
+}

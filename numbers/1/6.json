@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਸ਼ਿਮੋਨ ਲਈ — ਸ਼ਲੂਮੀਏਲ, ਤਸੂਰੀ-ਸ਼ੱਦਾਈ ਦਾ ਪੁੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "ਸ਼ਿਮੋਨ ਲਈ"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ਸ਼ਲੂਮੀਏਲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ਤਸੂਰੀ-ਸ਼ੱਦਾਈ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:44:40.353053301Z",
+  "model": "glm-5.2"
+}

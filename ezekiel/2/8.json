@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 2:8",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਤੂੰ, ਹੇ ਨਰ ਪੁੱਤਰ, ਉਹ ⟨ਸੁਣ⟩ ਜੋ ਮੈਂ ਤੈਨੂੰ ਬੋਲ ਰਿਹਾ ਹਾਂ; ਬਾਗ਼ੀ ਨਾ ਬਣ, ਜਿਵੇਂ ਬਾਗ਼ੀ ਘਰ ਹੈ — ਆਪਣਾ ਮੂੰਹ ਖੋਲ੍ਹ ਅਤੇ ਖਾ ਜੋ ਮੈਂ ਤੈਨੂੰ ਦਿੰਦਾ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ਅਤੇ ਤੂੰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ਨਰ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ਸੁਣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜੋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ਬੋਲ ਰਿਹਾ ਹਾਂ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੈਨੂੰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ਬਣ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ਬਾਗ਼ੀ"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ਜਿਵੇਂ ਘਰ"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "ਬਾਗ਼ੀ"
+    },
+    {
+      "surface": "פצה",
+      "gloss": "ਖੋਲ੍ਹ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ਆਪਣਾ ਮੂੰਹ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ਅਤੇ ਖਾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਜੋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ਦਿੰਦਾ ਹਾਂ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੈਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:41:37.397241900Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਇਸਰਾਇਲ ਦੇ ਬੱਚਿਆਂ ਨੇ ਮੋਆਬ ਦੇ ਰਾਜੇ ਏਗਲੋਨ ਦੀ ਅਠਾਰਾਂ ਸਾਲ ⟨את⟩ ਸੇਵਾ ਕੀਤੀ।",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ਅਤੇ ਸੇਵਾ ਕੀਤੀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਬੱਚਿਆਂ ਨੇ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਇਲ ਦੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਗਲੋਨ"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ਏਗਲੋਨ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ਰਾਜੇ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ਮੋਆਬ ਦੇ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ਅੱਠ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ਤੇਰਾਂ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:40:34.978078767Z",
+  "model": "glm-5.2"
+}

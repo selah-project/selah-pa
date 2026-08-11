@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਸੁਣਿਆ, ਅਤੇ ਆਪਣੇ ਚਿਹਰੇ ਉੱਤੇ ਡਿੱਗ ਪਿਆ।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ਅਤੇ ਸੁਣਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ਅਤੇ ਡਿੱਗ ਪਿਆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ਆਪਣੇ ਚਿਹਰੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T00:36:29.229438219Z",
+  "model": "glm-5.2"
+}

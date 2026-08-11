@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਅਤੇ ਤੇਰੀ ਅੱਖ ਦਯਾ ਨਾ ਕਰੇ — ਜਾਨ ਬਦਲੇ ਜਾਨ, ਅੱਖ ਬਦਲੇ ਅੱਖ, ਦੰਦ ਬਦਲੇ ਦੰਦ, ਹੱਥ ਬਦਲੇ ਹੱਥ, ਪੈਰ ਬਦਲੇ ਪੈਰ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ਦਯਾ ਕਰੇ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ਤੇਰੀ ਅੱਖ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ਜਾਨ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ਬਦਲੇ ਜਾਨ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ਅੱਖ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ਬਦਲੇ ਅੱਖ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ਦੰਦ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ਬਦਲੇ ਦੰਦ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ਹੱਥ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ਬਦਲੇ ਹੱਥ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ਪੈਰ"
+    },
+    {
+      "surface": "ברגਲ",
+      "gloss": "ਬਦਲੇ ਪੈਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:16:50.746880136Z",
+  "model": "glm-5.2"
+}

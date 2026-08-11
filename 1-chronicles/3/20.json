@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਖਸ਼ੂਬਾ, ਅਤੇ ਓਹੇਲ, ਅਤੇ ਬਰਕਯਾ, ਅਤੇ ਖਸਦਯਾ, ਯੂਸ਼ਬ-ਖੇਸੇਦ, ਪੰਜ।",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ਅਤੇ ਖਸ਼ੂਬਾ"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ਅਤੇ ਓਹੇਲ"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "ਅਤੇ ਬਰਕਯਾ"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ਅਤੇ ਖਸਦਯਾ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ਯੂਸ਼ਬ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-ਖੇਸੇਦ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ਪੰਜ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:54:45.278135605Z",
+  "model": "glm-5.2"
+}

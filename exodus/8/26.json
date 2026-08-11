@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 8,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਪਰੋਹ ਕੋਲੋਂ ਨਿਕਲਿਆ, ਅਤੇ ਉਸ ਨੇ ਯਾਹਵੇਹ ਅੱਗੇ ਬੇਨਤੀ ਕੀਤੀ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ਅਤੇ ਨਿਕਲਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ਕੋਲੋਂ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ਪਰੋਹ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ਅਤੇ ਉਸ ਨੇ ਬੇਨਤੀ ਕੀਤੀ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਅੱਗੇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:13:28.249835827Z",
+  "model": "glm-5.2"
+}

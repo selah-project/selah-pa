@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 1,
+  "translation": "ਹੇ ਮੇਰੇ ਪੁੱਤਰ, ਜੇ ਪਾਪੀ ਤੈਨੂੰ ਲੁਭਾਉਣ, ⟨ਤਾਂ⟩ ਤੂੰ ਮੰਨ ਨਾ।",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "ਹੇ ਮੇਰੇ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ਜੇ"
+    },
+    {
+      "surface": "יְפַתּ֥וּךָ",
+      "gloss": "ਤੈਨੂੰ ਲੁਭਾਉਣ"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "ਪਾਪੀ"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "ਤੂੰ ਮੰਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:20:36.156211498Z",
+  "model": "glm-5.2"
+}

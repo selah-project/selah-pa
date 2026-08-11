@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 25,
+  "translation": "ਦਸਵਾਂ ਸ਼ਿਮਈ ਲਈ, ⟨ਉਸਦੇ⟩ ਪੁੱਤਰ ਅਤੇ ⟨ਉਸਦੇ⟩ ਭਰਾ, ਬਾਰਾਂ ⟨ਸਨ⟩:",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "ਦਸਵਾਂ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ਸ਼ਿਮਈ ਲਈ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ਅਤੇ ਭਰਾ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ਬਾਰਾਂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-ਸਨ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T03:12:44.043443521Z",
+  "model": "glm-5.2"
+}

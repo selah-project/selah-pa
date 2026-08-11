@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 44,
+  "translation": "ਅਤੇ ਸਾਡੇ ਪਿਤਾ ਨੇ ਕਿਹਾ, ਮੁੜ ਜਾਓ, ਸਾਡੇ ਲਈ ਥੋੜ੍ਹਾ ਜਿਹਾ ਅਨਾਜ ਮਿਲਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਕਿਹਾ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ਸਾਡੇ ਪਿਤਾ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ਮੁੜ ਜਾਓ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ਮਿਲਿਆ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ਸਾਡੇ ਲਈ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ਥੋੜ੍ਹਾ ਜਿਹਾ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ਅਨਾਜ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:06:50.025159844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "pa",
+  "chapter": 48,
+  "translation": "ਤੁਸੀਂ ਕਿਵੇਂ ਆਖਦੇ ਹੋ, „ਅਸੀਂ ਸੂਰਮੇ ਹਾਂ, ਅਤੇ ਯੁੱਧ ਲਈ ਬਹਾਦਰ ਆਦਮੀ!‟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ਕਿਵੇਂ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ਤੁਸੀਂ ਆਖਦੇ ਹੋ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "ਸੂਰਮੇ ਹਾਂ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ਅਸੀਂ"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ਅਤੇ ਆਦਮੀ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ਬਹਾਦਰ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ਯੁੱਧ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:36:33.461303914Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਤੂੰ ਯਾਹਵੇਹ ਆਪਣੇ ਏਲੋਹੀਮ ਦੇ ਨਾਲ ਪੂਰਨ ਰਹਿਣਾ।",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "ਪੂਰਨ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ਤੂੰ ਰਹਿਣਾ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ਦੇ ਨਾਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ਆਪਣੇ ਏਲੋਹੀਮ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:17:12.097702320Z",
+  "model": "glm-5.2"
+}

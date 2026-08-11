@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਕਿਰਯਾਤ-ਅਰਿਮ, ਕਫੀਰਾ ਅਤੇ ਬੇਰੋਤ ਦੇ ਪੁੱਤਰ — ਸੱਤ ਸੌ ਉਨਤਾਲੀ ਤਿੰਨ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ਕਿਰਯਾਤ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ਅਰਿਮ"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "ਕਫੀਰਾ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ਅਤੇ ਬੇਰੋਤ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ਸੌ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ਉਨਤਾਲੀ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ਤਿੰਨ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:32:43.285801049Z",
+  "model": "glm-5.2"
+}

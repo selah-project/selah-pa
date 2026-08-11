@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 16,
+  "translation": "ਮਨੁੱਖ ਦੇ ⟨ਹਨ⟩ ਦਿਲ ਦੇ ਵਿਚਾਰ, ਅਤੇ ਯਾਹਵੇਹ ਤੋਂ ⟨ਹੈ⟩ ਜੀਭ ਦਾ ਉੱਤਰ।",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "ਮਨੁੱਖ ਦੇ"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "ਤਿਆਰੀਆਂ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ਦਿਲ ਦੀਆਂ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ਅਤੇ ਯਾਹਵੇਹ ਤੋਂ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ਉੱਤਰ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ਜੀਭ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:16.329694104Z",
+  "model": "glm-5.2"
+}

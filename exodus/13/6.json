@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "pa",
+  "chapter": 13,
+  "translation": "ਸੱਤ ਦਿਨ ਤੂੰ ਮੱਤੇ ਖਾਏਂਗਾ, ਅਤੇ ਸੱਤਵੇਂ ਦਿਨ ਯਾਹਵੇਹ ਲਈ ਇੱਕ ਉਤਸਵ ⟨ਹੋਵੇਗਾ⟩।",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ਸੱਤ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ਤੂੰ ਖਾਏਂਗਾ"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "ਮੱਤੇ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ਅਤੇ ਦਿਨ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ਸੱਤਵੇਂ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ਉਤਸਵ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ਯਾਹਵੇਹ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:15:35.868875038Z",
+  "model": "glm-5.2"
+}

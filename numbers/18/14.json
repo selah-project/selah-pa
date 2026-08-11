@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 18,
+  "translation": "ਯਿਸਰਾਏਲ ਵਿੱਚ ਹਰ ਵਿਸ਼ੇਸ਼ ਤੇਰੇ ਲਈ ⟨ਹੋਵੇਗਾ⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ਵਿਸ਼ੇਸ਼"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ਯਿਸਰਾਏਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ਤੇਰੇ ਲਈ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ਹੋਵੇਗਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:57:22.195540341Z",
+  "model": "glm-5.2"
+}

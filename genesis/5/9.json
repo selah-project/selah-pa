@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 5,
+  "translation": "ਅਤੇ ਏਨੋਸ਼ ਨੂੰ ਨੱਬੇ ਸਾਲ ਜੀਊਣਾ ਹੋਇਆ, ਅਤੇ ਉਸ ਨੇ ⟨את⟩ ਕੇਨਾਨ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ਅਤੇ-ਜੀਊਣਾ ਹੋਇਆ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ਏਨੋਸ਼"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ਨੱਬੇ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ਅਤੇ-ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਕੇਨਾਨ ਨੂੰ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ਕੇਨਾਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:45:13.787721426Z",
+  "model": "glm-5.2"
+}

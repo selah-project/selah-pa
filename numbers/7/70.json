@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 7,
+  "translation": "ਇੱਕ ਬੱਕਰੀਆਂ ਦਾ ਬੋਤਾ ਪਾਪ-ਕੁਰਬਾਨ ਲਈ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ਬੱਕਰੀਆਂ ਦਾ ਬੋਤਾ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ਬੱਕਰੀਆਂ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ਇੱਕ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ਪਾਪ-ਕੁਰਬਾਨ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:51:12.696042965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਖੌਫ਼ ਅਤੇ ⟨ਗੜ੍ਹਾ⟩ ਅਤੇ ਫਾਹੀ ਤੇਰੇ ਉੱਤੇ ਹੈ, ਹੇ ਧਰਤੀ ਦੇ ਵਾਸੀ!",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ਖੌਫ਼"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ਅਤੇ ⟨ਗੜ੍ਹਾ⟩"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "ਅਤੇ ਫਾਹੀ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ਤੇਰੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ਹੇ ਵਾਸੀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਧਰਤੀ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T22:56:49.082694905Z",
+  "model": "glm-5.2"
+}

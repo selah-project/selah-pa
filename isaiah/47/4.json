@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "pa",
+  "chapter": 47,
+  "translation": "ਸਾਡਾ ਗਊਲ ਹੈ — ਯਾਹਵੇਹ ਸੈਬਾਉਤ ⟨ਹੈ⟩ ਉਸ ਦਾ ਨਾਮ, ਇਸਰਾਏਲ ਦਾ ਕਦੋਸ਼।",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "ਸਾਡਾ ਗਊਲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ਸੈਬਾਉਤ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ਉਸ ਦਾ ਨਾਮ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ਕਦੋਸ਼"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦਾ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:07:12.228235234Z",
+  "model": "glm-5.2"
+}

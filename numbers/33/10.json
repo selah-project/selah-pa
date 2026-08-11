@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 33,
+  "translation": "ਅਤੇ ਉਹ ਅਈਲਮ ਤੋਂ ਚਲੇ ਗਏ ਅਤੇ ਉਨ੍ਹਾਂ ਸੁਫ਼ ਸਮੁੰਦਰ ਦੇ ਕੰਢੇ ਡੇਰੇ ਲਾਏ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ਅਤੇ ਉਹ ਚਲੇ ਗਏ"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "ਅਈਲਮ ਤੋਂ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ਅਤੇ ਉਨ੍ਹਾਂ ਡੇਰੇ ਲਾਏ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ਦੇ ਕੰਢੇ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ਸਮੁੰਦਰ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ਸੁਫ਼"
+    }
+  ],
+  "timestamp": "2026-08-10T21:05:44.137176098Z",
+  "model": "glm-5.2"
+}

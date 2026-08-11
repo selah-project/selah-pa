@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਅਤੇ ਅਹਰੋਨ ਮੁਲਾਕਾਤ ਦੇ ਤੰਬੂ ਦੇ ਸਾਹਮਣੇ ਆਏ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ਅਤੇ ਆਏ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ਅਤੇ ਅਹਰੋਨ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਸਾਹਮਣੇ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ਤੰਬੂ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ਮੁਲਾਕਾਤ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:56:26.664279607Z",
+  "model": "glm-5.2"
+}

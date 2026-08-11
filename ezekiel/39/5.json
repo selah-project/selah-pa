@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "pa",
+  "chapter": 39,
+  "translation": "ਖੇਤ ਦੇ ਮੂਹਰੇ ਤੂੰ ਡਿੱਗਿਆਂਗਾ, ਕਿਉਂਕਿ ਮੈਂ ਬੋਲਿਆ ਹਾਂ — ਅਦੋਨਾਈ ਯਾਹਵੇਹ ਦਾ ਕਥਨ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ਮੂਹਰੇ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ਖੇਤ ਦੇ"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ਤੂੰ ਡਿੱਗਿਆਂਗਾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ਬੋਲਿਆ ਹਾਂ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ਕਥਨ ਹੈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ਅਦੋਨਾਈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T23:59:58.948665012Z",
+  "model": "glm-5.2"
+}

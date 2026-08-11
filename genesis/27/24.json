@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "pa",
+  "chapter": 27,
+  "translation": "ਅਤੇ ⟨ਉਸਨੇ⟩ ਕਿਹਾ, ਤੂੰ ਹੀ ਮੇਰਾ ਪੁੱਤਰ ਏਸਾਵ ਹੈਂ? ਅਤੇ ਉਸ ਨੇ ਕਿਹਾ, ਮੈਂ ਹਾਂ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਹੀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਮੇਰਾ ਪੁੱਤਰ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ਏਸਾਵ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ਅਤੇ ਕਿਹਾ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ਮੈਂ ਹਾਂ"
+    }
+  ],
+  "timestamp": "2026-08-10T19:55:48.377904662Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਇਹ ਸਭ ਨਬੂਕਦਨੇਸਰ ਰਾਜੇ ਉੱਤੇ ਪਹੁੰਚਿਆ।",
+  "tokens": [
+    {
+      "surface": "כֹּ֣לָּא",
+      "gloss": "ਇਹ ਸਭ"
+    },
+    {
+      "surface": "מְּטָ֔א",
+      "gloss": "ਪਹੁੰਚਿਆ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ਉੱਤੇ"
+    },
+    {
+      "surface": "נְבוּכַדְנֶצַּ֖ר",
+      "gloss": "ਨਬੂਕਦਨੇਸਰ"
+    },
+    {
+      "surface": "מַלְכָּֽא",
+      "gloss": "ਰਾਜੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:25:14.283794439Z",
+  "model": "glm-5.2"
+}

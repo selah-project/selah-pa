@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "ਅਤੇ ਅਸੀਂ ਉਸ ਸਮੇਂ ⟨את⟩ ਦੇਸ਼ ਨੂੰ ਦੋ ਏਮੋਰੀ ਮੇਲੇਖਾਂ ਦੇ ਹੱਥੋਂ ਲਿਆ, ਜੋ ਯਰਦਨ ਦੇ ਪਾਰ ਸਨ, ਅਰਨੋਨ ਦੇ ਨਾਲੇ ਤੋਂ ਲੈ ਕੇ ਖ਼ਰਮੋਨ ਪਹਾੜ ਤੱਕ —",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ਅਤੇ ਅਸੀਂ ਲਿਆ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ਸਮੇਂ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਦੇਸ਼ ਨੂੰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ਦੇਸ਼"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ਹੱਥੋਂ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਦੋ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ਮੇਲੇਖਾਂ ਦੇ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ਏਮੋਰੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜੋ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ਪਾਰ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ਯਰਦਨ ਦੇ"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "ਨਾਲੇ ਤੋਂ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ਅਰਨੋਨ ਦੇ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ਤੱਕ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ਪਹਾੜ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ਖ਼ਰਮੋਨ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:08:28.749171753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "pa",
+  "chapter": 2,
+  "translation": "ਅਤੇ ਜ਼ਾਬਾਦ ਨੇ ⟨את⟩ ਏਫ਼ਲਾਲ ਨੂੰ ਜੰਮਿਆ, ਅਤੇ ਏਫ਼ਲਾਲ ਨੇ ⟨את⟩ ਓਬੇਦ ਨੂੰ ਜੰਮਿਆ।",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ਅਤੇ ਜ਼ਾਬਾਦ ਨੇ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਫ਼ਲਾਲ ਨੂੰ"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ਏਫ਼ਲਾਲ"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ਅਤੇ ਏਫ਼ਲਾਲ ਨੇ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ਜੰਮਿਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਓਬੇਦ ਨੂੰ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ਓਬੇਦ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:53:37.380337513Z",
+  "model": "glm-5.2"
+}

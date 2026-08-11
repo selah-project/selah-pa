@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 93,
+  "translation": "ਸਥਿਰ ⟨ਹੈ⟩ ਤੇਰਾ ਸਿੰਘਾਸਨ ਉਦੋਂ ਤੋਂ, ਲੰਮੇ ਸਮੇਂ ਤੋਂ ਤੂੰ ਹੈਂ।",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ਸਥਿਰ ਹੈ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ਤੇਰਾ ਸਿੰਘਾਸਨ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ਉਦੋਂ ਤੋਂ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ਲੰਮੇ ਸਮੇਂ ਤੋਂ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ ਹੈਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:05:20.851816557Z",
+  "model": "glm-5.2"
+}

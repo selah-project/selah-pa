@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 11,
+  "translation": "ਉਹਨਾਂ ਦਾ ਮਾਸ ਨਾ ਖਾਓ ਅਤੇ ਉਹਨਾਂ ਦੀ ਲੋਥ ਨੂੰ ਨਾ ਛੋਹੋ — ਉਹ ਤੁਹਾਡੇ ਲਈ ਅਪਵਿੱਤਰ ਹਨ।",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ਉਹਨਾਂ ਦਾ ਮਾਸ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ਖਾਓ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ਅਤੇ ਉਹਨਾਂ ਦੀ ਲੋਥ ਨੂੰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ਛੋਹੋ"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "ਅਪਵਿੱਤਰ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ਉਹ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ਤੁਹਾਡੇ ਲਈ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:35:06.953736831Z",
+  "model": "glm-5.2"
+}

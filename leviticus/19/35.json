@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "pa",
+  "chapter": 19,
+  "translation": "ਤੁਸੀਂ ਮਿਆਰ ਵਿੱਚ ਕੋਈ ਬੇ-ਇਨਸਾਫ਼ੀ ਨਾ ਕਰੋ — ਨਾਪ ਵਿੱਚ, ਤੋਲ ਵਿੱਚ ਅਤੇ ਮਾਪ ਵਿੱਚ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ਨਾ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ਤੁਸੀਂ ਕਰੋ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ਬੇ-ਇਨਸਾਫ਼ੀ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ਮਿਆਰ ਵਿੱਚ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ਨਾਪ ਵਿੱਚ"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ਤੋਲ ਵਿੱਚ"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ਅਤੇ ਮਾਪ ਵਿੱਚ"
+    }
+  ],
+  "timestamp": "2026-08-10T20:40:41.679917268Z",
+  "model": "glm-5.2"
+}

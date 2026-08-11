@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "pa",
+  "chapter": 3,
+  "translation": "⟨ਉਸ ਨੇ⟩ ਮੇਰੇ ਉੱਤੇ ਬਣਤਰ ਕੀਤੀ ਹੈ ਅਤੇ ⟨ਮੈਨੂੰ⟩ ਘੇਰਿਆ ਹੈ — ਜ਼ਹਿਰ ਅਤੇ ਕਸ਼ਟ ⟨ਨਾਲ⟩।",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "⟨ਉਸ ਨੇ⟩ ਬਣਤਰ ਕੀਤੀ ਹੈ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ਮੇਰੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "ਅਤੇ ⟨ਮੈਨੂੰ⟩ ਘੇਰਿਆ ਹੈ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ਜ਼ਹਿਰ"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "ਅਤੇ ਕਸ਼ਟ"
+    }
+  ],
+  "timestamp": "2026-08-11T02:07:27.972355159Z",
+  "model": "glm-5.2"
+}

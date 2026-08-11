@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "pa",
+  "chapter": 15,
+  "translation": "ਅਤੇ ਕੀਨਾਹ ਅਤੇ ਦੀਮੋਨਾਹ ਅਤੇ ਅਦਅਦਾਹ।",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "ਅਤੇ ਕੀਨਾਹ"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "ਅਤੇ ਦੀਮੋਨਾਹ"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "ਅਤੇ ਅਦਅਦਾਹ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:33:36.652246360Z",
+  "model": "glm-5.2"
+}

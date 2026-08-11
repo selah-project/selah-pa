@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 4,
+  "translation": "ਧਰਤੀ ਵਿੱਚ ਰੰਗਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਜੀਵ ਦੀ ਤਬਨੀਤ, ਅਤੇ ਪਾਣੀਆਂ ਵਿੱਚ ਧਰਤੀ ਦੇ ਹੇਠਾਂ ⟨ਰਹਿੰਦੀ⟩ ਕਿਸੇ ਵੀ ਮੱਛੀ ਦੀ ਤਬਨੀਤ।",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ਤਬਨੀਤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕਿਸੇ ਵੀ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ਰੰਗਣ ਵਾਲੇ"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "ਧਰਤੀ ਵਿੱਚ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ਤਬਨੀਤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ਕਿਸੇ ਵੀ"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "ਮੱਛੀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ਜੋ⟩"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ਪਾਣੀਆਂ ਵਿੱਚ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ਦੇ ਹੇਠਾਂ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ਧਰਤੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:10:39.549530019Z",
+  "model": "glm-5.2"
+}

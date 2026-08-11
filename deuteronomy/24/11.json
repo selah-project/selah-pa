@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 24,
+  "translation": "ਬਾਹਰ ਖੜ੍ਹੋ ਰਹੋ, ਅਤੇ ਜਿਸ ⟨ਮਨੁੱਖ⟩ ਨੂੰ ਤੁਸੀਂ ਉਧਾਰ ਦਿੰਦੇ ਹੋ ਉਹ ਤੁਹਾਡੇ ਕੋਲ ⟨ਆਤ⟩ ਗਿਰਵੀ ਬਾਹਰ ਲਿਆਏ।",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "ਬਾਹਰ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ਖੜ੍ਹੋ ਰਹੋ"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ਅਤੇ ਉਹ ਮਨੁੱਖ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਸ ਨੂੰ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੁਸੀਂ"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "ਉਧਾਰ ਦਿੰਦੇ ਹੋ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ਉਸ ਨੂੰ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ਲਿਆਏ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ਤੁਹਾਡੇ ਕੋਲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਗਿਰਵੀ"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "ਗਿਰਵੀ"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ਬਾਹਰ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:19:45.772800552Z",
+  "model": "glm-5.2"
+}

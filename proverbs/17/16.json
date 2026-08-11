@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 17,
+  "translation": "ਇਹ ਕਿਉਂ ⟨ਹੈ⟩ — ਮੂਰਖ ਦੇ ਹੱਥ ਵਿੱਚ ਦਾਮ, ਚਤੁਰਤਾ ਖ਼ਰੀਦਣ ਲਈ, ⟨ਜਦੋਂ ਕਿ⟩ ਉਸ ਦਾ ਦਿਲ ਨਹੀਂ ⟨ਹੈ⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ਕਿਉਂ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ਦਾਮ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ਹੱਥ ਵਿੱਚ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ਮੂਰਖ ਦੇ"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "ਖ਼ਰੀਦਣ ਲਈ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ਚਤੁਰਤਾ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ਅਤੇ ਦਿਲ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ਨਹੀਂ ⟨ਹੈ⟩"
+    }
+  ],
+  "timestamp": "2026-08-11T01:28:27.693336479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "pa",
+  "chapter": 23,
+  "translation": "ਸਿੱਖਿਆ ਵੱਲ ਆਪਣਾ ਦਿਲ ਲਿਆਓ, ਅਤੇ ਆਪਣੇ ਕੰਨ ਗਿਆਨ ਦੇ ਕਥਨਾਂ ਵੱਲ ⟨ਲਿਆਓ⟩।",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "ਲਿਆਓ"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "ਸਿੱਖਿਆ ਵੱਲ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ਆਪਣਾ ਦਿਲ"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "ਅਤੇ ਆਪਣੇ ਕੰਨ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ਕਥਨਾਂ ਵੱਲ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ਗਿਆਨ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:31:06.744541886Z",
+  "model": "glm-5.2"
+}

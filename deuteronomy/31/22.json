@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "pa",
+  "chapter": 31,
+  "translation": "ਅਤੇ ਮੋਸ਼ੇ ਨੇ ਉਸ ਦਿਨ ⟨את⟩ ਇਹ ਗੀਤ ਲਿਖਿਆ ਅਤੇ ⟨את⟩ ਇਸਰਾਏਲ ਦੇ ਪੁੱਤਰਾਂ ਨੂੰ ਸਿਖਾਇਆ।",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ਅਤੇ ਲਿਖਿਆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ਮੋਸ਼ੇ ਨੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਹ ਗੀਤ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ਗੀਤ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ਇਹ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ਉਸ ਦਿਨ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ਉਸ"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "ਅਤੇ ਸਿਖਾਇਆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਇਸਰਾਏਲ ਦੇ ਪੁੱਤਰਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ਪੁੱਤਰਾਂ ਨੂੰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ਇਸਰਾਏਲ ਦੇ"
+    }
+  ],
+  "timestamp": "2026-08-10T21:25:35.592221554Z",
+  "model": "glm-5.2"
+}

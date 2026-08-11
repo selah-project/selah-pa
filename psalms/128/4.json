@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "pa",
+  "chapter": 128,
+  "translation": "ਵੇਖ, ਕਿਉਂਕਿ ਇਸ ਤਰ੍ਹਾਂ ਬਰਕਤ ਪਾਏਗਾ ਉਹ ਮਨੁੱਖ ਜੋ ਯਾਹਵੇਹ ਤੋਂ ਡਰਦਾ ਹੈ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ਵੇਖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ਇਸ ਤਰ੍ਹਾਂ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ਬਰਕਤ ਪਾਏਗਾ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ਮਨੁੱਖ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ਜੋ ਡਰਦਾ ਹੈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹਵੇਹ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-08-11T01:15:56.845068043Z",
+  "model": "glm-5.2"
+}
