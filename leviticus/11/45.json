@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 45,
-  "ref": "leviticus 11:45",
-  "book": "leviticus",
-  "lang": "pa",
-  "chapter": 11,
-  "translation": "ਕਿਉਂਕਿ ਮੈਂ ਯਾਹਵੇਹ ਹਾਂ, ਜੋ ਤੁਹਾਨੂੰ ⟨ਕੋਣ-ਬਰੈਕਟ ਨਹੀਂ — ਮੂਲ ਵਿੱਚ ⟨את⟩⟩",
-  "tokens": [],
-  "timestamp": "2026-08-24T20:32:52.706017282Z",
-  "model": "glm-5.3"
-}
+{"tier": "glm-5.2", "verse": 45, "ref": "leviticus 11:45", "book": "leviticus", "lang": "pa", "chapter": 11, "translation": "ਕਿਉਂਕਿ ਮੈਂ ਯਾਹਵੇਹ ਹਾਂ, ਜੋ ਤੁਹਾਨੂੰ ⟨ਕੋਣ-ਬਰੈਕਟ ਨਹੀਂ — ਮੂਲ ਵਿੱਚ⟩", "tokens": [], "timestamp": "2026-08-24T20:32:52.706017282Z", "model": "glm-5.3"}
