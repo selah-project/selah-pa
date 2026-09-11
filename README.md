@@ -77,3 +77,9 @@
 ਪਾਠਕ, ਇਬਰਾਨੀ ਦੇ ਵਿਦਿਆਰਥੀ, ਅਨੁਵਾਦਕ, ਪੰਜਾਬੀ ਬੋਲਣ ਵਾਲੇ — ਸਭ ਦਾ
 ਸੁਆਗਤ ਹੈ। ਕੋਈ ਮਸਲਾ ਦੱਸਣ ਜਾਂ ਸੋਧ ਸੁਝਾਉਣ ਤੋਂ ਪਹਿਲਾਂ
 [CONTRIBUTING.md](CONTRIBUTING.md) ਪੜ੍ਹੋ।
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
