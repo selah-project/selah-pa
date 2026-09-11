@@ -56,3 +56,8 @@
 ਨਿਯਮਾਂ, ਸਰੋਤਾਂ ਅਤੇ ਜੋੜ-ਮੇਲ ਨਾਲ ਮਿਲਾ ਕੇ ਵੇਖਦੀ ਹੈ — ਮੰਨ ਸਕਦੀ ਹੈ,
 ਤੁਹਾਡੇ ਨਾਲ ਮਿਲ ਕੇ ਸੁਲਝਾ ਸਕਦੀ ਹੈ, ਹੋਰ ਆਧਾਰ ਉਡੀਕ ਸਕਦੀ ਹੈ, ਜਾਂ ਕਾਰਨ
 ਦੇ ਕੇ ਰੱਦ ਕਰ ਸਕਦੀ ਹੈ। ਪਾਠ ਦੀ ਪੜਚੋਲ ਕਰੋ, ਵਿਅਕਤੀ ਦੀ ਨਹੀਂ।
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
