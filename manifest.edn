@@ -1,0 +1,66 @@
+#:rendering{:label "ਪੰਜਾਬੀ",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305565},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-08-10", :to "2026-08-24"},
+            :id "pa.v1",
+            :catalog {:ui "resources/i18n/ui/pa.edn"},
+            :license "CC BY-SA 4.0 (The Selah Punjabi Rendering)",
+            :model
+            {:provider :z.ai,
+             :models
+             {"glm-5.2" 22937, "glm-5.3" 244, "claude-fable-5" 32},
+             :tiers {"glm-5.2" 23181, "hand" 32},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/pa.md",
+             :rails-commit "48280402",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "ਅਦੋਨਾਈ",
+              "אל" "ਏਲ",
+              "אלהים" "ਏਲੋਹੀਮ",
+              "אלוה" "ਏਲੋਆਹ",
+              "יה" "ਯਾਹ",
+              "יהוה" "ਯਾਹਵੇਹ",
+              "שדי" "ਸ਼ੱਦਾਈ"},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-pa",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :pa}
