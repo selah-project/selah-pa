@@ -70,7 +70,7 @@
 ਇਹ ਅਨੁਵਾਦ CC BY-SA 4.0 ਹੇਠ ਖੁੱਲ੍ਹਾ ਹੈ। ਜੇ ਇਹ ਕੰਮ ਲਾਭਦਾਇਕ ਹੈ ਅਤੇ
 ਤੁਸੀਂ ਅਨੁਵਾਦ, ਸੋਧਾਂ, ਪ੍ਰਕਾਸ਼ਨ ਅਤੇ ਚੱਲਦੇ ਕੰਮ ਵਿੱਚ ਮਦਦ ਕਰਨੀ ਚਾਹੋ,
 ਤਾਂ ਵੇਖੋ
-[selahproject.com/support](https://selahproject.com/support)।
+[s33k3r.com/learn/support](https://s33k3r.com/learn/support)।
 
 ## ਸੋਧ ਵਿੱਚ ਹਿੱਸਾ ਲਓ
 
@@ -80,6 +80,6 @@
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc

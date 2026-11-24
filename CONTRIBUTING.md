@@ -11,7 +11,7 @@
   ਕਿਵੇਂ ਬਦਲੇਗਾ।
 - **Pull request** ਖੋਲ੍ਹੋ ਜੇ ਗ਼ਲਤੀ ਅਤੇ ਉਸ ਦਾ ਸਹੀ ਬਦਲ ਦੋਵੇਂ ਸਪਸ਼ਟ ਹਨ।
 - ਸਾਫ਼ਟਵੇਅਰ ਖ਼ਰਾਬੀ, ਜਾਂ ਸੁਰੱਖਿਆ/ਖਾਤਾ/ਪਰਦੇਦਾਰੀ ਦੇ ਮਸਲਿਆਂ ਲਈ
-  [Selah Support](https://selahproject.com/support) ਵਰਤੋ।
+  [Selah Support](https://s33k3r.com/learn/support) ਵਰਤੋ।
 
 ## ਕੀ ਸ਼ਾਮਲ ਕਰਨਾ
 
